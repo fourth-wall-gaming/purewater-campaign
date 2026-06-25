@@ -13,30 +13,59 @@ out to meet the open sea.
 
 ---
 
+## 0. THE THREE RULES (read first — these are what most renders get wrong)
+
+1. **Strict flat plan view — no 3D.** A true top-down orthographic projection
+   (camera pointing straight down, 90° overhead), like an **architect's floor plan**
+   or an antique **cadastral / land-survey map**. **No** bird's-eye, oblique,
+   isometric, or perspective view; **no** little 3D house icons with visible
+   walls/roofs; **no** cast shadows, hill-shading, relief, vignette, or "epic
+   fantasy atlas" flourishes. Flat, even, diffuse — technical and archival.
+2. **Organic, irregular islands.** Ragged, asymmetrical coastlines and canal banks
+   like a real silted **lagoon or river delta** (the irregular islands of Venice),
+   with crooked, branching canals of varying width. **No** smooth ovals, round
+   blobs, concentric rings, or symmetrical shapes.
+3. **Resolvable to individual houses.** Every building is a **separate tiny
+   rectangular footprint** seen from directly overhead, packed tightly along streets
+   so the city reads house-by-house — exactly like the reference *City of Sanctuary*
+   map (one inch ≈ 200 ft). **Not** impressionistic blocks or texture.
+
 ## 1. Master prompt (paste-ready)
 
-> A top-down, bird's-eye fantasy city map of **Purewater**, a Venice-like canal city
-> of many islands where a sacred lake meets the open sea, hand-drawn in the style of
-> a 1980s tabletop RPG boxed-set city map. Black ink line-art on aged off-white
-> parchment with soft grey ink-wash shading; fine pen-hatching for water; thousands
-> of tiny outlined buildings clustered into dense districts; dozens of small arched
-> stone bridges spanning a web of canals; gondolas and boats dotting the water.
-> Orientation: the **sacred lake** fills the top (north), the **open sea** the bottom
-> (south), and the city's islands sit in the brackish channels between them. A large
-> central island ringed by a broad **Grand Canal** holds a governor's palazzo and
-> walled tournament grounds; a northern **temple isle** holds a great round sacred
-> pool where lake water meets sea; a western **pleasure quarter** of lamp-lit houses
-> lines a quay; an eastern **dwarven forge isle** trails smoke; a half-sunken **ruined
-> isle** rises from the water to the southwest; crowded **slum and dock districts**
-> crowd the southern, seaward edge with wharves jutting into the harbour. A great
-> **dragon-prowed barge** sits at a private pier on the central island's eastern side,
-> steam rising where its hull meets the water. Surrounding margins: reedy lake-shores
-> and low hills to the north, the open sea to the south, mainland marsh, farms and a
-> caravan road reaching a gatehouse to the west. Hand-lettered labels for districts,
-> canals and key buildings; a decorative title cartouche reading "THE CITY OF
-> PUREWATER"; an ornate compass rose; a scale bar; a small legend; a thin decorative
-> border. Monochrome grey, black and parchment palette. Highly detailed, crisp pen-
-> and-ink cartography, aged-paper texture. Landscape orientation, ~3:2.
+> A **strict top-down orthographic plan-view** map of **Purewater**, a Venice-like
+> canal city of many irregular islands where a sacred lake (top / north) meets the
+> open sea (bottom / south) — drawn flat like an antique **cadastral survey** or
+> **architect's floor plan**, **not** a 3D, bird's-eye, oblique or isometric view.
+> Hand-drawn black pen-and-ink line-art on aged off-white parchment with light grey
+> wash, in the style of the classic 1980s *City of Sanctuary* tabletop map. **Every
+> building is a separate tiny rectangular footprint seen from directly overhead**,
+> packed tightly along the streets so the city resolves house-by-house. Districts are
+> dense blocks of these footprints divided by a web of **narrow, crooked, branching
+> canals** of varying width, crossed by many small bridges; boats drawn as simple
+> flat ovals on the water. The **islands have ragged, organic, asymmetrical
+> coastlines** like a real silted lagoon or river delta — no smooth ovals or regular
+> blobs. A large central island (**High Isle**) ringed by a broad **Grand Canal**
+> holds a governor's palazzo and a walled tournament ground; a northern **Temple
+> Isle** holds a round sacred pool; a western **Pearl Quarter** of pleasure-houses
+> lines a quay; an eastern **Forge Isle**; a half-sunken ruined isle to the
+> south-west; crowded slum and dock districts (**the Maze, the Warren, the Shoals**)
+> along the southern seaward edge with wharves jutting into the harbour; a single
+> **dragon-prowed barge** at a pier on High Isle's eastern side. Margins, all drawn
+> flat and plain: reedy lake-shore and low hills north, open sea south, mainland
+> marsh, farms and a caravan road to a land-gate west. Hand-lettered labels; a
+> decorative title cartouche "THE CITY OF PUREWATER"; compass rose; scale bar; small
+> legend; thin border. **Flat, even, shadowless lighting; no relief shading.**
+> Monochrome black / grey / parchment. Landscape ~3:2. Crisp, technical, archival
+> pen-and-ink cartography.
+
+### 1a. Negative prompt (paste into the negative field)
+
+> 3D, isometric, oblique, bird's-eye perspective, axonometric, dimetric, fake depth,
+> little house icons, pitched roofs in perspective, building elevations, drop
+> shadows, cast shadows, ambient occlusion, hill shading, relief, bump-mapped
+> terrain, dramatic lighting, atmospheric haze, vignette, golden-hour glow, painterly,
+> epic fantasy atlas style, smooth oval island, round blobby island, concentric
+> rings, symmetrical coastline, blurry blocks, impressionistic massing, low detail.
 
 ---
 
@@ -142,6 +171,17 @@ out to meet the open sea.
   (Midjourney `--sref` / image prompt, or "in the style of this map") to lock the
   pen-and-ink, parchment, and labeling aesthetic — while following the Purewater
   geography above for the actual layout.
+- **Model drift (important):** GPT-image / DALL·E and most models *default to the
+  oblique "fantasy atlas" look* — little 3D buildings, dramatic shading, smooth oval
+  islands. Counter it by leading with the projection words — **"architect's floor
+  plan,"** **"cadastral survey,"** **"orthographic top-down,"** **"ichnographic
+  plan,"** **"site plan"** — and by pasting the §1a negative prompt. If it still
+  renders 3D, add *"flat 2D blueprint, zero perspective, zenithal/nadir view"* and
+  reduce any "epic/cinematic" stylize setting.
+- **Two-pass option:** because dense house-by-house detail and many labels rarely
+  survive one generation, consider (1) generate the **flat island-and-canal
+  coastlines + districts** first, then (2) inpaint/redraw individual building
+  footprints district by district, and (3) typeset the §8 labels by hand.
 
 ---
 
