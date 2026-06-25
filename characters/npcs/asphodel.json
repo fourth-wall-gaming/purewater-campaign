@@ -4,7 +4,7 @@
   "type": "npc",
   "status": "active",
   "description": "A courtesan at the Promise of Heaven, the house where Randall grew up. Warm, quick, and trusted by him 'as brother and sister' -- his closest confidante on the Pearl Quay and a ready source of information from the working girls.",
-  "narrative": "Asphodel works at the Promise of Heaven, the Pearl Quarter house where Randall was raised among its women. The two have known each other for years and trust each other like siblings; she was the one who got word to him that he'd been blamed for Emmeralda's carving, and never believed it for a moment. No fighter and no thief -- her gifts are people: she reads them, charms them, and hears everything that passes through the house. It is Asphodel who gathers intelligence on the Baron's manor from the girls sent up to entertain his soldiers (calling in the older, canny Mariarta to brief Randall directly). Affectionate, shrewd, and quietly brave, she helps Randall because she loves him, not for coin.",
+  "narrative": "Asphodel works at the Promise of Heaven, the Pearl house where Randall was raised among its women. The two have known each other for years and trust each other like siblings; she was the one who got word to him that he'd been blamed for Emmeralda's carving, and never believed it for a moment. No fighter and no thief -- her gifts are people: she reads them, charms them, and hears everything that passes through the house. It is Asphodel who gathers intelligence on the Baron's manor from the girls sent up to entertain his soldiers (calling in the older, canny Mariarta to brief Randall directly). Affectionate, shrewd, and quietly brave, she helps Randall because she loves him, not for coin.",
   "characteristics": {
     "STR": 9,
     "CON": 11,
@@ -47,7 +47,7 @@
     "Streetwise": 65,
     "Swim": 45,
     "Unarmed": 40,
-    "Lore (Pearl Quarter gossip)": 72
+    "Lore (Pearl gossip)": 72
   },
   "hit_locations": [
     {
@@ -145,7 +145,7 @@
   "extras": {
     "gender": "female",
     "class": "Courtesan (noncombatant)",
-    "house": "The Promise of Heaven (Pearl Quarter) -- the brothel where [[randall]] was raised",
+    "house": "The Promise of Heaven (Pearl) -- the brothel where [[randall]] was raised",
     "game_system": "Classic Fantasy",
     "character_type": "Supporting Character (Randall's confidante / informant)",
     "role": "A working girl at the Promise of Heaven and Randall's lifelong friend -- trusted 'as brother and sister'. His best information source on the Pearl Quay; relays the girls' intelligence on the Baron's manor (and introduces Mariarta to brief him).",

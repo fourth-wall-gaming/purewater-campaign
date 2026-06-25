@@ -7,9 +7,11 @@ hatched water and terrain, a compass rose, a scale bar, and a decorative title
 cartouche.
 
 The one essential adaptation: **Sanctuary is a single walled landmass with a river
-and a harbour; Purewater is an archipelago** — a Venice-like web of islands threaded
-by canals and stitched together by arched bridges, set where the sacred lake pours
-out to meet the open sea.
+and a harbour; Purewater is a strait-city** — built across **the Mouth**, the narrow
+choke-point where the sacred lake drains south to the open sea. A great triangular
+central island splits the flow between two land-jaws (a western promontory and an
+eastern dock-peninsula), with a scatter of smaller islands across the calmer lake to
+the north — all threaded by canals and stitched together by arched bridges.
 
 ---
 
@@ -44,13 +46,20 @@ out to meet the open sea.
 > canals** of varying width, crossed by many small bridges; boats drawn as simple
 > flat ovals on the water. The **islands have ragged, organic, asymmetrical
 > coastlines** like a real silted lagoon or river delta — no smooth ovals or regular
-> blobs. A large central island (**High Isle**) ringed by a broad **Grand Canal**
-> holds a governor's palazzo and a walled tournament ground; a northern **Temple
-> Isle** holds a round sacred pool; a western **Pearl Quarter** of pleasure-houses
-> lines a quay; an eastern **Forge Isle**; a half-sunken ruined isle to the
-> south-west; crowded slum and dock districts (**the Maze, the Warren, the Shoals**)
-> along the southern seaward edge with wharves jutting into the harbour; a single
-> **dragon-prowed barge** at a pier on High Isle's eastern side. Margins, all drawn
+> blobs. The city straddles **the Mouth** -- the narrow strait where the lake
+> empties south to the sea. A great irregular **triangular central island (High
+> Isle)** is wedged in the strait, split by the broad branching **Grand Canal** into
+> quarters: a governor's palazzo and walled tournament ground on its north-east, a
+> merchant quarter on its south-west, smoking forges on its east. A thin **promontory**
+> with a land-gate (the Caravan Square outcrop) reaches in from the west to form the
+> southern jaw of the Mouth; a **peninsula of docks and wharves** (the Shoals) forms
+> the eastern, seaward jaw. Across a canal east of High Isle sprawls a low
+> **slum-and-thieves quarter** of the narrowest, most tangled canals. Off the
+> north-east, alone and **unbridged**, sits a small **temple island** with a round
+> sacred pool. Scattered north across the calmer lake lie a handful of small islands
+> -- pleasure-houses, court retreats, and half-drowned ruins. A single
+> **dragon-prowed barge** sits at a pier on High Isle's eastern, seaward side, steam
+> rising where its hull meets the water. Margins, all drawn
 > flat and plain: reedy lake-shore and low hills north, open sea south, mainland
 > marsh, farms and a caravan road to a land-gate west. Hand-lettered labels; a
 > decorative title cartouche "THE CITY OF PUREWATER"; compass rose; scale bar; small
@@ -88,41 +97,49 @@ out to meet the open sea.
 - **Palette:** monochrome — black ink, greys, aged off-white parchment. (Optional
   tinted variant in §7.)
 
-## 3. Geography & orientation
+## 3. Geography & orientation — the Mouth
 
-- **North (top) = the Lake.** The sacred inland waters; reedy, calm, with low hills
-  on the far shore.
-- **South (bottom) = the Open Sea.** The working harbour, wharves, and the horizon.
-- **The city sits in the meeting-zone**, its islands divided by a web of canals and
-  joined by bridges. The whole place reads as *water first, land second*.
-- **West (left) = the mainland approach:** marsh, farms, and a caravan road running
-  to a landward gatehouse and a caravan staging-square.
-- **East (right) = open water and the seaward forge-isle.**
+Purewater is **not** a concentric ring of districts. It is a **strait-city** built
+across **the Mouth**, where the sacred Lake drains to the open Sea.
+
+- **North (top) = the Lake** (sacred, calm, with the scattered Northern Isles and,
+  off to the north-east, the unbridged Temple Isle). **South (bottom) = the open
+  Sea.** The lake's water flows south through the Mouth, dividing around High Isle
+  and rejoining to pour seaward.
+- **The two jaws of the Mouth:** a thin **promontory** reaches in from the **west**
+  (mainland), ending in the **Caravan Square** outcrop with its land-gate — the
+  southern jaw; a **peninsula** set a little north and east carries **the Shoals**
+  (docks) — the eastern/seaward jaw.
+- **High Isle** sits between the jaws, a great **triangular** island splitting the
+  flow: SW point toward Caravan Square, E point toward the Shoals, NW point facing
+  the open Lake.
 
 ## 4. Islands & districts (placement + what to draw)
 
 | Island / district | Position | Draw |
 |---|---|---|
-| **Temple Isle** | north / top-centre, nearest the lake | white-stone temples, domes, sacred pools; a great **round Sacred Confluence pool** where lake meets sea |
-| **High Isle** (the heart) | centre, encircled by the broad **Grand Canal** | the **Governor's Palazzo** (Prince Emeric's seat), the **Hall of Justice**, walled **Tournament Grounds** (archery ranges firing across water, combat lists), grand noble palazzi |
-| **The DragonBarge** | a private pier on High Isle's **eastern** side | a huge **dragon-prowed war-barge**, steam/smoke rising where its hull meets the water; a few guard-boxes |
-| **Merchant's Isle** | north-east | guild halls, the **Watercrafters' Guild**, counting-houses, a market plaza, merchant-prince palazzi |
-| **The Pearl Quarter** (Pleasure Islands) | west, across from High Isle | lamp-lit pleasure houses along the **Pearl Quay**; label the **Sylph's Embrace**, the **Siren's Call**, the Aphrodisia House, the Promise of Heaven |
-| **Forge Isle** | east / south-east | dwarven forges and foundries, chimneys trailing smoke, ironwork |
-| **The Maze** | south-centre | a dense tangle of crooked islets and the narrowest canals; crowded tenements; the **Moist Oyster** tavern |
-| **The Warren** | south, beside the Maze | the poor district; the **Dredgers' Hall**; washing strung over the canals |
-| **Lost Isle** | south-west | half-sunken **drowned ruins** rising from weed-choked water; deserted |
-| **The Shoals** | far south, seaward edge | working **docks and fish-markets**; wharves and jetties jutting into the harbour; the **Harbor Masters' tower**; smugglers' moorings |
-| **Caravan Square & the Gate of Triumph** | west, landward edge | a walled land-gate and caravan staging-yard where the borderland road meets the first island |
+| **High Isle** (the heart) | centre of the Mouth; irregular **triangle**, split by the branching **Grand Canal** | NE: **Governor's Palazzo** (Prince Emeric), **Hall of Justice**, **Barracks**, **Palace Square**, noble palazzi, walled **Tournament Grounds**. SW: the **Merchant's Quarter** (guilds, **Watercrafters**, market plaza). E point: the **Forge Quarter** (smoking forges, foundries). North edge: dense housing sloping rich→middling east toward the canal-mouth |
+| **The DragonBarge** | private pier on High Isle's **eastern, seaward** side, by the forges | a huge **dragon-prowed war-barge**, steam/smoke rising where its hull meets the water; guard-boxes |
+| **Caravan Square** | tip of the thin **western promontory** | the **Gate of Triumph**, caravan staging-yard, beast-pens; the only land approach |
+| **The Shoals** | the **eastern/north-east peninsula** forming the seaward jaw | **docks, fish-markets**, wharves & jetties into the sea, the **Harbor Masters' tower**, smugglers' moorings |
+| **The Lullwater** | a low quarter **across the canal east of High Isle**, sloping toward the Shoals | the **densest, most tangled narrow canals**; crowded leaning tenements; the **Moist Oyster** tavern and the **Dredgers' Hall** (poor + criminal, combined) |
+| **Temple Isle** | small island **off the NE edge, unbridged** | rendered as **formal sacred architecture** (see §4a): temple precinct + round **Sacred Confluence** pool |
+| **The Pearl** | a small island in the **Northern Isles** scatter | lamp-lit pleasure houses along the **Pearl Quay**: the **Sylph's Embrace**, the **Siren's Call**, the Promise of Heaven, the Aphrodisia House |
+| **Lost Isle** & other Northern Isles | scattered **north** across the calmer lake | half-drowned **ruins** rising from weedy water; a few quiet **court-retreat** villas; one or two **shunned / haunted** islets |
+
+> **§4a — Temple Isle exception:** draw it *not* as house-rooftops but as a **planned
+> architectural ground-plan** — colonnaded approach, the temple, a ring of small
+> shrines, and the geometry of the round Confluence pool with its channels and basins.
 
 > *Not shown:* the **Catacombs** run beneath the whole city (optionally hint with a
-> couple of stair-mouth symbols by the Maze and the temples). The **Quiet Hand** and
-> the **Mermaid's Court** are secret and must NOT be labeled.
+> couple of stair-mouth symbols by the Lullwater and the temples). The **Quiet Hand**
+> and the **Mermaid's Court** are secret and must NOT be labeled.
 
 ## 5. Water, bridges & boats
 
-- A **Grand Canal** ring around High Isle, broad enough for barges.
-- A dense network of **lesser canals** dividing every district; the Maze's are
+- The **Grand Canal** does not ring High Isle — it **bisects and branches across
+  it**, broad enough for barges, carving the island into its quarters.
+- A dense network of **lesser canals** dividing every district; the Lullwater's are
   narrowest and most tangled.
 - **Many arched stone bridges** — dozens — linking the islands.
 - Scattered **gondolas and small boats** on the canals; larger vessels and the
@@ -153,10 +170,10 @@ out to meet the open sea.
 
 ## 8. Label list (for hand-placement if the AI mangles text)
 
-**Waters:** The Lake · The Sacred Confluence · The Grand Canal · The Open Sea · the Harbour
-**Islands/districts:** Temple Isle · High Isle · Merchant's Isle · The Pearl Quarter · Forge Isle · The Maze · The Warren · Lost Isle · The Shoals
-**Buildings/sites:** Governor's Palazzo · Hall of Justice · Tournament Grounds · The DragonBarge (pier) · Watercrafters' Guild · The Sylph's Embrace · The Siren's Call · The Promise of Heaven · The Aphrodisia House · The Moist Oyster · The Dredgers' Hall · Harbor Masters' Tower
-**Ways/gates:** Pearl Quay · The Gate of Triumph · Caravan Square · the Processional (High Isle's grand way)
+**Waters:** The Lake · The Mouth · The Sacred Confluence · The Grand Canal · The Open Sea
+**Islands/districts:** High Isle (Merchant's Quarter · Forge Quarter · Palace Square) · The Lullwater · The Shoals · Caravan Square · Temple Isle · The Pearl · Lost Isle · The Northern Isles
+**Buildings/sites:** Governor's Palazzo · Hall of Justice · Barracks · Tournament Grounds · The DragonBarge (pier) · Watercrafters' Guild · The Sylph's Embrace · The Siren's Call · The Promise of Heaven · The Moist Oyster · The Dredgers' Hall · Harbor Masters' Tower
+**Ways/gates:** Pearl Quay · The Gate of Triumph · the Processional (High Isle's grand east–west way)
 
 ## 9. Technical notes
 
@@ -188,16 +205,20 @@ out to meet the open sea.
 ## 10. Quick spatial guide (for whoever places the labels)
 
 ```
-            N  ^    THE   LAKE   (sacred, inland)
-        ~~~~~~ Sacred Confluence ~~~~~~
-        [Temple Isle]        [Merchant's Isle]
-   [Pearl Quarter] --(Grand Canal ring)-- 
-        [ ~~~  H I G H   I S L E  ~~~ ]==[Forge Isle]
-              Governor's Palazzo;  DragonBarge pier (E)
-        [Lost Isle]   [The Maze]==[The Warren]
-   (Gate of Triumph,        |
-    Caravan Sq. — W)   [ T H E   S H O A L S ]  docks/wharves
-            S  v    THE   OPEN   SEA
-   ( bridges everywhere; canals between every island;
+   N  ^            T H E   L A K E   (sacred, inland)
+        [Pearl] [Lost Isle] ...Northern Isles...    [Temple Isle]
+                                                    (unbridged; temple
+        ~~~~~~~~~~~~~~ the lake flows south ~~~~~~~~  + Confluence pool)
+                   _______________________
+                  /  HIGH ISLE (triangle) \\
+   (Caravan Sq.  /  NW pt        official/ \\
+    + land-gate)/      Merchant's | noble (NE)\\
+   ====W jaw===<  SW pt  (SW) ~Grand Canal~     >== E pt ==>  [THE SHOALS]
+                \\        branches    Forge (E) /   (docks, seaward jaw)
+                 \\___ DragonBarge pier (E) ___/         |
+                        |  canal east of High Isle       |
+                     [ THE  LULLWATER ]  (slum+thieves) -/
+   S  v            T H E   O P E N   S E A
+   ( the Mouth = the strait the lake drains through; bridges everywhere;
      the Catacombs run unseen beneath it all )
 ```

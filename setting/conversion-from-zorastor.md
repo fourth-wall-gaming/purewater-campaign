@@ -74,7 +74,9 @@ The ritual system is identical across both versions:
 
 The water-based geography creates a natural elemental conflict with the Baron's fire magic (steam where the DragonBarge meets the water, spreading corruption through the channels), enables distinctive action set-pieces (canal chases, the Harbor Run obstacle course), and makes the Baron's presence felt environmentally throughout the city.
 
-The pleasure district itself is renamed: the Zorastor draft's **Street of Red Lanterns** (a Thieves' World / Sanctuary throwback) becomes Purewater's **Pearl Quarter**, its central waterfront street the **Pearl Quay** — lamplight strung over black canal water rather than red lanterns over a dusty street.
+The pleasure district itself is renamed: the Zorastor draft's **Street of Red Lanterns** (a Thieves' World / Sanctuary throwback) becomes Purewater's pleasure island, **the Pearl**, its waterfront the **Pearl Quay** — lamplight strung over black canal water rather than red lanterns over a dusty street.
+
+> **Layout reorganization (later revision).** The geography was subsequently reworked from a concentric ring-city into a **strait-city across "the Mouth"** (where the Lake drains to the Sea): a triangular **High Isle** between two land-jaws (the **Caravan Square** promontory west, the **Shoals** dock-peninsula east), with the **Northern Isles** (the Pearl, Lost Isle, court retreats) scattered north and **Temple Isle** unbridged off the north-east. **Merchant's Isle** and **Forge Isle** became *quarters of High Isle*; the **Maze** and the **Warren** were collapsed into one poor-and-criminal quarter renamed **the Lullwater**. The **canonical layout lives in `locations/` and `lore/geography/`** — the other documents in this `setting/` folder predate the reorganization and describe the earlier, more concentric draft.
 
 ### Magical Framework
 

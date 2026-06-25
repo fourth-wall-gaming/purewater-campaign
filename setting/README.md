@@ -6,6 +6,15 @@ campaign (originally set in Zorastor, world of Greymoor). The `lore/` directory 
 the repo root contains this material sliced into database-ready entries; the files
 here are the fuller source documents, plus a synthesized narrative of the opening arc.
 
+> **Note — city layout:** several of these source documents (`setting-exhaustive.md`,
+> `organizations.md`, `magic.md`, `adventure.md`, `player-organizations.md`,
+> `characters-source.md`) predate a later **geographic reorganization** of the city
+> and still describe the earlier, more concentric draft (Merchant's Isle, Forge Isle,
+> the Maze, the Warren, the Pearl Quarter). The **canonical present-day layout** — the
+> strait-city across "the Mouth," High Isle and its quarters, the Lullwater, the
+> Northern Isles — lives in **`locations/`** and **`lore/geography/the-city-and-its-islands.md`**.
+> See `conversion-from-zorastor.md` for the summary of changes.
+
 | File | Contents | Audience |
 |---|---|---|
 | `the-story-so-far.md` | Prose synthesis of the canonical opening (novelization ch. 1-16) | player + GM |

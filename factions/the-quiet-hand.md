@@ -72,7 +72,7 @@ can; carry the light, and pass it on.
 
 The Hand has one known finger in the city: **[[Hesper]]**, who for years has worn
 the mask of [[Marisette]]'s cold, dangerous "enforcer." It is perfect cover -- a
-listening post at the very heart of the Pearl Quarter's secrets, beside a woman who
+listening post at the very heart of the Pearl's secrets, beside a woman who
 hears everything. Hesper has watched [[Baron Hanzo di Teufel]] since before he ever
 reached Purewater, and the seizing of [[Conall]] and [[Randall]] into the catacombs
 was the Hand controlling a volatile night and getting at the truth -- and keeping

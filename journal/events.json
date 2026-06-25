@@ -79,8 +79,8 @@
   {
     "id": "myth-event-879a72fdeee3",
     "type": "scene",
-    "summary": "CH.6 -- Cornered in the Maze. Exploring, Conall gets lost in the Maze and is cornered by Sinnit and four blades who mistake him for Randall; he escapes with an invisibility spell. He then disguises himself and gathers underworld gossip at the Moist Oyster (the storyteller's tavern).",
-    "narrative": "Sinnit established as a Maze rival. Conall's Magic-User kit shown (invisibility, illusion, disguise).",
+    "summary": "CH.6 -- Cornered in the Lullwater. Exploring, Conall gets lost in the Lullwater and is cornered by Sinnit and four blades who mistake him for Randall; he escapes with an invisibility spell. He then disguises himself and gathers underworld gossip at the Moist Oyster (the storyteller's tavern).",
+    "narrative": "Sinnit established as a Lullwater rival. Conall's Magic-User kit shown (invisibility, illusion, disguise).",
     "session": 0,
     "involves": [
       "myth-char-e2fe2b9aa986",
@@ -183,7 +183,7 @@
   {
     "id": "myth-event-16544be11ab6",
     "type": "scene",
-    "summary": "CH.13/15 -- Santo's tantrum and the demon stirs. The girls overhear Santo screaming at Constantine for his knife on the Pearl Quarter street ('I'll burn your house down!') until Blau hauls him back to his father with a cracking slap. Afterward, Emmeralda's wound writhes: she speaks in a bestial voice, begging for 'Lord Santo' -- Gardwen's evil-sight reveals a demon coiled in her flesh.",
+    "summary": "CH.13/15 -- Santo's tantrum and the demon stirs. The girls overhear Santo screaming at Constantine for his knife on the Pearl street ('I'll burn your house down!') until Blau hauls him back to his father with a cracking slap. Afterward, Emmeralda's wound writhes: she speaks in a bestial voice, begging for 'Lord Santo' -- Gardwen's evil-sight reveals a demon coiled in her flesh.",
     "narrative": "Santo's recklessness and Blau's role shown. Emmeralda's partial possession surfaces -- the campaign's living evidence and counter-ritual seed.",
     "session": 0,
     "involves": [

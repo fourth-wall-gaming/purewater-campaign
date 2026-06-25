@@ -3,8 +3,8 @@
   "name": "Randall",
   "type": "pc",
   "status": "active",
-  "description": "Street thief of Purewater, raised in a brothel on the Pearl Quarter; identical twin of Conall and secretly a son of Baron Hanzo. A nimble, silver-tongued rogue (Deceit 75, Stealth 72, Sleight 71).",
-  "narrative": "A street thief from Purewater, raised in a brothel on the Pearl Quarter and never knowing his parents. Quick, charming and light-fingered, Randall works the canals and alleys with lockpicks, disguises, a grappling hook and a fistful of throwing daggers. He is the identical twin of Conall and, unknown to him, a biological son of Baron Hanzo; his uncanny resemblance to the Baron's son Santo is both an opportunity and a danger.",
+  "description": "Street thief of Purewater, raised in a brothel on the Pearl; identical twin of Conall and secretly a son of Baron Hanzo. A nimble, silver-tongued rogue (Deceit 75, Stealth 72, Sleight 71).",
+  "narrative": "A street thief from Purewater, raised in a brothel on the Pearl and never knowing his parents. Quick, charming and light-fingered, Randall works the canals and alleys with lockpicks, disguises, a grappling hook and a fistful of throwing daggers. He is the identical twin of Conall and, unknown to him, a biological son of Baron Hanzo; his uncanny resemblance to the Baron's son Santo is both an opportunity and a danger.",
   "characteristics": {
     "STR": 13,
     "CON": 13,

@@ -15,7 +15,7 @@ campaign format (v1.0).
 |---|---|
 | Characters | 31 — PCs: Gardwen, Magda, Randall, Conall (+ Temerach Nebulo) |
 | Creature/NPC templates | 4 |
-| Locations | 15 |
+| Locations | 16 |
 | Factions | 13 |
 | Lore entries | 11 |
 | Journal events | 17 (the canonical opening arc) |
@@ -42,10 +42,15 @@ in `journal/events.json`.
 
 ## The setting in one breath
 
-Purewater is rich, beautiful, and rotten — locals call it "Pisswater." Power is
-split between its young idealistic governor Prince Emeric, the merchant princes, the water-faith of the
-**Lake Lady**, the guilds and harbor masters, the broker **Ravella**, and
-**Crowbill**'s coded underworld. Beneath everything runs one elemental conflict:
+Purewater is rich, beautiful, and rotten — locals call it "Pisswater." It is a
+**strait-city** built across **the Mouth**, where the sacred Lake (north) drains to
+the open Sea (south): a great triangular **High Isle** splits the holy outflow
+between two land-jaws — the landward **Caravan Square** promontory and the seaward
+**Shoals** — with a scatter of smaller islands (**the Pearl**, **Lost Isle**, court
+retreats) across the calmer lake to the north, and little **Temple Isle** alone off
+the north-east. Power is split between its young idealistic governor Prince Emeric,
+the merchant princes, the water-faith of the **Lake Lady**, the guilds and harbor
+masters, the broker **Ravella**, and **Crowbill**'s coded underworld. Beneath everything runs one elemental conflict:
 the city's **pure water magic** against the **fire demonology** seeping from Baron
 Hanzo's **DragonBarge**, steam rising wherever the two meet.
 

@@ -15,4 +15,4 @@ created_at: "2026-06-24T23:31:07"
 
 **Asmodeus.** The lord devil whose runic sigil is emblazoned on the demonologist's **soul-knife** -- the instrument [[Santo di Teufel]] used to carve binding marks into [[Emmeralda]]. His mark on the blade is the unmistakable signature of the fire-demonology at the campaign's heart, and the sight of it makes even Hel's warrior recoil.
 
-Lesser invocations heard on the street include **Nilo Valis**, patron spirit of thieves and quick improvisation, and the sea-gods of the Shoals and craft-gods of Merchant's Isle.
+Lesser invocations heard on the street include **Nilo Valis**, patron spirit of thieves and quick improvisation, and the sea-gods of the Shoals and craft-gods of Merchant's Quarter.

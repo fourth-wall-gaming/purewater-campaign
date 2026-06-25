@@ -1,7 +1,7 @@
 {
   "id": "myth-tmpl-5fdfaec84911",
   "name": "Canal Cutpurse",
-  "description": "Generic Purewater street thief -- pickpocket, second-storey worker, or smuggler's runner. The Maze and the Pearl Quarter are thick with them.",
+  "description": "Generic Purewater street thief -- pickpocket, second-storey worker, or smuggler's runner. The Lullwater and the Pearl are thick with them.",
   "narrative": null,
   "characteristics": {
     "STR": 10,

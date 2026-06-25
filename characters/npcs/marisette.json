@@ -3,8 +3,8 @@
   "name": "Marisette",
   "type": "npc",
   "status": "active",
-  "description": "The madame with overall authority over Purewater's Pearl Quarter -- the proprietors, Constantine among them, answer to her. A consummate social power broker (Influence 85, Insight 82, Commerce 82) who keeps the pleasure district running and resents the disorder the Baron and Santo have brought to it.",
-  "narrative": "Marisette is the madame who holds sway over the whole Pearl Quarter: the individual house-proprietors, Constantine included, operate under her overall authority. She is no fighter, but in her own arena she is dangerous -- a master of people, money and information who keeps the pleasure district's delicate order intact and skims its profits. Santo di Teufel's ritual attack on Emmeralda in one of her houses, and the Dragon Knights' growing menace, are precisely the kind of disorder she cannot abide, which can make her a useful, self-interested ally to anyone working against the Baron.",
+  "description": "The madame with overall authority over Purewater's Pearl -- the proprietors, Constantine among them, answer to her. A consummate social power broker (Influence 85, Insight 82, Commerce 82) who keeps the pleasure district running and resents the disorder the Baron and Santo have brought to it.",
+  "narrative": "Marisette is the madame who holds sway over the whole Pearl: the individual house-proprietors, Constantine included, operate under her overall authority. She is no fighter, but in her own arena she is dangerous -- a master of people, money and information who keeps the pleasure district's delicate order intact and skims its profits. Santo di Teufel's ritual attack on Emmeralda in one of her houses, and the Dragon Knights' growing menace, are precisely the kind of disorder she cannot abide, which can make her a useful, self-interested ally to anyone working against the Baron.",
   "characteristics": {
     "STR": 10,
     "CON": 12,
@@ -131,7 +131,7 @@
     }
   ],
   "passions": {
-    "Rule the Pearl Quarter district": 80,
+    "Rule the Pearl district": 80,
     "Keep order (and profit) in the trade": 65
   },
   "combat_styles": {
@@ -148,7 +148,7 @@
     "renamed_from": "Myrtis -- a Thieves' World / Sanctuary throwback (madame of the Aphrodisia House) carried over in the Zorastor draft; renamed Marisette for Purewater.",
     "game_system": "Classic Fantasy",
     "character_type": "Supporting Character (district authority)",
-    "role": "The madame holding overall authority over the Pearl Quarter pleasure district; [[constantine]] and other proprietors operate under her.",
+    "role": "The madame holding overall authority over the Pearl pleasure district; [[constantine]] and other proprietors operate under her.",
     "context": "A formidable social power broker -- reads people effortlessly (Insight 82), commands the trade (Commerce 82, Influence 85), and keeps the district's peace. The Baron's Dragon Knights and Santo's attack on Emmeralda threaten the order she profits from.",
     "magic_tradition": null,
     "source": "GM-authored from source lore (referenced as the authority over Constantine's house)"

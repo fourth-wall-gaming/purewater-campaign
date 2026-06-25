@@ -3,8 +3,8 @@
   "name": "Constantine",
   "type": "npc",
   "status": "active",
-  "description": "Proprietor of The Sylph's Embrace on the Pearl Quarter -- shrewd, protective of her workers, fiercely independent. Operates under Marisette's authority. After Santo's attack on Emmeralda in her house, she is hiring protection and wants justice.",
-  "narrative": "Constantine runs The Sylph's Embrace, a high-end pleasure house on the Pearl Quarter, under the overall authority of the madame Marisette. Sharp, businesslike and fiercely protective of her workers, she prizes loyalty and codes of conduct. Her establishment was the scene of Santo di Teufel's brutal ritual attack on the courtesan Emmeralda, and in the aftermath she is quietly hiring protection and seeking anyone who can deliver justice. No warrior, but no fool either: she keeps a stiletto and a loaded hand crossbow close, and reads a room well.",
+  "description": "Proprietor of The Sylph's Embrace on the Pearl -- shrewd, protective of her workers, fiercely independent. Operates under Marisette's authority. After Santo's attack on Emmeralda in her house, she is hiring protection and wants justice.",
+  "narrative": "Constantine runs The Sylph's Embrace, a high-end pleasure house on the Pearl, under the overall authority of the madame Marisette. Sharp, businesslike and fiercely protective of her workers, she prizes loyalty and codes of conduct. Her establishment was the scene of Santo di Teufel's brutal ritual attack on the courtesan Emmeralda, and in the aftermath she is quietly hiring protection and seeking anyone who can deliver justice. No warrior, but no fool either: she keeps a stiletto and a loaded hand crossbow close, and reads a room well.",
   "characteristics": {
     "STR": 11,
     "CON": 12,
@@ -148,7 +148,7 @@
     "class": "Proprietor (capable noncombatant)",
     "game_system": "Classic Fantasy",
     "character_type": "Supporting Character",
-    "role": "Proprietor of The Sylph's Embrace, the high-end pleasure house on the Pearl Quarter. Protective of her workers, fiercely independent, operates under [[marisette]]'s overall authority.",
+    "role": "Proprietor of The Sylph's Embrace, the high-end pleasure house on the Pearl. Protective of her workers, fiercely independent, operates under [[marisette]]'s overall authority.",
     "context": "Her establishment was the site of Santo's ritual attack on Emmeralda; she is hiring protection for her workers in the aftermath. Values loyalty and codes of conduct.",
     "magic_tradition": null,
     "source": "GM-authored from source lore"

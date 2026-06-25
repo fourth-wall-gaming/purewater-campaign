@@ -3,7 +3,7 @@
   "name": "Ila",
   "type": "npc",
   "status": "active",
-  "description": "A young elven girl (about thirteen) at the Sylph's Embrace, devoted to Emmeralda. She hugged Gardwen fiercely after the healing and fetched her when the demon stirred. An innocent of the Pearl Quarter and a thread on the party's conscience.",
+  "description": "A young elven girl (about thirteen) at the Sylph's Embrace, devoted to Emmeralda. She hugged Gardwen fiercely after the healing and fetched her when the demon stirred. An innocent of the Pearl and a thread on the party's conscience.",
   "narrative": "Ila is one of the youngest at the Sylph's Embrace -- an elven girl of perhaps thirteen, more ward than worker, who attached herself to the courtesan Emmeralda. She was the one who flung her arms around Gardwen, weeping, after the druid's magic saved Emmeralda's life, and the one who came running for help when the demon-taint began to writhe in her friend. No fighter and no schemer, she is simply a frightened, brave child in a dangerous quarter -- the human (and elven) cost of the Baron's cruelty made small and immediate.",
   "characteristics": {
     "STR": 7,
@@ -145,7 +145,7 @@
     "class": "None (child, noncombatant)",
     "game_system": "Classic Fantasy",
     "character_type": "Minor Character (innocent / emotional thread)",
-    "role": "A young elven girl at [[the-sylphs-embrace]], close to [[emmeralda]]. It was Ila who threw her arms around [[gardwen]] after the healing, and Ila who came running when the demon-taint surfaced in Emmeralda. An innocent caught in the Pearl Quarter, and a tug on the party's conscience.",
+    "role": "A young elven girl at [[the-sylphs-embrace]], close to [[emmeralda]]. It was Ila who threw her arms around [[gardwen]] after the healing, and Ila who came running when the demon-taint surfaced in Emmeralda. An innocent caught in the Pearl, and a tug on the party's conscience.",
     "magic_tradition": null,
     "source": "Novelization (And then the Dragons Came) -- the tearful elven girl who hugged Gardwen; 'Ila? Something like that.'"
   },
