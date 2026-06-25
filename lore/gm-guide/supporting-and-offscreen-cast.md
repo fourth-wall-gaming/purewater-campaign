@@ -13,7 +13,7 @@ Purewater have full sheets; the rest are recorded here.
 
 **Present in Purewater (have sheets):**
 - **[[Prince Emeric]]** -- the young, idealistic Governor of Purewater, the King's nephew; well-meaning and utterly out of his depth.
-- **[[Hesper]]** -- sorcerer-adept of the [[The Brotherhood of the Veiled Star]], Marisette's arcane enforcer.
+- **[[Hesper]]** -- publicly Marisette's arcane enforcer; secretly an agent of [[The Quiet Hand]], the hidden fellowship that works unseen for good. A potential secret patron.
 - **[[Murgeroch]]** -- Temerach Nebulo's squire and go-between.
 - **[[Ila]]** -- the young elven girl at the Sylph's Embrace, devoted to Emmeralda.
 - **[[Mariarta]]** (Moriata) and **[[Asphodel]]** -- courtesans of the Promise of Heaven, Randall's informants.

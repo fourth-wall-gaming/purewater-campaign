@@ -98,7 +98,7 @@ Several original NPCs are consolidated, renamed, or expanded:
 
 | Original | Conversion | Change |
 |----------|------------|--------|
-| Lythande (Order of the Blue Star) | **Hesper**, of the new **Brotherhood of the Veiled Star** | Renamed (Lythande was a Thieves' World throwback) and recast as a distinct sorcerer-adept at Marisette's side -- no longer folded into Conall's backstory. Conall's training stays with the Order of the Blue Star (via Old Johz). |
+| Lythande (Order of the Blue Star) | **Hesper**, secret agent of the new order **The Quiet Hand** | Renamed (Lythande was a Thieves' World throwback) and **fully reconceived**: no brow-star, no fatal personal secret. Hesper now wears the cover of Marisette's enforcer while truly serving the Quiet Hand -- a hidden, benevolent fellowship that steers the world toward good through espionage. A potential secret patron, not a wild-card menace. Conall's training stays with the Order of the Blue Star (via Old Johz). |
 | Prince Kadith (Zorastor's ruler) | **Prince Emeric**, Governor of Purewater | The young, untested ruler becomes the King's idealistic nephew -- intelligent, well-meaning, and entirely unsuited to govern Purewater. |
 | King (offscreen) | **King Halvern** of Mystamyr | Renamed from the draft's King Jorrell. |
 | Jubal / Talons | Crowbill / criminal underground | Renamed; given explicit ethical code |

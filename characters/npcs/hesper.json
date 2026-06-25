@@ -3,8 +3,8 @@
   "name": "Hesper",
   "type": "npc",
   "status": "active",
-  "description": "An enigmatic, predatory sorcerer-adept of the Brotherhood of the Veiled Star, right hand to the madame Marisette in the Pearl Quarter. A blue star blazes at the brow when the magic comes; a single spoken word can drop a strong man senseless. Master arcane caster (Arcane Casting 100, Willpower 95), and a keeper of secrets -- including a fatal one of Hesper's own.",
-  "narrative": "Hesper moves through Purewater like cold air through a door: quiet, watchful, and faintly terrifying. An adept of the wandering Brotherhood of the Veiled Star -- not the institutional Order of the Blue Star that schooled Conall -- Hesper bears the Brotherhood's mark, a star at the brow that burns blue when the sorcery rises. In the city Hesper serves as arcane enforcer to the madame Marisette, and it was Hesper who plucked Conall and Randall off the streets and into the catacombs with a word and a wall of cold. The Brotherhood's oath binds every adept to a single, life-or-death secret, and Hesper's is well kept; what a star-marked wanderer is doing tucked into the politics of a pleasure district, no one can say -- which is exactly how Hesper prefers it.",
+  "description": "To Purewater, Hesper is the madame Marisette's cold, dangerous mage-enforcer -- quiet, watchful, able to drop a strong man with a single spoken word. The truth is the opposite of what the mask suggests: Hesper is a deep-cover agent of the Quiet Hand, a hidden fellowship that works unseen for the good of the world, and the menace is a costume worn over a conscience. Master arcane caster (Arcane Casting 100, Willpower 95).",
+  "narrative": "Hesper moves through Purewater like cold air through a door, and everyone who feels it assumes the worst -- which is the point. For years Hesper has played the part of Marisette's arcane enforcer, the perfect cover for a listening post at the heart of the Pearl Quarter's secrets. In truth Hesper is a 'finger' of the Quiet Hand, the secret fellowship that stops great evils before they ripen by knowing of them first and acting unseen, and has been watching Baron Hanzo since before he ever reached the city. The seizing of Conall and Randall into the catacombs looked like cruelty; it was the Hand taking control of a dangerous night, learning the truth of the soul-knife, and keeping it -- and the twins -- out of worse hands. Hesper kills rarely and reluctantly, never for convenience, and will not be moved by gold or threat; behind the predator's stillness is an old, patient kindness that gives nothing away.",
   "characteristics": {
     "STR": 9,
     "CON": 11,
@@ -42,7 +42,7 @@
     "Unarmed": 45,
     "Lore (Sorcery)": 92,
     "Lore (Demonology)": 62,
-    "Lore (Veiled Star)": 80,
+    "Lore (Statecraft & Intrigue)": 80,
     "Arcane Casting": 100,
     "Invocation": 92,
     "Streetwise": 58
@@ -128,7 +128,7 @@
       "notes": "Bleed, Impale"
     },
     {
-      "name": "Star-staff",
+      "name": "Sorcerer's staff",
       "damage": "1d8",
       "size": "M",
       "reach": "L",
@@ -142,8 +142,9 @@
     }
   ],
   "passions": {
-    "Keep the secret of the Veiled Star": 90,
-    "Owe no master (the service to Marisette is on Hesper's terms)": 60
+    "The Oath of the Empty Hand -- take no credit, seize no power, spare whom you can": 90,
+    "Stop the Awake the Dragon movement before it ripens": 75,
+    "Keep the cover intact -- a finger that is seen is a finger that is lost": 70
   },
   "combat_styles": {
     "Duelist-mage (rapier, staff)": 58
@@ -181,17 +182,18 @@
   "magic_current": 18,
   "experience_rolls": 0,
   "extras": {
-    "gender": "presents as male (true nature is the guarded secret -- GM's call)",
-    "class": "Magic-User (sorcerer-adept)",
-    "renamed_from": "Lythande -- a Thieves' World / Sanctuary throwback (a Blue Star adept) in the Zorastor draft; renamed Hesper and given an original order, the Brotherhood of the Veiled Star, for Purewater.",
-    "order": "[[The Brotherhood of the Veiled Star]] -- NOT the [[The Order of the Blue Star]]; a star-sigil blazes at the brow when Hesper works magic (Hesper's burns blue, which is why outsiders confuse the two).",
+    "gender": "Hesper volunteers nothing and is asked nothing; it has no bearing on the work.",
+    "class": "Magic-User (sorcerer); secret agent",
+    "renamed_from": "Lythande -- a Thieves' World / Sanctuary throwback (a Blue Star adept) in the Zorastor draft. Renamed Hesper and fully reconceived: no brow-star, no fatal personal secret. Now a deep-cover agent of an original benevolent order, the Quiet Hand.",
+    "order": "[[The Quiet Hand]] -- a secret, centuries-old fellowship that works unseen for the good of the world. Hesper is its one 'finger' in Purewater. NOT the [[The Order of the Blue Star]] (the college that trained Conall) -- the two are unrelated.",
+    "cover": "Marisette's cold, dangerous mage-enforcer in the Pearl Quarter. The menace is a deliberate costume; the listening post beside Marisette is the real prize.",
     "game_system": "Classic Fantasy",
-    "character_type": "Major Character (power broker's mage / wild card)",
-    "role": "A cold, predatory sorcerer-adept of the Brotherhood of the Veiled Star who stands at the right hand of the madame [[marisette]] in the Pearl Quarter. Can fell a man with a single spoken word; abducted [[conall]] and [[randall]] to the catacombs over Emmeralda's carving.",
-    "manner": "Quiet, watchful, predatory; speaks little and means all of it. Others instinctively do not want to be near.",
-    "gm_secret": "Per the Brotherhood's oath, Hesper's power is sustained by a single guarded secret; were it ever discovered and spoken aloud by another, the magic -- and likely the life -- would unravel. (A classic such secret, for the GM who wants it: that the adept is not the man they appear to be.) Why a wandering star-adept serves a Pearl Quarter madame is itself a question -- perhaps a district built on secrets is the safest place to keep one's own.",
-    "magic_tradition": "Arcane Casting (CFI Magic-User), master tier -- Arcane Casting 100, Invocation 92, Willpower 95. Favors compulsion, sleep/stun by command word, mist and cold, divination, and wards.",
-    "source": "Novelization (And then the Dragons Came) -- the star-marked mage at Marisette's side; reattributed from the Order of the Blue Star to the new Brotherhood of the Veiled Star per GM direction."
+    "character_type": "Major Character (secret patron / wild card who reads as a threat)",
+    "role": "Publicly: [[marisette]]'s arcane enforcer, who felled [[conall]] and [[randall]] with a word and dragged them to the catacombs over Emmeralda's carving. Truly: a Quiet Hand agent who took control of a dangerous night to get the truth and secure the soul-knife, and who has been watching [[hanzo-di-teufel]] for years.",
+    "manner": "Quiet, watchful, unsettling -- by design. Speaks little; means all of it; cannot be bought or frightened. Behind the stillness, an old patient kindness that never shows.",
+    "gm_secret": "Hesper is the party's potential SECRET PATRON. Once they prove themselves against the Baron, the Hand quietly tips the scales -- an unlocked door, a guard looking away, the needed thing already in place -- usually without the party ever learning who arranged it. Hesper's deepest priority is stopping the [[The Awake the Dragon Movement]], the catastrophe the Quiet Hand exists to prevent. Hesper will spend secrets, favors, and cover freely to that end, but kills only as a last resort and will never seize power directly.",
+    "magic_tradition": "Arcane Casting (CFI Magic-User), master tier -- Arcane Casting 100, Invocation 92, Willpower 95. Favors knowing and moving unseen: scrying, sending, disguise, compulsion, sleep/stun by command word, mist and cold, wards -- force is the last tool reached for.",
+    "source": "Novelization (And then the Dragons Came) -- the star-marked mage at Marisette's side; fully reconceived per GM direction as an agent of the new benevolent espionage order, the Quiet Hand."
   },
   "created_at": "2026-06-25T10:48:16"
 }

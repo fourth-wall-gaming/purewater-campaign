@@ -74,7 +74,7 @@ courtesans whispered. Magda gave chase and lost him. *"It looked like Randall,"*
 someone said.
 
 So Randall and Conall — strangers who happened to share a face — were both seized
-by the star-marked mage **Hesper** of the Veiled Star, bound to chairs in the **catacombs**, and
+by the mage **Hesper**, Marisette's enforcer, bound to chairs in the **catacombs**, and
 brought before **Marisette**, the madame who rules the pleasure trade, accused of the
 crime. It was Randall's account of "Lord Santo" at the gate, and Magda's
 flat-voiced testimony — *"these boys didn't attack Emmeralda; I chased a richer,
