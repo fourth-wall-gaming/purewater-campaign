@@ -31,6 +31,7 @@ campaign format (v1.0).
 | `factions/` | Factions and organizations (markdown + frontmatter) |
 | `journal/` | The canonical story-so-far as an event log (JSON) |
 | `setting/` | Full-prose worldbook sources + the story-so-far synthesis |
+| `maps/` | Map assets and AI map-generation prompts |
 | `novels/` | (reserved) Novelizations of actual play |
 
 The full-prose sources — including the conversion notes that map the original
