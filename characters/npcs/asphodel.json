@@ -3,48 +3,51 @@
   "name": "Asphodel",
   "type": "npc",
   "status": "active",
-  "description": "A nimble thief in Randall's circle -- rooftops, pockets and fences. Quick and quiet (Stealth 80, Sleight 75, Evade 70), more cutpurse than fighter.",
-  "narrative": "Asphodel runs with Randall's crew: a fast, light-fingered thief who favors second-storey work and the canal-side rooftops over open fights. Strong on stealth, sleight of hand and evasion, she's a useful pair of hands for a heist and a quick way out of one. A minor but recurring face in the city's underworld.",
+  "description": "A courtesan at the Promise of Heaven, the house where Randall grew up. Warm, quick, and trusted by him 'as brother and sister' -- his closest confidante on the Pearl Quay and a ready source of information from the working girls.",
+  "narrative": "Asphodel works at the Promise of Heaven, the Pearl Quarter house where Randall was raised among its women. The two have known each other for years and trust each other like siblings; she was the one who got word to him that he'd been blamed for Emmeralda's carving, and never believed it for a moment. No fighter and no thief -- her gifts are people: she reads them, charms them, and hears everything that passes through the house. It is Asphodel who gathers intelligence on the Baron's manor from the girls sent up to entertain his soldiers (calling in the older, canny Mariarta to brief Randall directly). Affectionate, shrewd, and quietly brave, she helps Randall because she loves him, not for coin.",
   "characteristics": {
-    "STR": 11,
-    "CON": 12,
+    "STR": 9,
+    "CON": 11,
     "SIZ": 10,
-    "DEX": 16,
-    "INT": 14,
-    "POW": 12,
-    "CHA": 13
+    "DEX": 11,
+    "INT": 13,
+    "POW": 11,
+    "CHA": 16
   },
   "attributes": {
-    "action_points": 3,
-    "damage_modifier": "+0",
+    "action_points": 2,
+    "damage_modifier": "-1d2",
     "experience_modifier": 1,
     "healing_rate": 2,
-    "initiative_bonus": 15,
+    "initiative_bonus": 12,
     "luck_points": 2,
-    "magic_points": 12,
+    "magic_points": 11,
     "movement": "6"
   },
   "skills": {
-    "Brawn": 35,
-    "Endurance": 52,
-    "Evade": 70,
+    "Brawn": 28,
+    "Endurance": 48,
+    "Evade": 52,
     "Willpower": 55,
-    "Athletics": 68,
-    "Boating": 55,
-    "Conceal": 68,
-    "Customs": 45,
+    "Athletics": 45,
+    "Boating": 40,
+    "Conceal": 50,
+    "Customs": 58,
+    "Dance": 70,
     "Deceit": 68,
-    "Influence": 55,
-    "Insight": 62,
-    "Locale": 75,
+    "First Aid": 40,
+    "Influence": 72,
+    "Insight": 75,
+    "Locale": 65,
     "Native Tongue": 60,
-    "Perception": 68,
-    "Sleight": 75,
-    "Stealth": 80,
-    "Streetwise": 72,
-    "Swim": 58,
-    "Unarmed": 55,
-    "Lore (Purewater streets)": 70
+    "Perception": 62,
+    "Seduction": 78,
+    "Sing": 60,
+    "Stealth": 50,
+    "Streetwise": 65,
+    "Swim": 45,
+    "Unarmed": 40,
+    "Lore (Pearl Quarter gossip)": 72
   },
   "hit_locations": [
     {
@@ -53,7 +56,7 @@
         1,
         3
       ],
-      "ap": 2,
+      "ap": 0,
       "hp": 5,
       "current_hp": 5
     },
@@ -63,7 +66,7 @@
         4,
         6
       ],
-      "ap": 2,
+      "ap": 0,
       "hp": 5,
       "current_hp": 5
     },
@@ -73,7 +76,7 @@
         7,
         9
       ],
-      "ap": 2,
+      "ap": 0,
       "hp": 6,
       "current_hp": 6
     },
@@ -83,7 +86,7 @@
         10,
         12
       ],
-      "ap": 2,
+      "ap": 0,
       "hp": 7,
       "current_hp": 7
     },
@@ -93,7 +96,7 @@
         13,
         15
       ],
-      "ap": 2,
+      "ap": 0,
       "hp": 4,
       "current_hp": 4
     },
@@ -103,7 +106,7 @@
         16,
         18
       ],
-      "ap": 2,
+      "ap": 0,
       "hp": 4,
       "current_hp": 4
     },
@@ -113,47 +116,42 @@
         19,
         20
       ],
-      "ap": 2,
+      "ap": 0,
       "hp": 5,
       "current_hp": 5
     }
   ],
   "equipment": [
     {
-      "name": "Dagger",
+      "name": "Concealed dagger",
       "damage": "1d4+1",
       "size": "S",
       "reach": "S",
-      "notes": "Bleed, Impale"
-    },
-    {
-      "name": "Sling",
-      "type": "ranged",
-      "damage": "1d8",
-      "range": "10/40/80",
-      "notes": "Stun Location"
+      "notes": "Bleed, Impale; kept for self-defense"
     }
   ],
   "passions": {
-    "Loyalty to Randall's crew": 55
+    "Loves Randall like a brother": 70,
+    "Look out for the girls of the Promise of Heaven": 55
   },
   "combat_styles": {
-    "Cutpurse (dagger)": 58
+    "Desperate self-defense (dagger)": 35
   },
   "spells": null,
   "fatigue": "Fresh",
   "luck_current": 2,
-  "magic_current": 12,
+  "magic_current": 11,
   "experience_rolls": 0,
   "extras": {
     "gender": "female",
-    "class": "Rogue/Thief",
+    "class": "Courtesan (noncombatant)",
+    "house": "The Promise of Heaven (Pearl Quarter) -- the brothel where [[randall]] was raised",
     "game_system": "Classic Fantasy",
-    "character_type": "Minor Character (Randall's associate)",
-    "role": "A nimble thief in Randall's circle -- second-storey work, pickpocketing, and fencing. Knows the canal-side rooftops.",
+    "character_type": "Supporting Character (Randall's confidante / informant)",
+    "role": "A working girl at the Promise of Heaven and Randall's lifelong friend -- trusted 'as brother and sister'. His best information source on the Pearl Quay; relays the girls' intelligence on the Baron's manor (and introduces Mariarta to brief him).",
     "magic_tradition": null,
-    "kit_note": "GM-authored quick Rogue kit; minor associate of [[randall]].",
-    "source": "GM-authored (named associate of Randall)"
+    "correction_note": "Recast from an earlier mistaken 'Rogue/Thief in Randall's crew' kit. Per the novelization she is a courtesan at the Promise of Heaven, not a thief; social/empathic skills, not stealth/sleight.",
+    "source": "Novelization (And then the Dragons Came, ch. 8 & 13) -- canonical named character"
   },
   "created_at": "2026-06-24T23:15:34"
 }

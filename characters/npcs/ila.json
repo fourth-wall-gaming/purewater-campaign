@@ -1,0 +1,153 @@
+{
+  "id": "myth-char-41c49f07d336",
+  "name": "Ila",
+  "type": "npc",
+  "status": "active",
+  "description": "A young elven girl (about thirteen) at the Sylph's Embrace, devoted to Emmeralda. She hugged Gardwen fiercely after the healing and fetched her when the demon stirred. An innocent of the Pearl Quarter and a thread on the party's conscience.",
+  "narrative": "Ila is one of the youngest at the Sylph's Embrace -- an elven girl of perhaps thirteen, more ward than worker, who attached herself to the courtesan Emmeralda. She was the one who flung her arms around Gardwen, weeping, after the druid's magic saved Emmeralda's life, and the one who came running for help when the demon-taint began to writhe in her friend. No fighter and no schemer, she is simply a frightened, brave child in a dangerous quarter -- the human (and elven) cost of the Baron's cruelty made small and immediate.",
+  "characteristics": {
+    "STR": 7,
+    "CON": 9,
+    "SIZ": 7,
+    "DEX": 13,
+    "INT": 11,
+    "POW": 11,
+    "CHA": 13
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "-1d4",
+    "experience_modifier": 1,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 2,
+    "magic_points": 11,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 18,
+    "Endurance": 40,
+    "Evade": 58,
+    "Willpower": 48,
+    "Athletics": 48,
+    "Conceal": 52,
+    "Customs": 40,
+    "Deceit": 48,
+    "First Aid": 35,
+    "Influence": 45,
+    "Insight": 55,
+    "Locale": 58,
+    "Native Tongue (Elven)": 50,
+    "Perception": 58,
+    "Sing": 45,
+    "Stealth": 60,
+    "Swim": 40,
+    "Unarmed": 30,
+    "Streetwise": 45
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 3,
+      "current_hp": 3
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 3,
+      "current_hp": 3
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Small knife",
+      "damage": "1d3",
+      "size": "S",
+      "reach": "S",
+      "notes": "kept for fear, not skill"
+    }
+  ],
+  "passions": {
+    "Love for Emmeralda": 70,
+    "Stay unseen and safe in the Quarter": 50
+  },
+  "combat_styles": {
+    "Frightened flailing (knife)": 25
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "female",
+    "species": "Elf",
+    "age": "a child (~13)",
+    "class": "None (child, noncombatant)",
+    "game_system": "Classic Fantasy",
+    "character_type": "Minor Character (innocent / emotional thread)",
+    "role": "A young elven girl at [[the-sylphs-embrace]], close to [[emmeralda]]. It was Ila who threw her arms around [[gardwen]] after the healing, and Ila who came running when the demon-taint surfaced in Emmeralda. An innocent caught in the Pearl Quarter, and a tug on the party's conscience.",
+    "magic_tradition": null,
+    "source": "Novelization (And then the Dragons Came) -- the tearful elven girl who hugged Gardwen; 'Ila? Something like that.'"
+  },
+  "created_at": "2026-06-25T10:48:16"
+}

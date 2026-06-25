@@ -1,0 +1,182 @@
+{
+  "id": "myth-char-faf01f1ed696",
+  "name": "Murgeroch",
+  "type": "npc",
+  "status": "active",
+  "description": "Temerach Nebulo's squire and go-between -- the steady, competent young fighter who carries the knight's messages, screens her meetings, and tends her gear. Usually the first of Temerach's people the party deals with.",
+  "narrative": "Murgeroch is squire to the elven knight Temerach Nebulo. Where Temerach moves cloaked and unseen, Murgeroch is her visible hand: he sets the meeting places, signals the party to follow, minds the horses, and keeps a soldier's eye on the road for trouble. Loyal and disciplined, trained in the way of the Swords of the Lake without yet being one, he is a reliable secondary contact and a capable blade if the knight's business turns violent.",
+  "characteristics": {
+    "STR": 14,
+    "CON": 13,
+    "SIZ": 12,
+    "DEX": 13,
+    "INT": 11,
+    "POW": 10,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 12,
+    "luck_points": 2,
+    "magic_points": 10,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 58,
+    "Endurance": 62,
+    "Evade": 60,
+    "Willpower": 55,
+    "Athletics": 65,
+    "Boating": 40,
+    "Conceal": 48,
+    "Customs": 48,
+    "Deceit": 45,
+    "First Aid": 50,
+    "Influence": 42,
+    "Insight": 50,
+    "Locale": 40,
+    "Native Tongue": 55,
+    "Perception": 62,
+    "Ride": 62,
+    "Stealth": 58,
+    "Swim": 50,
+    "Unarmed": 62,
+    "Lore (Swords of the Lake)": 55,
+    "Survival": 48,
+    "Craft (Armorer)": 45
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 3,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 3,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 3,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 3,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Arming Sword",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Bleed, Impale"
+    },
+    {
+      "name": "Spear",
+      "damage": "1d8+1",
+      "size": "M",
+      "reach": "L",
+      "notes": "Impale"
+    },
+    {
+      "name": "Short Bow",
+      "type": "ranged",
+      "damage": "1d8",
+      "range": "5/40/80",
+      "notes": "Impale"
+    },
+    {
+      "name": "Round Shield",
+      "damage": "1d4",
+      "size": "L",
+      "reach": "S",
+      "notes": "Passive Block"
+    },
+    {
+      "name": "Mail & leather (all locations)",
+      "armor": true,
+      "ap": 3,
+      "notes": "AP 3"
+    }
+  ],
+  "passions": {
+    "Serve the Lakelady's Javelin": 70,
+    "Earn the white belt of the Swords of the Lake": 55
+  },
+  "combat_styles": {
+    "Squire of the Lake (sword, spear, bow, shield)": 68
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "male",
+    "class": "Fighter (squire)",
+    "game_system": "Classic Fantasy",
+    "character_type": "Supporting Character (Temerach's squire / go-between)",
+    "role": "Squire to [[temerach-nebulo]], the Lakelady's Javelin. Carries her messages, screens her meetings, tends her horse and gear, and watches the road for ambush. The discreet, competent face the party usually deals with before reaching Temerach herself.",
+    "manner": "Steady, loyal, professional; quick enough to laugh at Conall's antics but disciplined enough to catch himself.",
+    "magic_tradition": null,
+    "source": "Novelization (And then the Dragons Came) -- 'Murgeroch, her squire'."
+  },
+  "created_at": "2026-06-25T10:48:16"
+}

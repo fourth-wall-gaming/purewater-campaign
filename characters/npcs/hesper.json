@@ -1,0 +1,197 @@
+{
+  "id": "myth-char-10f5c7a807f6",
+  "name": "Hesper",
+  "type": "npc",
+  "status": "active",
+  "description": "An enigmatic, predatory sorcerer-adept of the Brotherhood of the Veiled Star, right hand to the madame Marisette in the Pearl Quarter. A blue star blazes at the brow when the magic comes; a single spoken word can drop a strong man senseless. Master arcane caster (Arcane Casting 100, Willpower 95), and a keeper of secrets -- including a fatal one of Hesper's own.",
+  "narrative": "Hesper moves through Purewater like cold air through a door: quiet, watchful, and faintly terrifying. An adept of the wandering Brotherhood of the Veiled Star -- not the institutional Order of the Blue Star that schooled Conall -- Hesper bears the Brotherhood's mark, a star at the brow that burns blue when the sorcery rises. In the city Hesper serves as arcane enforcer to the madame Marisette, and it was Hesper who plucked Conall and Randall off the streets and into the catacombs with a word and a wall of cold. The Brotherhood's oath binds every adept to a single, life-or-death secret, and Hesper's is well kept; what a star-marked wanderer is doing tucked into the politics of a pleasure district, no one can say -- which is exactly how Hesper prefers it.",
+  "characteristics": {
+    "STR": 9,
+    "CON": 11,
+    "SIZ": 10,
+    "DEX": 12,
+    "INT": 18,
+    "POW": 18,
+    "CHA": 15
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "-1d2",
+    "experience_modifier": 1,
+    "healing_rate": 2,
+    "initiative_bonus": 15,
+    "luck_points": 2,
+    "magic_points": 18,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 28,
+    "Endurance": 55,
+    "Evade": 58,
+    "Willpower": 95,
+    "Athletics": 45,
+    "Conceal": 72,
+    "Customs": 62,
+    "Deceit": 80,
+    "Influence": 80,
+    "Insight": 85,
+    "Locale": 55,
+    "Native Tongue": 70,
+    "Perception": 78,
+    "Stealth": 68,
+    "Unarmed": 45,
+    "Lore (Sorcery)": 92,
+    "Lore (Demonology)": 62,
+    "Lore (Veiled Star)": 80,
+    "Arcane Casting": 100,
+    "Invocation": 92,
+    "Streetwise": 58
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Sorcerer's blade (rapier)",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Bleed, Impale"
+    },
+    {
+      "name": "Star-staff",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Stun Location; focus"
+    },
+    {
+      "name": "Warded robes",
+      "armor": true,
+      "ap": 0,
+      "notes": "no physical AP; Hesper relies on Protection/Shield spells"
+    }
+  ],
+  "passions": {
+    "Keep the secret of the Veiled Star": 90,
+    "Owe no master (the service to Marisette is on Hesper's terms)": 60
+  },
+  "combat_styles": {
+    "Duelist-mage (rapier, staff)": 58
+  },
+  "spells": {
+    "arcane": [
+      "Sleep",
+      "Command",
+      "Hold Person",
+      "Darkness",
+      "Fog Cloud",
+      "Chill",
+      "Witchsight",
+      "Detect Magic",
+      "Read Magic",
+      "Read Thoughts",
+      "Locate Object",
+      "Scrying Pool",
+      "Protection",
+      "Shield",
+      "Counterspell",
+      "Dispel Magic",
+      "Mirror Image",
+      "Misdirection",
+      "Suggestion",
+      "Fear",
+      "Ray of Enfeeblement",
+      "Mage Hand",
+      "Levitate",
+      "Arcane Lock"
+    ]
+  },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 18,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "presents as male (true nature is the guarded secret -- GM's call)",
+    "class": "Magic-User (sorcerer-adept)",
+    "renamed_from": "Lythande -- a Thieves' World / Sanctuary throwback (a Blue Star adept) in the Zorastor draft; renamed Hesper and given an original order, the Brotherhood of the Veiled Star, for Purewater.",
+    "order": "[[The Brotherhood of the Veiled Star]] -- NOT the [[The Order of the Blue Star]]; a star-sigil blazes at the brow when Hesper works magic (Hesper's burns blue, which is why outsiders confuse the two).",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character (power broker's mage / wild card)",
+    "role": "A cold, predatory sorcerer-adept of the Brotherhood of the Veiled Star who stands at the right hand of the madame [[marisette]] in the Pearl Quarter. Can fell a man with a single spoken word; abducted [[conall]] and [[randall]] to the catacombs over Emmeralda's carving.",
+    "manner": "Quiet, watchful, predatory; speaks little and means all of it. Others instinctively do not want to be near.",
+    "gm_secret": "Per the Brotherhood's oath, Hesper's power is sustained by a single guarded secret; were it ever discovered and spoken aloud by another, the magic -- and likely the life -- would unravel. (A classic such secret, for the GM who wants it: that the adept is not the man they appear to be.) Why a wandering star-adept serves a Pearl Quarter madame is itself a question -- perhaps a district built on secrets is the safest place to keep one's own.",
+    "magic_tradition": "Arcane Casting (CFI Magic-User), master tier -- Arcane Casting 100, Invocation 92, Willpower 95. Favors compulsion, sleep/stun by command word, mist and cold, divination, and wards.",
+    "source": "Novelization (And then the Dragons Came) -- the star-marked mage at Marisette's side; reattributed from the Order of the Blue Star to the new Brotherhood of the Veiled Star per GM direction."
+  },
+  "created_at": "2026-06-25T10:48:16"
+}

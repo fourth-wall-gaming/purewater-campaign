@@ -13,11 +13,11 @@ campaign format (v1.0).
 
 | Contents | Count |
 |---|---|
-| Characters | 27 — PCs: Gardwen, Magda, Randall, Conall (+ Temerach Nebulo) |
+| Characters | 31 — PCs: Gardwen, Magda, Randall, Conall (+ Temerach Nebulo) |
 | Creature/NPC templates | 4 |
 | Locations | 15 |
-| Factions | 12 |
-| Lore entries | 10 |
+| Factions | 13 |
+| Lore entries | 11 |
 | Journal events | 17 (the canonical opening arc) |
 
 ## Repository layout
@@ -42,7 +42,7 @@ in `journal/events.json`.
 ## The setting in one breath
 
 Purewater is rich, beautiful, and rotten — locals call it "Pisswater." Power is
-split between a distant Governor, the merchant princes, the water-faith of the
+split between its young idealistic governor Prince Emeric, the merchant princes, the water-faith of the
 **Lake Lady**, the guilds and harbor masters, the broker **Ravella**, and
 **Crowbill**'s coded underworld. Beneath everything runs one elemental conflict:
 the city's **pure water magic** against the **fire demonology** seeping from Baron
@@ -86,6 +86,7 @@ Hanzo's **DragonBarge**, steam rising wherever the two meet.
 **gm-guide** *(GM only)*
 - [The Plot Timeline](lore/gm-guide/the-plot-timeline.md)
 - [Dramatis Personae](lore/gm-guide/dramatis-personae.md)
+- [Supporting and Offscreen Cast](lore/gm-guide/supporting-and-offscreen-cast.md)
 
 **gm-secret** *(GM only)*
 - [The Possession Scheme](lore/gm-secret/the-possession-scheme.md)
