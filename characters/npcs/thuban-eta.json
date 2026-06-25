@@ -36,7 +36,7 @@
     "Lore (Dragon Kings era)": 98,
     "Lore (Strategy & Tactics)": 95,
     "Lore (Draconic ritual)": 80,
-    "Unarmed": 78,
+    "Unarmed": 96,
     "Ride": 80,
     "Oratory": 75,
     "Customs (ancient codes)": 85
@@ -126,7 +126,7 @@
     "Torment of his betrayal and death": 70
   },
   "combat_styles": {
-    "Ancient Dragon-Knight mastery (spectral)": 98
+    "Ancient Dragon-Knight mastery (spectral)": 121
   },
   "spells": null,
   "fatigue": "Fresh",
