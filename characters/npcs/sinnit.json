@@ -1,0 +1,194 @@
+{
+  "id": "myth-char-809eef83e2fa",
+  "name": "Sinnit",
+  "type": "npc",
+  "status": "active",
+  "description": "A brutish Purewater canal-rat and rival thief who nurses a hard grudge against Randall -- a brawling enforcer-type with a long memory and a short temper.",
+  "narrative": "Sinnit works the same Purewater underworld as Randall, but where Randall is quick and charming, Sinnit is heavy-handed and mean. A canal-rat brawler and small-time crew muscle, he blames Randall for an old double-cross -- a job gone wrong, a cut he never got, a humiliation he never forgot -- and he has been looking to settle the score ever since. He hits hard, fights dirty, and holds a grudge like a creditor.",
+  "characteristics": {
+    "STR": 14,
+    "CON": 13,
+    "SIZ": 13,
+    "DEX": 13,
+    "INT": 11,
+    "POW": 10,
+    "CHA": 10
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 2,
+    "magic_points": 10,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 58,
+    "Endurance": 62,
+    "Evade": 55,
+    "Willpower": 50,
+    "Athletics": 60,
+    "Boating": 45,
+    "Conceal": 50,
+    "Customs": 26,
+    "Dance": 22,
+    "Deceit": 50,
+    "Drive": 24,
+    "First Aid": 28,
+    "Influence": 40,
+    "Insight": 45,
+    "Locale": 48,
+    "Native Tongue": 62,
+    "Perception": 55,
+    "Ride": 22,
+    "Sing": 22,
+    "Stealth": 55,
+    "Swim": 45,
+    "Unarmed": 70,
+    "Streetwise": 66,
+    "Intimidation": 68,
+    "Sleight": 48,
+    "Lockpicking": 45,
+    "Thieves' Cant": 55,
+    "Gambling": 50
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 1,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 1,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 1,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 1,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 1,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 1,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 1,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Long Knife",
+      "damage": "1d6",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed, Impale"
+    },
+    {
+      "name": "Cudgel (club)",
+      "damage": "1d6",
+      "size": "M",
+      "reach": "S",
+      "notes": "Stun Location; subdual"
+    },
+    {
+      "name": "Knuckledusters",
+      "damage": "1d3+1d2",
+      "size": "S",
+      "reach": "S",
+      "notes": "Unarmed; Bash"
+    },
+    {
+      "name": "Leather jerkin (all locations)",
+      "armor": true,
+      "ap": 1,
+      "notes": "AP 1 each location; no armor penalty"
+    }
+  ],
+  "passions": {
+    "Hatred (Randall)": 70,
+    "Greed": 55
+  },
+  "combat_styles": {
+    "Canal-rat Brawler (knife, cudgel, knuckledusters, short sword)": 70
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "male",
+    "culture": "Civilized (Purewater)",
+    "class": "Rogue (thug / enforcer)",
+    "class_rank": {
+      "Rogue": {
+        "rank": 1,
+        "title": "Thief"
+      }
+    },
+    "class_note": "Street-level brawler-thief: muscle over finesse (Unarmed 70, Intimidation 68, Brawn 58) with rogue trimmings (Stealth 55, Streetwise 66). No magic.",
+    "game_system": "Classic Fantasy",
+    "character_type": "Supporting NPC (antagonist)",
+    "role": "Purewater canal-rat / rival crew muscle; a recurring local enemy of Randall.",
+    "relationship": "Local enemy of Randall -- holds a grudge over an old double-cross / unpaid cut; spoiling for payback.",
+    "abilities": [
+      "Backstab (use 'Kill Silently' with surprise)",
+      "Hide in Shadows (Perception to spot is 1 grade harder)"
+    ],
+    "magic_tradition": null,
+    "authored_note": "New NPC -- no Roll20 sheet. GM-authored from the brief ('a local enemy of Randall: Sinnit'). The grudge hook (old double-cross) is a suggestion -- adjust the cause to taste. Tune freely.",
+    "source": "Authored for the And then the Dragons Came campaign (enemy of Randall)"
+  },
+  "created_at": "2026-06-24T23:07:54"
+}

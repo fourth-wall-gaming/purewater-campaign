@@ -1,0 +1,159 @@
+{
+  "id": "myth-char-10a52bd8bff7",
+  "name": "Ravella",
+  "type": "npc",
+  "status": "active",
+  "description": "Half-merfolk proprietor of The Siren's Call -- pleasure house and information market in one. Subtle waterfolk tells (webbed fingers, water-reflecting eyes, Swim 90). A master broker (Insight 85, Streetwise 88, Commerce 80) with light innate water magic, secretly protecting the city's hidden waterfolk.",
+  "narrative": "Ravella runs The Siren's Call, where high-end pleasure and the city's information trade intersect. She keeps her half-merfolk heritage mostly secret -- faint scales at the hairline, slightly webbed fingers, eyes that reflect water, and an uncanny ability to hold her breath -- because pure merfolk society ostracizes mixed blood. She has turned that exclusion into power, building an information empire (gondoliers, washerwomen, dockhands) to shield the waterfolk who live hidden among humans. Behind a veneer of respectability she reads people effortlessly (Insight 85), trades secrets (Streetwise 88), and carries a light innate gift of water-themed Folk Magic. She can sense threats to water magic itself, and as the Baron's fire-corruption spreads she is torn between profit and protecting everything the Lake Lady's waters represent.",
+  "characteristics": {
+    "STR": 10,
+    "CON": 12,
+    "SIZ": 11,
+    "DEX": 14,
+    "INT": 17,
+    "POW": 15,
+    "CHA": 17
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 1,
+    "healing_rate": 2,
+    "initiative_bonus": 16,
+    "luck_points": 2,
+    "magic_points": 15,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 35,
+    "Endurance": 55,
+    "Evade": 58,
+    "Willpower": 72,
+    "Athletics": 50,
+    "Boating": 60,
+    "Commerce": 80,
+    "Conceal": 65,
+    "Customs": 65,
+    "Deceit": 82,
+    "Influence": 82,
+    "Insight": 85,
+    "Locale": 80,
+    "Native Tongue": 70,
+    "Perception": 75,
+    "Seduction": 70,
+    "Sing": 55,
+    "Streetwise": 88,
+    "Stealth": 55,
+    "Swim": 90,
+    "Unarmed": 40,
+    "Lore (Merfolk & waterfolk)": 75,
+    "Folk Magic (Casting)": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Ornate dagger",
+      "damage": "1d4+1",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed, Impale"
+    }
+  ],
+  "passions": {
+    "Protect the hidden waterfolk": 80,
+    "Guard the secrets of The Siren's Call": 65
+  },
+  "combat_styles": {
+    "Defensive (dagger)": 45
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 15,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "female",
+    "heritage": "Half-merfolk (secret)",
+    "class": "Information broker (Rogue-flavored)",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character (broker / wary ally)",
+    "role": "Proprietor of The Siren's Call -- part high-end pleasure house, part information market. Hidden half-merfolk who built an information empire to protect waterfolk living secretly among humans.",
+    "tells": "Faint scales at the hairline, slightly webbed fingers, water-reflecting eyes; can hold her breath unnaturally long (Swim 90).",
+    "network": "Gondoliers, washerwomen, dockhands -- anyone who touches water daily. Possible access to merfolk paths beneath the city. Can sense threats to water magic and aquatic communities.",
+    "magic_tradition": "Folk Magic (water-themed) -- light innate gift from her merfolk blood, NOT a trained arcane caster. Suggested spells: Witch Sight, Mystic Vision (water), Calm Water, Breathe (self).",
+    "disposition": "Cautious with new arrivals; conflicted between profit and protecting water magic from the Baron's corruption.",
+    "source": "GM-authored from source lore (The Information Broker)"
+  },
+  "created_at": "2026-06-24T23:15:34"
+}

@@ -1,0 +1,235 @@
+{
+  "id": "myth-char-a27b48e85870",
+  "name": "Randall",
+  "type": "pc",
+  "status": "active",
+  "description": "Street thief of Purewater, raised in a brothel on the Pearl Quarter; identical twin of Conall and secretly a son of Baron Hanzo. A nimble, silver-tongued rogue (Deceit 75, Stealth 72, Sleight 71).",
+  "narrative": "A street thief from Purewater, raised in a brothel on the Pearl Quarter and never knowing his parents. Quick, charming and light-fingered, Randall works the canals and alleys with lockpicks, disguises, a grappling hook and a fistful of throwing daggers. He is the identical twin of Conall and, unknown to him, a biological son of Baron Hanzo; his uncanny resemblance to the Baron's son Santo is both an opportunity and a danger.",
+  "characteristics": {
+    "STR": 13,
+    "CON": 13,
+    "SIZ": 11,
+    "DEX": 17,
+    "INT": 15,
+    "POW": 12,
+    "CHA": 14
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 13,
+    "luck_points": 4,
+    "magic_points": 12,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 24,
+    "Endurance": 55,
+    "Evade": 70,
+    "Willpower": 49,
+    "Athletics": 70,
+    "Boating": 26,
+    "Conceal": 39,
+    "Customs": 30,
+    "Dance": 31,
+    "Deceit": 75,
+    "Drive": 39,
+    "First Aid": 32,
+    "Influence": 63,
+    "Insight": 62,
+    "Locale": 40,
+    "Native Tongue": 69,
+    "Perception": 62,
+    "Ride": 29,
+    "Sing": 26,
+    "Stealth": 72,
+    "Swim": 26,
+    "Unarmed": 40,
+    "Courtesy": 39,
+    "Commerce": 49,
+    "Streetwise": 66,
+    "Sleight": 71,
+    "Lockpicking": 69,
+    "Acting": 48,
+    "Acrobatics": 60,
+    "Thieves' Cant": 69
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 3,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 3,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 3,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 3,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Dagger",
+      "damage": "1d4+1",
+      "size": "S",
+      "reach": "S",
+      "notes": "throwable",
+      "ap": 6,
+      "hp": 8,
+      "enc": 0,
+      "quantity": 4
+    },
+    {
+      "name": "Knife",
+      "damage": "1d3",
+      "size": "S",
+      "reach": "S",
+      "notes": "throwable",
+      "ap": 5,
+      "hp": 4,
+      "enc": 0,
+      "quantity": 2
+    },
+    {
+      "name": "Sling",
+      "type": "ranged",
+      "damage": "1d8",
+      "force": "L",
+      "range": "10/150/300",
+      "ammo": "57/60",
+      "load": 3,
+      "ap": 1,
+      "hp": 2,
+      "enc": 0
+    },
+    {
+      "name": "Crossbow",
+      "type": "ranged",
+      "damage": "1d8+1",
+      "force": "L",
+      "range": "20/100/200",
+      "impale_size": 1,
+      "load": 3,
+      "ap": 4,
+      "hp": 5,
+      "enc": 0,
+      "quantity": 2
+    },
+    {
+      "name": "Studded Leather (all locations)",
+      "armor": true,
+      "ap": 3,
+      "enc": 2,
+      "notes": "AP 3 each location; armor penalty -3"
+    }
+  ],
+  "passions": {
+    "Caring for Loved Ones": 0
+  },
+  "combat_styles": {
+    "Thief (broadsword, club, dagger, dart, falchion, garrotte, hand crossbow, knife, longsword, shortbow, shortsword, sling)": 75
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 3,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "extras": {
+    "culture": "Civilized",
+    "frame": "Medium",
+    "gender": "male",
+    "class": "Rogue (Thief)",
+    "class_note": "Defining Thief skill set: combat style Thief 75, Deceit 75, Stealth 72, Sleight 71, Lockpicking 69, Thieves' Cant 69, Athletics 70. ~5 rogue class skills at 70%+ -> roughly Rogue Rank 2 (Thief); confirm against the Rogue class-skill list if exact rank matters.",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character",
+    "magic_tradition": null,
+    "abilities": [
+      "Artful Dodger -- 1 extra Action Point (parry/evade); may use Evade to dodge a melee attack without falling prone (only fall prone on a failure)",
+      "Backstab -- may use 'Kill Silently' with surprise",
+      "Climb Walls -- ignore 1 grade of difficulty on Athletics to climb",
+      "Hide in Shadows -- Perception rolls to spot him are one grade harder",
+      "Read Languages"
+    ],
+    "twin": "Conall (identical twin brother); both secretly sons of Baron Hanzo; uncanny resemblance to the Baron's son Santo",
+    "gear": [
+      "lock picks",
+      "ropes",
+      "burglar's kit",
+      "disguise kit",
+      "flint and tinder",
+      "grappling hook",
+      "crowbar",
+      "first aid kit"
+    ],
+    "armor": "Studded Leather on all 7 locations (AP 3, ENC 2 each); armor penalty -3",
+    "encumbrance": {
+      "avg_species_siz": 13,
+      "current_load": 7,
+      "load_band": "Normal",
+      "armor_penalty": -3
+    },
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)"
+  },
+  "created_at": "2026-06-24T22:35:26"
+}

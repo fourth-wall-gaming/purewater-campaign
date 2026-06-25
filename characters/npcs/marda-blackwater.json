@@ -1,0 +1,167 @@
+{
+  "id": "myth-char-87541eebf6d7",
+  "name": "Marda Blackwater",
+  "type": "npc",
+  "status": "active",
+  "description": "Broad-shouldered leader of The Dredgers, risen from the dredge-boats during a labor dispute five years ago. A powerful working-class champion (Brawn 75, Oratory 78, Influence 75) who rallies dock labor against the merchant princes and -- above all -- against the Baron's Dragon Knights.",
+  "narrative": "Marda Blackwater leads The Dredgers, Purewater's organization of dock workers and canal laborers. A broad-shouldered woman in her forties, she began as a dredger herself and rose to prominence during a bitter labor dispute five years ago; she is practical, passionate, and utterly committed to improving conditions for the city's working class. She is no trained soldier but a formidable physical presence and a galvanizing speaker (Oratory 78), able to turn out the docks at a word. She'll work with the progressive wing of the Order of the Lake Lady and with ethical merchants, keeps a wary distance from Crowbill, and reserves real hatred for the merchant princes, the Governor, and the Baron's Dragon Knights -- to her, the purest face of aristocratic oppression.",
+  "characteristics": {
+    "STR": 15,
+    "CON": 15,
+    "SIZ": 14,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 14,
+    "CHA": 15
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 12,
+    "luck_points": 2,
+    "magic_points": 14,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 75,
+    "Endurance": 80,
+    "Evade": 52,
+    "Willpower": 72,
+    "Athletics": 68,
+    "Boating": 72,
+    "Commerce": 55,
+    "Customs": 55,
+    "Deceit": 40,
+    "Drive": 50,
+    "Endurance (labor)": 80,
+    "Influence": 75,
+    "Insight": 62,
+    "Locale": 72,
+    "Native Tongue": 62,
+    "Oratory": 78,
+    "Perception": 62,
+    "Streetwise": 65,
+    "Swim": 75,
+    "Unarmed": 72,
+    "Lore (Dock labor & dredging)": 80
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 1,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 1,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 1,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 1,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 1,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 1,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 1,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Dredging hook (improvised polearm)",
+      "damage": "1d8",
+      "size": "L",
+      "reach": "L",
+      "notes": "Bleed, Snare"
+    },
+    {
+      "name": "Heavy fists / brawl",
+      "damage": "1d3",
+      "size": "M",
+      "reach": "S",
+      "notes": "plus damage modifier"
+    },
+    {
+      "name": "Heavy work-leathers (all locations)",
+      "armor": true,
+      "ap": 1,
+      "notes": "AP 1"
+    }
+  ],
+  "passions": {
+    "Champion of Purewater's working class": 85,
+    "Break the Dragon Knights' oppression": 70
+  },
+  "combat_styles": {
+    "Dockside brawler (hook, fists)": 68
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 14,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "female",
+    "class": "Commoner / labor leader (Fighter-flavored brawler)",
+    "game_system": "Classic Fantasy",
+    "character_type": "Supporting Character (faction leader / ally)",
+    "role": "Leader of The Dredgers -- broad-shouldered woman in her forties who started as a dredger and rose during a labor dispute five years ago. Practical, passionate, committed to the working class.",
+    "faction": "The Dredgers -- cautiously allied with progressive elements of the Order of the Lake Lady and ethical merchants; complicated relationship with Crowbill; hostile to the merchant princes, the Governor, and especially the Baron and his Dragon Knights as the ultimate aristocratic oppressors.",
+    "magic_tradition": null,
+    "source": "GM-authored from source lore (purewater-organizations.md, The Dredgers)"
+  },
+  "created_at": "2026-06-24T23:15:34"
+}

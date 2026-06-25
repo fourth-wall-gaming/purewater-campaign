@@ -1,0 +1,4 @@
+novels/*/.build/
+
+# macOS
+.DS_Store

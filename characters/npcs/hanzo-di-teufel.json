@@ -1,0 +1,174 @@
+{
+  "id": "myth-char-d129be576d84",
+  "name": "Hanzo di Teufel",
+  "type": "npc",
+  "status": "active",
+  "description": "Baron Hanzo di Teufel -- the campaign's master villain: a charismatic borderland noble and fire-wielding arcane sorcerer/demonologist who commands the Dragon Knights, runs possession rituals, and secretly seeks to become a Dragon King.",
+  "narrative": "Baron Hanzo di Teufel is a rising political power in the borderlands and the true 'power behind the throne' -- urbane, magnetic and utterly ruthless (Deceit 93, Influence 92, Willpower 94). A master arcane sorcerer steeped in fire magic and demonology, he binds spirits into living flesh and is engineering a possession scheme to win the Lake Lady's Tourney; his ultimate aim is dragon transformation -- to rise as a Dragon King. He commands the Dragon Knights ('Dragonshits' to the locals) and arrives on the steam-wreathed DragonBarge. He is the father, by an elven mage, of the twins Randall and Conall, and of his cruel heir Santo.",
+  "characteristics": {
+    "STR": 13,
+    "CON": 11,
+    "SIZ": 15,
+    "DEX": 13,
+    "INT": 17,
+    "POW": 17,
+    "CHA": 16
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 1,
+    "healing_rate": 2,
+    "initiative_bonus": 15,
+    "luck_points": 6,
+    "magic_points": 17,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 58,
+    "Endurance": 42,
+    "Evade": 36,
+    "Willpower": 94,
+    "Athletics": 36,
+    "Boating": 24,
+    "Conceal": 30,
+    "Customs": 34,
+    "Dance": 29,
+    "Deceit": 93,
+    "Drive": 30,
+    "First Aid": 30,
+    "Influence": 92,
+    "Insight": 84,
+    "Locale": 34,
+    "Native Tongue": 73,
+    "Perception": 74,
+    "Ride": 60,
+    "Sing": 33,
+    "Stealth": 50,
+    "Swim": 24,
+    "Unarmed": 46,
+    "Arcane Casting": 88,
+    "Arcane Knowledge": 80
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {
+    "Nobleman (broadsword, etc.)": 56
+  },
+  "spells": {
+    "arcane": [
+      "Charm Being",
+      "Detect Magic",
+      "Friendship",
+      "Hypnotism",
+      "Sleep",
+      "Read Magic",
+      "Magic Missile",
+      "Shield",
+      "Hold Person",
+      "Locate Object",
+      "Suggestion",
+      "Mage Lock",
+      "Fly",
+      "Lightning Bolt",
+      "Confusion",
+      "Fumble",
+      "Charm Monster",
+      "Wall of Fire"
+    ]
+  },
+  "fatigue": "Fresh",
+  "luck_current": 6,
+  "magic_current": 17,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "male",
+    "culture": "Civilized",
+    "frame": "Heavy",
+    "class": "Magic-User",
+    "class_note": "Arcane sorcerer / fire demonologist; high-rank master caster (effectively Rank 3-4 Mage given his 18-spell breadth incl. Lightning Bolt, Wall of Fire, Charm Monster, Hold Person).",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character (primary antagonist)",
+    "role": "Main villain -- Baron of the borderlands, 'power behind the throne'; fire magic, demonology, spirit-binding possession rituals; ultimate aim: become a Dragon King.",
+    "magic_tradition": "Arcane Magic",
+    "magic_theme": "Charm/domination (Charm Being/Monster, Suggestion, Hypnotism, Sleep, Hold Person, Friendship, Confusion, Fumble) + fire & force (Wall of Fire, Lightning Bolt, Magic Missile) + utility (Fly, Shield, Mage Lock, Locate Object, Detect/Read Magic).",
+    "commands": "The Dragon Knights ('Dragonshits'); arrives on the DragonBarge",
+    "family": "Father (by an elven mage) of the twins Randall & Conall, and of his heir Santo di Teufel",
+    "lore_items": "Demonologist's soul-knife bearing the symbol of Asmodeus (binds spirits to victims' flesh) -- per setting lore; not on the Roll20 weapon list",
+    "sheet_cleanup_note": "On the Roll20 sheet Arcane Casting & Arcane Knowledge were left at 0 (unusable for the villain sorcerer) -- supplied working values (Casting 88, Knowledge 80); GM adjust as desired. Excluded as artifacts: a stray 'Animism' tradition (rank 1) and the 0-value 'Trance'/'false' professional skills. No weapons were entered on the sheet.",
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)"
+  },
+  "created_at": "2026-06-24T22:52:07"
+}

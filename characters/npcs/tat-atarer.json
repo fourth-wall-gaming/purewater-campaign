@@ -1,0 +1,201 @@
+{
+  "id": "myth-char-c02fbe121484",
+  "name": "Tat Atarer",
+  "type": "npc",
+  "status": "active",
+  "description": "Captain of the Dragon Knights -- a hardened, pragmatic mercenary commander who serves Baron Hanzo for pay, not ideology. Master fighter (combat 97%); 'the Baron pays for our swords, not our opinions.'",
+  "narrative": "Tat Atarer is the military commander of Baron Hanzo's Dragon Knights -- a former mercenary captain, professional and disciplined, motivated by money and security rather than any ideological commitment to the Baron's dark schemes. A peerless veteran fighter (combat style 97%, Unarmed 87, resistances at 80), he leads from the front and keeps his men in line. His creed: 'The Baron pays for our swords, not our opinions.'",
+  "characteristics": {
+    "STR": 17,
+    "CON": 15,
+    "SIZ": 13,
+    "DEX": 15,
+    "INT": 9,
+    "POW": 7,
+    "CHA": 17
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 12,
+    "luck_points": 2,
+    "magic_points": 7,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 80,
+    "Endurance": 80,
+    "Evade": 80,
+    "Willpower": 64,
+    "Athletics": 82,
+    "Boating": 32,
+    "Conceal": 72,
+    "Customs": 18,
+    "Dance": 32,
+    "Deceit": 26,
+    "Drive": 22,
+    "First Aid": 24,
+    "Influence": 34,
+    "Insight": 16,
+    "Locale": 18,
+    "Native Tongue": 66,
+    "Perception": 66,
+    "Ride": 72,
+    "Sing": 24,
+    "Stealth": 74,
+    "Swim": 82,
+    "Unarmed": 87,
+    "Lore (Cult)": 95,
+    "Lore (World)": 92,
+    "Oratory": 85,
+    "Seamanship": 74,
+    "Navigation": 73,
+    "Survival": 69
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 3,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 3,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 3,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 3,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 3,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Long Sword",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Bleed, Impale"
+    },
+    {
+      "name": "Dagger",
+      "damage": "1d4+1",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed, Impale"
+    },
+    {
+      "name": "Round Shield",
+      "damage": "1d4",
+      "size": "L",
+      "reach": "S",
+      "notes": "Passive Block"
+    },
+    {
+      "name": "Recurve bow",
+      "type": "ranged",
+      "damage": "1d8",
+      "range": "15/125/250",
+      "notes": "Impale"
+    },
+    {
+      "name": "Han-kyu (short bow)",
+      "type": "ranged",
+      "damage": "1d8",
+      "range": "5/25/50",
+      "notes": "Impale"
+    },
+    {
+      "name": "Light armor (all locations)",
+      "armor": true,
+      "ap": 3,
+      "notes": "AP 3 each location; no armor penalty"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Fighter (sword, dagger, shield, bow)": 97
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 7,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "male",
+    "class": "Fighter",
+    "class_note": "Veteran mercenary captain; master Fighter (combat 97). Fighter talents (from sheet notes): Agile Defender, Combat Proficiency (+5% Combat Style), Weapon Specialization (+10% with specialised weapon; +1 Action Point for Parrying), Weapon Master (+ a 1-step damage-modifier improvement).",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character (antagonist)",
+    "role": "Military commander of the Dragon Knights; serves Baron Hanzo for pay, not ideology; pragmatic, professional, values discipline.",
+    "quote": "The Baron pays for our swords, not our opinions.",
+    "abilities": [
+      "Agile Defender",
+      "Combat Proficiency (+5% Combat Style)",
+      "Weapon Specialization (+10% with specialised weapon; +1 AP for Parry)",
+      "Weapon Master (+1-step damage modifier)"
+    ],
+    "magic_tradition": null,
+    "armor": "Light armor, AP 3 on all 7 locations; no armor penalty",
+    "sheet_cleanup_note": "EXCLUDED as held-over template/download error (NOT Tat's data; he is a sword-for-hire, not a caster, per source): the magic professional skills Folk Magic 84, Exhort 100, Devotion 100, Storm Speech 87 and the 'Folk Magic' tradition (rank 1). Kept his martial/mercenary skills as captured; note Lore (Cult) 95 / Lore (World) 92 are high for INT 9 and may also be template-inflated -- trim to taste.",
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)"
+  },
+  "created_at": "2026-06-24T23:00:08"
+}

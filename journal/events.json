@@ -1,0 +1,239 @@
+[
+  {
+    "id": "myth-event-395ff7b0cd23",
+    "type": "gm-note",
+    "summary": "Campaign seeded: Purewater (CFI port of 'And then the Dragons Came'). 27 characters, 15 locations, 12 factions, 4 templates, full worldbook.",
+    "narrative": null,
+    "session": 0,
+    "involves": [],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-ea84687f4869",
+    "type": "canon-backstory",
+    "summary": "CH.1-2 -- The wounds that came first. A decade ago, Dragon Knights massacred Gardwen's woodland family by night; she alone survived, her brother's body never found. The grove remade itself sacred around her grief, and the druid Gleinanion found and taught her. Far north, the old pig-farmer Magda begins receiving Hel's nightmares: twins ringed by fire, a brother torn away by reptilian talons, all in Vacarus' Square.",
+    "narrative": "The campaign's emotional engine. Gardwen's lost brother = Cailan. Magda's visions foreshadow the twins (Randall/Conall), Cailan's abduction, and the climax. Both are being drawn toward Purewater.",
+    "session": 0,
+    "involves": [
+      "myth-char-24c3d3484e09",
+      "myth-char-1a258abf278f",
+      "myth-char-0405ea1cc67c"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-98cd1f9b89c2",
+    "type": "canon-backstory",
+    "summary": "CH.3 -- The column and the secret weapon. Gardwen tracks a column of ~20-30 Dragon Knights and, hidden in their camp, overhears two officers (one raspy-voiced): Baron Hanzo means to win the Lake Lady's Tourney archery with 'the boy' -- his secret weapon -- for political ends. Her soul-sight finds only blankness in the two speakers and an ocean of evil in the rest. She sets out for Purewater.",
+    "narrative": "The raspy voice = Blau. 'Tat' is named. The 'boy' = Cailan/Thuban. Establishes the Baron's tournament plan and Gardwen's pursuit.",
+    "session": 0,
+    "involves": [
+      "myth-char-24c3d3484e09",
+      "myth-char-d129be576d84",
+      "myth-char-c02fbe121484",
+      "myth-char-c52354ddb8f6",
+      "myth-char-0405ea1cc67c"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-7459e9b461c4",
+    "type": "scene",
+    "summary": "CH.3 -- A grandmother at the ford. At the city ford, the ancient, staff-leaning Magda picks Gardwen out of the crowd -- 'Who are you?' -- bats away Gardwen's probing magic with a steel-trap mind, and reveals she was sent to protect her. Gardwen (with the wolf Ruhi) decides to trust her.",
+    "narrative": "First party bond. Magda's combat grace belies her age; her staff is burnished for war.",
+    "session": 0,
+    "involves": [
+      "myth-char-24c3d3484e09",
+      "myth-char-1a258abf278f",
+      "myth-char-37175d5e1798"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-3c7dc05d1740",
+    "type": "scene",
+    "summary": "CH.4 -- Mistaken for Lord Santo. Working the Caravan Square crowds, Randall marks a disguised noble (Baron Hanzo) and is spotted by a guard who blanches: 'My lord Santo!' Randall bluffs past it, realizing his face is worth something. The pickpocket Nus warns him the noble reeks of a spellcaster.",
+    "narrative": "The resemblance hook: Randall looks like Santo (their half-brother). Nus is established; Jubal/Crowbill's org referenced.",
+    "session": 0,
+    "involves": [
+      "myth-char-a27b48e85870",
+      "myth-char-d129be576d84",
+      "myth-char-0fecded5fce3",
+      "myth-char-8cd34f93ba22"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-b56d8aa9fdf2",
+    "type": "canon-backstory",
+    "summary": "CH.5-6 -- The knight and her investigator. Conall, a militiaman's son from Anminster turned sell-sword, was saved and trained in arcane magic by the Blue Star wizard Old Johz, then handed to the elven knight Temerach Nebulo ('the Lakelady's Javelin'). For six months he served as her covert investigator. Now she has entered the tourney's archery, and he rides to Purewater with her -- passing dragon-bannered soldiers and a sneering albino on the road.",
+    "narrative": "Conall's path in. Temerach's true motive (Conall's parentage) is still hidden from him. The albino = Blau.",
+    "session": 0,
+    "involves": [
+      "myth-char-e2fe2b9aa986",
+      "myth-char-0ca3e3cd2982",
+      "myth-char-c52354ddb8f6"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-879a72fdeee3",
+    "type": "scene",
+    "summary": "CH.6 -- Cornered in the Maze. Exploring, Conall gets lost in the Maze and is cornered by Sinnit and four blades who mistake him for Randall; he escapes with an invisibility spell. He then disguises himself and gathers underworld gossip at the Moist Oyster (the storyteller's tavern).",
+    "narrative": "Sinnit established as a Maze rival. Conall's Magic-User kit shown (invisibility, illusion, disguise).",
+    "session": 0,
+    "involves": [
+      "myth-char-e2fe2b9aa986",
+      "myth-char-809eef83e2fa"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-45c137cd1cf6",
+    "type": "combat",
+    "summary": "CH.7 -- The shrieks of the Sylph. Two nights after Gardwen and Magda take shelter at Constantine's Sylph's Embrace, a man resembling Randall carves a long ritual wound the length of the elven courtesan Emmeralda. Gardwen's druid magic saves her life; witnesses whisper 'the woman from the woods'. Magda fails to catch the attacker.",
+    "narrative": "The inciting crime. Attacker = Santo. Gardwen's healing interrupts the demon-binding (why Emmeralda is only partially possessed). Randall is framed.",
+    "session": 0,
+    "involves": [
+      "myth-char-24c3d3484e09",
+      "myth-char-1a258abf278f",
+      "myth-char-d82a8cb7a906",
+      "myth-char-a222e825cb39",
+      "myth-char-8cd34f93ba22",
+      "myth-char-a27b48e85870"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-d5f4c3970ee7",
+    "type": "scene",
+    "summary": "CH.8-9 -- Taken to the catacombs. The Blue Star mage Lythande abducts both Conall and Randall; they wake bound to chairs in the catacombs before Marisette, accused of carving Emmeralda. Randall's account of 'Lord Santo' at the gate, and Magda's eyewitness ('a rich man's kid, younger -- these boys didn't do it'), clear them. Marisette names Baron Hanzo.",
+    "narrative": "The party converges. Lythande and Marisette introduced as powers. Conall offers to investigate as Temerach's agent. The twins meet as mirror-images for the first time.",
+    "session": 0,
+    "involves": [
+      "myth-char-e2fe2b9aa986",
+      "myth-char-a27b48e85870",
+      "myth-char-ded5a1522328",
+      "myth-char-1a258abf278f",
+      "myth-char-d129be576d84",
+      "myth-char-8cd34f93ba22"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-2b59a88df6f6",
+    "type": "scene",
+    "summary": "CH.10 -- The soul-knife and the alliance. At the crime scene Conall's find-magic uncovers the barbed ritual knife behind an armoire, its hilt bearing the sigil of Asmodeus. Magda recoils from the dark magic; Conall judges it a binding ritual. Over the knife, four strangers -- thief, druid, pig-farmer-warrior, investigator -- swear themselves to justice and to each other.",
+    "narrative": "Party formation complete. The soul-knife is the key evidence; Magda reveals her charge from Hel to protect them all.",
+    "session": 0,
+    "involves": [
+      "myth-char-e2fe2b9aa986",
+      "myth-char-a27b48e85870",
+      "myth-char-24c3d3484e09",
+      "myth-char-1a258abf278f",
+      "myth-char-8cd34f93ba22"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-725885df99c5",
+    "type": "scene",
+    "summary": "CH.11 -- Drinks, and loose tongues. At the Moist Oyster the party meets the storyteller Thorne (Hakiem), who effortlessly fishes the whole story out of Randall and Conall while Gardwen stonewalls him perfectly. Randall allies with Nus (intel on Hanzo's fortified estate for help via Asphodel). Sinnit needles Randall; Crowbill's/Jubal's org looms in the background.",
+    "narrative": "Thorne established as the lore-keeper who already knows everything. Nus-Randall pact set up (leads to the locket theft). Gardwen's brother revealed to the party.",
+    "session": 0,
+    "involves": [
+      "myth-char-a27b48e85870",
+      "myth-char-e2fe2b9aa986",
+      "myth-char-24c3d3484e09",
+      "myth-char-1a258abf278f",
+      "myth-char-34f35cd2983b",
+      "myth-char-0fecded5fce3",
+      "myth-char-dd1e7add673d",
+      "myth-char-809eef83e2fa"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-d0c1c2a4b5e1",
+    "type": "scene",
+    "summary": "CH.12 -- Long lost family. Randall and Conall, alone, half-joke their way through the realization that they are twins -- and that the Baron may be their biological father. Conall insists his real father is the Anminster guardsman who adopted him. Magda, in the next room, swears to Gardwen by Hel that they will find her brother or his fate.",
+    "narrative": "The twins' bond and dread confirmed between them. Magda's oath to Gardwen.",
+    "session": 0,
+    "involves": [
+      "myth-char-a27b48e85870",
+      "myth-char-e2fe2b9aa986",
+      "myth-char-24c3d3484e09",
+      "myth-char-1a258abf278f"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-7e89ea576cfd",
+    "type": "scene",
+    "summary": "CH.14 -- The floor pulled away. Reporting to Temerach in a stable, Conall learns the truth she has held for years: his mother was an elven mage the Baron seduced and broke; Conall is Hanzo's son, and that is why she recruited him. She names the knife a demonologist's soul-knife for binding spirits into flesh, and warns the party they are now in a deadly game.",
+    "narrative": "The central revelation to Conall. Temerach takes the soul-knife for safekeeping. Confirms Hanzo as a sorcerous border-tyrant and the greatest threat to Mystamyr.",
+    "session": 0,
+    "involves": [
+      "myth-char-e2fe2b9aa986",
+      "myth-char-0ca3e3cd2982",
+      "myth-char-d129be576d84"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-16544be11ab6",
+    "type": "scene",
+    "summary": "CH.13/15 -- Santo's tantrum and the demon stirs. The girls overhear Santo screaming at Constantine for his knife on the Pearl Quarter street ('I'll burn your house down!') until Blau hauls him back to his father with a cracking slap. Afterward, Emmeralda's wound writhes: she speaks in a bestial voice, begging for 'Lord Santo' -- Gardwen's evil-sight reveals a demon coiled in her flesh.",
+    "narrative": "Santo's recklessness and Blau's role shown. Emmeralda's partial possession surfaces -- the campaign's living evidence and counter-ritual seed.",
+    "session": 0,
+    "involves": [
+      "myth-char-8cd34f93ba22",
+      "myth-char-d82a8cb7a906",
+      "myth-char-c52354ddb8f6",
+      "myth-char-a222e825cb39",
+      "myth-char-24c3d3484e09"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-86d846744c35",
+    "type": "decision",
+    "summary": "CH.15 -- Marisette closes the trade. Hearing of Santo's crime and the demon, the madame Marisette rescinds all courtesan services to the entire di Teufel retinue, city-wide, willing to pay Crowbill's underworld a princely sum to enforce it. The pleasure houses turn against the Baron.",
+    "narrative": "A faction openly moves against the Baron. Establishes Marisette's authority and the houses-vs-Dragon-Knights front.",
+    "session": 0,
+    "involves": [
+      "myth-char-ded5a1522328",
+      "myth-char-d82a8cb7a906",
+      "myth-char-8cd34f93ba22"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-fe331791e08a",
+    "type": "scene",
+    "summary": "CH.16 -- Baiting the hook. Randall tries to seed a rumor through Thorne that Emmeralda will be exorcised in the woods that night -- a trap for Santo and his knife. Thorne, who already knows all, summons Sinnit, who agrees to set Santo up: 'no one does that to our girls.' Even thieves have lines.",
+    "narrative": "The party's first proactive operation -- the trap to recover the knife and corner Santo. Sinnit turns reluctant ally. Sets up the run toward the locket theft and the tourney climax (see plot-timeline lore).",
+    "session": 0,
+    "involves": [
+      "myth-char-a27b48e85870",
+      "myth-char-34f35cd2983b",
+      "myth-char-809eef83e2fa",
+      "myth-char-8cd34f93ba22"
+    ],
+    "at": "2026-06-24T23:31:07"
+  },
+  {
+    "id": "myth-event-8f4f59bc8055",
+    "type": "gm-note",
+    "summary": "Story-so-far ends mid-trap, on the eve of the tournament clock (see lore/gm-guide/the-plot-timeline). Ahead: the locket theft by Nus, the Baron's purge, and Cailan revealed as champion -- where Gardwen recognizes her brother.",
+    "narrative": null,
+    "session": 0,
+    "involves": [
+      "myth-char-0fecded5fce3",
+      "myth-char-0405ea1cc67c",
+      "myth-char-24c3d3484e09",
+      "myth-char-d129be576d84"
+    ],
+    "at": "2026-06-24T23:31:07"
+  }
+]

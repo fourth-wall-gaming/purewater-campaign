@@ -1,0 +1,170 @@
+{
+  "id": "myth-char-31537901205a",
+  "name": "Crowbill",
+  "type": "npc",
+  "status": "active",
+  "description": "Leader of Purewater's criminal underworld -- canal smuggling, gambling, protection. Wiry and forgettable but for a small crow tattoo on his right hand. A master of streets and shadows (Streetwise 88, Stealth 82, Conceal 78) who keeps to a code: no killing locals, no harming children, no touching the Lake Lady's sites.",
+  "narrative": "Crowbill runs Purewater's criminal underworld -- canal smuggling, gambling dens, protection rackets -- and does it so quietly that nothing about him stands out except a small crow tattoo on the back of his right hand. He keeps to established codes: no murder of locals, no harm to children, no disruption of the Lake Lady's sacred sites. His people signal with crow marks, he knows hidden boat paths through the canals and keeps safe houses across the city. He was happy enough to profit from the Baron's arrival at first, but the Dragon Knights' brutality is wrecking the equilibrium his business depends on -- and that is steadily turning a wary criminal into a possible ally.",
+  "characteristics": {
+    "STR": 12,
+    "CON": 13,
+    "SIZ": 11,
+    "DEX": 16,
+    "INT": 15,
+    "POW": 13,
+    "CHA": 14
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 16,
+    "luck_points": 2,
+    "magic_points": 13,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 42,
+    "Endurance": 62,
+    "Evade": 72,
+    "Willpower": 62,
+    "Athletics": 68,
+    "Boating": 65,
+    "Commerce": 68,
+    "Conceal": 78,
+    "Customs": 55,
+    "Deceit": 78,
+    "Influence": 65,
+    "Insight": 75,
+    "Locale": 82,
+    "Native Tongue": 62,
+    "Perception": 72,
+    "Sleight": 75,
+    "Stealth": 82,
+    "Streetwise": 88,
+    "Swim": 60,
+    "Unarmed": 65,
+    "Lore (Criminal underworld)": 80
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Fighting knife",
+      "damage": "1d4+1",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed, Impale"
+    },
+    {
+      "name": "Hand crossbow",
+      "type": "ranged",
+      "damage": "1d6",
+      "range": "5/20/40",
+      "notes": "Impale"
+    },
+    {
+      "name": "Leather armor (all locations)",
+      "armor": true,
+      "ap": 2,
+      "notes": "AP 2; worn under street clothes"
+    }
+  ],
+  "passions": {
+    "Keep the code of the underworld": 70,
+    "Protect my equilibrium / my city": 60
+  },
+  "combat_styles": {
+    "Knifework & ambush (knife, crossbow)": 72
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 13,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "male",
+    "class": "Rogue/Thief",
+    "tattoo": "small crow on the back of the right hand",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character (crime lord / reluctant ally)",
+    "role": "Leader of Purewater's criminal underworld -- canal smuggling, gambling dens, protection rackets. Wiry and unremarkable, blends into any crowd.",
+    "code": "Maintains established codes: against murder of locals, harm to children, or disruption of the Lake Lady's sacred sites.",
+    "assets": "Network of lookouts using crow symbols as signals; access to hidden boat paths through the canals; several safe houses.",
+    "arc": "Initially opportunistic about the Baron's arrival; grows alarmed as the Dragon Knights wreck the established equilibrium -- may become a reluctant ally.",
+    "magic_tradition": null,
+    "source": "GM-authored from source lore (Criminal Underground Leader)"
+  },
+  "created_at": "2026-06-24T23:15:34"
+}

@@ -1,0 +1,163 @@
+{
+  "id": "myth-char-13a0580d1aeb",
+  "name": "Guildmaster Torval Bluehand",
+  "type": "npc",
+  "status": "active",
+  "description": "Guildmaster of the Watercrafters -- middle-aged, practical innovator whose hands are permanently blue-tinged from decades of watercraft enchantment. A Magic-User specialized in water artifice (Craft 85, Arcane Casting 60, Mechanisms 80) rather than battle magic; his guild's enchantments keep the canal-city running.",
+  "narrative": "Torval Bluehand leads the Guild of Watercrafters, and his trade has marked him: decades of working watercraft enchantments have stained his hands a permanent blue. He is practical and forward-thinking, valuing innovation over tradition -- the kind of artificer-mage who enchants pumps, locks, gondolas and aqueducts rather than hurling fire. His arcane skill is real but applied: Craft and Mechanisms in the 80s, water-aspected Arcane Casting around 60. The Guild is allied with the Order of the Lake Lady and quietly essential to Purewater itself, since the whole canal-city depends on the watercraft his people keep enchanted and running.",
+  "characteristics": {
+    "STR": 13,
+    "CON": 14,
+    "SIZ": 13,
+    "DEX": 15,
+    "INT": 16,
+    "POW": 14,
+    "CHA": 13
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 16,
+    "luck_points": 2,
+    "magic_points": 14,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 52,
+    "Endurance": 62,
+    "Evade": 55,
+    "Willpower": 68,
+    "Athletics": 55,
+    "Boating": 78,
+    "Commerce": 75,
+    "Customs": 58,
+    "Deceit": 45,
+    "Influence": 70,
+    "Insight": 62,
+    "Locale": 68,
+    "Mechanisms": 80,
+    "Native Tongue": 68,
+    "Perception": 68,
+    "Swim": 75,
+    "Unarmed": 45,
+    "Lore (Watercraft enchantment)": 88,
+    "Lore (Engineering)": 75,
+    "Craft (Watercraft)": 85,
+    "Arcane Casting (water enchantment)": 60,
+    "Invocation": 50
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Enchanter's mace",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "M",
+      "notes": "Stun Location"
+    },
+    {
+      "name": "Tool-knife",
+      "damage": "1d4",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed"
+    }
+  ],
+  "passions": {
+    "Advance the craft of water-enchantment": 75,
+    "Keep Purewater's waterworks running": 65
+  },
+  "combat_styles": {
+    "Guild defense (mace)": 48
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 14,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "male",
+    "class": "Magic-User (enchanter / artificer)",
+    "tells": "hands permanently blue-tinged from decades of watercraft enchantments",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character (faction leader)",
+    "role": "Guildmaster of the Guild of Watercrafters -- middle-aged, practical, forward-thinking, more interested in innovation than tradition.",
+    "magic_tradition": "Arcane Casting (CFI Magic-User), specialized in water enchantment / artifice -- enchants boats, locks, pumps and watercraft rather than slinging combat spells. Suggested spells: Animate (water), Repair, Reinforce, Strength (of materials), Float.",
+    "faction": "Watercrafters Guild -- allied with the Order of the Lake Lady; their enchantments keep the canal-city running.",
+    "source": "GM-authored from source lore (purewater-organizations.md, Guild of Watercrafters)"
+  },
+  "created_at": "2026-06-24T23:15:34"
+}

@@ -1,0 +1,166 @@
+{
+  "id": "myth-char-e8ea0eab01a1",
+  "name": "Mariarta",
+  "type": "npc",
+  "status": "active",
+  "description": "A canal-running smuggler in Randall's circle -- boats, routes and moving goods quietly. Steadier and more fight-ready than the average cutpurse (Boating 68, Stealth 72, combat 62).",
+  "narrative": "Mariarta is the boat-handler of Randall's crew: a canal-runner and smuggler who knows the city's water routes and can move people or goods without being seen. More combat-capable than the lighter thieves around her, she carries a short sword and a hand crossbow under leather armor, and she's as comfortable on a gondola at midnight as in a back-alley deal. A reliable minor ally with her own web of dockside contacts.",
+  "characteristics": {
+    "STR": 12,
+    "CON": 13,
+    "SIZ": 11,
+    "DEX": 15,
+    "INT": 14,
+    "POW": 13,
+    "CHA": 14
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 14,
+    "luck_points": 2,
+    "magic_points": 13,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 42,
+    "Endurance": 58,
+    "Evade": 65,
+    "Willpower": 58,
+    "Athletics": 62,
+    "Boating": 68,
+    "Conceal": 62,
+    "Customs": 48,
+    "Deceit": 62,
+    "Influence": 60,
+    "Insight": 65,
+    "Locale": 72,
+    "Native Tongue": 62,
+    "Perception": 68,
+    "Sleight": 62,
+    "Stealth": 72,
+    "Streetwise": 72,
+    "Swim": 70,
+    "Unarmed": 60,
+    "Lore (Canal routes)": 72
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Short Sword",
+      "damage": "1d6",
+      "size": "M",
+      "reach": "M",
+      "notes": "Bleed, Impale"
+    },
+    {
+      "name": "Hand crossbow",
+      "type": "ranged",
+      "damage": "1d6",
+      "range": "5/20/40",
+      "notes": "Impale"
+    },
+    {
+      "name": "Leather armor (all locations)",
+      "armor": true,
+      "ap": 2,
+      "notes": "AP 2"
+    }
+  ],
+  "passions": {
+    "Loyalty to Randall's crew": 55,
+    "Know every canal in Purewater": 50
+  },
+  "combat_styles": {
+    "Canal runner (short sword, crossbow)": 62
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 13,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "female",
+    "class": "Rogue/Thief",
+    "game_system": "Classic Fantasy",
+    "character_type": "Minor Character (Randall's associate)",
+    "role": "A canny canal-runner and smuggler in Randall's circle -- handles boats, routes and the moving of goods. Steadier and a bit more combat-ready than Asphodel.",
+    "magic_tradition": null,
+    "kit_note": "GM-authored quick Rogue kit; minor associate of [[randall]].",
+    "source": "GM-authored (named associate of Randall)"
+  },
+  "created_at": "2026-06-24T23:15:34"
+}

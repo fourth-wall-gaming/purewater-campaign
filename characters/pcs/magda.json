@@ -1,0 +1,208 @@
+{
+  "id": "myth-char-1a258abf278f",
+  "name": "Magda",
+  "type": "pc",
+  "status": "active",
+  "description": "Aged barbarian berserker and sworn servant of the death-goddess Hel; Blessed by Hel (she does not age), she guards Gardwen and the lost twins and fights with berserk fury despite her years.",
+  "narrative": "An old barbarian warrior-woman and sworn servant of Hel, goddess of death, called from a farmer's life by prophetic dreams. Though aged, she fights with berserker fury and is Blessed by Hel -- she does not age naturally. She follows Hel's directive to protect Gardwen and the lost twins, swearing 'by Hel herself' to see the quest through. Curmudgeonly and blunt, with a deep distrust and fear of arcane magic.",
+  "characteristics": {
+    "STR": 13,
+    "CON": 14,
+    "SIZ": 8,
+    "DEX": 12,
+    "INT": 16,
+    "POW": 14,
+    "CHA": 9
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 11,
+    "luck_points": 8,
+    "magic_points": 14,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 71,
+    "Endurance": 78,
+    "Evade": 79,
+    "Willpower": 63,
+    "Athletics": 50,
+    "Boating": 37,
+    "Conceal": 26,
+    "Customs": 32,
+    "Dance": 21,
+    "Deceit": 25,
+    "Drive": 26,
+    "First Aid": 38,
+    "Influence": 18,
+    "Insight": 30,
+    "Locale": 32,
+    "Native Tongue": 65,
+    "Perception": 70,
+    "Ride": 56,
+    "Sing": 23,
+    "Stealth": 68,
+    "Swim": 27,
+    "Unarmed": 85,
+    "Lore (Hel)": 52,
+    "Survival": 63,
+    "Track": 65,
+    "Acrobatics": 60,
+    "Navigation": 55,
+    "Sleight": 46,
+    "Language (Common)": 65,
+    "Arcane Casting": 0
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 3,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 3,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 3,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 3,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Quarterstaff",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "ap": 4,
+      "hp": 8,
+      "enc": 3
+    },
+    {
+      "name": "Staff Sling",
+      "type": "ranged",
+      "damage": "2d6",
+      "force": "E",
+      "range": "15/75/150",
+      "load": 4,
+      "notes": "Stun Location",
+      "ap": 3,
+      "hp": 6,
+      "enc": 2
+    },
+    {
+      "name": "Ringmail (all locations)",
+      "armor": true,
+      "ap": 3,
+      "enc": 2,
+      "notes": "AP 3 each location; armor penalty -3"
+    }
+  ],
+  "passions": {
+    "Love (Sister)": 70,
+    "Neutral (Curmudgeon)": 54,
+    "Fear (Arcane Magic)": 54
+  },
+  "combat_styles": {
+    "Berserker (all weapons + shields; uses anything she can get her hands on, including others' weapons)": 85
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 7,
+  "magic_current": 14,
+  "experience_rolls": 0,
+  "extras": {
+    "culture": "Barbarian",
+    "frame": "Light",
+    "class": "Fighter",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character",
+    "deity": "Hel (goddess of death)",
+    "magic_tradition": null,
+    "abilities": [
+      "Blessed By Hel -- does not age naturally",
+      "Artful Dodger -- 1 extra action for parry/evade if ENC < 26",
+      "Eyes in the Back of Your Head -- if attacked from behind, a Formidable Perception check to turn (costs 1 Action Point)",
+      "Detect magic and illusions using Willpower",
+      "Berserk Rage: Damage Mod +1d2, weapon size +1 step, take only 1/2 damage, immune to serious wounds and fatigue",
+      "Berserk Rage: Endurance & Willpower rolls to stay fighting 1 grade easier; Brawn 1 grade easier; parry/evade 1 grade harder",
+      "Berserk Rage: lasts 14 rounds; at the end automatic 1 Fatigue level loss; cannot retreat and must always engage the enemy"
+    ],
+    "armor": "Ringmail on all 7 locations (AP 3, ENC 2 each); armor penalty -3",
+    "encumbrance": {
+      "avg_species_siz": 13,
+      "current_load": 12,
+      "load_band": "Normal",
+      "armor_penalty": -3
+    },
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
+    "source_typos_normalized": [
+      "Barbarrian->Barbarian",
+      "Beserker->Berserker",
+      "Cudmudgeon->Curmudgeon",
+      "Wiillpower->Willpower"
+    ],
+    "source_class": "Berserker (Classic Fantasy class; maps to Fighter in CFI's four core classes)"
+  },
+  "created_at": "2026-06-24T22:24:20"
+}

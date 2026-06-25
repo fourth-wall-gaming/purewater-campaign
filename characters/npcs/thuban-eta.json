@@ -1,0 +1,150 @@
+{
+  "id": "myth-char-b65dab3ed037",
+  "name": "Thuban Eta",
+  "type": "npc",
+  "status": "active",
+  "description": "The ancient dragon-knight spirit bound inside Cailan. A betrayed tactical genius from the Dragon Kings era, held in thrall by Baron Hanzo's ritual through his bones and the binding locket. Indomitable will (Willpower 95), peerless tactics, honors the old codes -- a potential ally if freed.",
+  "narrative": "Thuban Eta was a dragon-knight and war-leader of the Dragon Kings era, betrayed by treacherous comrades and slain. Baron Hanzo's ritual dragged his spirit back and bound it into the body of the kidnapped boy Gabriel ('Cailan'). He is a reluctant prisoner: he still feels the torment of his violent death and betrayal, yet honors the old codes, and occasionally wrenches against the Baron's will -- those struggles surface as Cailan's lucid moments. His own being is defined by towering INT, POW and Willpower (the will the Baron must keep crushing); physically he acts through his host. His remains and the binding locket are the leash. Free him, and the betrayed knight may repay the debt.",
+  "characteristics": {
+    "STR": 14,
+    "CON": 13,
+    "SIZ": 13,
+    "DEX": 16,
+    "INT": 18,
+    "POW": 18,
+    "CHA": 15
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 17,
+    "luck_points": 2,
+    "magic_points": 18,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 60,
+    "Endurance": 70,
+    "Evade": 75,
+    "Willpower": 95,
+    "Athletics": 75,
+    "Insight": 80,
+    "Perception": 80,
+    "Native Tongue (ancient)": 70,
+    "Lore (Dragon Kings era)": 98,
+    "Lore (Strategy & Tactics)": 95,
+    "Lore (Draconic ritual)": 80,
+    "Unarmed": 78,
+    "Ride": 80,
+    "Oratory": 75,
+    "Customs (ancient codes)": 85
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Spectral arms (manifest through host)",
+      "damage": "by host weapon",
+      "notes": "acts through Cailan"
+    }
+  ],
+  "passions": {
+    "Honor the old codes": 90,
+    "Hatred of betrayers (and the Baron who enslaves him)": 80,
+    "Torment of his betrayal and death": 70
+  },
+  "combat_styles": {
+    "Ancient Dragon-Knight mastery (spectral)": 98
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 18,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "male",
+    "class": "Spirit (former Fighter / war-leader)",
+    "entity_type": "bound spirit",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character (bound spirit / potential ally)",
+    "role": "Ancient dragon-knight spirit and tactical genius, betrayed and slain ages past, forcibly bound by Baron Hanzo's ritual into the body of Cailan/Gabriel.",
+    "mechanics": "Has no body of his own; expresses STR/CON/SIZ/DEX through his host [[cailan]]. His own potent stats are INT 18, POW 18, Willpower 95 -- the will the Baron must overpower to maintain control. Use his Lore/Tactics/Willpower in social and ritual scenes; use Cailan's locations/combat in physical ones.",
+    "binding": "Control maintained through his earthly remains (bones) and the binding locket. Damage to either weakens the possession and lets Thuban act on his own honor.",
+    "disposition": "Reluctant captive who honors the old codes; occasionally fights the Baron's will, creating Cailan's moments of clarity. A powerful ally if freed.",
+    "magic_tradition": "Ancient draconic / martial spirit -- not a spellcaster in the modern traditions.",
+    "source": "GM-authored from source lore (The Bound Spirit)"
+  },
+  "created_at": "2026-06-24T23:15:34"
+}

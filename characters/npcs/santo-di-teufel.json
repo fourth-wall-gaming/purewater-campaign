@@ -1,0 +1,180 @@
+{
+  "id": "myth-char-8cd34f93ba22",
+  "name": "Santo di Teufel",
+  "type": "npc",
+  "status": "active",
+  "description": "Baron Hanzo's cruel son and heir -- a sadistic young fire-mage and demonology dabbler who attempted a spirit-binding ritual on the courtesan Emmeralda and dropped his ritual knife fleeing the scene.",
+  "narrative": "Santo di Teufel is Baron Hanzo's cruel, entitled heir, trained in his father's dark arts. A junior fire-mage with a taste for cruelty (Lust 80, Arrogance & Entitlement 75), he is charming and predatory in equal measure (Seduction 81, Deceit 66). He attempted a demonic spirit-binding ritual on the elven courtesan Emmeralda at the Sylph's Embrace -- and dropped his Asmodeus-marked ritual knife as he fled, leaving the key evidence that ties the di Teufels to the possession scheme.",
+  "characteristics": {
+    "STR": 10,
+    "CON": 13,
+    "SIZ": 11,
+    "DEX": 15,
+    "INT": 15,
+    "POW": 16,
+    "CHA": 16
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 15,
+    "luck_points": 5,
+    "magic_points": 16,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 31,
+    "Endurance": 51,
+    "Evade": 30,
+    "Willpower": 69,
+    "Athletics": 45,
+    "Boating": 23,
+    "Conceal": 31,
+    "Customs": 30,
+    "Dance": 31,
+    "Deceit": 66,
+    "Drive": 31,
+    "First Aid": 30,
+    "Influence": 62,
+    "Insight": 55,
+    "Locale": 30,
+    "Native Tongue": 71,
+    "Perception": 61,
+    "Ride": 51,
+    "Sing": 52,
+    "Stealth": 50,
+    "Swim": 23,
+    "Unarmed": 55,
+    "Seduction": 81,
+    "Courtesy": 81,
+    "Literacy": 70,
+    "Lore (Demonology)": 50,
+    "Arcane Casting": 55,
+    "Arcane Knowledge": 50
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Rapier",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Impale (damage not filled on sheet; CFI standard used)"
+    },
+    {
+      "name": "Ritual knife (soul-knife, symbol of Asmodeus)",
+      "notes": "Demonologist's binding knife per lore; dropped during the attack on Emmeralda -- key plot evidence"
+    }
+  ],
+  "passions": {
+    "Lust": 80,
+    "Arrogance + Entitlement": 75
+  },
+  "combat_styles": {
+    "Magic User": 25
+  },
+  "spells": {
+    "arcane": [
+      "Flaming Hands",
+      "Affect Normal Fires",
+      "Shocking Touch",
+      "Fireball",
+      "Lightning Bolt",
+      "Magic Missile",
+      "Levitate",
+      "Web"
+    ]
+  },
+  "fatigue": "Fresh",
+  "luck_current": 5,
+  "magic_current": 16,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "male",
+    "culture": "Human (Civilized)",
+    "class": "Magic-User",
+    "class_note": "Junior arcane fire-mage / demonology dabbler, Rank 1; far weaker than his father Hanzo. Defining skills: Lore (Demonology) 50, 8 arcane spells (fire-focused).",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character (antagonist)",
+    "role": "Baron Hanzo's cruel heir; sadistic predator; attempted Emmeralda's spirit-binding ritual (dropped the ritual knife = key evidence).",
+    "magic_tradition": "Arcane Magic",
+    "magic_theme": "Fire and lightning (Flaming Hands, Affect Normal Fires, Fireball, Lightning Bolt, Shocking Touch) + utility (Magic Missile, Levitate, Web).",
+    "family": "Son and heir of Baron Hanzo di Teufel; half-brother/double of the twins Randall & Conall (all three uncannily identical, all Hanzo's sons)",
+    "sheet_cleanup_note": "On the Roll20 sheet Arcane Casting & Arcane Knowledge were a broken -75 -- supplied working values (Casting 55, Knowledge 50) for a junior mage; GM adjust as desired. Rapier damage was blank on the sheet (CFI standard 1d8 used).",
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)"
+  },
+  "created_at": "2026-06-24T22:56:04"
+}

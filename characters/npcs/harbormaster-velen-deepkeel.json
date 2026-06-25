@@ -1,0 +1,163 @@
+{
+  "id": "myth-char-f85cb9318858",
+  "name": "Harbormaster Velen Deepkeel",
+  "type": "npc",
+  "status": "active",
+  "description": "Stern, weathered Harbormaster with forty years at the docks -- meticulous, traditional, publicly incorruptible. A consummate seaman and administrator (Seamanship 85, Navigation 82, Maritime Law 80) who controls the harbor's lawful face while quietly tolerating Crowbill's smuggling.",
+  "narrative": "Harbormaster Velen Deepkeel rose through forty years of service to command the Harbor Masters, the body that governs Purewater's docks and shipping. Weathered and stern, he is meticulous and traditional, resistant to change or corruption -- at least in his public persona. In private the arrangement is murkier: he officially opposes Crowbill's smuggling while secretly facilitating it for the right price. He keeps strong ties to the Governor, the council and the wealthy merchants who live by shipping, holds the Dredgers in open contempt, and watches the Baron warily, weighing the threat against the opportunity. A capable old sailor under the ledgers and lawbooks, he still knows the cutlass.",
+  "characteristics": {
+    "STR": 12,
+    "CON": 13,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 15,
+    "POW": 13,
+    "CHA": 13
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 14,
+    "luck_points": 2,
+    "magic_points": 13,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 48,
+    "Endurance": 58,
+    "Evade": 48,
+    "Willpower": 70,
+    "Athletics": 48,
+    "Boating": 82,
+    "Commerce": 72,
+    "Customs": 68,
+    "Deceit": 50,
+    "Drive": 40,
+    "Influence": 70,
+    "Insight": 68,
+    "Locale": 78,
+    "Native Tongue": 68,
+    "Navigation": 82,
+    "Perception": 72,
+    "Ride": 40,
+    "Seamanship": 85,
+    "Streetwise": 58,
+    "Swim": 72,
+    "Unarmed": 50,
+    "Lore (Maritime law)": 80,
+    "Lore (Shipping & trade)": 78
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Officer's cutlass",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "M",
+      "notes": "Bleed, Impale"
+    },
+    {
+      "name": "Belaying pin / club",
+      "damage": "1d6",
+      "size": "M",
+      "reach": "S",
+      "notes": "Stun Location"
+    }
+  ],
+  "passions": {
+    "Uphold the order of the harbor": 75,
+    "Protect the merchant shipping trade": 60
+  },
+  "combat_styles": {
+    "Old sailor (cutlass)": 52
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 13,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "male",
+    "class": "Administrator (former sailor)",
+    "game_system": "Classic Fantasy",
+    "character_type": "Supporting Character (faction leader)",
+    "role": "Harbormaster and head of the Harbor Masters -- stern, weathered older man, forty years in service, meticulous and traditional, resistant to corruption at least in his public persona.",
+    "faction": "Harbor Masters -- strong ties to the Governor, council, and wealthy merchants; uneasy arrangement with Crowbill (officially oppose, secretly facilitate smuggling for a price); contemptuous of the Dredgers; cautiously watching the Baron, seeing both threat and opportunity.",
+    "magic_tradition": null,
+    "source": "GM-authored from source lore (purewater-organizations.md, The Harbor Masters)"
+  },
+  "created_at": "2026-06-24T23:15:34"
+}

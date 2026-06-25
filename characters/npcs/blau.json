@@ -1,0 +1,184 @@
+{
+  "id": "myth-char-c52354ddb8f6",
+  "name": "Blau",
+  "type": "npc",
+  "status": "active",
+  "description": "Baron Hanzo's albino lieutenant -- known to the ranks as Commander Vask. A thin, red-eyed, burn-scarred killer with unnatural strength who runs the Dragon Knights' day-to-day command and handles the Baron's 'dirty work': a cold, efficient assassin and intimidator.",
+  "narrative": "Blau is the Baron's lieutenant and enforcer -- the albino the rank-and-file know as Commander Vask, who handles both the Dragon Knights' day-to-day command and the dirty work. An albino with red eyes, a raspy voice, and burn scars across much of his thin frame (which belies an unnatural, wiry strength), he is cold, calculating and cruel: a quiet, efficient killer who keeps the order running with ruthless discipline. Publicly he is 'utterly loyal' to Baron Hanzo. (His secret) he studies the Baron's operation and techniques closely, planning to one day break away and serve no one but himself.",
+  "characteristics": {
+    "STR": 11,
+    "CON": 11,
+    "SIZ": 13,
+    "DEX": 11,
+    "INT": 13,
+    "POW": 11,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 2,
+    "magic_points": 11,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 65,
+    "Endurance": 70,
+    "Evade": 75,
+    "Willpower": 60,
+    "Athletics": 70,
+    "Boating": 22,
+    "Conceal": 75,
+    "Customs": 26,
+    "Dance": 22,
+    "Deceit": 65,
+    "Drive": 22,
+    "First Aid": 40,
+    "Influence": 38,
+    "Insight": 60,
+    "Locale": 40,
+    "Native Tongue": 64,
+    "Perception": 72,
+    "Ride": 30,
+    "Sing": 22,
+    "Stealth": 82,
+    "Swim": 30,
+    "Unarmed": 75,
+    "Streetwise": 66,
+    "Intimidation": 68,
+    "Track": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Dagger",
+      "damage": "1d4+1",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed, Impale; throwable"
+    },
+    {
+      "name": "Garrotte",
+      "damage": "special",
+      "size": "S",
+      "reach": "S",
+      "notes": "Strangle from surprise"
+    },
+    {
+      "name": "Short sword",
+      "damage": "1d6",
+      "size": "M",
+      "reach": "S",
+      "notes": "Impale"
+    }
+  ],
+  "passions": {
+    "Cruelty": 60,
+    "Ambition -- to surpass the Baron and break away": 50
+  },
+  "combat_styles": {
+    "Dragon Knight Enforcer (dagger, garrotte, short sword)": 82
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "male",
+    "aliases": [
+      "Commander Vask (his title/name among the Dragon Knights; same character)"
+    ],
+    "appearance": "Albino -- white hair, pale skin, red eyes; raspy voice; burn scars covering much of his thin frame (rumored beneath his gloves); unnaturally strong",
+    "class": "Rogue (enforcer / assassin) doubling as the Dragon Knights' day-to-day commander",
+    "class_note": "Competent enforcer/assassin a notch below Tat Atarer per operator: combat style 82 (vs Tat's 97), resistances 60-75 (vs Tat's 80), with assassin's Stealth 82 as his edge. Pure physical killer -- no magic. +1d2 damage modifier from Unnatural Strength. Stats kept light per operator ('competent, just below Tat') despite his commander role.",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character (antagonist)",
+    "role": "Lieutenant and enforcer of the Dragon Knights, known to the ranks as Commander Vask; runs day-to-day operations AND handles Baron Hanzo's 'dirty work'; cold, calculating, cruel, ruthlessly efficient.",
+    "identity_note": "RECONCILED per operator: 'Vask is Blau.' The two source docs describe one albino, burn-scarred officer under two names -- setting-exhaustive's lieutenant/enforcer Blau and organizations.md's day-to-day commander Vask. Merged into this single sheet (commander-vask.json removed). Tat Atarer remains the mercenary captain of record; Blau/Vask is his operational second and the Baron's hand. The 'utterly loyal' reputation (organizations.md) is his public face over the secret break-away plan (setting-exhaustive).",
+    "secret": "Quietly studying the Baron's operation, techniques and connections, planning to break away and rise on his own -- belying his public reputation for total loyalty.",
+    "abilities": [
+      "Unnatural Strength (thin frame, freakishly strong -- treat Brawn/grapple as one step stronger)",
+      "Albino (red eyes; may be light-sensitive)",
+      "Burn scars / possibly subjected to the Baron's experimental procedures"
+    ],
+    "magic_tradition": null,
+    "authored_note": "IMPORTANT: Blau's Roll20 sheet was a BLANK placeholder (only baseline characteristics, all 11s/SIZ 13, and default attributes). This kit is GM-AUTHORED from the setting lore, calibrated 'competent, just below Tat', and is a PURE physical enforcer -- no magic (the earlier fire-magic draft was removed per operator). Tune freely.",
+    "source": "Roll20 (blank sheet) + And then the Dragons Came setting lore"
+  },
+  "created_at": "2026-06-24T23:03:38"
+}

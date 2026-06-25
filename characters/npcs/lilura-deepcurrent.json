@@ -1,0 +1,157 @@
+{
+  "id": "myth-char-71c223296d5a",
+  "name": "Lilura Deepcurrent",
+  "type": "npc",
+  "status": "active",
+  "description": "Elderly head of the Order of the Lake Lady for three decades -- piercing blue eyes, rumored merfolk ancestry (she holds her breath unnaturally long). The city's most powerful divine caster (Piety 95, Willpower 92), guiding the Order's water-faith against the Baron's fire demonologists.",
+  "narrative": "Lilura Deepcurrent has led the Order of the Lake Lady for thirty years: an elderly woman with piercing blue eyes whose unnatural breath-holding feeds rumors of merfolk ancestry. She is the senior religious authority of Purewater's water-faith -- cordial with the Governor and council despite tensions over water management, allied with the Watercrafters Guild, on arranged terms with Ravella, and implacably opposed to the Baron's fire demonologists who pollute the sacred waters. Where Nerissa leads the Temple day to day, Lilura sits above the whole Order, the deepest well of divine water-magic and theological authority in the city -- and one of the few figures with the standing to move openly against the Baron.",
+  "characteristics": {
+    "STR": 9,
+    "CON": 13,
+    "SIZ": 10,
+    "DEX": 11,
+    "INT": 16,
+    "POW": 18,
+    "CHA": 15
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "-1d2",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 14,
+    "luck_points": 2,
+    "magic_points": 18,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 30,
+    "Endurance": 62,
+    "Evade": 42,
+    "Willpower": 92,
+    "Athletics": 40,
+    "Boating": 60,
+    "Customs": 82,
+    "Deceit": 35,
+    "Influence": 80,
+    "Insight": 85,
+    "Locale": 70,
+    "Native Tongue": 78,
+    "Oratory": 80,
+    "Perception": 72,
+    "Sing": 62,
+    "Swim": 88,
+    "Unarmed": 30,
+    "Lore (Theology, Lake Lady)": 95,
+    "Lore (Order history)": 90,
+    "Lore (Water spirits)": 85,
+    "Piety (Devotion)": 95,
+    "Exhort": 88,
+    "Folk Magic (Casting)": 65
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Ceremonial trident",
+      "damage": "1d8+1",
+      "size": "M",
+      "reach": "L",
+      "notes": "Impale; symbol of office"
+    }
+  ],
+  "passions": {
+    "Steward the Order of the Lake Lady": 92,
+    "Keep the sacred waters pure": 85
+  },
+  "combat_styles": {
+    "Order rites (trident)": 40
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 18,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "female",
+    "class": "Cleric (senior)",
+    "heritage": "Rumored merfolk ancestry",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character (faction leader / patron)",
+    "role": "High Priestess and head of the Order of the Lake Lady for three decades. Elderly, piercing blue eyes; can hold her breath for unnaturally long periods (rumored merfolk ancestry).",
+    "faction": "Order of the Lake Lady -- cordial with the Governor and city council (tensions over water management), allied with the Watercrafters Guild and arranged with Ravella; chief rivals are the Baron's fire demonologists. Distinct from -- and senior to -- [[high-priestess-nerissa]], who leads the Temple of the Lake Lady.",
+    "magic_tradition": "Theism / divine (CFI Cleric), highest tier in the city: Piety 95, Exhort 88, water-aspected miracles plus innate breath-holding.",
+    "source": "GM-authored from source lore (purewater-organizations.md, Order of the Lake Lady)"
+  },
+  "created_at": "2026-06-24T23:15:34"
+}

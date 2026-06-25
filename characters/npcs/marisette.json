@@ -1,0 +1,157 @@
+{
+  "id": "myth-char-ded5a1522328",
+  "name": "Marisette",
+  "type": "npc",
+  "status": "active",
+  "description": "The madame with overall authority over Purewater's Pearl Quarter -- the proprietors, Constantine among them, answer to her. A consummate social power broker (Influence 85, Insight 82, Commerce 82) who keeps the pleasure district running and resents the disorder the Baron and Santo have brought to it.",
+  "narrative": "Marisette is the madame who holds sway over the whole Pearl Quarter: the individual house-proprietors, Constantine included, operate under her overall authority. She is no fighter, but in her own arena she is dangerous -- a master of people, money and information who keeps the pleasure district's delicate order intact and skims its profits. Santo di Teufel's ritual attack on Emmeralda in one of her houses, and the Dragon Knights' growing menace, are precisely the kind of disorder she cannot abide, which can make her a useful, self-interested ally to anyone working against the Baron.",
+  "characteristics": {
+    "STR": 10,
+    "CON": 12,
+    "SIZ": 11,
+    "DEX": 12,
+    "INT": 16,
+    "POW": 15,
+    "CHA": 17
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 1,
+    "healing_rate": 2,
+    "initiative_bonus": 14,
+    "luck_points": 2,
+    "magic_points": 15,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 35,
+    "Endurance": 55,
+    "Evade": 50,
+    "Willpower": 75,
+    "Athletics": 42,
+    "Commerce": 82,
+    "Conceal": 58,
+    "Customs": 70,
+    "Deceit": 78,
+    "Influence": 85,
+    "Insight": 82,
+    "Locale": 75,
+    "Native Tongue": 70,
+    "Oratory": 72,
+    "Perception": 70,
+    "Seduction": 75,
+    "Streetwise": 78,
+    "Unarmed": 40,
+    "Lore (Pleasure district)": 82
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Jeweled dagger",
+      "damage": "1d4+1",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed, Impale"
+    },
+    {
+      "name": "Bodyguards (offscreen muscle)",
+      "notes": "Marisette rarely faces danger herself"
+    }
+  ],
+  "passions": {
+    "Rule the Pearl Quarter district": 80,
+    "Keep order (and profit) in the trade": 65
+  },
+  "combat_styles": {
+    "Self-defense (dagger)": 45
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 15,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "female",
+    "class": "Madame (power broker, noncombatant)",
+    "renamed_from": "Myrtis -- a Thieves' World / Sanctuary throwback (madame of the Aphrodisia House) carried over in the Zorastor draft; renamed Marisette for Purewater.",
+    "game_system": "Classic Fantasy",
+    "character_type": "Supporting Character (district authority)",
+    "role": "The madame holding overall authority over the Pearl Quarter pleasure district; [[constantine]] and other proprietors operate under her.",
+    "context": "A formidable social power broker -- reads people effortlessly (Insight 82), commands the trade (Commerce 82, Influence 85), and keeps the district's peace. The Baron's Dragon Knights and Santo's attack on Emmeralda threaten the order she profits from.",
+    "magic_tradition": null,
+    "source": "GM-authored from source lore (referenced as the authority over Constantine's house)"
+  },
+  "created_at": "2026-06-24T23:15:34"
+}

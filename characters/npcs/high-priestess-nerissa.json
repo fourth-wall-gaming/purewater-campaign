@@ -1,0 +1,161 @@
+{
+  "id": "myth-char-3b660ee712d4",
+  "name": "High Priestess Nerissa",
+  "type": "npc",
+  "status": "active",
+  "description": "High Priestess of the Temple of the Lake Lady -- middle-aged, silver-streaked hair, blue-green robes that ripple like water. A powerful divine caster (Piety 92, Willpower 85) who senses water corruption, blesses sacred waters, and speaks with water spirits. Temple law forbids her from intervening directly, so she works through the PCs.",
+  "narrative": "Nerissa is High Priestess at the Temple of the Lake Lady, a serene, formidable woman with silver-streaked dark hair and blue-green robes that seem to ripple like water as she moves. She senses corruption within sacred waters, performs water-based blessing rituals, and communicates with the Lake Lady's water spirits. Since the Baron's arrival she has been tracking a steady rise in that corruption -- but temple law forbids her from intervening directly unless the sacred sites themselves are threatened. So she becomes a patron: supplying spiritual support, ritual knowledge, and the water-magic countermeasures the players will need, while relying on them to act where she cannot.",
+  "characteristics": {
+    "STR": 10,
+    "CON": 12,
+    "SIZ": 11,
+    "DEX": 12,
+    "INT": 15,
+    "POW": 17,
+    "CHA": 16
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 1,
+    "healing_rate": 2,
+    "initiative_bonus": 14,
+    "luck_points": 2,
+    "magic_points": 17,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 35,
+    "Endurance": 58,
+    "Evade": 48,
+    "Willpower": 85,
+    "Athletics": 42,
+    "Boating": 55,
+    "Customs": 75,
+    "Deceit": 40,
+    "Influence": 78,
+    "Insight": 80,
+    "Locale": 65,
+    "Native Tongue": 72,
+    "Oratory": 78,
+    "Perception": 70,
+    "Sing": 68,
+    "Swim": 75,
+    "Unarmed": 35,
+    "Lore (Theology, Lake Lady)": 88,
+    "Lore (Water spirits)": 80,
+    "Piety (Devotion)": 92,
+    "Exhort": 80,
+    "Folk Magic (Casting)": 60
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Blessed staff",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Stun Location"
+    }
+  ],
+  "passions": {
+    "Serve the Lake Lady": 92,
+    "Protect the sacred waters from corruption": 80
+  },
+  "combat_styles": {
+    "Temple guardian (staff)": 45
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 17,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "female",
+    "class": "Cleric",
+    "deity": "The Lake Lady",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character (patron / quest-giver)",
+    "role": "High Priestess at the Temple of the Lake Lady. Middle-aged, silver-streaked dark hair, blue-green robes that ripple like water when she moves.",
+    "powers": [
+      "Sense water corruption within sacred waters",
+      "Perform water-based blessing rituals",
+      "Communicate with water spirits"
+    ],
+    "constraint": "Bound by temple law: cannot directly intervene unless sacred sites are threatened -- she needs the PCs as agents. Provides spiritual support, ritual knowledge, and water-magic countermeasures. Tracking rising corruption since the Baron's arrival.",
+    "magic_tradition": "Theism / divine (CFI Cleric) -- Devotion (Piety) 92, Exhort 80, water-aspected miracles. Suggested miracles: Bless Water, Heal, Cleanse, Sense (corruption), Spirit Block.",
+    "source": "GM-authored from source lore (Temple Leadership)"
+  },
+  "created_at": "2026-06-24T23:15:34"
+}

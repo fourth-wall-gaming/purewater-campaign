@@ -1,0 +1,237 @@
+{
+  "id": "myth-char-24c3d3484e09",
+  "name": "Gardwen",
+  "type": "pc",
+  "status": "active",
+  "description": "Feral-raised elf druid and lone survivor of a Dragon Knight raid; a rank-1 divine caster of nature and pure-water magic who walks with a befriended she-wolf, searching for her long-lost brother.",
+  "narrative": "A feral-raised elf druid and the sole survivor of a Dragon Knight raid that killed her family roughly ten years ago. Gardwen channels the magic of nature and pure water and travels with a befriended she-wolf, Ruhi. She is searching for her brother, taken during the raid as a child -- now, unknown to her, the possessed warrior serving Baron Hanzo di Teufel. Dark hair, blue eyes; soft-spoken but fierce in defense of kin and the wild. She journeys with the old warrior-protector Magda (an emissary of the death goddess Hel) toward Zorastor, following the Dragon Knights.",
+  "characteristics": {
+    "STR": 10,
+    "CON": 14,
+    "SIZ": 11,
+    "DEX": 14,
+    "INT": 16,
+    "POW": 18,
+    "CHA": 14
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 15,
+    "luck_points": 6,
+    "magic_points": 18,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 21,
+    "Endurance": 48,
+    "Evade": 53,
+    "Willpower": 81,
+    "Athletics": 59,
+    "Boating": 24,
+    "Conceal": 42,
+    "Customs": 32,
+    "Dance": 28,
+    "Deceit": 32,
+    "Drive": 32,
+    "First Aid": 60,
+    "Influence": 38,
+    "Insight": 44,
+    "Locale": 72,
+    "Native Tongue": 70,
+    "Perception": 79,
+    "Ride": 32,
+    "Sing": 32,
+    "Stealth": 50,
+    "Swim": 24,
+    "Unarmed": 24,
+    "Animal Training": 52,
+    "Lore (Species)": 52,
+    "Courtesy": 40,
+    "Survival": 62,
+    "Track": 60,
+    "Language (Common)": 40,
+    "Druid's Cant": 70,
+    "Lore (Woodland Animal 1)": 70,
+    "Lore (Woodland Animal 2)": 70,
+    "Channel": 85,
+    "Piety": 87
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Staff",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Stun Location",
+      "ap": 2,
+      "hp": 8,
+      "enc": 2
+    },
+    {
+      "name": "Dagger",
+      "damage": "1d4+1",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed / Impale",
+      "ap": 6,
+      "hp": 8,
+      "enc": 0
+    }
+  ],
+  "passions": {
+    "Love (Brother + Family)": 80,
+    "Hatred (The Dragons)": 0,
+    "Love (Elves)": 0,
+    "Love (Nature + Wilderness)": 0
+  },
+  "combat_styles": {
+    "Druid (club, dagger, dart, hammer, sickle, scimitar, shield, sling, spear, staff, staff sling, whip)": 59
+  },
+  "spells": {
+    "divine": [
+      "Animal Friendship",
+      "Barkskin",
+      "Command",
+      "Cure Minor Wounds",
+      "Detect Evil",
+      "Know Passions",
+      "Entangle",
+      "Slow Poison",
+      "Remove Fear",
+      "Cure Serious Wounds",
+      "Cure Disease",
+      "Hold Person"
+    ]
+  },
+  "fatigue": "Fresh",
+  "luck_current": 6,
+  "magic_current": 16,
+  "experience_rolls": 0,
+  "extras": {
+    "culture": "Elf / Feral",
+    "frame": "Lithe",
+    "class": "Cleric",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character",
+    "magic_tradition": "Divine Magic",
+    "magic_rank": 1,
+    "magic_skills": {
+      "Channel": 85,
+      "Piety": 87
+    },
+    "spell_ranks": {
+      "rank_1": [
+        "Animal Friendship",
+        "Barkskin",
+        "Command",
+        "Cure Minor Wounds",
+        "Detect Evil",
+        "Know Passions",
+        "Entangle",
+        "Slow Poison",
+        "Remove Fear"
+      ],
+      "rank_2": [
+        "Cure Serious Wounds",
+        "Cure Disease",
+        "Hold Person"
+      ]
+    },
+    "abilities": [
+      "Identify Plants and Animals",
+      "Identify Pure Water",
+      "Pass Without Trace"
+    ],
+    "animal_companion": "Ruhi -- befriended female wolf",
+    "encumbrance": {
+      "avg_species_siz": 13,
+      "current_load": 2,
+      "load_band": "Normal",
+      "armor_penalty": 0
+    },
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
+    "source_typos_normalized": [
+      "Animal Traininig->Animal Training",
+      "Druiid's Cant->Druid's Cant",
+      "Cure Miinor Wounds->Cure Minor Wounds"
+    ],
+    "player_notes": "Dark hair, blue eyes. Female wolf named Ruhi. Older woman/protector - Magda - emissary of goddess of death. Following Dragonshits to Zorastor. Lord Santo was attacker of elven woman Emmerelda. Hanzo (dad). Baron Lythander - blue star - Mage/sorcerer - 'power behind the throne'. Constantine (Sylph's Embrace) and Marisette (Aphrodisias) - madames. Randall, Conall and Santo are all identical -- Hanzo is the father of all three. Brother taken by dragons as a child - dead or alive? Hanzo leads the Dragonshits. Brother's name? Gabriel. Conall: the warrior lady (Tamarack?) here to stop Hanzo. Santo is a fire-wielding magician, equal power to Conall. Soul blade -- used to bind a spirit in a body (possession), crafted by a necromancer. Girl who hugged me - Ila, 13.",
+    "source_class": "Druid (Classic Fantasy class; mapped to Cleric in CFI's four core classes -- divine caster)"
+  },
+  "created_at": "2026-06-24T22:18:02"
+}

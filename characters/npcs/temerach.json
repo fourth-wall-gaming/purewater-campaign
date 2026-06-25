@@ -1,0 +1,187 @@
+{
+  "id": "myth-char-0ca3e3cd2982",
+  "name": "Temerach Nebulo",
+  "type": "npc",
+  "status": "active",
+  "description": "Elf knight of the Swords of the Lake, called 'the Lakelady's Javelin'; a deadly archer and peerless martial fighter tracking Baron Hanzo to expose his crimes.",
+  "narrative": "An elven knight of the elite order of the Swords of the Lake, known as 'the Lakelady's Javelin' for her uncanny skill with the bow. Disciplined, sharp and lethally precise, Temerach has been tracking Baron Hanzo for some time and carries knowledge of his past crimes; she means to expose and stop his threat to Mystamyr. A consummate warrior in full plate, she fights with longsword, rapier and kite shield -- but it is her marksmanship that has made her name.",
+  "characteristics": {
+    "STR": 17,
+    "CON": 12,
+    "SIZ": 17,
+    "DEX": 12,
+    "INT": 12,
+    "POW": 16,
+    "CHA": 12
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+1d4",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 2,
+    "luck_points": 3,
+    "magic_points": 16,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 81,
+    "Endurance": 87,
+    "Evade": 79,
+    "Willpower": 100,
+    "Athletics": 91,
+    "Boating": 22,
+    "Conceal": 72,
+    "Customs": 26,
+    "Dance": 22,
+    "Deceit": 24,
+    "Drive": 22,
+    "First Aid": 24,
+    "Influence": 22,
+    "Insight": 24,
+    "Locale": 73,
+    "Native Tongue": 89,
+    "Perception": 96,
+    "Ride": 22,
+    "Sing": 22,
+    "Stealth": 90,
+    "Swim": 22,
+    "Unarmed": 96,
+    "Craft (Weaponsmithing)": 53,
+    "Oratory": 105
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 8,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 8,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 8,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 8,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 8,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 8,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 8,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Longsword",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Bleed, Impale"
+    },
+    {
+      "name": "Rapier",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Impale"
+    },
+    {
+      "name": "Dagger",
+      "damage": "1d4+1",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed, Impale"
+    },
+    {
+      "name": "Kite Shield",
+      "damage": "1d4",
+      "size": "H",
+      "reach": "S",
+      "notes": "Bash, Stun Location, Passive Block 4 locations"
+    },
+    {
+      "name": "Full Plate (all locations)",
+      "armor": true,
+      "ap": 8,
+      "notes": "AP 8 each location; armor penalty -10"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Knight of the Lake (Swords of the Lake; bow, spear, longsword, rapier, shield)": 121
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 3,
+  "magic_current": 16,
+  "experience_rolls": 0,
+  "extras": {
+    "species": "Elf",
+    "culture": "Civilized",
+    "class": "Fighter",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character",
+    "epithet": "the Lakelady's Javelin",
+    "organization": "Swords of the Lake (elite knightly order)",
+    "signature": "Renowned archer -- exceptional with bow (and spear); 'super smart and deadly with a bow'",
+    "magic_tradition": null,
+    "armor": "Full Plate on all 7 locations (AP 8 each); armor penalty -10",
+    "data_cleanup_note": "EXCLUDED as held-over template/download error (NOT Temerach's real data, per operator): all magic -- Folk Magic spells (Bladesharp, Fireblade, Disruption, etc.), Theism miracles (Turn Undead, Sever Spirit, Bind Ghost, Truesword, Consecrate, Excommunicate, etc.), Humakt Gifts, Allied Spirit (Humakt), Spirit Combat (Binding 81); the magic professional skills (Binding, Devotion, Exhort, Folk Magic); and the 'Detect Assassin' passions. She is a straight Fighter.",
+    "sheet_notes": "Roll20 sheet did not display Luck Points (luck_points 3 derived from POW 16); no bow appeared in the weapon list though lore/operator make her a signature archer -- bow stats not captured.",
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
+    "power_note": "Intentionally high-powered elite NPC knight; skills restored to the original sheet values per operator. The only removed material is magic (see data_cleanup_note)."
+  },
+  "created_at": "2026-06-24T22:41:50"
+}

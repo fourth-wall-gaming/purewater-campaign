@@ -1,0 +1,199 @@
+{
+  "id": "myth-char-0fecded5fce3",
+  "name": "Nus",
+  "type": "npc",
+  "status": "active",
+  "description": "A quick-fingered Purewater street thief and loyal friend of Randall -- lookout, fence, and second pair of hands for a job; nimble, streetwise, and easy to underestimate.",
+  "narrative": "Nus runs the same canals and rooftops as Randall and counts him a true friend -- the pair grew up working the alleys of Purewater together. Wiry and quick, with a fence's eye for value and a lookout's nose for trouble, Nus is the one Randall calls when a job needs a second set of hands or a fast way out. Loyal to his mates and slippery with everyone else.",
+  "characteristics": {
+    "STR": 10,
+    "CON": 11,
+    "SIZ": 10,
+    "DEX": 16,
+    "INT": 13,
+    "POW": 10,
+    "CHA": 13
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 1,
+    "healing_rate": 2,
+    "initiative_bonus": 14,
+    "luck_points": 3,
+    "magic_points": 10,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 28,
+    "Endurance": 45,
+    "Evade": 64,
+    "Willpower": 45,
+    "Athletics": 62,
+    "Boating": 40,
+    "Conceal": 60,
+    "Customs": 26,
+    "Dance": 30,
+    "Deceit": 58,
+    "Drive": 24,
+    "First Aid": 28,
+    "Influence": 48,
+    "Insight": 55,
+    "Locale": 50,
+    "Native Tongue": 66,
+    "Perception": 62,
+    "Ride": 22,
+    "Sing": 24,
+    "Stealth": 68,
+    "Swim": 40,
+    "Unarmed": 45,
+    "Sleight": 65,
+    "Lockpicking": 62,
+    "Streetwise": 68,
+    "Commerce": 58,
+    "Thieves' Cant": 62,
+    "Acrobatics": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 1,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 1,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 1,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 1,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 1,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 1,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 1,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Dagger",
+      "damage": "1d4+1",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed, Impale; throwable"
+    },
+    {
+      "name": "Sap (cosh)",
+      "damage": "1d6",
+      "size": "S",
+      "reach": "S",
+      "notes": "Stun Location; subdual"
+    },
+    {
+      "name": "Sling",
+      "type": "ranged",
+      "damage": "1d8",
+      "range": "10/150/300",
+      "notes": "Stun"
+    },
+    {
+      "name": "Leather jerkin (all locations)",
+      "armor": true,
+      "ap": 1,
+      "notes": "AP 1 each location; no armor penalty"
+    },
+    {
+      "name": "Lockpicks, rope, dark cloak",
+      "notes": "thief's kit"
+    }
+  ],
+  "passions": {
+    "Loyalty to Randall": 70,
+    "Greed": 50
+  },
+  "combat_styles": {
+    "Street Thief (dagger, sap, sling, short sword)": 65
+  },
+  "spells": null,
+  "fatigue": "Fresh",
+  "luck_current": 3,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "extras": {
+    "gender": "male",
+    "culture": "Civilized (Purewater)",
+    "class": "Rogue (Thief)",
+    "class_rank": {
+      "Rogue": {
+        "rank": 1,
+        "title": "Thief"
+      }
+    },
+    "class_note": "Competent Rank-1 street thief; a notch below Randall (Sleight 65, Lockpicking 62, Stealth 68, combat 65). Lookout / fence / partner-in-crime.",
+    "game_system": "Classic Fantasy",
+    "character_type": "Supporting NPC",
+    "role": "Purewater street thief; friend and occasional partner of Randall.",
+    "relationship": "Friend of Randall (one of his named associates -- 'Nus, Asphodel, Mariarta' in Randall's notes); grew up working the Purewater alleys together.",
+    "abilities": [
+      "Climb Walls (ignore 1 grade of Athletics difficulty to climb)",
+      "Hide in Shadows (Perception to spot is 1 grade harder)",
+      "Read Languages"
+    ],
+    "magic_tradition": null,
+    "authored_note": "New NPC -- no Roll20 sheet existed. Entirely GM-authored from the brief ('a thief called Nus, friend of Randall') and Randall's notes; tune freely.",
+    "source": "Authored for the And then the Dragons Came campaign (friend of Randall)"
+  },
+  "created_at": "2026-06-24T23:06:04"
+}

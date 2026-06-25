@@ -1,0 +1,285 @@
+{
+  "id": "myth-char-e2fe2b9aa986",
+  "name": "Conall Bjornlasch",
+  "type": "pc",
+  "status": "active",
+  "description": "Arcane-casting magical investigator of the Order of the Blue Star; twin brother of Randall and secretly a son of Baron Hanzo. A razor-sharp investigator (Insight 88) who is also a capable fighter.",
+  "narrative": "A magical investigator and arcane caster trained by the Order of the Blue Star, with a soldier's martial skill (all weapons, all shields). Sharp-eyed and analytical -- Insight 88 -- he is investigating the attack at the Sylph's Embrace and working with Temerach to expose Baron Hanzo. He is the twin of Randall and, unknown to him, a biological son of the Baron; the two are uncannily identical. He is currently nursing a wounded right arm.",
+  "characteristics": {
+    "STR": 13,
+    "CON": 14,
+    "SIZ": 11,
+    "DEX": 14,
+    "INT": 16,
+    "POW": 17,
+    "CHA": 10
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 3,
+    "initiative_bonus": 13,
+    "luck_points": 4,
+    "magic_points": 17,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 24,
+    "Endurance": 78,
+    "Evade": 81,
+    "Willpower": 74,
+    "Athletics": 49,
+    "Boating": 27,
+    "Conceal": 40,
+    "Customs": 32,
+    "Dance": 24,
+    "Deceit": 51,
+    "Drive": 31,
+    "First Aid": 30,
+    "Influence": 20,
+    "Insight": 88,
+    "Locale": 32,
+    "Native Tongue": 66,
+    "Perception": 73,
+    "Ride": 50,
+    "Sing": 27,
+    "Stealth": 50,
+    "Swim": 27,
+    "Unarmed": 50,
+    "Streetwise": 67,
+    "Courtesy": 41,
+    "Arcane Casting": 73,
+    "Arcane Knowledge": 72,
+    "Lore (Strategy + Tactics)": 50,
+    "Survival": 50,
+    "Lore (Military History)": 50,
+    "Sleight": 50
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 2
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Rapier",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Impale",
+      "ap": 5,
+      "hp": 8,
+      "enc": 1
+    },
+    {
+      "name": "Buckler",
+      "damage": "1d4",
+      "size": "L",
+      "reach": "S",
+      "notes": "Bash, Stun Location",
+      "ap": 6,
+      "hp": 9,
+      "enc": 1
+    },
+    {
+      "name": "Short bow",
+      "type": "ranged",
+      "damage": "1d6",
+      "force": "L",
+      "range": "15/100/200",
+      "ammo": 99,
+      "load": 2,
+      "notes": "Impale",
+      "ap": 4,
+      "hp": 4,
+      "enc": 1
+    },
+    {
+      "name": "Gambeson (all locations)",
+      "armor": true,
+      "ap": 2,
+      "enc": 1,
+      "notes": "AP 2 each location; armor penalty -2"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Fighter (all weapons, all shields)": 82
+  },
+  "spells": {
+    "arcane": [
+      "Babble",
+      "Darkness",
+      "Find",
+      "Incognito",
+      "Knock",
+      "Mimic",
+      "MindSpeech",
+      "Light",
+      "Ventriloquism",
+      "Witchsight",
+      "Protection",
+      "Coordination",
+      "Read Magic",
+      "Change Appearance",
+      "Color Cascade",
+      "Invisibility, Lesser",
+      "Illusion, Lesser",
+      "Audible Illusion",
+      "Friendship",
+      "Detect Magic",
+      "Shocking Grasp",
+      "Invisibility Radius",
+      "Locate Object",
+      "Read Thoughts",
+      "Illusion Greater",
+      "Mirror Image"
+    ]
+  },
+  "fatigue": "Fresh",
+  "luck_current": 3,
+  "magic_current": 13,
+  "experience_rolls": 0,
+  "extras": {
+    "culture": "Human Civilized",
+    "frame": "Medium",
+    "class": "Magic-User",
+    "class_note": "Flat Magic-User (Rank 2 Mage; 6 mage class skills at 70%+, Arcane Casting 73, 26 arcane spells) per operator. He retains strong martial training (combat style Fighter 82, all weapons/shields) but is classed as a straight Magic-User, not a multiclass. Mage caveat: cannot cast arcane spells while wearing armor or using a shield.",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character",
+    "magic_tradition": "Arcane Magic",
+    "magic_rank": 2,
+    "magic_skills": {
+      "Arcane Casting": 73,
+      "Arcane Knowledge": 72
+    },
+    "spell_ranks": {
+      "cantrip": [
+        "Babble",
+        "Darkness",
+        "Find",
+        "Incognito",
+        "Knock",
+        "Mimic",
+        "MindSpeech",
+        "Light",
+        "Ventriloquism",
+        "Witchsight",
+        "Protection",
+        "Coordination"
+      ],
+      "rank_1": [
+        "Read Magic",
+        "Change Appearance",
+        "Color Cascade",
+        "Invisibility, Lesser",
+        "Illusion, Lesser",
+        "Audible Illusion",
+        "Friendship",
+        "Detect Magic",
+        "Shocking Grasp"
+      ],
+      "rank_2": [
+        "Invisibility Radius",
+        "Locate Object",
+        "Read Thoughts",
+        "Illusion Greater",
+        "Mirror Image"
+      ]
+    },
+    "organization": "Order of the Blue Star",
+    "twin": "Randall (identical twin brother); both secretly sons of Baron Hanzo",
+    "wound": "Right Arm at 2/4 HP",
+    "gear": [
+      "Crop",
+      "Flint & tinder",
+      "Knife (tool)",
+      "Magnifying Glass",
+      "Razor, folding"
+    ],
+    "armor": "Gambeson on all 7 locations (AP 2, ENC 1 each); armor penalty -2",
+    "encumbrance": {
+      "avg_species_siz": 13,
+      "current_load": 7.5,
+      "load_band": "Normal",
+      "armor_penalty": -2
+    },
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
+    "gender": "male",
+    "class_ranks": {
+      "Magic-User": {
+        "rank": 2,
+        "title": "Mage"
+      }
+    }
+  },
+  "created_at": "2026-06-24T22:29:01"
+}
