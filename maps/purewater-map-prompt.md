@@ -31,7 +31,7 @@ pasted whole or section-by-section.
 > plain outline, two-or-more = double-lined box. Districts are dense blocks of these
 > footprints divided by a web of **narrow, crooked, branching canals** of varying
 > width, crossed by **many small bridges**; boats as simple flat ovals. Islands have
-> **ragged, organic, asymmetrical** coastlines like a silted delta — no smooth ovals.
+> **ragged, organic, asymmetrical** coastlines like a silted delta — no smooth ovals. Distinguish clearly between land-base roads (alleyways, etc) and smaller canals that can weave through neighborhoods.  
 >
 > LAYOUT — a **strait-city** across "the Mouth," where a sacred **Lake (top/north)**
 > drains south to the **open Sea (bottom/south)**. A great irregular **triangular
@@ -43,14 +43,12 @@ pasted whole or section-by-section.
 > thin **promontory** reaches in from the west to a land-gate outcrop (**Caravan
 > Square**, the only road in) — the southern jaw of the Mouth. A **peninsula of docks,
 > wharves and fish-markets** (**the Shoals**, with a harbor-master's tower) forms the
-> eastern, seaward jaw. Across a canal east of High Isle sprawls a low
+> eastern, seaward jaw. Make sure we can see the eastern side of the mouth. Across a canal east of High Isle sprawls a low
 > **slum-and-thieves quarter** of the narrowest, most tangled canals (**the
 > Lullwater**). Off the north-east, alone and **unbridged**, a small **temple island**
 > drawn as formal sacred architecture — a temple precinct and a round **sacred pool**.
 > Scattered north across the calmer lake, a handful of small islands: lamp-lit
-> **pleasure-houses**, quiet **noble retreats**, and **half-drowned ruins**. A single
-> **dragon-prowed barge** at a pier on High Isle's eastern, seaward side, faint steam
-> where its hull meets the water.
+> **pleasure-houses** ('The Pearl'), quiet **noble retreats**, and **half-drowned ruins**.
 >
 > MARGINS (flat, plain): reedy lake-shore and low hills north; open sea south;
 > mainland marsh, farms and a caravan road to the western land-gate. Hand-lettered
