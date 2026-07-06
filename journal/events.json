@@ -314,5 +314,61 @@
    "myth-char-d129be576d84"
   ],
   "at": "2026-07-05T00:00:00"
+ },
+ {
+  "id": "myth-event-6c915ad4dacd",
+  "type": "scene",
+  "summary": "SESSION 2 / CH.22 -- The Moist Oyster: Randall works the watcher. Marked by a hard-faced man tailing his (Santo-like) face, Randall walks the problem instead of fleeing -- leaning on the Oyster as Crowbill's neutral turf. He places the watcher as one of Crowbill's own (not a Dragon Knight) and learns the Baron has put dragon-gold on 'a face like the dead heir's' seen fleeing the woods; the whole city has the description by dawn.",
+  "narrative": "Randall's Streetwise/Deceit turn the tail into a source. The watcher was quietly pricing Randall for the bounty; a near-critical Influence pitch flips him.",
+  "session": 2,
+  "involves": [
+   "myth-char-a27b48e85870",
+   "myth-char-31537901205a"
+  ],
+  "at": "2026-07-05T02:00:00"
+ },
+ {
+  "id": "myth-event-d0c4d63c8d46",
+  "type": "decision",
+  "summary": "CH.23 -- Randall flips Crowbill's man and buys an audience. Reframing gold-vs-devilry: the Baron is a demon-worshipper using infernal craft to win the tourney and threaten the realm -- since when does the Maze hold the door for Hell? He names the Asmodeus soul-knife as proof and the Lakelady's Javelin as an ally. The watcher, swayed, carries it up; Crowbill grants a guarded audience at the counting-house off Gallows Reach.",
+  "narrative": "The moral+self-interest frame lands hard. Sets up the Crowbill meeting. Conall's read (Insight): Crowbill backs winners, not causes -- the pitch must make the Baron look DOOMED, not just damned.",
+  "session": 2,
+  "involves": [
+   "myth-char-a27b48e85870",
+   "myth-char-e2fe2b9aa986",
+   "myth-char-0ca3e3cd2982",
+   "myth-char-31537901205a"
+  ],
+  "at": "2026-07-05T02:00:00"
+ },
+ {
+  "id": "myth-event-5f39e6f55a75",
+  "type": "scene",
+  "summary": "CH.24 -- The counting-house off Gallows Reach. Randall, Conall (hooded, second face held), and a cloaked Temerach (the Javelin, unnamed, the soul-knife in her keeping) meet Crowbill -- a wiry, forgettable man marked only by a crow tattoo. Crowbill calmly corrects Randall's one embellishment (Emmeralda is at Marisette's on the Pearl, not Temple Isle) to establish he is not to be lied to, then sees the Asmodeus blade: demon-craft on a helpless girl, near the Lady's water, in his city -- a monster kicking the whole table over.",
+  "narrative": "Temerach keeps the blade in hand (shows, does not surrender it) and attends unofficially -- a Sword cannot be seen with the Maze. Crowbill's code (no harm to the helpless, nothing touching the Lake Lady's sites) is exactly what the Baron has trampled.",
+  "session": 2,
+  "involves": [
+   "myth-char-a27b48e85870",
+   "myth-char-e2fe2b9aa986",
+   "myth-char-0ca3e3cd2982",
+   "myth-char-31537901205a"
+  ],
+  "at": "2026-07-05T02:00:00"
+ },
+ {
+  "id": "myth-event-d0c6b2299090",
+  "type": "decision",
+  "summary": "CH.25 -- Alliance forged. Crowbill commits: hidden canal paths, safe houses, men, and the street itself (misinformation is his home game) -- against three prices. He corrects the party's naivety: with Santo dead the twins are now the ONLY di Teufel blood walking -- not a curiosity but a succession dagger at Hanzo's name, which is why the Baron will never stop hunting that face. He takes over the twins' misinformation (Conall = phantom assassin fled by boat / 'the woman from the woods'; Randall = a nobody local).",
+  "narrative": "Three terms: (1) uncover the Baron's PLAN, (2) finish Nus's map for the way into the fortified estate (the treasury heist), (3) the twins played Crowbill's way. Crowbill's freely-given lead: the Baron's champion has NEVER left the estate -- unseen, unheard, fed behind a locked door, kept like a relic. Whatever the devilry is for, it wears that champion's skin. (Dramatic irony: the unseen champion and Gardwen's stolen brother named in the same breath, neither party able to connect them yet.)",
+  "session": 2,
+  "involves": [
+   "myth-char-a27b48e85870",
+   "myth-char-e2fe2b9aa986",
+   "myth-char-0ca3e3cd2982",
+   "myth-char-24c3d3484e09",
+   "myth-char-31537901205a",
+   "myth-char-d129be576d84"
+  ],
+  "at": "2026-07-05T02:00:00"
  }
 ]
