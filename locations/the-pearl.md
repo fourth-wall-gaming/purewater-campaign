@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-86675dc733e8"
+id: "myth-loc-3323572a16f5"
 name: "The Pearl"
 type: "island"
 summary: "The bright pleasure-island among the Northern Isles -- high-end nightlife and the great houses of the courtesan trade (the Sylph's Embrace, the Siren's Call, the Promise of Heaven) along the lamp-strung Pearl Quay, under Marisette's authority."

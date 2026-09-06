@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-68d2b939f3b6"
+id: "myth-loc-dd5eaf99e8de"
 name: "Lost Isle"
 type: "island"
 summary: "A half-drowned ruin among the Northern Isles -- collapsed and weed-choked buildings rising from the Lake, deserted and shunned. The Mermaid's Court keeps hidden chambers somewhere beneath these waters."

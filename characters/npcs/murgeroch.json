@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-faf01f1ed696",
+  "id": "myth-char-3f3f60305fb1",
   "name": "Murgeroch",
   "type": "npc",
   "status": "active",
@@ -164,10 +164,6 @@
     "Squire of the Lake (sword, spear, bow, shield)": 68
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 10,
-  "experience_rolls": 0,
   "extras": {
     "gender": "male",
     "class": "Fighter (squire)",
@@ -178,5 +174,12 @@
     "magic_tradition": null,
     "source": "Novelization (And then the Dragons Came) -- 'Murgeroch, her squire'."
   },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-25T10:48:16"
 }

@@ -1,5 +1,5 @@
 ---
-id: "myth-faction-f2f5ec7f2d22"
+id: "myth-faction-124cb7551141"
 name: "The Order of the Blue Star"
 summary: "An institutional order of mages marked by a blue star at the brow. Trained Conall (through Old Johz) in arcane magic and investigation; takes a careful interest in dangerous power."
 created_at: "2026-06-24T23:31:07"

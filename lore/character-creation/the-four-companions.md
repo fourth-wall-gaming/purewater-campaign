@@ -1,5 +1,5 @@
 ---
-id: "myth-lore-cb24f89cfb6b"
+id: "myth-lore-950f6bb88b52"
 title: "The Four Companions"
 category: "character-creation"
 visibility: "player"

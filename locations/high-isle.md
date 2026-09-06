@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-ba2ecf018086"
+id: "myth-loc-f7e847082e7f"
 name: "High Isle"
 type: "island"
 summary: "The great triangular island in the Mouth, splitting the Lake's outflow. The Grand Canal bisects and branches across it, dividing the quarters: Merchant's (SW), the official & noble quarter (NE), Forge & industry (E), and the long residential northern edge sloping rich-to-poor toward the Lullwater."

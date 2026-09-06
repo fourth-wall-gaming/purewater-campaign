@@ -1,5 +1,5 @@
 {
-  "id": "myth-tmpl-916014c82827",
+  "id": "myth-tmpl-241574338d1b",
   "name": "Dragon Knight Soldier",
   "description": "Typical Flame Soldier of Baron Hanzo's Dragon Knights -- a hardened borderland raider in dragon-marked armor. Many carry a fire-touched blade (Bladesharp-equivalent, +1 fire damage).",
   "narrative": null,
@@ -154,10 +154,5 @@
   "combat_styles": {
     "Dragon Knight (sword, spear, shield, crossbow)": 62
   },
-  "created_at": "2026-06-24T23:31:07",
-  "extras": {
-    "faction": "The Dragon Knights",
-    "fire_touch": "~1 in 3 carry a fire-bound weapon: +1 fire damage, glows when drawn.",
-    "source": "GM template (generic mook)"
-  }
+  "created_at": "2026-06-24T23:31:07"
 }

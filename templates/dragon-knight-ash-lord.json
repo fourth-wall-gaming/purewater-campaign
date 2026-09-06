@@ -1,5 +1,5 @@
 {
-  "id": "myth-tmpl-0a56b9b57701",
+  "id": "myth-tmpl-c51b2d15f512",
   "name": "Dragon Knight Ash Lord",
   "description": "Elite Dragon Knight who has undergone partial fire-binding -- a fire spirit shares his flesh. Battle-trance: ignores pain/Fatigue penalties for a few rounds; wreathes weapon in flame (+1d4 fire).",
   "narrative": null,
@@ -147,14 +147,5 @@
   "combat_styles": {
     "Ash Lord (greatsword, axe, shield)": 82
   },
-  "created_at": "2026-06-24T23:31:07",
-  "extras": {
-    "faction": "The Dragon Knights",
-    "abilities": [
-      "Battle-trance: a few rounds ignoring pain and Fatigue penalties (Mysticism-equivalent)",
-      "Flame-wreathed weapon: +1d4 fire on a hit, a few times per scene",
-      "Partial fire-binding: a fire spirit shares the body -- resists fire, vulnerable to water/pure-water magic"
-    ],
-    "source": "GM template (elite)"
-  }
+  "created_at": "2026-06-24T23:31:07"
 }

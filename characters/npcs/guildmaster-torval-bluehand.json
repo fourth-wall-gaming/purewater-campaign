@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-13a0580d1aeb",
+  "id": "myth-char-bb7031dd9334",
   "name": "Guildmaster Torval Bluehand",
   "type": "npc",
   "status": "active",
@@ -144,10 +144,6 @@
     "Guild defense (mace)": 48
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 14,
-  "experience_rolls": 0,
   "extras": {
     "gender": "male",
     "class": "Magic-User (enchanter / artificer)",
@@ -159,5 +155,12 @@
     "faction": "Watercrafters Guild -- allied with the Order of the Lake Lady; their enchantments keep the canal-city running.",
     "source": "GM-authored from source lore (purewater-organizations.md, Guild of Watercrafters)"
   },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 14,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-24T23:15:34"
 }

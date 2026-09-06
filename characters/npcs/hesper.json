@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-10f5c7a807f6",
+  "id": "myth-char-9d21338286e8",
   "name": "Hesper",
   "type": "npc",
   "status": "active",
@@ -177,10 +177,6 @@
       "Arcane Lock"
     ]
   },
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 18,
-  "experience_rolls": 0,
   "extras": {
     "gender": "Hesper volunteers nothing and is asked nothing; it has no bearing on the work.",
     "class": "Magic-User (sorcerer); secret agent",
@@ -195,5 +191,12 @@
     "magic_tradition": "Arcane Casting (CFI Magic-User), master tier -- Arcane Casting 100, Invocation 92, Willpower 95. Favors knowing and moving unseen: scrying, sending, disguise, compulsion, sleep/stun by command word, mist and cold, wards -- force is the last tool reached for.",
     "source": "Novelization (And then the Dragons Came) -- the star-marked mage at Marisette's side; fully reconceived per GM direction as an agent of the new benevolent espionage order, the Quiet Hand."
   },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 18,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-25T10:48:16"
 }

@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-ef5cbcabc7b1"
+id: "myth-loc-6a7db33275bf"
 name: "The Moist Oyster"
 type: "building"
 summary: "A rough tavern in the Lullwater, sign of a half-open oyster -- cheap drink, loose tongues, knife fights, and the storyteller Thorne holding court most evenings."

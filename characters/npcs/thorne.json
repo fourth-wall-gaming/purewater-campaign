@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-34f35cd2983b",
+  "id": "myth-char-aed7f296b1d9",
   "name": "Thorne",
   "type": "npc",
   "status": "active",
@@ -136,10 +136,6 @@
     "Old Order training (cane/staff)": 62
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 15,
-  "experience_rolls": 0,
   "extras": {
     "gender": "male",
     "class": "Storyteller / former Order of the Lake (Cleric-trained)",
@@ -151,5 +147,12 @@
     "magic_tradition": "Lapsed Order of the Lake initiate -- retains deep ritual/water lore and Willpower; light blessings at most, no active battle magic.",
     "source": "GM-authored from source lore (The Storyteller)"
   },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 15,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-24T23:15:34"
 }

@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-809eef83e2fa",
+  "id": "myth-char-8d5a1ff548c3",
   "name": "Sinnit",
   "type": "npc",
   "status": "active",
@@ -163,10 +163,6 @@
     "Canal-rat Brawler (knife, cudgel, knuckledusters, short sword)": 70
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 10,
-  "experience_rolls": 0,
   "extras": {
     "gender": "male",
     "culture": "Civilized (Purewater)",
@@ -190,5 +186,12 @@
     "authored_note": "New NPC -- no Roll20 sheet. GM-authored from the brief ('a local enemy of Randall: Sinnit'). The grudge hook (old double-cross) is a suggestion -- adjust the cause to taste. Tune freely.",
     "source": "Authored for the And then the Dragons Came campaign (enemy of Randall)"
   },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-24T23:07:54"
 }

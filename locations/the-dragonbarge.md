@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-0d73209cc5d2"
+id: "myth-loc-5a1e33dbc5e8"
 name: "The DragonBarge"
 type: "vessel"
 summary: "Baron Hanzo's massive dragon-prowed vessel, moored at a private pier on High Isle's eastern, seaward side by the Forge Quarter. It steams where its hull meets the water, corrupting the seaward channel. His floating fortress and demonology workshop."

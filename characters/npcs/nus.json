@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-0fecded5fce3",
+  "id": "myth-char-4c2497c99847",
   "name": "Nus",
   "type": "npc",
   "status": "active",
@@ -167,10 +167,6 @@
     "Street Thief (dagger, sap, sling, short sword)": 65
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 3,
-  "magic_current": 10,
-  "experience_rolls": 0,
   "extras": {
     "gender": "male",
     "culture": "Civilized (Purewater)",
@@ -195,5 +191,12 @@
     "authored_note": "New NPC -- no Roll20 sheet existed. Entirely GM-authored from the brief ('a thief called Nus, friend of Randall') and Randall's notes; tune freely.",
     "source": "Authored for the And then the Dragons Came campaign (friend of Randall)"
   },
+  "fatigue": "Fresh",
+  "luck_current": 3,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-24T23:06:04"
 }

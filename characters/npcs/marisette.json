@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-ded5a1522328",
+  "id": "myth-char-b268d7136c44",
   "name": "Marisette",
   "type": "npc",
   "status": "active",
@@ -138,10 +138,6 @@
     "Self-defense (dagger)": 45
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 15,
-  "experience_rolls": 0,
   "extras": {
     "gender": "female",
     "class": "Madame (power broker, noncombatant)",
@@ -153,5 +149,12 @@
     "magic_tradition": null,
     "source": "GM-authored from source lore (referenced as the authority over Constantine's house)"
   },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 15,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-24T23:15:34"
 }

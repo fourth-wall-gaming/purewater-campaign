@@ -1,5 +1,5 @@
 ---
-id: "myth-faction-55811985f2d2"
+id: "myth-faction-a5d114f4191c"
 name: "The Order of the Lake Lady"
 summary: "The water-faith of Purewater: priesthood of the lake goddess, guardians of pure water magic, political power over the sacred waters. Robed in blue-green with silver wave patterns."
 created_at: "2026-06-24T23:31:07"

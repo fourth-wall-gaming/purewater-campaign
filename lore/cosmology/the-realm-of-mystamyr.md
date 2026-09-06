@@ -1,5 +1,5 @@
 ---
-id: "myth-lore-1be2636ee672"
+id: "myth-lore-f86eb7c3d7bc"
 title: "The Realm of Mystamyr"
 category: "cosmology"
 visibility: "player"

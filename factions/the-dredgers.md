@@ -1,5 +1,5 @@
 ---
-id: "myth-faction-55071f931e70"
+id: "myth-faction-6e25e938de8a"
 name: "The Dredgers"
 summary: "Labor guild and mutual-aid society of Purewater's working poor -- canal-clearers, dockers, fishers. Black armbands, white wave. Led by Marda Blackwater."
 created_at: "2026-06-24T23:31:07"

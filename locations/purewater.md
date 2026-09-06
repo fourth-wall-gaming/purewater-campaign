@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-0fd39fd3d582"
+id: "myth-loc-d7a006226d80"
 name: "Purewater"
 type: "city"
 summary: "A canal city built across the Mouth -- the narrow strait where the sacred Lake (north) drains to the open Sea (south). Two land-jaws and the great triangular High Isle split the holy outflow; a scatter of lake-islands lies to the north. Locals call it 'Pisswater'."

@@ -1,5 +1,5 @@
 ---
-id: "myth-faction-9c41a7e02b6d"
+id: "myth-faction-babd0b9ef472"
 name: "The Quiet Hand"
 summary: "A secret, centuries-old fellowship that steers the world toward the good from the shadows -- by knowing first and acting unseen. Espionage as mercy. Hesper is their agent in Purewater. (GM: a benevolent hidden patron.)"
 created_at: "2026-06-25T11:20:00"

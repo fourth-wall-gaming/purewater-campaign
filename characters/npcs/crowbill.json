@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-31537901205a",
+  "id": "myth-char-5df760a735cc",
   "name": "Crowbill",
   "type": "npc",
   "status": "active",
@@ -149,10 +149,6 @@
     "Knifework & ambush (knife, crossbow)": 72
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 13,
-  "experience_rolls": 0,
   "extras": {
     "gender": "male",
     "class": "Rogue/Thief",
@@ -166,5 +162,12 @@
     "magic_tradition": null,
     "source": "GM-authored from source lore (Criminal Underground Leader)"
   },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 13,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-24T23:15:34"
 }

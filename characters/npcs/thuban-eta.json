@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-b65dab3ed037",
+  "id": "myth-char-82f4ef584fcc",
   "name": "Thuban Eta",
   "type": "npc",
   "status": "active",
@@ -129,10 +129,6 @@
     "Ancient Dragon-Knight mastery (spectral)": 121
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 18,
-  "experience_rolls": 0,
   "extras": {
     "gender": "male",
     "class": "Spirit (former Fighter / war-leader)",
@@ -146,5 +142,12 @@
     "magic_tradition": "Ancient draconic / martial spirit -- not a spellcaster in the modern traditions.",
     "source": "GM-authored from source lore (The Bound Spirit)"
   },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 18,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-24T23:15:34"
 }

@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-f3ac26583d8f",
+  "id": "myth-char-581bf3dad5f4",
   "name": "Mariarta",
   "type": "npc",
   "status": "active",
@@ -140,10 +140,6 @@
     "Self-defense (knife)": 40
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 12,
-  "experience_rolls": 0,
   "extras": {
     "gender": "female",
     "class": "Courtesan (noncombatant)",
@@ -156,5 +152,12 @@
     "correction_note": "Recast from an earlier mistaken 'canal-runner / smuggler' Rogue kit. Per the novelization 'Moriata' is an older courtesan at the Promise of Heaven who went to the Baron's manor and gathered intel -- a social informant, not a thief.",
     "source": "Novelization (And then the Dragons Came, ch. 13) -- 'Moriata' (= Mariarta), the older girl who went up to the manor."
   },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-25T10:48:16"
 }

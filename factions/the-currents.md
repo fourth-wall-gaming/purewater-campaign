@@ -1,5 +1,5 @@
 ---
-id: "myth-faction-000ceb8f2670"
+id: "myth-faction-42856140d5de"
 name: "The Currents"
 summary: "A leaderless network of spies and informants trading in secrets, not contraband. Marked by chalk water-signs; the hidden 'Source' directs it."
 created_at: "2026-06-24T23:31:07"

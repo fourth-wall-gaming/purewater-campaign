@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-c52354ddb8f6",
+  "id": "myth-char-4833efdfdf92",
   "name": "Blau",
   "type": "npc",
   "status": "active",
@@ -154,10 +154,6 @@
     "Dragon Knight Enforcer (dagger, garrotte, short sword)": 82
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 11,
-  "experience_rolls": 0,
   "extras": {
     "gender": "male",
     "aliases": [
@@ -180,5 +176,12 @@
     "authored_note": "IMPORTANT: Blau's Roll20 sheet was a BLANK placeholder (only baseline characteristics, all 11s/SIZ 13, and default attributes). This kit is GM-AUTHORED from the setting lore, calibrated 'competent, just below Tat', and is a PURE physical enforcer -- no magic (the earlier fire-magic draft was removed per operator). Tune freely.",
     "source": "Roll20 (blank sheet) + And then the Dragons Came setting lore"
   },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-24T23:03:38"
 }

@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-71c223296d5a",
+  "id": "myth-char-fdb966a58b7e",
   "name": "Lilura Deepcurrent",
   "type": "npc",
   "status": "active",
@@ -138,10 +138,6 @@
     "Order rites (trident)": 40
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 18,
-  "experience_rolls": 0,
   "extras": {
     "gender": "female",
     "class": "Cleric (senior)",
@@ -153,5 +149,12 @@
     "magic_tradition": "Theism / divine (CFI Cleric), highest tier in the city: Piety 95, Exhort 88, water-aspected miracles plus innate breath-holding.",
     "source": "GM-authored from source lore (purewater-organizations.md, Order of the Lake Lady)"
   },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 18,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-24T23:15:34"
 }

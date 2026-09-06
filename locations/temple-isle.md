@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-f7ecc7b68e7e"
+id: "myth-loc-6cc0cbfd7c48"
 name: "Temple Isle"
 type: "island"
 summary: "A small island alone off the north-east edge, unbridged to High Isle and reached only by boat. Dominated by the temple of the Lake Lady and the Sacred Confluence pool -- to be drawn as detailed, planned sacred architecture."

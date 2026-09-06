@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-2ea2cc63f4d9"
+id: "myth-loc-aa33c12f212d"
 name: "The Lullwater"
 type: "district"
 summary: "Purewater's poor-and-criminal quarter, across the canal east of High Isle and sloping toward the Shoals: a low, crowded tangle of the narrowest canals and crooked tenements. Its pretty, calm-sounding name hides where the underworld and the working poor live cheek by jowl. Home of the Moist Oyster and the Dredgers' Hall."

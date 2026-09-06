@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-87541eebf6d7",
+  "id": "myth-char-9fef0a2b6608",
   "name": "Marda Blackwater",
   "type": "npc",
   "status": "active",
@@ -149,10 +149,6 @@
     "Dockside brawler (hook, fists)": 68
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 14,
-  "experience_rolls": 0,
   "extras": {
     "gender": "female",
     "class": "Commoner / labor leader (Fighter-flavored brawler)",
@@ -163,5 +159,12 @@
     "magic_tradition": null,
     "source": "GM-authored from source lore (purewater-organizations.md, The Dredgers)"
   },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 14,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-24T23:15:34"
 }

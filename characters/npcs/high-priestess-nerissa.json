@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-3b660ee712d4",
+  "id": "myth-char-d500466a53f4",
   "name": "High Priestess Nerissa",
   "type": "npc",
   "status": "active",
@@ -137,10 +137,6 @@
     "Temple guardian (staff)": 45
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 17,
-  "experience_rolls": 0,
   "extras": {
     "gender": "female",
     "class": "Cleric",
@@ -157,5 +153,12 @@
     "magic_tradition": "Theism / divine (CFI Cleric) -- Devotion (Piety) 92, Exhort 80, water-aspected miracles. Suggested miracles: Bless Water, Heal, Cleanse, Sense (corruption), Spirit Block.",
     "source": "GM-authored from source lore (Temple Leadership)"
   },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 17,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-24T23:15:34"
 }

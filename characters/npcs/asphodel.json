@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-dd1e7add673d",
+  "id": "myth-char-410136212a7e",
   "name": "Asphodel",
   "type": "npc",
   "status": "active",
@@ -138,10 +138,6 @@
     "Desperate self-defense (dagger)": 35
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 11,
-  "experience_rolls": 0,
   "extras": {
     "gender": "female",
     "class": "Courtesan (noncombatant)",
@@ -153,5 +149,12 @@
     "correction_note": "Recast from an earlier mistaken 'Rogue/Thief in Randall's crew' kit. Per the novelization she is a courtesan at the Promise of Heaven, not a thief; social/empathic skills, not stealth/sleight.",
     "source": "Novelization (And then the Dragons Came, ch. 8 & 13) -- canonical named character"
   },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
   "created_at": "2026-06-24T23:15:34"
 }
