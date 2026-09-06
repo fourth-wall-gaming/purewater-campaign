@@ -17,8 +17,8 @@ campaign format (v1.1).
 | Journal events | 2 |
 | Agendas | 12 |
 | Beats | 14 |
-| Facts | 12 |
-| Knowledge edges | 9 |
+| Facts | 14 |
+| Knowledge edges | 12 |
 
 ## Repository layout
 
