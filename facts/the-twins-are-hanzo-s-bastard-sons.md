@@ -1,7 +1,7 @@
 ---
 id: "myth-fact-75a1618d2f6f"
-title: "Baron Hanzo has a living son he does not know about, walki"
-statement: "Baron Hanzo has a living son he does not know about, walking in Purewater"
+title: "The twins are Hanzo's bastard sons"
+statement: "Randall and Conall are the bastard twin sons of Baron Hanzo di Teufel, born of an elven mage he seduced and broke"
 status: "established"
 truth: "true"
 time_index: 0

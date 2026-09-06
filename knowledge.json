@@ -1,106 +1,114 @@
 {
   "knows": [
     {
-      "fact": "myth-fact-11238ba848ee",
       "source": "witnessed",
-      "since": 0,
       "knower": "myth-char-a46cf24af084",
       "knower_name": "Thuban Eta",
-      "certainty": "knows"
+      "certainty": "knows",
+      "since": 0,
+      "fact": "myth-fact-11238ba848ee"
     },
     {
-      "source": "deduced",
-      "knower_name": "Cailan",
-      "since": 0,
+      "certainty": "believes",
+      "fact": "myth-fact-11238ba848ee",
       "knower": "myth-char-cac22cc2cbf6",
-      "fact": "myth-fact-11238ba848ee",
-      "certainty": "believes"
+      "source": "deduced",
+      "since": 0,
+      "knower_name": "Cailan"
     },
     {
+      "knower_name": "Hanzo di Teufel",
       "fact": "myth-fact-11238ba848ee",
+      "source": "witnessed",
+      "knower": "myth-char-cee57a7f5de2",
+      "certainty": "knows",
+      "since": 0
+    },
+    {
+      "source": "witnessed",
+      "knower_name": "Gardwen",
+      "fact": "myth-fact-2660bef1e8bf",
+      "since": 0,
+      "certainty": "knows",
+      "knower": "myth-char-5c39daf64e36"
+    },
+    {
+      "fact": "myth-fact-2660bef1e8bf",
+      "certainty": "knows",
       "since": 0,
       "source": "witnessed",
-      "certainty": "knows",
       "knower": "myth-char-cee57a7f5de2",
       "knower_name": "Hanzo di Teufel"
     },
     {
-      "knower_name": "Gardwen",
-      "fact": "myth-fact-2660bef1e8bf",
-      "knower": "myth-char-5c39daf64e36",
-      "source": "witnessed",
+      "fact": "myth-fact-75a1618d2f6f",
       "since": 0,
+      "knower_name": "Temerach Nebulo",
+      "source": "told",
+      "knower": "myth-char-a34f0237a753",
       "certainty": "knows"
     },
     {
-      "since": 0,
-      "knower": "myth-char-cee57a7f5de2",
-      "certainty": "knows",
-      "fact": "myth-fact-2660bef1e8bf",
-      "source": "witnessed",
-      "knower_name": "Hanzo di Teufel"
-    },
-    {
-      "since": 0,
-      "certainty": "knows",
-      "knower": "myth-char-a34f0237a753",
-      "source": "told",
-      "fact": "myth-fact-75a1618d2f6f",
-      "knower_name": "Temerach Nebulo"
-    },
-    {
-      "source": "deduced",
-      "certainty": "knows",
-      "knower": "myth-char-a34f0237a753",
       "fact": "myth-fact-85d3bd81f317",
-      "knower_name": "Temerach Nebulo",
-      "since": 0
-    },
-    {
-      "knower": "myth-char-5c39daf64e36",
-      "certainty": "suspects",
-      "fact": "myth-fact-d24f708565ee",
       "source": "deduced",
-      "knower_name": "Gardwen",
+      "knower_name": "Temerach Nebulo",
+      "since": 0,
+      "certainty": "knows",
+      "knower": "myth-char-a34f0237a753"
+    },
+    {
+      "knower_name": "Temerach Nebulo",
+      "source": "deduced",
+      "fact": "myth-fact-bef6153f65a7",
+      "certainty": "knows",
+      "knower": "myth-char-a34f0237a753",
       "since": 0
     },
     {
-      "knower": "myth-char-cee57a7f5de2",
-      "knower_name": "Hanzo di Teufel",
-      "source": "witnessed",
-      "certainty": "knows",
+      "knower_name": "Gardwen",
+      "certainty": "suspects",
       "since": 0,
-      "fact": "myth-fact-d24f708565ee"
+      "fact": "myth-fact-d24f708565ee",
+      "knower": "myth-char-5c39daf64e36",
+      "source": "deduced"
     },
     {
-      "certainty": "knows",
-      "since": 52,
+      "knower_name": "Hanzo di Teufel",
+      "fact": "myth-fact-d24f708565ee",
+      "since": 0,
       "source": "witnessed",
       "knower": "myth-char-cee57a7f5de2",
-      "fact": "myth-fact-dc3f304a66fe",
-      "knower_name": "Hanzo di Teufel"
+      "certainty": "knows"
     },
     {
-      "knower_name": "Blau",
+      "fact": "myth-fact-dc3f304a66fe",
+      "source": "witnessed",
+      "since": 52,
+      "knower_name": "Hanzo di Teufel",
       "certainty": "knows",
+      "knower": "myth-char-cee57a7f5de2"
+    },
+    {
+      "certainty": "knows",
+      "knower": "myth-char-dbb5fdad535d",
       "source": "witnessed",
       "since": 52,
       "fact": "myth-fact-dc3f304a66fe",
-      "knower": "myth-char-dbb5fdad535d"
+      "knower_name": "Blau"
     },
     {
+      "knower": "myth-char-cee57a7f5de2",
       "since": 0,
       "certainty": "knows",
-      "knower": "myth-char-cee57a7f5de2",
       "knower_name": "Hanzo di Teufel",
-      "source": "witnessed",
-      "fact": "myth-fact-e607c48bee30"
+      "fact": "myth-fact-e607c48bee30",
+      "source": "witnessed"
     }
   ],
   "agenda_requires": [
     {
-      "fact": "myth-fact-75a1618d2f6f",
-      "agenda": "myth-agenda-a0372f11e971"
+      "agenda": "myth-agenda-a0372f11e971",
+      "fact": "myth-fact-75a1618d2f6f"
     }
   ]
 }
