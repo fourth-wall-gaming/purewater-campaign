@@ -14,11 +14,19 @@ the game.
 
 ## This campaign is already loaded
 
-It lives in the `alh_mythras` TypeDB database as:
+It lives in the standalone **`mythras`** TypeDB database, hosted in the
+`mythras-typedb` Docker container that the standalone **mythras-gm** skill boots
+for itself:
 
 - **And Then the Dragons Came: Purewater** — `myth-campaign-66a98ba4a70e`
 
 So you normally skip the import step and go straight to `get-context`.
+
+> **Setup note.** `mythras-gm` is standalone now — its own `mythras` database in
+> its own `mythras-typedb` container, no Alhazen required. If another TypeDB
+> (e.g. an Alhazen server) already holds the default port 1729, this container
+> runs on **1730**; in that case `export TYPEDB_PORT=1730` so the CLI talks to
+> it. (Migrated off `alh_mythras` in September 2026.)
 
 ## How to run
 
