@@ -1,6 +1,6 @@
 [
   {
-    "id": "myth-event-d42c687ad69b",
+    "id": "myth-event-cb5ec92165e1",
     "type": "gm-note",
     "summary": "Campaign seeded: Purewater, living-world build. 12 agendas, 14 beats, four playable entry points. World clock starts at d-3/dawn; the Tourney is d0.",
     "narrative": "Nothing has happened yet. Run `tick` to start the world moving.",
@@ -9,13 +9,13 @@
     "at": "2026-09-05T12:00:00"
   },
   {
-    "id": "myth-event-abf2629de416",
+    "id": "myth-event-052fc61db35a",
     "type": "session-start",
     "summary": "SESSION 1 -- Purewater, living-world build. Play opens at the ford outside the city, d-3/dawn, three days before the Lake Lady's Tourney. Gully plays Magda; Gardwen, Conall and Randall are GM-run.",
     "narrative": "Four arrivals in one week. Magda and Ruhi's mistress Gardwen are in the queue at the ford; Conall rides the Anminster road with Temerach; Randall works Caravan Square. Twelve agendas are live and the world clock is running.",
     "session": 1,
     "involves": [
-      "myth-char-ad1a4761cc18"
+      "myth-char-d8b643d61817"
     ],
     "at": "2026-09-06T05:30:05"
   }

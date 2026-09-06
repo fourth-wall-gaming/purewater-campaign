@@ -1,5 +1,5 @@
 ---
-id: "myth-faction-57b390198765"
+id: "myth-faction-37a5ba90873e"
 name: "The Dragon Knights"
 summary: "Baron Hanzo's 20-30 sworn warriors -- brutal mercenaries armored in dragon heraldry, enhanced with fire demonology. Locally despised as the 'dragonshits'."
 created_at: "2026-06-24T23:31:07"

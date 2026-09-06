@@ -1,5 +1,5 @@
 ---
-id: "myth-beat-9bb6b20cd2bb"
+id: "myth-beat-835c33c9147c"
 title: "Temerach tells Conall whose son he is"
 summary: "In a stable, out of earshot, the knight finally hands over the truth she has held for years"
 status: "pending"
@@ -7,9 +7,9 @@ when: "d-2/night"
 time_index: 59
 trigger: "time"
 onscreen_if: "Conall present; she will not say it in front of strangers"
-agenda: "myth-agenda-28c8b9d7cd05"
-place: "myth-loc-d7a006226d80"
-cast: ["myth-char-37d13de48c45", "myth-char-9cd70dd26f65"]
+agenda: "myth-agenda-aa7c6a03fc20"
+place: "myth-loc-93c75b267cb2"
+cast: ["myth-char-06f87a379bbf", "myth-char-a34f0237a753"]
 created_at: "2026-09-05T12:00:00"
 ---
 

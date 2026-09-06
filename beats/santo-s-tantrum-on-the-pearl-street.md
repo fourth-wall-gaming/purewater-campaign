@@ -1,5 +1,5 @@
 ---
-id: "myth-beat-429dd183d2e8"
+id: "myth-beat-3babb4f6c31d"
 title: "Santo's tantrum on the Pearl street"
 summary: "Santo screams threats of arson at Constantine in the open street until Blau hauls him away"
 status: "pending"
@@ -7,9 +7,9 @@ when: "d-2/dusk"
 time_index: 58
 trigger: "time"
 onscreen_if: "Any PC on the Pearl at dusk -- it is loud and public by design"
-agenda: "myth-agenda-1e81c7affb7a"
-place: "myth-loc-3323572a16f5"
-cast: ["myth-char-3c02a5eacee9", "myth-char-4833efdfdf92", "myth-char-feba95b4cc7d"]
+agenda: "myth-agenda-a070bb7c02b6"
+place: "myth-loc-6062ee281912"
+cast: ["myth-char-1ebc75c92e6a", "myth-char-49ee20e7a554", "myth-char-dbb5fdad535d"]
 created_at: "2026-09-05T12:00:00"
 ---
 

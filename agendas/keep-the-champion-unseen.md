@@ -1,13 +1,13 @@
 ---
-id: "myth-agenda-d90840160255"
+id: "myth-agenda-55bff683c859"
 title: "Keep the champion unseen"
 goal: "Let no one see or speak to Cailan before he steps onto the tournament sand"
 status: "active"
 clock_size: 4
 clock_filled: 1
 priority: 4
-holder: "myth-char-e61cbd307153"
-targets: ["myth-char-ec3506721673"]
+holder: "myth-char-cee57a7f5de2"
+targets: ["myth-char-cac22cc2cbf6"]
 created_at: "2026-09-05T12:00:00"
 ---
 

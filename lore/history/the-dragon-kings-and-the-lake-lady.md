@@ -1,5 +1,5 @@
 ---
-id: "myth-lore-8497b43f232d"
+id: "myth-lore-f7c4f9a0286e"
 title: "The Dragon Kings and the Lake Lady"
 category: "history"
 visibility: "player"

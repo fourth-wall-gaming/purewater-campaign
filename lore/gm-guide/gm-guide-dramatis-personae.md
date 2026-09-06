@@ -1,5 +1,5 @@
 ---
-id: "myth-lore-00364d40f8db"
+id: "myth-lore-95f9730a89b2"
 title: "GM Guide: Dramatis Personae"
 category: "gm-guide"
 visibility: "gm"

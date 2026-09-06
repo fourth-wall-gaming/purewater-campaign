@@ -1,5 +1,5 @@
 ---
-id: "myth-beat-0ba6676eb8d8"
+id: "myth-beat-08d9b0252b45"
 title: "Hesper takes the look-alike"
 summary: "Marisette's arcane enforcer abducts the man matching the description and puts him in a chair in the catacombs"
 status: "pending"
@@ -7,9 +7,9 @@ when: "d-2/dawn"
 time_index: 56
 trigger: "time"
 onscreen_if: "Fires on whoever in the city is wearing Santo's face -- Randall, Conall, or both"
-agenda: "myth-agenda-0d4149acb425"
-place: "myth-loc-8bdd14076db3"
-cast: ["myth-char-9d21338286e8", "myth-char-b268d7136c44"]
+agenda: "myth-agenda-c447b43512d4"
+place: "myth-loc-3e03305b5abb"
+cast: ["myth-char-156265245397", "myth-char-28320448049e"]
 created_at: "2026-09-05T12:00:00"
 ---
 

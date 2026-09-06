@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-9923d0cff174"
+id: "myth-loc-941ec73f1da6"
 name: "The Forge Quarter"
 type: "quarter"
 summary: "High Isle's eastern point: forges, foundries, tanneries and boatyards (many Dwarven-run), trailing smoke. The gritty industrial belt that spills east into the Shoals; the DragonBarge is moored on its seaward edge."

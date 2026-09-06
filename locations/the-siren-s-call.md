@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-4987e1e7d601"
+id: "myth-loc-adbcda5c3828"
 name: "The Siren's Call"
 type: "building"
 summary: "Ravella's establishment where the canals of High Isle meet the poorer districts -- part pleasure house, part information market, neutral ground for every faction."

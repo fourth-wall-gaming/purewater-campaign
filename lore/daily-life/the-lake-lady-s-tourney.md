@@ -1,5 +1,5 @@
 ---
-id: "myth-lore-bb328d58c5d2"
+id: "myth-lore-74a1179fcabc"
 title: "The Lake Lady's Tourney"
 category: "daily-life"
 visibility: "player"

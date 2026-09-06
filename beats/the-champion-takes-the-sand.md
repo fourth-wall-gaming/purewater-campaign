@@ -1,5 +1,5 @@
 ---
-id: "myth-beat-2d5d59f41d93"
+id: "myth-beat-0e45c0d0f760"
 title: "The champion takes the sand"
 summary: "Cailan is revealed as the Baron's champion in the Single Combat -- and Gardwen recognises her brother"
 status: "pending"
@@ -7,9 +7,9 @@ when: "d0/day"
 time_index: 65
 trigger: "time"
 onscreen_if: "The Tourney is public; the party will be there unless something extraordinary prevents it"
-agenda: "myth-agenda-473a37bc05b8"
-place: "myth-loc-6cc0cbfd7c48"
-cast: ["myth-char-82f4ef584fcc", "myth-char-e61cbd307153", "myth-char-ec3506721673"]
+agenda: "myth-agenda-e0469a5c2863"
+place: "myth-loc-6f1056d77024"
+cast: ["myth-char-a46cf24af084", "myth-char-cac22cc2cbf6", "myth-char-cee57a7f5de2"]
 created_at: "2026-09-05T12:00:00"
 ---
 

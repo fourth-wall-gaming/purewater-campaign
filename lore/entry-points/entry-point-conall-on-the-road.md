@@ -1,10 +1,10 @@
 ---
-id: "myth-lore-1fcc4ce91fca"
+id: "myth-lore-b62f2af67223"
 title: "Entry Point: Conall on the road"
 category: "entry-points"
 visibility: "player"
 summary: "An investigator of the Blue Star rides in beside his patron as the Dragon Knights overtake them"
-about: ["myth-char-37d13de48c45", "myth-char-9cd70dd26f65"]
+about: ["myth-char-06f87a379bbf", "myth-char-a34f0237a753"]
 created_at: "2026-09-05T12:00:00"
 ---
 

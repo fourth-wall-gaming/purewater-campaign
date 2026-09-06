@@ -1,13 +1,13 @@
 ---
-id: "myth-agenda-f64375b40cfc"
+id: "myth-agenda-50cad32306f1"
 title: "Keep the Lady's water clean"
 goal: "Hold the Tourney without the sacred water being profaned"
 status: "active"
 clock_size: 6
 clock_filled: 0
 priority: 2
-holder: "myth-char-d500466a53f4"
-targets: ["myth-faction-a5d114f4191c", "myth-loc-6cc0cbfd7c48"]
+holder: "myth-char-1f1bcc8ed954"
+targets: ["myth-faction-2b6cfc142c63", "myth-loc-6f1056d77024"]
 created_at: "2026-09-05T12:00:00"
 ---
 

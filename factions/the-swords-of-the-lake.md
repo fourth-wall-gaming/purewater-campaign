@@ -1,5 +1,5 @@
 ---
-id: "myth-faction-3371ba33d14b"
+id: "myth-faction-7f7c8ecee7f5"
 name: "The Swords of the Lake"
 summary: "An elite knightly order sworn to the Lake Lady (Nimue) and the protection of the realm and its water magic. Temerach Nebulo is their most famous blade."
 created_at: "2026-06-24T23:31:07"

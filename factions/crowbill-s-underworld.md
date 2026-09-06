@@ -1,5 +1,5 @@
 ---
-id: "myth-faction-5623a8a87dc7"
+id: "myth-faction-b13b4eec5c17"
 name: "Crowbill's Underworld"
 summary: "Purewater's criminal underground -- canal smuggling, gambling, protection -- run to a code by the unremarkable crime lord Crowbill. Signaled by crow marks."
 created_at: "2026-06-24T23:31:07"

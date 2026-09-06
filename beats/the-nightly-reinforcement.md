@@ -1,5 +1,5 @@
 ---
-id: "myth-beat-e8583ee89379"
+id: "myth-beat-c1b2321a370c"
 title: "The nightly reinforcement"
 summary: "Behind sealed doors the Baron renews the binding; the champion is heard, once, speaking in another man's voice"
 status: "pending"
@@ -7,9 +7,9 @@ when: "d-2/night"
 time_index: 59
 trigger: "time"
 onscreen_if: "Only if PCs have got inside the estate -- which is a whole operation"
-agenda: "myth-agenda-d90840160255"
-place: "myth-loc-5a1e33dbc5e8"
-cast: ["myth-char-e61cbd307153", "myth-char-ec3506721673"]
+agenda: "myth-agenda-55bff683c859"
+place: "myth-loc-0900adc8395d"
+cast: ["myth-char-cac22cc2cbf6", "myth-char-cee57a7f5de2"]
 created_at: "2026-09-05T12:00:00"
 ---
 

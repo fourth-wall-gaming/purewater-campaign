@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-80772ccf6835"
+id: "myth-loc-ec677c07203d"
 name: "The Northern Isles"
 type: "islands"
 summary: "The scatter of irregular islets across the Lake's calm waters north of High Isle: the bright Pearl, the drowned ruins of Lost Isle, quiet court-family retreats, and a few shunned, haunted, or magically claimed islands."

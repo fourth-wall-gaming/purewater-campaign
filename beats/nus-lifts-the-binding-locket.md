@@ -1,5 +1,5 @@
 ---
-id: "myth-beat-9685f8781eb3"
+id: "myth-beat-a9d74b58ad5e"
 title: "Nus lifts the binding locket"
 summary: "At registration, in the crush, the pickpocket takes the locket off the Baron himself"
 status: "pending"
@@ -7,9 +7,9 @@ when: "d-1/day"
 time_index: 61
 trigger: "time"
 onscreen_if: "Any PC at tournament registration, or whoever put Nus up to it"
-agenda: "myth-agenda-68024451f1ce"
-place: "myth-loc-f7e847082e7f"
-cast: ["myth-char-4c2497c99847", "myth-char-e61cbd307153"]
+agenda: "myth-agenda-fa6bf991c984"
+place: "myth-loc-85a0d71a0693"
+cast: ["myth-char-cee57a7f5de2", "myth-char-df4b5d854459"]
 created_at: "2026-09-05T12:00:00"
 ---
 

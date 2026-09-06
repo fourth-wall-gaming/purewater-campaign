@@ -1,13 +1,13 @@
 ---
-id: "myth-beat-208ea807574e"
+id: "myth-beat-a0cea1a14335"
 title: "Tat counts the cost"
 summary: "The mercenary captain starts pricing what the Baron's private business will cost his company"
 status: "pending"
 trigger: "clock>=2"
 onscreen_if: "Only visible to a PC who has been cultivating him"
-agenda: "myth-agenda-9b91fc527cb9"
-place: "myth-loc-5a1e33dbc5e8"
-cast: ["myth-char-fa52051d48aa"]
+agenda: "myth-agenda-a253870b6526"
+place: "myth-loc-0900adc8395d"
+cast: ["myth-char-fff1e79e219c"]
 created_at: "2026-09-05T12:00:00"
 ---
 

@@ -1,13 +1,13 @@
 ---
-id: "myth-beat-6af0c6093d10"
+id: "myth-beat-418729de06d9"
 title: "The purge: a body on display"
 summary: "The Baron turns the city inside out for the locket; Nus is taken, killed, and displayed as a warning"
 status: "pending"
 trigger: "clock>=3"
 onscreen_if: "Public. The party finds the body, or is shown it"
-agenda: "myth-agenda-68024451f1ce"
-place: "myth-loc-d7a006226d80"
-cast: ["myth-char-4833efdfdf92", "myth-char-4c2497c99847"]
+agenda: "myth-agenda-fa6bf991c984"
+place: "myth-loc-93c75b267cb2"
+cast: ["myth-char-dbb5fdad535d", "myth-char-df4b5d854459"]
 created_at: "2026-09-05T12:00:00"
 ---
 

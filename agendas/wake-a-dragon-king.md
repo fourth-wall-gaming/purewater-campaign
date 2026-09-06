@@ -1,13 +1,13 @@
 ---
-id: "myth-agenda-c4777798c1c7"
+id: "myth-agenda-630e0bafcdf7"
 title: "Wake a Dragon King"
 goal: "Prove a living man can be made to carry a dragon's spirit, and then do it properly"
 status: "active"
 clock_size: 10
 clock_filled: 3
 priority: 4
-holder: "myth-faction-e5cdec21c1b1"
-targets: ["myth-char-e61cbd307153", "myth-char-ec3506721673"]
+holder: "myth-faction-c0a9a96aa980"
+targets: ["myth-char-cac22cc2cbf6", "myth-char-cee57a7f5de2"]
 created_at: "2026-09-05T12:00:00"
 ---
 

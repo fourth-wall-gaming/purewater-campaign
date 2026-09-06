@@ -1,5 +1,5 @@
 ---
-id: "myth-beat-56dc0b5c7ea7"
+id: "myth-beat-5eb17defc7e0"
 title: "A courier from the Movement"
 summary: "The Awake the Dragon Movement sends instructions and money; the Baron is answerable to someone"
 status: "pending"
@@ -7,9 +7,9 @@ when: "d-1/night"
 time_index: 63
 trigger: "time"
 onscreen_if: "Only if the party is watching the estate or intercepting messages"
-agenda: "myth-agenda-c4777798c1c7"
-place: "myth-loc-5a1e33dbc5e8"
-cast: ["myth-char-e61cbd307153"]
+agenda: "myth-agenda-630e0bafcdf7"
+place: "myth-loc-0900adc8395d"
+cast: ["myth-char-cee57a7f5de2"]
 created_at: "2026-09-05T12:00:00"
 ---
 

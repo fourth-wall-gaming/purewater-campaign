@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-bebe3e0e1503"
+id: "myth-loc-e4becf72aa90"
 name: "The Shoals"
 type: "district"
 summary: "The seaward jaw of the Mouth: a peninsula reaching in from the north-east to form the eastern side of the strait, facing the open sea. The working docks, fish-markets, smugglers' jetties, and the Harbor Masters' tower; tied to the Lullwater by trade both honest and not."

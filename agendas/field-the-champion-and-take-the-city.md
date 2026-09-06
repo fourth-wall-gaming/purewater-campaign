@@ -1,13 +1,13 @@
 ---
-id: "myth-agenda-473a37bc05b8"
+id: "myth-agenda-e0469a5c2863"
 title: "Field the champion and take the city"
 goal: "Win the Lake Lady's Tourney with a possessed champion and buy standing in Purewater"
 status: "active"
 clock_size: 8
 clock_filled: 2
 priority: 5
-holder: "myth-char-e61cbd307153"
-targets: ["myth-char-ec3506721673", "myth-faction-a5d114f4191c"]
+holder: "myth-char-cee57a7f5de2"
+targets: ["myth-char-cac22cc2cbf6", "myth-faction-2b6cfc142c63"]
 created_at: "2026-09-05T12:00:00"
 ---
 

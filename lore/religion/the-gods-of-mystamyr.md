@@ -1,5 +1,5 @@
 ---
-id: "myth-lore-72cd425f8712"
+id: "myth-lore-5f0681b87e74"
 title: "The Gods of Mystamyr"
 category: "religion"
 visibility: "player"

@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-f5c6c0bad79a"
+id: "myth-loc-d7201945f52a"
 name: "The Anminster Road"
 type: "road"
 summary: "The last stretch of the inland road, an hour out from the ford"

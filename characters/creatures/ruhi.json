@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-f5c726a29411",
+  "id": "myth-char-96bf9d3d61eb",
   "name": "Ruhi",
   "type": "creature",
   "status": "active",
@@ -159,7 +159,7 @@
   "luck_current": 1,
   "magic_current": 6,
   "experience_rolls": 0,
-  "location": "myth-loc-ea256aee2250",
+  "location": "myth-loc-e68bde0d7264",
   "factions": [],
   "from_template": null,
   "created_at": "2026-06-24T22:49:17"

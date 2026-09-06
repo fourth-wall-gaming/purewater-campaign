@@ -1,13 +1,13 @@
 ---
-id: "myth-agenda-28c8b9d7cd05"
+id: "myth-agenda-aa7c6a03fc20"
 title: "Shield the boy, unmask the house"
 goal: "Keep Conall alive and ignorant no longer, and put a knight's evidence against the di Teufels"
 status: "active"
 clock_size: 6
 clock_filled: 1
 priority: 3
-holder: "myth-char-37d13de48c45"
-targets: ["myth-char-9cd70dd26f65", "myth-char-e61cbd307153"]
+holder: "myth-char-a34f0237a753"
+targets: ["myth-char-06f87a379bbf", "myth-char-cee57a7f5de2"]
 created_at: "2026-09-05T12:00:00"
 ---
 

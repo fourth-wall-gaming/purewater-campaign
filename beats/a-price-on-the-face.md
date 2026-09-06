@@ -1,13 +1,13 @@
 ---
-id: "myth-beat-bf0546c89fa3"
+id: "myth-beat-5b0317cae1cd"
 title: "A price on the face"
 summary: "Dragon-gold offered on the street for a man with the dead heir's face"
 status: "pending"
 trigger: "clock>=1"
 onscreen_if: "The whole city has the description by the next dawn"
-agenda: "myth-agenda-44334e17b71f"
-place: "myth-loc-d7a006226d80"
-cast: ["myth-char-4833efdfdf92"]
+agenda: "myth-agenda-a0372f11e971"
+place: "myth-loc-93c75b267cb2"
+cast: ["myth-char-dbb5fdad535d"]
 created_at: "2026-09-05T12:00:00"
 ---
 

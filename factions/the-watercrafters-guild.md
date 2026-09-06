@@ -1,5 +1,5 @@
 ---
-id: "myth-faction-ba40774a8111"
+id: "myth-faction-072453a4a6c9"
 name: "The Watercrafters Guild"
 summary: "Artisan-mages of boats, canals, and water enchantment. Indigo sashes; workshops on Merchant's and Forge Quarter. Led by the blue-handed Guildmaster Torval."
 created_at: "2026-06-24T23:31:07"

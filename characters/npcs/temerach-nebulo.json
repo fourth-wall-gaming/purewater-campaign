@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-37d13de48c45",
+  "id": "myth-char-a34f0237a753",
   "name": "Temerach Nebulo",
   "type": "npc",
   "status": "active",
@@ -183,7 +183,7 @@
   "luck_current": 3,
   "magic_current": 16,
   "experience_rolls": 0,
-  "location": "myth-loc-f5c6c0bad79a",
+  "location": "myth-loc-d7201945f52a",
   "factions": [],
   "from_template": null,
   "created_at": "2026-06-24T22:41:50"

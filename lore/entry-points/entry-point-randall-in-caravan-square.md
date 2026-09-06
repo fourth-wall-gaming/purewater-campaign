@@ -1,10 +1,10 @@
 ---
-id: "myth-lore-e1794bfeb03e"
+id: "myth-lore-f0763efcb6e3"
 title: "Entry Point: Randall in Caravan Square"
 category: "entry-points"
 visibility: "player"
 summary: "A Pearl-raised thief works the tourney crowds on the day the Baron rides in"
-about: ["myth-char-b06b9db266cc", "myth-char-e61cbd307153"]
+about: ["myth-char-5aa2aad55f3b", "myth-char-cee57a7f5de2"]
 created_at: "2026-09-05T12:00:00"
 ---
 

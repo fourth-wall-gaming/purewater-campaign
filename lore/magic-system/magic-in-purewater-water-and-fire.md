@@ -1,5 +1,5 @@
 ---
-id: "myth-lore-9ea79acc45c9"
+id: "myth-lore-045804b8f541"
 title: "Magic in Purewater: Water and Fire"
 category: "magic-system"
 visibility: "player"

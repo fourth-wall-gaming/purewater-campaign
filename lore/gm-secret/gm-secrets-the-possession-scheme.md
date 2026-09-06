@@ -1,5 +1,5 @@
 ---
-id: "myth-lore-6c0681a392b5"
+id: "myth-lore-f0dc060f100f"
 title: "GM Secrets: The Possession Scheme"
 category: "gm-secret"
 visibility: "gm"

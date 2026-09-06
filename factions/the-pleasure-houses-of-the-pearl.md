@@ -1,5 +1,5 @@
 ---
-id: "myth-faction-78a64b9f5a75"
+id: "myth-faction-c22ef5f70cb3"
 name: "The Pleasure Houses of the Pearl"
 summary: "The courtesan network of the Pearl, under the madame Marisette's near-absolute authority. Constantine's Sylph's Embrace and Ravella's Siren's Call among them."
 created_at: "2026-06-24T23:31:07"

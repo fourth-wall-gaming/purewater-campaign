@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-1e9e7ed4fb3e"
+id: "myth-loc-477fc558c083"
 name: "The Merchant's Quarter"
 type: "quarter"
 summary: "High Isle's south-west corner, by the landward channel and the caravan trade: guild halls, counting-houses, the Watercrafters' Guild, the great market plaza, and the merchant-prince palazzi."

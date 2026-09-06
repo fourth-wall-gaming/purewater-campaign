@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-ea256aee2250"
+id: "myth-loc-e68bde0d7264"
 name: "The Ford"
 type: "crossing"
 summary: "The river crossing on the north road, an hour outside Purewater"

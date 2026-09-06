@@ -1,13 +1,13 @@
 ---
-id: "myth-beat-f0dcbdf0c0c1"
+id: "myth-beat-3fe1253b6cc7"
 title: "The houses close to the di Teufels"
 summary: "Marisette rescinds all courtesan services to the entire di Teufel retinue, city-wide"
 status: "pending"
 trigger: "clock>=4"
 onscreen_if: "Announced publicly; the party hears it wherever they are"
-agenda: "myth-agenda-0d4149acb425"
-place: "myth-loc-3323572a16f5"
-cast: ["myth-char-b268d7136c44"]
+agenda: "myth-agenda-c447b43512d4"
+place: "myth-loc-6062ee281912"
+cast: ["myth-char-28320448049e"]
 created_at: "2026-09-05T12:00:00"
 ---
 

@@ -1,13 +1,13 @@
 ---
-id: "myth-agenda-932708b6c083"
+id: "myth-agenda-286731d850be"
 title: "Keep the table level"
 goal: "Keep Purewater's business running, and remove anyone who threatens to overturn it"
 status: "active"
 clock_size: 6
 clock_filled: 0
 priority: 3
-holder: "myth-char-5df760a735cc"
-targets: ["myth-faction-5623a8a87dc7", "myth-loc-d7a006226d80"]
+holder: "myth-char-e303e68fea08"
+targets: ["myth-faction-b13b4eec5c17", "myth-loc-93c75b267cb2"]
 created_at: "2026-09-05T12:00:00"
 ---
 

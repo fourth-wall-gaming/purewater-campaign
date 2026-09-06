@@ -1,13 +1,13 @@
 ---
-id: "myth-agenda-1e81c7affb7a"
+id: "myth-agenda-a070bb7c02b6"
 title: "Bind a demon, and be his father's son"
 goal: "Complete a binding of his own and force the Baron to see him as an heir worth the name"
 status: "active"
 clock_size: 6
 clock_filled: 0
 priority: 5
-holder: "myth-char-feba95b4cc7d"
-targets: ["myth-char-700323708006", "myth-char-e61cbd307153"]
+holder: "myth-char-1ebc75c92e6a"
+targets: ["myth-char-b713577f61eb", "myth-char-cee57a7f5de2"]
 created_at: "2026-09-05T12:00:00"
 ---
 

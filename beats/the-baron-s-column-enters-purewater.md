@@ -1,5 +1,5 @@
 ---
-id: "myth-beat-3a8950df43d9"
+id: "myth-beat-20714ddcd986"
 title: "The Baron's column enters Purewater"
 summary: "Dragon Knights ride in for the Tourney; a covered litter no one is allowed near rides with them"
 status: "pending"
@@ -7,9 +7,9 @@ when: "d-3/day"
 time_index: 53
 trigger: "time"
 onscreen_if: "Any PC in Caravan Square or the Merchant's Quarter -- Randall's opening"
-agenda: "myth-agenda-473a37bc05b8"
-place: "myth-loc-8d5a6410c5c3"
-cast: ["myth-char-4833efdfdf92", "myth-char-e61cbd307153", "myth-char-fa52051d48aa"]
+agenda: "myth-agenda-e0469a5c2863"
+place: "myth-loc-b46458cc59e8"
+cast: ["myth-char-cee57a7f5de2", "myth-char-dbb5fdad535d", "myth-char-fff1e79e219c"]
 created_at: "2026-09-05T12:00:00"
 ---
 

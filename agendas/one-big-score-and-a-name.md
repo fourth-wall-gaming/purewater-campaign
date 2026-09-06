@@ -1,13 +1,13 @@
 ---
-id: "myth-agenda-68024451f1ce"
+id: "myth-agenda-fa6bf991c984"
 title: "One big score, and a name"
 goal: "Pull off a theft big enough that Crowbill's people have to respect him"
 status: "active"
 clock_size: 4
 clock_filled: 0
 priority: 2
-holder: "myth-char-4c2497c99847"
-targets: ["myth-char-e61cbd307153", "myth-faction-5623a8a87dc7"]
+holder: "myth-char-df4b5d854459"
+targets: ["myth-char-cee57a7f5de2", "myth-faction-b13b4eec5c17"]
 created_at: "2026-09-05T12:00:00"
 ---
 

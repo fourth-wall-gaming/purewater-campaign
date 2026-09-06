@@ -1,10 +1,10 @@
 ---
-id: "myth-lore-15af8d5619a1"
+id: "myth-lore-86a80d373eb0"
 title: "Entry Point: Gardwen at the ford"
 category: "entry-points"
 visibility: "player"
 summary: "Ten years of tracking a lost brother end in a queue behind a column of Dragon Knights"
-about: ["myth-char-0626db764024", "myth-char-ad1a4761cc18", "myth-char-f5c726a29411"]
+about: ["myth-char-5c39daf64e36", "myth-char-96bf9d3d61eb", "myth-char-d8b643d61817"]
 created_at: "2026-09-05T12:00:00"
 ---
 

@@ -1,5 +1,5 @@
 ---
-id: "myth-faction-e5cdec21c1b1"
+id: "myth-faction-c0a9a96aa980"
 name: "The Awake the Dragon Movement"
 summary: "A shadowy movement to revive the ancient draconic order and transform men into Dragon Kings. Baron Hanzo's true cause; an existential threat to water magic."
 created_at: "2026-06-24T23:31:07"

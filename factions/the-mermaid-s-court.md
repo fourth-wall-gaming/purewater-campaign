@@ -1,5 +1,5 @@
 ---
-id: "myth-faction-4ce695f63272"
+id: "myth-faction-f5c4a0122bf5"
 name: "The Mermaid's Court"
 summary: "A secretive society of pure-water practitioners bound to merfolk, preserving water magic older than the city. Hidden under Lost Isle; led by the enigmatic 'Pearl'."
 created_at: "2026-06-24T23:31:07"

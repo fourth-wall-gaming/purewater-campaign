@@ -17,6 +17,8 @@ campaign format (v1.1).
 | Journal events | 2 |
 | Agendas | 12 |
 | Beats | 14 |
+| Facts | 12 |
+| Knowledge edges | 9 |
 
 ## Repository layout
 
@@ -31,6 +33,8 @@ campaign format (v1.1).
 | `journal/` | The campaign event log (JSON) |
 | `agendas/` | What each NPC and faction wants, on a progress clock |
 | `beats/` | What happens next if nobody interferes, scheduled in world time |
+| `facts/` | Situational truth: one proposition per file, with when it became true |
+| `knowledge.json` | Who knows which fact, how, and since when |
 
 The canonical full-prose worldbook sources live in [`setting/`](setting/) — see its README for the book list and audience guide. The `lore/` files below are the same material sliced into database-ready entries.
 
@@ -132,8 +136,8 @@ concrete things those goals produce, scheduled against the world clock. Run
 
 ## Factions
 
-- [The Awake the Dragon Movement](factions/the-awake-the-dragon-movement.md) — A shadowy movement to revive the ancient draconic order and transform men into Dragon Kings. Baron Hanzo's true cause; an existential threat to water magic.
 - [Crowbill's Underworld](factions/crowbill-s-underworld.md) — Purewater's criminal underground -- canal smuggling, gambling, protection -- run to a code by the unremarkable crime lord Crowbill. Signaled by crow marks.
+- [The Awake the Dragon Movement](factions/the-awake-the-dragon-movement.md) — A shadowy movement to revive the ancient draconic order and transform men into Dragon Kings. Baron Hanzo's true cause; an existential threat to water magic.
 - [The Currents](factions/the-currents.md) — A leaderless network of spies and informants trading in secrets, not contraband. Marked by chalk water-signs; the hidden 'Source' directs it.
 - [The Dragon Knights](factions/the-dragon-knights.md) — Baron Hanzo's 20-30 sworn warriors -- brutal mercenaries armored in dragon heraldry, enhanced with fire demonology. Locally despised as the 'dragonshits'.
 - [The Dredgers](factions/the-dredgers.md) — Labor guild and mutual-aid society of Purewater's working poor -- canal-clearers, dockers, fishers. Black armbands, white wave. Led by Marda Blackwater.

@@ -1,13 +1,13 @@
 ---
-id: "myth-agenda-9b91fc527cb9"
+id: "myth-agenda-a253870b6526"
 title: "Get paid, keep the company whole"
 goal: "Collect the contract without spending men on a nobleman's private madness"
 status: "active"
 clock_size: 4
 clock_filled: 0
 priority: 2
-holder: "myth-char-fa52051d48aa"
-targets: ["myth-faction-57b390198765"]
+holder: "myth-char-fff1e79e219c"
+targets: ["myth-faction-37a5ba90873e"]
 created_at: "2026-09-05T12:00:00"
 ---
 

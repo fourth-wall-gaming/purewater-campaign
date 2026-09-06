@@ -1,5 +1,5 @@
 ---
-id: "myth-lore-ef6fdc9dfc65"
+id: "myth-lore-d5f2c24e1d31"
 title: "GM Guide: Running the Living World"
 category: "gm-guide"
 visibility: "gm"

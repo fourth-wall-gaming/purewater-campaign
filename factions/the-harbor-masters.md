@@ -1,5 +1,5 @@
 ---
-id: "myth-faction-6e5674c16bb5"
+id: "myth-faction-3f3c69cd7854"
 name: "The Harbor Masters"
 summary: "The regulatory guild of Purewater's docks and shipping -- tariffs, berths, maritime law. Dark blue uniforms; a harbor tower HQ. Led by Velen Deepkeel."
 created_at: "2026-06-24T23:31:07"

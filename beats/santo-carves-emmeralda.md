@@ -1,5 +1,5 @@
 ---
-id: "myth-beat-86d78c5f0647"
+id: "myth-beat-f73c180d9c8a"
 title: "Santo carves Emmeralda"
 summary: "Santo botches the binding, opens the girl the length of her body, and flees leaving the soul-knife"
 status: "pending"
@@ -7,9 +7,9 @@ when: "d-3/night"
 time_index: 55
 trigger: "time"
 onscreen_if: "Any PC lodged at or visiting the Sylph's Embrace that night"
-agenda: "myth-agenda-1e81c7affb7a"
-place: "myth-loc-3677ed882d0c"
-cast: ["myth-char-700323708006", "myth-char-feba95b4cc7d"]
+agenda: "myth-agenda-a070bb7c02b6"
+place: "myth-loc-d70253b09da8"
+cast: ["myth-char-1ebc75c92e6a", "myth-char-b713577f61eb"]
 created_at: "2026-09-05T12:00:00"
 ---
 

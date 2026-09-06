@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-3677ed882d0c"
+id: "myth-loc-d70253b09da8"
 name: "The Sylph's Embrace"
 type: "building"
 summary: "Constantine's high-end pleasure house on the Pearl -- elegant, thick-walled, and the site of Santo's ritual attack on Emmeralda."

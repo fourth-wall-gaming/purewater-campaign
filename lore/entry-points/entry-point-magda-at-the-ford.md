@@ -1,10 +1,10 @@
 ---
-id: "myth-lore-47ac0c359544"
+id: "myth-lore-c9a9cb47c5a1"
 title: "Entry Point: Magda at the ford"
 category: "entry-points"
 visibility: "player"
 summary: "Hel's dreams have walked an old woman to a river crossing to meet someone she has already seen"
-about: ["myth-char-0626db764024", "myth-char-ad1a4761cc18"]
+about: ["myth-char-5c39daf64e36", "myth-char-d8b643d61817"]
 created_at: "2026-09-05T12:00:00"
 ---
 

@@ -1,5 +1,5 @@
 ---
-id: "myth-lore-9cd14b15b802"
+id: "myth-lore-54848101e51e"
 title: "GM Guide: Supporting and Offscreen Cast"
 category: "gm-guide"
 visibility: "gm"

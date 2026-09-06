@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-8d5a6410c5c3"
+id: "myth-loc-b46458cc59e8"
 name: "Caravan Square"
 type: "district"
 summary: "The landward gate of Purewater: a larger outcrop at the tip of the thin western promontory, where the borderland road meets the city. The Gate of Triumph, the caravan staging-yard, and the first crush of arrivals before the canals begin."

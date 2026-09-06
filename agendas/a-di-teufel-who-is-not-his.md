@@ -1,13 +1,13 @@
 ---
-id: "myth-agenda-44334e17b71f"
+id: "myth-agenda-a0372f11e971"
 title: "A di Teufel who is not his"
 goal: "Identify, take, and control the grown son he did not know had lived"
 status: "dormant"
 clock_size: 6
 clock_filled: 0
 priority: 5
-holder: "myth-char-e61cbd307153"
-targets: ["myth-char-9cd70dd26f65", "myth-char-b06b9db266cc"]
+holder: "myth-char-cee57a7f5de2"
+targets: ["myth-char-06f87a379bbf", "myth-char-5aa2aad55f3b"]
 created_at: "2026-09-05T12:00:00"
 ---
 
