@@ -2,7 +2,7 @@
 id: "myth-beat-d28b64a8ae06"
 title: "Santo comes back for the knife"
 summary: "A theft attempt at the scene of the crime; Santo needs the soul-knife back before his father learns it is gone"
-status: "pending"
+status: "cancelled"
 when: "d-2/day"
 time_index: 57
 trigger: "time"

@@ -161,7 +161,8 @@
   "passions": {
     "Love (Sister)": 70,
     "Neutral (Curmudgeon)": 54,
-    "Fear (Arcane Magic)": 54
+    "Fear (Arcane Magic)": 54,
+    "Sworn to Gardwen (by Hel)": 70
   },
   "combat_styles": {
     "Berserker (all weapons + shields; uses anything she can get her hands on, including others' weapons)": 85
@@ -204,7 +205,7 @@
   "luck_current": 8,
   "magic_current": 14,
   "experience_rolls": 0,
-  "location": "myth-loc-e68bde0d7264",
+  "location": "myth-loc-d70253b09da8",
   "factions": [],
   "from_template": null,
   "created_at": "2026-06-24T22:24:20"

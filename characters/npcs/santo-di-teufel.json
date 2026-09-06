@@ -2,7 +2,7 @@
   "id": "myth-char-1ebc75c92e6a",
   "name": "Santo di Teufel",
   "type": "npc",
-  "status": "active",
+  "status": "dead",
   "description": "Baron Hanzo's cruel son and heir -- a sadistic young fire-mage and demonology dabbler, carrying a stolen ritual knife marked with the sigil of Asmodeus.",
   "narrative": "Santo di Teufel is Baron Hanzo's cruel, entitled heir, trained in his\nfather's dark arts and trusted with none of them. A junior fire-mage with a taste\nfor cruelty (Lust 80, Arrogance & Entitlement 75), he is charming and predatory in\nequal measure (Seduction 81, Deceit 66).\n\nHe arrives in Purewater with the column, and with a barbed ritual knife bearing the\nsigil of Asmodeus that his father does not know he has taken. He means to work a\ndemonic spirit-binding of his own and present it as proof that the blood runs true\nin him -- and he is nowhere near skilled enough to do it safely.\n\n**GM:** his agenda is *Bind a demon, and be his father's son*. Left alone he will\nchoose a victim who cannot fight back, botch the ritual, and flee leaving the knife\nbehind -- the evidence that ties the di Teufels to the possession scheme. Everything\nafter that depends on who was in the house.",
   "characteristics": {
@@ -123,7 +123,7 @@
       ],
       "ap": 0,
       "hp": 5,
-      "current_hp": 5
+      "current_hp": -3
     }
   ],
   "equipment": [

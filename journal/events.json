@@ -18,5 +18,126 @@
       "myth-char-d8b643d61817"
     ],
     "at": "2026-09-06T05:30:05"
+  },
+  {
+    "id": "myth-event-66b42fb7001b",
+    "type": "scene",
+    "summary": "CH.1 -- The ford. Magda finds the woman from Hel's dream in the tourney queue, gets a hand into her wolf's ruff (Survival 12/63), tells her the dream, and kneels in the mud to swear herself to her. Gardwen -- alone ten years -- hauls her up rather than accept the staff, gives her name, and offers her forearm. They are travelling together.",
+    "narrative": "Magda walked the wolf's side rather than the woman's, put her hand into Ruhi's ruff at the neck and scratched once; the animal locked, then settled, and afterwards sat against Magda's leg rather than Gardwen's.\n\nMAGDA: 'Who are you?'\nGARDWEN: 'Gardwen. You'\\''ll want to be somewhere else, mother. People who stand near me have a poor time of it.'\nGARDWEN: 'Your goddess. Which one.'\nMAGDA: 'Hel. Death. Not death in battle. The other kind. Everywhere else. In the bed, in the byre, in the bad winter. The ones nobody sings about.'\nGARDWEN: 'That'\\''s an honest god.'\nGARDWEN, asking the real question: 'Does she show you a boy?'\nMAGDA: 'No. Not a boy. A knight. Dragon-scale. He'\\''s dead, girl. Standing up and walking and dead, and nobody'\\''s told him.'\nGARDWEN: 'Dragon Knights. It'\\''s Dragon Knights you dream of.'\nMAGDA, kneeling, staff held out crosswise: 'I'\\''m to fight for you, girl. Protect you and yours, however you'\\''d ask it. Die for you, if it comes to that.'\nGARDWEN, refusing the staff and hauling her upright: 'Get up. The ground'\\''s freezing, you'\\''ll ruin your knees, get up--'\nGARDWEN, low: 'Ten years. Ten years and not one person. Not one. And a pig-farmer kneels in the mud at a ford--'\nGARDWEN: 'I don'\\''t know what to do with you.'\nGARDWEN, offering her forearm: 'My brother was taken by men in that armour. Ten years ago. He'\\''s the only thing I have left to look for, and I'\\''m three days behind that column, and if your god has business with a dead man in dragon-scale then Hel and I want the same road for a while.'\n\nMECHANICS: Survival roll 12 vs 63, success (northern kinship with wolves + Magda unafraid = Standard grade). No other rolls. Magda gains the Passion 'Sworn to Gardwen (by Hel)' 70.\nNOTE: Magda told Gardwen the dream includes a dragon-scale knight already dead. Gardwen read this as the Dragon Knights who took her brother -- she did NOT connect it to her brother himself, and must not be allowed to until the reveal.",
+    "session": 1,
+    "involves": [
+      "myth-char-5c39daf64e36",
+      "myth-char-96bf9d3d61eb",
+      "myth-char-d8b643d61817"
+    ],
+    "at": "2026-09-06T07:08:24"
+  },
+  {
+    "id": "myth-event-847d5ba10952",
+    "type": "scene",
+    "summary": "CH.2 (offscreen) -- The di Teufel column comes through the water-gate into Caravan Square at midday: twenty-odd Dragon Knights and a covered litter the outriders keep the crowd off. Randall, working the crowd, is close enough that a knight at the Baron's stirrup gets a clear look at his face and goes white.",
+    "narrative": "Magda and Gardwen were still on the causeway and saw none of it. The city saw all of it. The litter's curtains were laced shut and the escort faced inward as much as out.",
+    "session": 1,
+    "involves": [
+      "myth-char-cee57a7f5de2",
+      "myth-char-dbb5fdad535d",
+      "myth-char-fff1e79e219c"
+    ],
+    "at": "2026-09-06T07:12:56"
+  },
+  {
+    "id": "myth-event-fe237d07f40a",
+    "type": "scene",
+    "summary": "CH.3 -- Into the city. Magda faces down the customs man at the water-gate by presence alone (Willpower 43/63) and gets two on foot and 'a dog' through the boom without paying. He lets slip he is the third lot today through with something they will not show him. Gardwen, woodland-born, is badly unsettled by a city with no ground. Magda takes them to the Sylph's Embrace on the Pearl.",
+    "narrative": "MAGDA, to the customs man: 'We're going in.'\nCUSTOMS MAN: 'There's a fee.' -- MAGDA: 'There is.' (then silence, which he filled by standing aside)\nCUSTOMS MAN, writing: 'Two on foot. And a dog. Muzzled inside the Merchant's Quarter, that's not me, that's the Guild... and I never saw it.'\nCUSTOMS MAN, as they passed under the boom: 'Everyone's mad this week. It's the Tourney. Third lot today gone through with something they won't show me.'\nGARDWEN, six feet inside the gate, back to a wall: 'There's no ground.'\nMAGDA: 'Yeah. It's all boats and barges and slipways here lass. Let's get to the Pearl.'\nNo toll paid. Bells started up over the roofs as they entered.",
+    "session": 1,
+    "involves": [
+      "myth-char-5c39daf64e36",
+      "myth-char-96bf9d3d61eb",
+      "myth-char-d8b643d61817"
+    ],
+    "at": "2026-09-06T07:22:06"
+  },
+  {
+    "id": "myth-event-72b9ca56cc4d",
+    "type": "combat",
+    "summary": "CH.4 -- The night at the Sylph's Embrace. Santo's binding SUCCEEDED (Lore Demonology 19/25 Formidable) -- a pleasure demon is seated in Emmeralda and the wound will not close. His escape fumbled (Stealth 100): he roused the house and went into the canal. Magda, at the water door, shot him in the head with her staff sling (33/57 Hard; 2d6=8 to the Head, -3hp, serious) and he drowned. Ila dived and hooked the body; Magda and Gardwen butchered it in Constantine's scullery and sent it to Renko's hog-yard in waste barrels. Magda kept the signet, cloak and four bundles of hair.",
+    "narrative": "DEMON (in Emmeralda), of the wound: 'That's the way in. He wasn't very neat about it... he was SO nervous, Magda. Shaking. I had to be kind to him.'\nDEMON: 'He's coming back, you know. He said so.'\nMAGDA: 'Who is the young gentleman? So we know how tae greet him... on his return?'\nDEMON: 'Santo. Just Santo -- he didn't give me the rest, they never do, they think it's clever.'\nDEMON: 'He said he'd come back for the others. Four more, he said, and then his father would HAVE to see.'\nCONSTANTINE, identifying the ring: 'That's their arms. The worm eating itself.'\nGARDWEN, on the killing: 'Good.' then 'And bad. Because someone paid for that cloak.'\nGARDWEN to ILA: 'When I was your age, men came to my house at night and killed my family... Nobody's asking you to hide.'\nILA: 'Two tugs if I've got him. Three if I need to come up.' and on surfacing: 'His face is UP.'\nMAGDA to ILA: 'You did a hard thing. There's a difference, and nobody tells you, so I'm telling you.'\nMAGDA to GARDWEN: 'We killed one of the enemy tonight girl. That's a good start.'\nGARDWEN: 'He's the right age to be one of their sons. Not one of the men... It's a start. It's not the one I came for.'\nGARDWEN on the healing: 'It let me do the whole of it, and then it undid it... I think it LIKED it.'\n\nRECOVERED FROM THE CLOAK (Perception critical 10/105): di Teufel signet (worm eating itself); 11 border coins; tailor's mark of a tower with three windows; pulped letter fragment '--ee days before the Lady's Tourney, at the hou--' with broken seal; FOUR full twists of oiled silk each holding dark red hair bound with copper wire, plus one empty. Emmeralda's hair is black -- four other women were intended.\nMECHANICS: Magda Willpower 42/63 to face the demon; Gardwen Swim 88/36 FAILED and nearly capsized the skiff; Magda Brawn 18/71 hauled her in; Ila Willpower 44/72 and Swim 8/40 both succeeded.",
+    "session": 1,
+    "involves": [
+      "myth-char-1ebc75c92e6a",
+      "myth-char-2cabe8ce1bf4",
+      "myth-char-49ee20e7a554",
+      "myth-char-5c39daf64e36",
+      "myth-char-d8b643d61817"
+    ],
+    "at": "2026-09-06T13:55:30"
+  },
+  {
+    "id": "myth-event-fa4361781c2a",
+    "type": "scene",
+    "summary": "CH.5 -- Reconnaissance at the DragonBarge. Magda and Gardwen scout the Baron's steaming black ship at High Isle's seaward pier. Count: EIGHT Dragon Knights aboard, no banner, no Baron, no household -- he is lodged ashore NW round the point and the ship is fed twice daily by its own boat in armloads, food for a handful. One shuttered port amidships, barred from OUTSIDE. Nothing is collected from the ship; slops go in the water and barrows of clinker come off daily. Magda befriends Pell (Renko's waste lad), then gets Ann Yannick, the ship's laundress, to talk.",
+    "narrative": "PELL: 'They tip it in the water. Good scraps, meat and all... Renko offered to take it for nothing and they walked him back up the pier by his elbows.' On the laundry: 'One bag. Every day. And it's all the one thing.'\nANN YANNICK: 'Do you know what boiled blood smells like?'\nANN: 'It's the same shape every day. Same place on the sheet. Same size. Like it's been let out of him careful, in the same spot, and mopped, and put back.'\nANN: 'It goes grey, and it smells like the forge, and my hands were numb to the elbow.'\nANN: 'Second morning there was a fighting man's quilted under-shirt in it. The arming-points were CUT, front and back.'\nANN: 'The white-haired one asked me yesterday whether I ever wash for the houses on the Pearl.' (= Blau hunting the Pearl connection)\nANN, locating the wound on a sheet: 'Upper body. Left side. Chest, or just under the arm... Somebody opens the same place, the same way, every morning.'\nMAGDA: 'These men are stone killers. The albino worse than most... At some point, you have to choose sides.'\nANN: 'You tell Marisette that Ann Yannick washes for that ship every morning, and she'll go on LOOKING. And if that boy's still bleeding on the day of the Tourney, I want somebody to have done something about it.'\nMECHANICS: Magda Perception 49/70 (pier traffic) and 70/70 (count of eight); Survival 78/63 FAILED with the cart-horse (which opened the conversation with Pell anyway); Influence 54/27 FAILED -- the sympathetic face and the blood joke misfired and Ann went wary; Ann Yannick Willpower 66/55 failed to keep it in; Ann Insight 44/45 read Magda as sincere by one point.\nOFFSCREEN: Blau rolled Streetwise 82/66 and FAILED to trace Santo on the Pearl today; di Teufel servants worked the island house to house. New agenda for Blau: 'Find the young master'.",
+    "session": 1,
+    "involves": [
+      "myth-char-5c39daf64e36",
+      "myth-char-d8b643d61817"
+    ],
+    "at": "2026-09-06T15:49:51"
+  },
+  {
+    "id": "myth-event-dc683f48d8cc",
+    "type": "gm-note",
+    "summary": "Marisette had the culprit's name inside a day -- Magda walked it to her before dawn",
+    "narrative": null,
+    "session": null,
+    "involves": [],
+    "at": "2026-09-06T16:27:20"
+  },
+  {
+    "id": "myth-event-0e60610845ac",
+    "type": "gm-note",
+    "summary": "Nerissa now has a cause she can name",
+    "narrative": null,
+    "session": null,
+    "involves": [],
+    "at": "2026-09-06T16:27:20"
+  },
+  {
+    "id": "myth-event-2a8086a95197",
+    "type": "scene",
+    "summary": "CH.6 -- Marisette's counting room, dusk. Magda reports the DragonBarge recon. Hesper, who has spent the afternoon with the demon in Emmeralda, identifies what is aboard: not a demon but a SHADE -- a bound dead man in a living host, maintained by the daily bleeding. Magda tells them Hel's dream ('lay the dragon warrior to rest'); Hesper seizes on 'rest' as proof it is a dead man, not a demon. Marisette refuses a frontal assault on the ship and sends them to High Priestess Nerissa instead.",
+    "narrative": "HESPER on the demon in Emmeralda: 'It's bored, it's fond of the girl's memories... it complained that it had been promised something better than a courtesan. It said its master's father keeps a PROPER one. The old kind, the kind that remembers being a person.'\nMAGDA: 'Like a ghost? Like a dead knight?' -- then told them Hel's dream.\nHESPER: 'You do not lay a demon to rest. There is nothing in a demon to rest... You lay a DEAD MAN to rest.'\nHESPER: 'It is not torture and it is not a ritual scar. It is MAINTENANCE. You bleed the host to keep the seat clean.'\nGARDWEN: 'How long can they keep a person like that?' HESPER: 'Years. If they start young enough that the body grows around it.'\nGARDWEN, afterwards: 'He was seven, Magda. I have spent ten years hoping he was alive. I never once thought about what for.'\nMAGDA proposing a direct assault: 'There's only 8 of them on that boat. With enough men we could just go and get him.'\nMARISETTE: 'It is not that it is stupid. It is that it is LAST. You only get to do it once.'\nHESPER: 'You would be stealing a lit lamp... You cannot rescue him until you know what the anchor is.'\nMARISETTE on the bells: 'That was not a welcome peal. That is the FOULING alarm... The High Priestess rang it on the day Hanzo di Teufel entered this city, and somebody had it silenced before the third peal. And her niece has red hair.'",
+    "session": 1,
+    "involves": [
+      "myth-char-156265245397",
+      "myth-char-28320448049e",
+      "myth-char-5c39daf64e36",
+      "myth-char-d8b643d61817"
+    ],
+    "at": "2026-09-06T16:27:55"
+  },
+  {
+    "id": "myth-event-abf6c1e1b096",
+    "type": "scene",
+    "summary": "CH.7 -- The Temple of the Lake Lady, midnight. Marisette's note and a grey wolf at the gate get them to Nerissa, who has not slept since noon the day before. Magda confesses the killing and the pigs outright; Nerissa reads her as truthful (Insight 56/80) and trades her own secret: the sacred channel went THIN four minutes after noon as the Baron entered, and Prince Emeric silenced her alarm in writing. Shown Santo's five twists of hair, Nerissa determines they were cut with shears from behind -- and names her niece Sana, nineteen, unseen for three weeks.",
+    "narrative": "NERISSA: 'Say the worst of it first and we will work backwards.'\nMAGDA: 'That'd be when I killed Hanzo's evil little shit of a son after he bound a demon into one of the girls at the Sylph's Embrace... and then fed his body to pigs.'\nNERISSA: 'You smiled when you said pigs.' MAGDA: 'Aye.' NERISSA: 'Good. I'd not trust a person who could say that flatly.'\nNERISSA: 'This went THIN. The Lady's presence in her own water went thin, the way a voice goes thin at a distance, in the space of about ten heartbeats. I have served here since I was nineteen and it has never once done that.'\nNERISSA on being silenced: 'Written and sealed by Prince Emeric... If I had rung on I would have been removed by Thursday and replaced by somebody who wouldn't ring at all.'\nNERISSA, examining the hair: 'Beneath the wire. Is there a knot in it, or is it cut clean at both ends?' ... 'Then it was taken with shears, off a head, by somebody standing behind her. Somebody got close enough to my sister's daughter to put shears in her hair, and she did not scream, and she has not told me.'\nNERISSA: 'Her name is Sana. She's nineteen. She has been at the temple school on Lost Isle for six weeks and I have not seen her in three.'\nMECHANICS: Nerissa Insight 56/80 success -- read Magda as entirely truthful.",
+    "session": 1,
+    "involves": [
+      "myth-char-0299f408c181",
+      "myth-char-1f1bcc8ed954",
+      "myth-char-5c39daf64e36",
+      "myth-char-d8b643d61817"
+    ],
+    "at": "2026-09-06T16:27:55"
+  },
+  {
+    "id": "myth-event-0175ea0878ec",
+    "type": "session-end",
+    "summary": "SESSION 1 ends at the Temple of the Lake Lady, midnight of d-2. Magda arrived at the ford a stranger and by the end of two days has sworn herself to Gardwen, killed the Baron's heir and destroyed the body, allied with the ruler of the Pearl, and brought the High Priestess of the Lake Lady into the story. Santo's binding SUCCEEDED (a divergence -- Emmeralda is possessed, not dying). Blau is hunting the missing heir and has not yet found the trail.",
+    "narrative": null,
+    "session": 1,
+    "involves": [],
+    "at": "2026-09-06T16:27:55"
   }
 ]

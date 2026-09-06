@@ -4,7 +4,7 @@ title: "Keep the Lady's water clean"
 goal: "Hold the Tourney without the sacred water being profaned"
 status: "active"
 clock_size: 6
-clock_filled: 0
+clock_filled: 3
 priority: 2
 holder: "myth-char-1f1bcc8ed954"
 targets: ["myth-faction-2b6cfc142c63", "myth-loc-6f1056d77024"]

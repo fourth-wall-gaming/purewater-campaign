@@ -2,7 +2,7 @@
 id: "myth-beat-f73c180d9c8a"
 title: "Santo carves Emmeralda"
 summary: "Santo botches the binding, opens the girl the length of her body, and flees leaving the soul-knife"
-status: "pending"
+status: "cancelled"
 when: "d-3/night"
 time_index: 55
 trigger: "time"

@@ -1,12 +1,12 @@
 ---
 id: "myth-beat-08d9b0252b45"
-title: "Hesper takes the look-alike"
-summary: "Marisette's arcane enforcer abducts the man matching the description and puts him in a chair in the catacombs"
-status: "pending"
+title: "Hesper attends Emmeralda as a physician"
+summary: "Marisette already has the culprit's name from Magda, so Hesper is not hunting a look-alike -- he is sent quietly to Constantine's to examine what is seated in Emmeralda"
+status: "played"
 when: "d-2/dawn"
 time_index: 56
 trigger: "time"
-onscreen_if: "Fires on whoever in the city is wearing Santo's face -- Randall, Conall, or both"
+onscreen_if: "Any PC at the Sylph's Embrace when Hesper arrives"
 agenda: "myth-agenda-c447b43512d4"
 place: "myth-loc-3e03305b5abb"
 cast: ["myth-char-156265245397", "myth-char-28320448049e"]

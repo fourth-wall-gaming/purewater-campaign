@@ -2,7 +2,7 @@
 id: "myth-agenda-a070bb7c02b6"
 title: "Bind a demon, and be his father's son"
 goal: "Complete a binding of his own and force the Baron to see him as an heir worth the name"
-status: "active"
+status: "abandoned"
 clock_size: 6
 clock_filled: 0
 priority: 5

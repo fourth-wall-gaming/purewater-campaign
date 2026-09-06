@@ -2,7 +2,7 @@
 id: "myth-beat-3babb4f6c31d"
 title: "Santo's tantrum on the Pearl street"
 summary: "Santo screams threats of arson at Constantine in the open street until Blau hauls him away"
-status: "pending"
+status: "cancelled"
 when: "d-2/dusk"
 time_index: 58
 trigger: "time"

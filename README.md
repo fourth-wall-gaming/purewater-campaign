@@ -14,11 +14,11 @@ campaign format (v1.1).
 | Locations | 18 |
 | Factions | 13 |
 | Encounters | 0 |
-| Journal events | 2 |
-| Agendas | 12 |
-| Beats | 14 |
-| Facts | 17 |
-| Knowledge edges | 13 |
+| Journal events | 12 |
+| Agendas | 14 |
+| Beats | 15 |
+| Facts | 28 |
+| Knowledge edges | 43 |
 
 ## Repository layout
 
@@ -48,14 +48,16 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [A di Teufel who is not his](agendas/a-di-teufel-who-is-not-his.md) -- *Hanzo di Teufel* (0/6)
 - [Bind a demon, and be his father's son](agendas/bind-a-demon-and-be-his-father-s-son.md) -- *Santo di Teufel* (0/6)
 - [Clean up after the young master](agendas/clean-up-after-the-young-master.md) -- *Blau* (0/6)
-- [Field the champion and take the city](agendas/field-the-champion-and-take-the-city.md) -- *Hanzo di Teufel* (2/8)
-- [Find who carved Emmeralda](agendas/find-who-carved-emmeralda.md) -- *Marisette* (0/6)
+- [Field the champion and take the city](agendas/field-the-champion-and-take-the-city.md) -- *Hanzo di Teufel* (0/8)
+- [Find the young master](agendas/find-the-young-master.md) -- *Blau* (0/6)
+- [Find who carved Emmeralda](agendas/find-who-carved-emmeralda.md) -- *Marisette* (6/6)
 - [Get paid, keep the company whole](agendas/get-paid-keep-the-company-whole.md) -- *Tat Atarer* (0/4)
-- [Keep the Lady's water clean](agendas/keep-the-lady-s-water-clean.md) -- *High Priestess Nerissa* (0/6)
+- [Keep the Lady's water clean](agendas/keep-the-lady-s-water-clean.md) -- *High Priestess Nerissa* (3/6)
 - [Keep the champion unseen](agendas/keep-the-champion-unseen.md) -- *Hanzo di Teufel* (1/4)
 - [Keep the table level](agendas/keep-the-table-level.md) -- *Crowbill* (0/6)
 - [One big score, and a name](agendas/one-big-score-and-a-name.md) -- *Nus* (0/4)
 - [Shield the boy, unmask the house](agendas/shield-the-boy-unmask-the-house.md) -- *Temerach Nebulo* (1/6)
+- [The four women, and the reckoning](agendas/the-four-women-and-the-reckoning.md) -- *Marisette* (0/8)
 - [Wake a Dragon King](agendas/wake-a-dragon-king.md) -- *The Awake the Dragon Movement* (3/10)
 
 ## The worldbook (lore index)
