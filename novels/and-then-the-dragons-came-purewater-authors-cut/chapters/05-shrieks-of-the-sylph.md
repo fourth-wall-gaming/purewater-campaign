@@ -78,9 +78,17 @@ polite way to raise the matter.
 Then the old woman came up the stairs.
 
 She had gone *down*, apparently, while everyone else in the house was going up,
-and she came back with a soaking cloak over her arm and a lamp in her hand and
-the entirely settled expression of a woman who has been outside dealing with
-something.
+and she came back with a soaking cloak over her arm and the entirely settled
+expression of a woman who has been outside dealing with something.
+
+She did not come straight in, either. She got as far as the doorway, and looked
+at the bed for about four seconds, and then went away again down the passage
+with the cloak, and Constantine — who had a great deal else to be looking at —
+registered it and did nothing about it.
+
+She was gone perhaps a quarter of an hour. Constantine has since worked out
+roughly what she was doing in that quarter of an hour and has decided not to
+ask.
 
 She went into the room. She sat on the bed when she was asked to. She let the
 thing pat the coverlet at her with a bloody hand.
