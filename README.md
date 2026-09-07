@@ -14,7 +14,7 @@ campaign format (v1.1).
 | Locations | 18 |
 | Factions | 13 |
 | Encounters | 2 |
-| Journal events | 19 |
+| Journal events | 203 |
 | Agendas | 14 |
 | Beats | 15 |
 | Facts | 42 |
@@ -35,6 +35,7 @@ campaign format (v1.1).
 | `beats/` | What happens next if nobody interferes, scheduled in world time |
 | `facts/` | Situational truth: one proposition per file, with when it became true |
 | `knowledge.json` | Who knows which fact, how, and since when |
+| `novels/` | Novelizations of actual play, one directory per protagonist/party |
 
 The canonical full-prose worldbook sources live in [`setting/`](setting/) — see its README for the book list and audience guide. The `lore/` files below are the same material sliced into database-ready entries.
 
@@ -157,6 +158,12 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [The Quiet Hand](factions/the-quiet-hand.md) — A secret, centuries-old fellowship that steers the world toward the good from the shadows -- by knowing first and acting unseen. Espionage as mercy. Hesper is their agent in Purewater. (GM: a benevolent hidden patron.)
 - [The Swords of the Lake](factions/the-swords-of-the-lake.md) — An elite knightly order sworn to the Lake Lady (Nimue) and the protection of the realm and its water magic. Temerach Nebulo is their most famous blade.
 - [The Watercrafters Guild](factions/the-watercrafters-guild.md) — Artisan-mages of boats, canals, and water enchantment. Indigo sashes; workshops on Merchant's and Forge Quarter. Led by the blue-handed Guildmaster Torval.
+
+## Novels
+
+Actual play at the table, retold as fiction — one play session per chapter, drafted from the campaign journal via the mythras-gm novelization workflow.
+
+- [And Then the Dragons Came: Purewater](novels/and-then-the-dragons-came-purewater/and-then-the-dragons-came-purewater.pdf) — And Then The Dragons Came Purewater's run, in the style of Hemingway
 
 ## Loading this campaign
 
