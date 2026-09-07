@@ -3,9 +3,9 @@ format_version: "1.1"
 id: "myth-campaign-8327f8687a98"
 name: "And Then the Dragons Came: Purewater"
 description: "A Classic Fantasy Imperative port of 'And then the Dragons Came', relocated to Purewater -- a Venice-like canal city where the sacred waters of the Lake Lady meet the sea. Baron Hanzo di Teufel arrives with his Dragon Knights for the Lake Lady's Tourney, his possessed champion concealed among them. Four strangers arrive the same week. Built as a living world: every NPC and faction runs its own agenda on a clock, and what the party does not witness happens anyway."
-game_date: "d-1/afternoon"
-current_scene: "Late afternoon of the day before the Lake Lady's Tourney. The plan is set for tonight's ebb: Crowbill's twelve men in six unlit punts take the DragonBarge in the Mouth; Ravella of the Mermaid's Court cools the steaming hull and brings water-folk; Hesper comes to perform the removal; Nerissa holds Lost Isle and tracks the ship by the wound it leaves. Magda will stand as Hel's proxy and answer for a thousand-year-old betrayal. The quiet one is rowing Thuban Eta's bones back to the very stair the party holds. Blau has hunted Magda for two days and failed; the Baron has already reached Prince Emeric; there is no warrant."
-time_index: 61
+game_date: "d0/night -- the night of the Lake Lady's Tourney"
+current_scene: "The Moist Oyster, after the Tourney. Thuban Eta is at rest; the boy called Bird is free; the Baron is in irons; Nerissa has thanked the canal folk from the temple steps and told Magda she is not welcome on Temple Isle again. Conall and Randall have just seen each other for the first time. Thorne is still owed the true version, once."
+time_index: 64
 session_number: 0
 created_at: "2026-09-05T12:00:00"
-exported_at: "2026-09-07T02:21:44"
+exported_at: "2026-09-07T21:24:53"

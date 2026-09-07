@@ -1,0 +1,63 @@
+{
+  "id": "myth-enc-fcf50d599da3",
+  "name": "The deck of the DragonBarge",
+  "description": null,
+  "summary": null,
+  "status": "resolved",
+  "round": 3,
+  "combatants": [
+    {
+      "id": "myth-char-d8b643d61817",
+      "name": "Magda",
+      "initiative": 15,
+      "ap": 2,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-6e5ffa07cfd4",
+      "name": "Dragon Knight (in the way)",
+      "initiative": 14,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-dbb5fdad535d",
+      "name": "Blau",
+      "initiative": 14,
+      "ap": 1,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 11
+    },
+    {
+      "id": "myth-char-b78cb483b60c",
+      "name": "Dragon Knight (the door)",
+      "initiative": 9,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-3fa173b6a213",
+      "name": "Blau's guard (spear)",
+      "initiative": null,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": []
+    },
+    {
+      "id": "myth-char-35b01e5d9418",
+      "name": "Blau's guard (sword)",
+      "initiative": null,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": []
+    }
+  ],
+  "created_at": "2026-09-07T18:29:05"
+}

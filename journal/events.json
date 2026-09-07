@@ -169,5 +169,70 @@
       "myth-char-e828864471f6"
     ],
     "at": "2026-09-07T02:21:21"
+  },
+  {
+    "id": "myth-event-3329407eca4c",
+    "type": "combat",
+    "summary": "CH.10 -- The Mouth. Ravella cools forty feet of burning hull; twelve of Crowbill's canal men go up the lines. Magda stays in the punt and slings: a critical under the raised arm blocks the rail, then a stone into Blau's unarmoured gut from forty yards. She goes up the rope on Brawn (berserk making it one grade easier) and a Luck Point, comes over the rail screaming Hel's fury, and cuts through to Blau. Gardwen's Entangle takes the whole waist of the ship. Magda kills Blau with a critical placed in the wound she had already made, then -- unable to break the rage (two failed Willpower rolls) -- kills nine helpless entangled men before it lets go of her.",
+    "narrative": "BLAU, dying, to his men: 'Cut the boy's throat.'\nBLAU, earlier: 'That's her. The northern woman. Nobody told me she was SEVENTY.'\nIN THE CABIN: chalk kept fresh daily, a cot bolted down, and a boy of seventeen whose upper left chest has been opened and reclosed four hundred times.\nCAILAN and THUBAN, one throat: '--Don't--' / '--she's not here for you.'\nTHUBAN: 'I have been listening to you come up this ship for a quarter of an hour... Get us off this ship before the other one comes back with my bones.'\nMECHANICS: Ravella 36/75 cooled the hull but 22 meant the deck noticed; Magda's slings 69/57 miss, 1/57 CRITICAL, 23/57 hit Blau's abdomen for 6 (0/6 serious); Brawn 95/71 failed, Luck spent, 59 succeeded; berserk axe 81/85 with a Bleed; two evades put her prone (Mythras evade = prone); Blau killed on a 6/57 critical, Choose Location into the abdomen, -7/6 MAJOR. Berserk ended: Fresh -> Winded.",
+    "session": 1,
+    "involves": [
+      "myth-char-5c39daf64e36",
+      "myth-char-77eeb2d15196",
+      "myth-char-d8b643d61817",
+      "myth-char-dbb5fdad535d"
+    ],
+    "at": "2026-09-07T21:24:04"
+  },
+  {
+    "id": "myth-event-4575ee40c42d",
+    "type": "scene",
+    "summary": "CH.11 -- Lost Isle, the failed rite. Magda's first attempt for the two drowned men failed (87/52) -- Ravella corrected the form: do not ask Hel to take them, GIVE them to her and say somebody came back. The litany worked (52/66). The quiet one landed with Thuban's bones and was taken clean by the Swords; he refused to talk, and Magda beheaded him where he sat -- costing Nerissa the only lead to Bettan. The great rite then FAILED (47/44, Luck re-roll 56) because the Baron still wore the latch round his neck.",
+    "narrative": "RAVELLA: 'You said take them. You're asking her to come and fetch. She won't. She takes them when somebody finally BRINGS them.'\nMAGDA'S LITANY: 'Brothers, workers, toilers, men... then these bastards brought you back to haul and work and toil because it helped them. So fuck em. Come with me, brothers... go back to the dark deep sea.'\nNERISSA, after the beheading: 'He was the only living soul who knew where Bettan is. Fourteen years old... That isn't purity, Magda. That's ARITHMETIC.'\nNERISSA: 'I will work with you until this is finished... When the boy is out and the Baron is down, you and I are done, and you will not be welcome on Temple Isle. Sword-Captain Vell's axe stays with you. She'd have wanted that and I'm not petty.'\nTHUBAN, on why the fight was never his: 'They did not fasten me in with iron. They fastened me in with the night I died... You do not need to fight me out. You need to come and get me out of that water.'\nMAGDA, unrepentant: 'I killed him because he deserved it. I don't even know what arithmetic is.'",
+    "session": 1,
+    "involves": [
+      "myth-char-156265245397",
+      "myth-char-1f1bcc8ed954",
+      "myth-char-5c39daf64e36",
+      "myth-char-77eeb2d15196",
+      "myth-char-d8b643d61817"
+    ],
+    "at": "2026-09-07T21:24:04"
+  },
+  {
+    "id": "myth-event-ef7f12709240",
+    "type": "scene",
+    "summary": "CH.12 -- The Lake Lady's Tourney. Temerach wins the Archery with a critical on the moving-boat pass. Nerissa is displaced from presenting the prize by the chamberlain Vosk, so the warning never reaches her (94/80) -- but the box arrives on time. Hanzo holds his face over a severed head (58/94), makes his excuses and leaves for his boat. On the water-stair Magda slings him off his feet, breaks his casting wrist with the quarterstaff, slaps his good hand down and tears the locket off his throat on an Unarmed critical. Temerach arrests him by warrant.",
+    "narrative": "MAGDA'S NOTE IN THE BOX: 'YOUR SHIP IS ON THE BOTTOM. YOUR MAN IS DEAD. I HAVE YOUR CHAMPION AND HIS BONES. -- THE PIG WOMAN'\nHANZO: 'The pig woman. You've cost me a great deal in three days... you are standing on wet stone at the bottom of a walled passage, which is a dreadful place to fight a man like me.'\nMAGDA: 'Hel's waiting for you Baron. Time you went down.'\nTEMERACH: 'You are under arrest by warrant of the Order of the Lake Lady... I have been trying to say those words to you for four years.'\nMAGDA on the Archery: 'One of the most beautiful things I've seen in my life.' TEMERACH: 'The sixth was high.'\nMECHANICS: Temerach's passes 92/121, 3/81 CRITICAL, 34/61. Magda's sling 43/85 vs his evade 15/36 -- she won the tie on the higher roll; staff 63/85 with Choose Location to the arm; Unarmed 12/128 CRITICAL for the locket.",
+    "session": 1,
+    "involves": [
+      "myth-char-1f1bcc8ed954",
+      "myth-char-a34f0237a753",
+      "myth-char-cee57a7f5de2",
+      "myth-char-d8b643d61817"
+    ],
+    "at": "2026-09-07T21:24:04"
+  },
+  {
+    "id": "myth-event-0c7ef909ac73",
+    "type": "scene",
+    "summary": "CH.13 -- The stair, and the funeral. With bones, door and latch in one place for the first time in a century, Magda stood two steps into the black water where nine men drowned a bound knight, told his tale, named the murder, and gave him to Hel (28/66). The locket opened by itself. Something went down past her legs, unhurried, and looked at her once. The boy survived it. Magda -- who had killed eleven people in two days -- went to her knees and wept on Gardwen and the boy until she couldn't breathe.",
+    "narrative": "MAGDA: 'You went in here and nobody came. I came. You're not theirs and you're not his and you were never Valhalla's, because they cheated you of the death that buys it. You're hers. You've always been hers. Mother of the darkness, this is Thuban Eta and I have brought him. He's yours. Take him home.'\nTHUBAN, at the last: 'You came back.' / 'Then I am ready, and I have been ready for a thousand years, and I would like you to be quick -- because he is very tired and I have taken enough of his life.'\nTHE BOY, afterwards: '...it's quiet.'\nGARDWEN: 'Magda. I don't know his name. He was seven. We called him Bird.'\nMAGDA: 'Call him Bird then. It'd be a lot better than anything those bastards called him... he'll pick his own when he's ready.'\nNERISSA turned her back and made the others stop looking, which was the kindest thing she did all week.",
+    "session": 1,
+    "involves": [
+      "myth-char-5c39daf64e36",
+      "myth-char-cac22cc2cbf6",
+      "myth-char-d8b643d61817"
+    ],
+    "at": "2026-09-07T21:24:29"
+  },
+  {
+    "id": "myth-event-4cfa4ab2cf5d",
+    "type": "session-end",
+    "summary": "SESSION 1 ENDS at the Moist Oyster, the night of the Lake Lady's Tourney -- Conall and Randall seeing each other for the first time in twenty-two years across a crowded room. In four days Magda arrived a stranger at a ford, swore herself to Gardwen, killed the Baron's heir and fed him to pigs, took a ship in the Mouth, killed Blau, laid a thousand-year-old knight to rest, and tore the binding locket off a Baron's throat. Thuban Eta is at rest. Cailan -- 'Bird' -- is free and empty and his own. Hanzo di Teufel is in irons awaiting a magistrate. STILL OPEN: Bettan and the third filled girl; Emmeralda still carrying her demon; the Awake the Dragon Movement, who have lost their candidate but keep Thuban's border tower; and two bastard di Teufel twins who have just become extremely interesting to some very bad people.",
+    "narrative": null,
+    "session": 1,
+    "involves": [],
+    "at": "2026-09-07T21:24:29"
   }
 ]

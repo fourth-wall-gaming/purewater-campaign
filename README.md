@@ -9,16 +9,16 @@ campaign format (v1.1).
 | Contents | Count |
 |---|---|
 | Lore entries | 15 |
-| Characters | 33 (PCs: Conall Bjornlasch, Gardwen, Magda, Randall) |
+| Characters | 37 (PCs: Conall Bjornlasch, Gardwen, Magda, Randall) |
 | Creature templates | 4 |
 | Locations | 18 |
 | Factions | 13 |
-| Encounters | 1 |
-| Journal events | 14 |
+| Encounters | 2 |
+| Journal events | 19 |
 | Agendas | 14 |
 | Beats | 15 |
-| Facts | 36 |
-| Knowledge edges | 66 |
+| Facts | 42 |
+| Knowledge edges | 81 |
 
 ## Repository layout
 
@@ -134,6 +134,10 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [Thuban Eta](characters/npcs/thuban-eta.json) — The ancient dragon-knight spirit bound inside Cailan. A betrayed tactical genius from the Dragon Kings era, held in thrall by Baron Hanzo's ritual through his bones and the binding locket. Indomitable will (Willpower 95), peerless tactics, honors the old codes -- a potential ally if freed.
 - [Hollow man (sandy)](characters/npcs/hollow-man-sandy.json) — Generic Purewater street thief -- pickpocket, second-storey worker, or smuggler's runner. The Lullwater and the Pearl are thick with them.
 - [Hollow man (billhook)](characters/npcs/hollow-man-billhook.json) — Generic Purewater street thief -- pickpocket, second-storey worker, or smuggler's runner. The Lullwater and the Pearl are thick with them.
+- [Dragon Knight (the door)](characters/npcs/dragon-knight-the-door.json) — Typical Flame Soldier of Baron Hanzo's Dragon Knights -- a hardened borderland raider in dragon-marked armor. Many carry a fire-touched blade (Bladesharp-equivalent, +1 fire damage).
+- [Dragon Knight (in the way)](characters/npcs/dragon-knight-in-the-way.json) — Typical Flame Soldier of Baron Hanzo's Dragon Knights -- a hardened borderland raider in dragon-marked armor. Many carry a fire-touched blade (Bladesharp-equivalent, +1 fire damage).
+- [Blau's guard (spear)](characters/npcs/blau-s-guard-spear.json) — Typical Flame Soldier of Baron Hanzo's Dragon Knights -- a hardened borderland raider in dragon-marked armor. Many carry a fire-touched blade (Bladesharp-equivalent, +1 fire damage).
+- [Blau's guard (sword)](characters/npcs/blau-s-guard-sword.json) — Typical Flame Soldier of Baron Hanzo's Dragon Knights -- a hardened borderland raider in dragon-marked armor. Many carry a fire-touched blade (Bladesharp-equivalent, +1 fire damage).
 
 **Creatures**
 - [Ruhi](characters/creatures/ruhi.json) — Gardwen's befriended companion -- a loyal she-wolf; swift, keen-nosed and savage in the bite.

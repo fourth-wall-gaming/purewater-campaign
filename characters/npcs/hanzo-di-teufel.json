@@ -89,7 +89,7 @@
       ],
       "ap": 0,
       "hp": 8,
-      "current_hp": 8
+      "current_hp": 3
     },
     {
       "name": "Right Arm",
@@ -99,7 +99,7 @@
       ],
       "ap": 0,
       "hp": 5,
-      "current_hp": 5
+      "current_hp": 1
     },
     {
       "name": "Left Arm",
