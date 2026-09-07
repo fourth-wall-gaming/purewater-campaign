@@ -63,7 +63,7 @@
         1,
         3
       ],
-      "ap": 3,
+      "ap": 5,
       "hp": 5,
       "current_hp": 5
     },
@@ -73,7 +73,7 @@
         4,
         6
       ],
-      "ap": 3,
+      "ap": 5,
       "hp": 5,
       "current_hp": 5
     },
@@ -83,7 +83,7 @@
         7,
         9
       ],
-      "ap": 3,
+      "ap": 5,
       "hp": 6,
       "current_hp": 6
     },
@@ -93,7 +93,7 @@
         10,
         12
       ],
-      "ap": 3,
+      "ap": 5,
       "hp": 7,
       "current_hp": 7
     },
@@ -103,7 +103,7 @@
         13,
         15
       ],
-      "ap": 3,
+      "ap": 5,
       "hp": 4,
       "current_hp": 4
     },
@@ -113,7 +113,7 @@
         16,
         18
       ],
-      "ap": 3,
+      "ap": 5,
       "hp": 4,
       "current_hp": 4
     },
@@ -123,12 +123,22 @@
         19,
         20
       ],
-      "ap": 3,
+      "ap": 6,
       "hp": 5,
       "current_hp": 5
     }
   ],
   "equipment": [
+    {
+      "name": "War axe",
+      "damage": "1d8+1",
+      "size": "M",
+      "reach": "M",
+      "notes": "bearded, hand-and-a-half haft; Bleed, Sunder",
+      "ap": 4,
+      "hp": 8,
+      "enc": 2
+    },
     {
       "name": "Quarterstaff",
       "damage": "1d8",
@@ -139,24 +149,30 @@
       "enc": 3
     },
     {
-      "name": "Staff Sling",
+      "name": "Sling",
       "type": "ranged",
-      "damage": "2d6",
+      "damage": "1d8",
       "force": "E",
-      "range": "15/75/150",
-      "load": 4,
+      "range": "10/80/160",
       "notes": "Stun Location",
-      "ap": 3,
-      "hp": 6,
-      "enc": 2
+      "enc": 1
     },
     {
-      "name": "Ringmail (all locations)",
+      "name": "Mail hauberk and coif (all locations)",
       "armor": true,
-      "ap": 3,
+      "ap": 5,
+      "enc": 9,
+      "notes": "Swords of the Lake issue; AP 5"
+    },
+    {
+      "name": "Kettle helm",
+      "armor": true,
+      "ap": 6,
       "enc": 2,
-      "notes": "AP 3 each location; armor penalty -3"
-    }
+      "notes": "broad brim; head AP 6"
+    },
+    "sling stones (14)",
+    "Marisette's purse"
   ],
   "passions": {
     "Love (Sister)": 70,
@@ -185,12 +201,12 @@
       "Berserk Rage: Endurance & Willpower rolls to stay fighting 1 grade easier; Brawn 1 grade easier; parry/evade 1 grade harder",
       "Berserk Rage: lasts 14 rounds; at the end automatic 1 Fatigue level loss; cannot retreat and must always engage the enemy"
     ],
-    "armor": "Ringmail on all 7 locations (AP 3, ENC 2 each); armor penalty -3",
+    "armor": "Mail hauberk + coif (AP 5 all locations), kettle helm (head AP 6)",
     "encumbrance": {
-      "avg_species_siz": 13,
-      "current_load": 12,
+      "current_load": 17,
       "load_band": "Normal",
-      "armor_penalty": -3
+      "armor_penalty": -4,
+      "note": "ENC 17 -- under the 26 threshold, Artful Dodger active"
     },
     "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
     "source_typos_normalized": [

@@ -139,5 +139,35 @@
     "session": 1,
     "involves": [],
     "at": "2026-09-06T16:27:55"
+  },
+  {
+    "id": "myth-event-33ffc5139deb",
+    "type": "combat",
+    "summary": "CH.8 -- Lost Isle. Gardwen's Detect Evil (Piety 46/44 failed from the bank; 46/69 succeeded holding Nerissa's hand in the channel, augmented by Love of Family) finds Sana alive and hiding in a tower-stub and two 'wrong' men below. Sana comes down on Magda's proof of an eleven-page letter about a heron. Magda kills one hollow man (sling to the arm, then a staff blow to the head after he had surrendered) and cripples the other; Gardwen's Hold Person grips him, which it should not. They take Ellick Sarn prisoner and uncover an ancient swept stair -- a door for laying the drowned to rest.",
+    "narrative": "SANA: 'Say what she calls my mother.' MAGDA: 'I don't know but I know you sent her an eleven page letter about a heron.'\nSANA on Bettan, 14, who cut her hair: 'She came back CHEERFUL... She stopped wearing her shawl. In February... And she started asking about people's families.'\nHOLLOW MEN, finishing each other's sentences: 'You're not her.' '--she was meant to bring the girl.'\nSANDY, arm shattered: 'That's going to make the poling difficult.' -- 'we'll manage.'\nNERISSA, after Magda killed a man who had put his hands down: 'He had stopped, and he was showing me the stone.'\nNERISSA, reading Magda (Insight CRITICAL 4/80): 'You're not deciding anything, are you... You're not cruel. You've simply not been given a reason to stop yet.' Then gave her one: Sana, watching from the boat.\nNERISSA on the stair: 'It's a door. Not for people. For the drowned... You lay them to rest through a thing like this.'\nMECHANICS: approach 38/60; Magda Stealth 20/68; sling 56/128 hit, 7 dmg right arm (-3, serious); staff 58/85, 6 dmg same arm (-9, MAJOR); underwater head blow 53/57 for 1 damage; Ruhi's Trip put both Magda and the hollow man under; Gardwen's Command (14/87 vs 89/42) broke the grip; killing blow 75/100, 8 dmg to head (-4). Rules correction mid-fight: ONE proactive action per round, remaining AP for reactions only.",
+    "session": 1,
+    "involves": [
+      "myth-char-1f1bcc8ed954",
+      "myth-char-2cabe8ce1bf4",
+      "myth-char-5c39daf64e36",
+      "myth-char-d8b643d61817"
+    ],
+    "at": "2026-09-07T02:21:21"
+  },
+  {
+    "id": "myth-event-1375d5ab443b",
+    "type": "scene",
+    "summary": "CH.9 -- The day before the Tourney. Ellick Sarn talks: he sold himself for warmth, the binding on the ship is 'furnished' and FIGHTS, and the morning cut keeps it tired. The name is Thuban Eta. Thorne identifies him from the muster rolls -- drowned by his own company for refusing to fire a valley, held by the betrayal itself, and nobody ever came back for him. Magda accepts that Hel's command means SHE must stand as proxy. Crowbill takes the job for the cargo; Ravella will cool the steaming hull for the return of two taken men; Hesper deduces the quiet one has gone to fetch Thuban's bones -- and is rowing them to the very stair the party holds.",
+    "narrative": "ELLICK: 'He said, would I like to not be cold any more... Nobody did anything to me that I didn't stand still for.'\nELLICK on the champion: 'That one FIGHTS. Two voices out of one throat having a row... You bleed a man to keep him from arguing.'\nELLICK: 'You keep saying rescue the boy. I'd think about that. There's two in there, and only one of them's been asking to get out.'\nTHORNE: 'You don't hold a shade with iron. You hold it with the thing it can't put down.'\nTHORNE: 'What holds him isn't a grudge against nine specific bastards. It's that NOBODY EVER CAME BACK FOR HIM.'\nTHORNE: 'Whose IS he, if he isn't hers?'\nGARDWEN: 'It needs somebody willing to stand where they stood and answer for it... because they're the one who turned up.'\nMAGDA: 'The old lady has her ways. OK. I'll do it.'\nMAGDA to Crowbill: 'We steal the boy. He steals everything else.'\nCROWBILL: 'Children aren't stock... you don't let anyone do it on my water and call it business.' Price: Nerissa to thank THE CANAL FOLK publicly from the temple steps.\nRAVELLA: 'Give them back. That's the whole price.' -- and on Ellick: 'There isn't a version of this where a boatman walks home to his supper.'\nNERISSA by note: 'I would have said it years ago if anyone had thought to ask me. That he had to buy it is a shame on my order, not on him.'\nHESPER: 'They have spent a hundred years keeping the one thing you need locked in a tower you could never reach. And tonight they are rowing it to you.'\nOFFSCREEN ROLLS: Blau Streetwise 82/66 and 87/66 -- failed twice to trace Magda; Lilura 93/55 -- never got past the chamberlain Vosk; Thorne's story 35/70 -- running well among the Guilds.",
+    "session": 1,
+    "involves": [
+      "myth-char-156265245397",
+      "myth-char-5c39daf64e36",
+      "myth-char-77eeb2d15196",
+      "myth-char-d8b643d61817",
+      "myth-char-e303e68fea08",
+      "myth-char-e828864471f6"
+    ],
+    "at": "2026-09-07T02:21:21"
   }
 ]

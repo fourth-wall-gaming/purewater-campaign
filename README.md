@@ -9,16 +9,16 @@ campaign format (v1.1).
 | Contents | Count |
 |---|---|
 | Lore entries | 15 |
-| Characters | 31 (PCs: Conall Bjornlasch, Gardwen, Magda, Randall) |
+| Characters | 33 (PCs: Conall Bjornlasch, Gardwen, Magda, Randall) |
 | Creature templates | 4 |
 | Locations | 18 |
 | Factions | 13 |
-| Encounters | 0 |
-| Journal events | 12 |
+| Encounters | 1 |
+| Journal events | 14 |
 | Agendas | 14 |
 | Beats | 15 |
-| Facts | 28 |
-| Knowledge edges | 43 |
+| Facts | 36 |
+| Knowledge edges | 66 |
 
 ## Repository layout
 
@@ -132,6 +132,8 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [Temerach Nebulo](characters/npcs/temerach-nebulo.json) — Elf knight of the Swords of the Lake, called 'the Lakelady's Javelin'; a deadly archer and peerless martial fighter tracking Baron Hanzo to expose his crimes.
 - [Thorne](characters/npcs/thorne.json) — Elderly storyteller of The Moist Oyster -- frail-seeming but with penetrating blue eyes and a cane that hides a blade. Secretly a former Order of the Lake initiate and Dragon-Knight-raid survivor with peerless historical lore (Dragon Kings era 92) and knowledge of possession-ritual weaknesses.
 - [Thuban Eta](characters/npcs/thuban-eta.json) — The ancient dragon-knight spirit bound inside Cailan. A betrayed tactical genius from the Dragon Kings era, held in thrall by Baron Hanzo's ritual through his bones and the binding locket. Indomitable will (Willpower 95), peerless tactics, honors the old codes -- a potential ally if freed.
+- [Hollow man (sandy)](characters/npcs/hollow-man-sandy.json) — Generic Purewater street thief -- pickpocket, second-storey worker, or smuggler's runner. The Lullwater and the Pearl are thick with them.
+- [Hollow man (billhook)](characters/npcs/hollow-man-billhook.json) — Generic Purewater street thief -- pickpocket, second-storey worker, or smuggler's runner. The Lullwater and the Pearl are thick with them.
 
 **Creatures**
 - [Ruhi](characters/creatures/ruhi.json) — Gardwen's befriended companion -- a loyal she-wolf; swift, keen-nosed and savage in the bite.
