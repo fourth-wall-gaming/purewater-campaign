@@ -23,8 +23,10 @@ able to prevent.
 Magda was in mail, with a dead captain's axe across her back and fourteen stones
 in the pouch, and she had said something about not being a very good swimmer and
 possibly needing help, and had meant it as a joke, and it was in fact the plain
-truth. Swim 27 and a hauberk. If she went into that channel she was going
-straight to the bottom of it. The nearest canal man grinned at her in the dark
+truth. She swims about as well as Gardwen does, which is to say badly and not
+for long, and she had thirty pounds of riveted mail on top of it. If she went
+into that channel she was going straight to the bottom of it and staying
+there. The nearest canal man grinned at her in the dark
 and tapped the grapnel line. *You go up from the boat, mother. Feet dry.*
 
 ---
@@ -274,9 +276,11 @@ One of them stepped back.
 She was already down. She got flatter.
 
 Whatever Gardwen had been saving came down the length of that deck. You do not
-see it; you feel the deck go cold and wet in a rush from bow to stern — and the
-entangle took the whole waist of the ship. Cordage, weed off the rigging, wet
-rope coming alive off the pins and going round ankles and wrists and throats.
+see it. You feel the deck go cold and wet in a rush from bow to stern, and then
+every rope on that ship remembers that it used to be something growing.
+
+Cordage, weed off the rigging, wet line coming alive off the pins — going round
+ankles and wrists and throats, and *pulling*.
 
 It caught both guards. It caught three knights forward. It caught two canal men
 who would be very rude about it later.

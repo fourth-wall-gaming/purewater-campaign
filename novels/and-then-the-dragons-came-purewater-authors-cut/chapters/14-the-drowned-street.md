@@ -47,13 +47,15 @@ She sat back on her heels, breathing like she had run there.
 hers, and I was asking a favour in someone else's house. I got about halfway
 across and it went out like a candle in a draught."
 
-One magic point gone and nothing to show for it.
+It had taken something out of her that she could not spare and bought exactly
+nothing, which is the worst trade there is.
 
 Nerissa had been watching her the whole time with an expression Gardwen could
 not read at all.
 
 "You reached," she said. It was not a question. "From the bank. Across running
-water that isn't yours, at a rank you shouldn't manage."
+water that isn't yours, further than anyone your age has any business
+reaching."
 
 "I didn't reach far enough."
 
@@ -73,13 +75,33 @@ Then it went out.
 ---
 
 There was one more thing, and it was the old woman who said it, and Gardwen has
-thought about it since.
+thought about it a great deal since.
 
-*Could she use a passion to augment it?*
+She had been casting the way you do a job. Correctly, and at arm's length —
+hands in the water, attention out, the whole business conducted like a woman
+reading a track she has no personal interest in. It is how she was taught and it
+is how she has done it for ten years and it has never once failed her, because
+until that night she had never asked for anything she actually wanted.
 
-A woman who has spent ten years looking for a taken child, being asked to find
-a taken girl. It is not a trick. It is simply that the thing you love hardest
-is a lever and nobody had thought to put it under this.
+Magda has never cast anything in her life and does not intend to start. She
+watched her set herself up to go again and said:
+
+"You're out there after somebody else's girl, aren't you."
+
+"She *is* somebody else's girl."
+
+"Aye. And there's a lad been gone ten years and you've not said his name once
+tonight."
+
+Gardwen did not answer that.
+
+"Then take him with you," Magda said. "Whatever it is you do — do it *for him*.
+Take the priestess's hand and go out there like it's him in that tower, and get
+the girl out."
+
+There is no craft in that and nobody had to teach it to her. It is only that the
+thing you love hardest is a lever, and in ten years of looking, nobody had once
+thought to put it under anything.
 
 She took Nerissa's hand and went into the channel up to her knees, and the
 second time was not like the first.

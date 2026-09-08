@@ -119,8 +119,9 @@ reached his face.
 
 Gardwen had gone white.
 
-"It shouldn't hold," she said. "Magda — that's *Hold Person*. There shouldn't be
-enough person in him to grip."
+"It shouldn't hold," she said. Her voice had gone thin. "Magda — what I put on
+him only takes hold of a *person*. There shouldn't be enough person left in him
+for it to get its hands on."
 
 ---
 
