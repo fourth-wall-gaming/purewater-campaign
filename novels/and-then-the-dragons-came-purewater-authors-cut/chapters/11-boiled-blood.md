@@ -194,10 +194,35 @@ not calm any more.
 
 ---
 
-The old woman told her that too, more or less, and then said the thing that
-made up her mind for her, which was that at some point you have to choose sides.
+The old woman told her that too, more or less. And then she said the thing that
+made up Ann Yannick's mind for her, and she said it standing in a doorway with
+the steam going past her, in the flat voice of a woman reading a list:
 
-And then she asked which part of the boy they were bleeding.
+"I got here yesterday — my loyalty's to Hel and that girl standing outside and
+no one else.
+
+"These men are stone killers. The albino worse than most… so be careful what you
+tell that one.
+
+"At some point, you have to choose sides."
+
+A beat.
+
+"Which part of the boy are they bleeding?"
+
+That is the whole of it. Four sentences, no persuasion in any of them, and the
+last one asked as though the answer were already agreed and only the detail
+outstanding.
+
+Ann has thought since about why that worked when the joke did not, and she has
+concluded that it is because the old woman did not once ask her to be brave. She
+told her what the men were, and warned her about the worst of them, and then
+named the thing plainly — *at some point, you have to choose sides* — and left it
+sitting there, and went straight on to the practical question as if Ann had
+already chosen.
+
+Which, of course, she had. Four mornings ago. She simply had not said it to
+anybody.
 
 Ann took a clean sheet off the folded stack and shook it out flat across the
 bench between them and put her hand down on it.
