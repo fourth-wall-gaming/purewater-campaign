@@ -11,7 +11,7 @@ The **Lake Lady's Tourney** is Purewater's most prestigious event: an annual sac
 
 **The events:**
 - **Archery (the main event)** -- traditional targets, plus moving targets on boats between the islands and difficult cross-channel shots. Prizes carry court access and noble titles. This is the competition [[Temerach Nebulo]] has entered.
-- **Single Combat** -- a dueling tournament of one-on-one matches. Prizes of guild apprenticeships and contracts. **This is where the Baron means to field his possessed champion, [[Cailan]].**
+- **Single Combat** -- a duelling tournament of one-on-one matches, and the only martial event. Guild apprenticeships and contracts go to the placed fighters; but the **champion** receives the old rite: by a form older than the Governor's office, the victor is presented **alone and unarmed to the Crown's representative**, immediately after the bout, behind closed doors. It is ceremony, not politics, which is why nobody has ever thought to guard it. **This is where the Baron means to field his possessed champion, [[Cailan]] -- and the rite is the reason why.**
 - **The Harbor Run** -- an obstacle course unique to Purewater: swimming, climbing, and boat-hopping through the canals and over rooftops, testing agility, strength, and local knowledge. Cash and local fame for the winner -- and a covert recruiting ground for criminal and military interests.
 
 **Timing:** arrivals and preparations begin three days before the main event; registration and the sizing-up of competitors two days before; then the events proper. The tourney's opening is the campaign's hinge -- the first public viewing of the Baron's champion, and the moment [[Gardwen]] recognizes her stolen brother.
