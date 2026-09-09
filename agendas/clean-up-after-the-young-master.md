@@ -2,7 +2,7 @@
 id: "myth-agenda-bb91fe3b4813"
 title: "Clean up after the young master"
 goal: "Contain Santo's messes before they reach the Baron or the city watch"
-status: "thwarted"
+status: "active"
 clock_size: 6
 clock_filled: 0
 priority: 4

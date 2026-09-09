@@ -2,7 +2,7 @@
 id: "myth-beat-20714ddcd986"
 title: "The Baron's column enters Purewater"
 summary: "Dragon Knights ride in for the Tourney; a covered litter no one is allowed near rides with them"
-status: "narrated"
+status: "pending"
 when: "d-3/day"
 time_index: 53
 trigger: "time"

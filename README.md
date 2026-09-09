@@ -1,5 +1,16 @@
 # And Then the Dragons Came: Purewater
 
+> **Current playthrough:** session 1 as **Conall Bjornlasch**, database campaign
+> `myth-campaign-cdd876ebe965`. The package at the repository root is the
+> pristine seed state — world clock `d-3/dawn`, 12 agendas on their starting
+> clocks, 17 facts none of them yet true.
+>
+> The previous playthrough (as **Magda**, complete) is archived in
+> `archive/session-01-magda/`, at the git tag `session-01-magda`, and left live
+> in the database as `myth-campaign-8327f8687a98` — *"ARCHIVE — Purewater S1
+> (Magda, complete)"*. Its transcripts are in `session-logs/` and its two
+> novelizations in `novels/`.
+
 A Classic Fantasy Imperative port of 'And then the Dragons Came', relocated to Purewater -- a Venice-like canal city where the sacred waters of the Lake Lady meet the sea. Baron Hanzo di Teufel arrives with his Dragon Knights for the Lake Lady's Tourney, his possessed champion concealed among them. Four strangers arrive the same week. Built as a living world: every NPC and faction runs its own agenda on a clock, and what the party does not witness happens anyway.
 
 A **Mythras Imperative** campaign in the
@@ -9,16 +20,16 @@ campaign format (v1.1).
 | Contents | Count |
 |---|---|
 | Lore entries | 15 |
-| Characters | 37 (PCs: Conall Bjornlasch, Gardwen, Magda, Randall) |
+| Characters | 31 (PCs: Conall Bjornlasch, Gardwen, Magda, Randall) |
 | Creature templates | 4 |
 | Locations | 18 |
 | Factions | 13 |
-| Encounters | 2 |
-| Journal events | 203 |
-| Agendas | 14 |
-| Beats | 15 |
-| Facts | 42 |
-| Knowledge edges | 81 |
+| Encounters | 0 |
+| Journal events | 2 |
+| Agendas | 12 |
+| Beats | 14 |
+| Facts | 17 |
+| Knowledge edges | 13 |
 
 ## Repository layout
 
@@ -35,7 +46,6 @@ campaign format (v1.1).
 | `beats/` | What happens next if nobody interferes, scheduled in world time |
 | `facts/` | Situational truth: one proposition per file, with when it became true |
 | `knowledge.json` | Who knows which fact, how, and since when |
-| `novels/` | Novelizations of actual play, one directory per protagonist/party |
 
 The canonical full-prose worldbook sources live in [`setting/`](setting/) — see its README for the book list and audience guide. The `lore/` files below are the same material sliced into database-ready entries.
 
@@ -49,16 +59,14 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [A di Teufel who is not his](agendas/a-di-teufel-who-is-not-his.md) -- *Hanzo di Teufel* (0/6)
 - [Bind a demon, and be his father's son](agendas/bind-a-demon-and-be-his-father-s-son.md) -- *Santo di Teufel* (0/6)
 - [Clean up after the young master](agendas/clean-up-after-the-young-master.md) -- *Blau* (0/6)
-- [Field the champion and take the city](agendas/field-the-champion-and-take-the-city.md) -- *Hanzo di Teufel* (0/8)
-- [Find the young master](agendas/find-the-young-master.md) -- *Blau* (0/6)
-- [Find who carved Emmeralda](agendas/find-who-carved-emmeralda.md) -- *Marisette* (6/6)
+- [Field the champion and take the city](agendas/field-the-champion-and-take-the-city.md) -- *Hanzo di Teufel* (2/8)
+- [Find who carved Emmeralda](agendas/find-who-carved-emmeralda.md) -- *Marisette* (0/6)
 - [Get paid, keep the company whole](agendas/get-paid-keep-the-company-whole.md) -- *Tat Atarer* (0/4)
-- [Keep the Lady's water clean](agendas/keep-the-lady-s-water-clean.md) -- *High Priestess Nerissa* (3/6)
+- [Keep the Lady's water clean](agendas/keep-the-lady-s-water-clean.md) -- *High Priestess Nerissa* (0/6)
 - [Keep the champion unseen](agendas/keep-the-champion-unseen.md) -- *Hanzo di Teufel* (1/4)
 - [Keep the table level](agendas/keep-the-table-level.md) -- *Crowbill* (0/6)
 - [One big score, and a name](agendas/one-big-score-and-a-name.md) -- *Nus* (0/4)
 - [Shield the boy, unmask the house](agendas/shield-the-boy-unmask-the-house.md) -- *Temerach Nebulo* (1/6)
-- [The four women, and the reckoning](agendas/the-four-women-and-the-reckoning.md) -- *Marisette* (0/8)
 - [Wake a Dragon King](agendas/wake-a-dragon-king.md) -- *The Awake the Dragon Movement* (3/10)
 
 ## The worldbook (lore index)
@@ -133,12 +141,6 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [Temerach Nebulo](characters/npcs/temerach-nebulo.json) — Elf knight of the Swords of the Lake, called 'the Lakelady's Javelin'; a deadly archer and peerless martial fighter tracking Baron Hanzo to expose his crimes.
 - [Thorne](characters/npcs/thorne.json) — Elderly storyteller of The Moist Oyster -- frail-seeming but with penetrating blue eyes and a cane that hides a blade. Secretly a former Order of the Lake initiate and Dragon-Knight-raid survivor with peerless historical lore (Dragon Kings era 92) and knowledge of possession-ritual weaknesses.
 - [Thuban Eta](characters/npcs/thuban-eta.json) — The ancient dragon-knight spirit bound inside Cailan. A betrayed tactical genius from the Dragon Kings era, held in thrall by Baron Hanzo's ritual through his bones and the binding locket. Indomitable will (Willpower 95), peerless tactics, honors the old codes -- a potential ally if freed.
-- [Hollow man (sandy)](characters/npcs/hollow-man-sandy.json) — Generic Purewater street thief -- pickpocket, second-storey worker, or smuggler's runner. The Lullwater and the Pearl are thick with them.
-- [Hollow man (billhook)](characters/npcs/hollow-man-billhook.json) — Generic Purewater street thief -- pickpocket, second-storey worker, or smuggler's runner. The Lullwater and the Pearl are thick with them.
-- [Dragon Knight (the door)](characters/npcs/dragon-knight-the-door.json) — Typical Flame Soldier of Baron Hanzo's Dragon Knights -- a hardened borderland raider in dragon-marked armor. Many carry a fire-touched blade (Bladesharp-equivalent, +1 fire damage).
-- [Dragon Knight (in the way)](characters/npcs/dragon-knight-in-the-way.json) — Typical Flame Soldier of Baron Hanzo's Dragon Knights -- a hardened borderland raider in dragon-marked armor. Many carry a fire-touched blade (Bladesharp-equivalent, +1 fire damage).
-- [Blau's guard (spear)](characters/npcs/blau-s-guard-spear.json) — Typical Flame Soldier of Baron Hanzo's Dragon Knights -- a hardened borderland raider in dragon-marked armor. Many carry a fire-touched blade (Bladesharp-equivalent, +1 fire damage).
-- [Blau's guard (sword)](characters/npcs/blau-s-guard-sword.json) — Typical Flame Soldier of Baron Hanzo's Dragon Knights -- a hardened borderland raider in dragon-marked armor. Many carry a fire-touched blade (Bladesharp-equivalent, +1 fire damage).
 
 **Creatures**
 - [Ruhi](characters/creatures/ruhi.json) — Gardwen's befriended companion -- a loyal she-wolf; swift, keen-nosed and savage in the bite.
@@ -158,12 +160,6 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [The Quiet Hand](factions/the-quiet-hand.md) — A secret, centuries-old fellowship that steers the world toward the good from the shadows -- by knowing first and acting unseen. Espionage as mercy. Hesper is their agent in Purewater. (GM: a benevolent hidden patron.)
 - [The Swords of the Lake](factions/the-swords-of-the-lake.md) — An elite knightly order sworn to the Lake Lady (Nimue) and the protection of the realm and its water magic. Temerach Nebulo is their most famous blade.
 - [The Watercrafters Guild](factions/the-watercrafters-guild.md) — Artisan-mages of boats, canals, and water enchantment. Indigo sashes; workshops on Merchant's and Forge Quarter. Led by the blue-handed Guildmaster Torval.
-
-## Novels
-
-Actual play at the table, retold as fiction — one play session per chapter, drafted from the campaign journal via the mythras-gm novelization workflow.
-
-- [And Then the Dragons Came: Purewater](novels/and-then-the-dragons-came-purewater/and-then-the-dragons-came-purewater.pdf) — And Then The Dragons Came Purewater's run, in the style of Hemingway
 
 ## Loading this campaign
 

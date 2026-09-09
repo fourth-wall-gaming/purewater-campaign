@@ -2,9 +2,9 @@
 id: "myth-agenda-c447b43512d4"
 title: "Find who carved Emmeralda"
 goal: "Identify and punish whoever worked demon-craft on one of her courtesans"
-status: "achieved"
+status: "active"
 clock_size: 6
-clock_filled: 6
+clock_filled: 0
 priority: 4
 holder: "myth-char-28320448049e"
 targets: ["myth-char-b713577f61eb", "myth-faction-c22ef5f70cb3"]

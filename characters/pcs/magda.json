@@ -20,10 +20,9 @@
     "experience_modifier": 1,
     "healing_rate": 3,
     "initiative_bonus": 11,
-    "luck_points": 3,
+    "luck_points": 8,
     "magic_points": 14,
-    "movement": "6",
-    "luck_note": "POW 14 -> 3 per Mythras Imperative; replenish each session, do not accumulate"
+    "movement": "6"
   },
   "skills": {
     "Brawn": 71,
@@ -145,6 +144,7 @@
       "damage": "2d6",
       "force": "E",
       "range": "15/75/150",
+      "load": 4,
       "notes": "Stun Location",
       "ap": 3,
       "hp": 6,
@@ -156,17 +156,12 @@
       "ap": 3,
       "enc": 2,
       "notes": "AP 3 each location; armor penalty -3"
-    },
-    "sling stones (14)",
-    "a sack, knotted",
-    "Marisette's purse"
+    }
   ],
   "passions": {
     "Love (Sister)": 70,
     "Neutral (Curmudgeon)": 54,
-    "Fear (Arcane Magic)": 54,
-    "Sworn to Gardwen (by Hel)": 70,
-    "Devotion to Hel": 70
+    "Fear (Arcane Magic)": 54
   },
   "combat_styles": {
     "Berserker (all weapons + shields; uses anything she can get her hands on, including others' weapons)": 85
@@ -191,10 +186,10 @@
     ],
     "armor": "Ringmail on all 7 locations (AP 3, ENC 2 each); armor penalty -3",
     "encumbrance": {
+      "avg_species_siz": 13,
       "current_load": 12,
       "load_band": "Normal",
-      "armor_penalty": -3,
-      "note": "ENC 12 -- Artful Dodger active"
+      "armor_penalty": -3
     },
     "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
     "source_typos_normalized": [
@@ -206,10 +201,10 @@
     "source_class": "Berserker (Classic Fantasy class; maps to Fighter in CFI's four core classes)"
   },
   "fatigue": "Fresh",
-  "luck_current": 1,
+  "luck_current": 3,
   "magic_current": 14,
   "experience_rolls": 0,
-  "location": "myth-loc-d70253b09da8",
+  "location": "myth-loc-e68bde0d7264",
   "factions": [],
   "from_template": null,
   "created_at": "2026-06-24T22:24:20"

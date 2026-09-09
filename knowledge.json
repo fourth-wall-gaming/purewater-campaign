@@ -1,652 +1,108 @@
 {
   "knows": [
     {
-      "certainty": "knows",
-      "knower": "myth-char-5c39daf64e36",
-      "knower_name": "Gardwen",
-      "since": 67,
-      "fact": "myth-fact-00e50bebf8df",
-      "source": "witnessed"
-    },
-    {
-      "knower_name": "Magda",
-      "fact": "myth-fact-00e50bebf8df",
-      "since": 67,
-      "certainty": "knows",
-      "knower": "myth-char-d8b643d61817",
-      "source": "witnessed"
-    },
-    {
-      "certainty": "knows",
-      "knower": "myth-char-5c39daf64e36",
-      "since": 61,
-      "fact": "myth-fact-034804384688",
-      "source": "told",
-      "knower_name": "Gardwen"
-    },
-    {
-      "since": 61,
-      "knower": "myth-char-d8b643d61817",
-      "source": "told",
-      "knower_name": "Magda",
-      "certainty": "knows",
-      "fact": "myth-fact-034804384688"
-    },
-    {
-      "source": "told",
-      "fact": "myth-fact-06137f48f0cc",
-      "certainty": "suspects",
-      "knower": "myth-char-1f1bcc8ed954",
-      "knower_name": "High Priestess Nerissa",
-      "since": 59
-    },
-    {
-      "knower": "myth-char-5c39daf64e36",
-      "since": 58,
-      "certainty": "suspects",
-      "fact": "myth-fact-06137f48f0cc",
-      "source": "deduced",
-      "knower_name": "Gardwen"
-    },
-    {
-      "since": 58,
-      "certainty": "suspects",
-      "knower_name": "Magda",
-      "knower": "myth-char-d8b643d61817",
-      "fact": "myth-fact-06137f48f0cc",
-      "source": "deduced"
-    },
-    {
-      "since": 0,
-      "source": "witnessed",
+      "fact": "myth-fact-11238ba848ee",
+      "knower": "myth-char-a46cf24af084",
       "knower_name": "Thuban Eta",
-      "certainty": "knows",
-      "fact": "myth-fact-11238ba848ee",
-      "knower": "myth-char-a46cf24af084"
+      "since": 0,
+      "source": "witnessed",
+      "certainty": "knows"
     },
     {
       "since": 0,
-      "certainty": "believes",
-      "source": "deduced",
-      "fact": "myth-fact-11238ba848ee",
+      "knower_name": "Cailan",
       "knower": "myth-char-cac22cc2cbf6",
-      "knower_name": "Cailan"
-    },
-    {
-      "knower_name": "Hanzo di Teufel",
-      "since": 0,
-      "source": "witnessed",
-      "knower": "myth-char-cee57a7f5de2",
-      "fact": "myth-fact-11238ba848ee",
-      "certainty": "knows"
-    },
-    {
-      "since": 59,
-      "source": "witnessed",
-      "fact": "myth-fact-1556cf8dbf4c",
-      "knower_name": "High Priestess Nerissa",
-      "certainty": "knows",
-      "knower": "myth-char-1f1bcc8ed954"
-    },
-    {
-      "certainty": "knows",
-      "since": 59,
-      "knower": "myth-char-5c39daf64e36",
-      "knower_name": "Gardwen",
-      "source": "witnessed",
-      "fact": "myth-fact-1556cf8dbf4c"
-    },
-    {
-      "knower_name": "Magda",
-      "knower": "myth-char-d8b643d61817",
-      "fact": "myth-fact-1556cf8dbf4c",
-      "certainty": "knows",
-      "since": 59,
-      "source": "witnessed"
-    },
-    {
-      "knower_name": "High Priestess Nerissa",
-      "since": 59,
-      "knower": "myth-char-1f1bcc8ed954",
-      "certainty": "knows",
-      "source": "told",
-      "fact": "myth-fact-2660bef1e8bf"
-    },
-    {
-      "since": 0,
-      "knower_name": "Gardwen",
-      "source": "witnessed",
-      "certainty": "knows",
-      "knower": "myth-char-5c39daf64e36",
-      "fact": "myth-fact-2660bef1e8bf"
-    },
-    {
-      "since": 0,
-      "knower_name": "Hanzo di Teufel",
-      "certainty": "knows",
-      "fact": "myth-fact-2660bef1e8bf",
-      "source": "witnessed",
-      "knower": "myth-char-cee57a7f5de2"
-    },
-    {
-      "knower": "myth-char-d8b643d61817",
-      "knower_name": "Magda",
-      "certainty": "knows",
-      "source": "told",
-      "fact": "myth-fact-2660bef1e8bf",
-      "since": 52
-    },
-    {
-      "knower_name": "Gardwen",
-      "certainty": "knows",
-      "source": "witnessed",
-      "knower": "myth-char-5c39daf64e36",
-      "since": 67,
-      "fact": "myth-fact-38256b14e41a"
-    },
-    {
-      "knower_name": "Magda",
-      "fact": "myth-fact-38256b14e41a",
-      "source": "witnessed",
-      "knower": "myth-char-d8b643d61817",
-      "since": 67,
-      "certainty": "knows"
-    },
-    {
-      "certainty": "knows",
-      "knower_name": "Gardwen",
-      "fact": "myth-fact-4f49e48dab58",
-      "knower": "myth-char-5c39daf64e36",
-      "source": "told",
-      "since": 61
-    },
-    {
-      "knower": "myth-char-d8b643d61817",
-      "since": 61,
-      "certainty": "knows",
-      "source": "told",
-      "fact": "myth-fact-4f49e48dab58",
-      "knower_name": "Magda"
-    },
-    {
-      "since": 61,
-      "knower": "myth-char-e828864471f6",
-      "certainty": "knows",
-      "fact": "myth-fact-4f49e48dab58",
-      "knower_name": "Thorne",
-      "source": "deduced"
-    },
-    {
-      "fact": "myth-fact-5843025abdec",
-      "knower_name": "Gardwen",
-      "source": "witnessed",
-      "knower": "myth-char-5c39daf64e36",
-      "certainty": "knows",
-      "since": 52
-    },
-    {
-      "fact": "myth-fact-5843025abdec",
-      "since": 52,
-      "knower": "myth-char-d8b643d61817",
-      "certainty": "knows",
-      "knower_name": "Magda",
-      "source": "witnessed"
-    },
-    {
-      "source": "witnessed",
-      "knower_name": "Constantine",
-      "knower": "myth-char-49ee20e7a554",
-      "certainty": "knows",
-      "since": 56,
-      "fact": "myth-fact-67b273e42e4f"
-    },
-    {
-      "fact": "myth-fact-67b273e42e4f",
-      "source": "witnessed",
-      "knower": "myth-char-5c39daf64e36",
-      "knower_name": "Gardwen",
-      "certainty": "knows",
-      "since": 56
-    },
-    {
-      "fact": "myth-fact-67b273e42e4f",
-      "knower": "myth-char-d8b643d61817",
-      "knower_name": "Magda",
-      "since": 56,
-      "source": "witnessed",
-      "certainty": "knows"
-    },
-    {
-      "fact": "myth-fact-757021438d65",
-      "knower": "myth-char-1f1bcc8ed954",
-      "certainty": "knows",
-      "knower_name": "High Priestess Nerissa",
-      "source": "witnessed",
-      "since": 59
-    },
-    {
-      "certainty": "knows",
-      "source": "told",
-      "fact": "myth-fact-757021438d65",
-      "knower": "myth-char-5c39daf64e36",
-      "since": 59,
-      "knower_name": "Gardwen"
-    },
-    {
-      "since": 59,
-      "knower_name": "Magda",
-      "knower": "myth-char-d8b643d61817",
-      "certainty": "knows",
-      "fact": "myth-fact-757021438d65",
-      "source": "told"
-    },
-    {
-      "knower_name": "Temerach Nebulo",
-      "fact": "myth-fact-75a1618d2f6f",
-      "source": "told",
-      "certainty": "knows",
-      "since": 0,
-      "knower": "myth-char-a34f0237a753"
-    },
-    {
-      "knower_name": "Magda",
-      "certainty": "knows",
-      "source": "told",
-      "since": 65,
-      "knower": "myth-char-d8b643d61817",
-      "fact": "myth-fact-75a1618d2f6f"
-    },
-    {
-      "certainty": "knows",
-      "knower_name": "Gardwen",
-      "since": 67,
-      "knower": "myth-char-5c39daf64e36",
-      "source": "witnessed",
-      "fact": "myth-fact-806ea8f4237a"
-    },
-    {
-      "fact": "myth-fact-806ea8f4237a",
-      "certainty": "knows",
-      "since": 67,
-      "knower": "myth-char-d8b643d61817",
-      "source": "witnessed",
-      "knower_name": "Magda"
-    },
-    {
-      "since": 61,
-      "fact": "myth-fact-837fdbf8a47a",
-      "knower": "myth-char-5c39daf64e36",
-      "knower_name": "Gardwen",
-      "certainty": "knows",
-      "source": "told"
-    },
-    {
-      "since": 61,
-      "knower": "myth-char-77eeb2d15196",
-      "knower_name": "Ravella",
-      "certainty": "knows",
-      "source": "witnessed",
-      "fact": "myth-fact-837fdbf8a47a"
-    },
-    {
-      "knower": "myth-char-d8b643d61817",
-      "fact": "myth-fact-837fdbf8a47a",
-      "source": "told",
-      "knower_name": "Magda",
-      "certainty": "knows",
-      "since": 61
-    },
-    {
-      "since": 67,
-      "certainty": "knows",
-      "knower": "myth-char-5c39daf64e36",
-      "knower_name": "Gardwen",
-      "source": "witnessed",
-      "fact": "myth-fact-851eb2562df8"
-    },
-    {
-      "fact": "myth-fact-851eb2562df8",
-      "knower_name": "Magda",
-      "source": "witnessed",
-      "since": 67,
-      "knower": "myth-char-d8b643d61817",
-      "certainty": "knows"
-    },
-    {
-      "knower_name": "Temerach Nebulo",
-      "certainty": "knows",
-      "fact": "myth-fact-85d3bd81f317",
-      "knower": "myth-char-a34f0237a753",
-      "since": 0,
-      "source": "deduced"
-    },
-    {
-      "certainty": "knows",
-      "fact": "myth-fact-85d3bd81f317",
-      "knower_name": "Magda",
-      "source": "told",
-      "knower": "myth-char-d8b643d61817",
-      "since": 65
-    },
-    {
-      "certainty": "knows",
-      "knower": "myth-char-1f1bcc8ed954",
-      "knower_name": "High Priestess Nerissa",
-      "fact": "myth-fact-910314e9c21e",
-      "source": "witnessed",
-      "since": 59
-    },
-    {
-      "fact": "myth-fact-910314e9c21e",
-      "source": "witnessed",
-      "since": 59,
-      "certainty": "knows",
-      "knower_name": "Gardwen",
-      "knower": "myth-char-5c39daf64e36"
-    },
-    {
-      "fact": "myth-fact-910314e9c21e",
-      "since": 59,
-      "certainty": "knows",
-      "knower_name": "Magda",
-      "knower": "myth-char-d8b643d61817",
-      "source": "witnessed"
-    },
-    {
-      "knower": "myth-char-5c39daf64e36",
-      "knower_name": "Gardwen",
-      "certainty": "knows",
-      "since": 67,
-      "fact": "myth-fact-9273437b3bca",
-      "source": "witnessed"
-    },
-    {
-      "source": "witnessed",
-      "fact": "myth-fact-9273437b3bca",
-      "knower_name": "Magda",
-      "knower": "myth-char-d8b643d61817",
-      "certainty": "knows",
-      "since": 67
-    },
-    {
       "source": "deduced",
-      "knower": "myth-char-156265245397",
-      "knower_name": "Hesper",
-      "fact": "myth-fact-93fe78ef745e",
-      "certainty": "knows",
-      "since": 61
-    },
-    {
-      "since": 61,
-      "knower_name": "Gardwen",
-      "certainty": "knows",
-      "knower": "myth-char-5c39daf64e36",
-      "source": "told",
-      "fact": "myth-fact-93fe78ef745e"
-    },
-    {
-      "since": 61,
-      "fact": "myth-fact-93fe78ef745e",
-      "knower": "myth-char-d8b643d61817",
-      "certainty": "knows",
-      "source": "told",
-      "knower_name": "Magda"
-    },
-    {
-      "fact": "myth-fact-9905797f875e",
-      "source": "told",
-      "since": 57,
-      "certainty": "knows",
-      "knower": "myth-char-5c39daf64e36",
-      "knower_name": "Gardwen"
-    },
-    {
-      "knower_name": "Magda",
-      "knower": "myth-char-d8b643d61817",
-      "fact": "myth-fact-9905797f875e",
-      "source": "told",
-      "certainty": "knows",
-      "since": 57
-    },
-    {
-      "knower": "myth-char-1f1bcc8ed954",
-      "knower_name": "High Priestess Nerissa",
-      "source": "told",
-      "fact": "myth-fact-a17c5056c5d8",
-      "since": 59,
+      "fact": "myth-fact-11238ba848ee",
       "certainty": "believes"
     },
     {
-      "knower": "myth-char-28320448049e",
-      "since": 58,
-      "fact": "myth-fact-a17c5056c5d8",
-      "source": "told",
-      "certainty": "believes",
-      "knower_name": "Marisette"
-    },
-    {
-      "knower": "myth-char-5c39daf64e36",
-      "source": "told",
-      "knower_name": "Gardwen",
-      "since": 59,
-      "fact": "myth-fact-a17c5056c5d8",
-      "certainty": "knows"
-    },
-    {
-      "knower": "myth-char-d8b643d61817",
+      "since": 0,
+      "knower": "myth-char-cee57a7f5de2",
+      "fact": "myth-fact-11238ba848ee",
       "certainty": "knows",
-      "fact": "myth-fact-a17c5056c5d8",
-      "knower_name": "Magda",
-      "since": 59,
-      "source": "told"
-    },
-    {
-      "knower": "myth-char-5c39daf64e36",
-      "fact": "myth-fact-a2ede335b0eb",
-      "certainty": "knows",
-      "knower_name": "Gardwen",
-      "since": 61,
-      "source": "told"
-    },
-    {
-      "source": "told",
-      "fact": "myth-fact-a2ede335b0eb",
-      "certainty": "knows",
-      "knower_name": "Magda",
-      "since": 61,
-      "knower": "myth-char-d8b643d61817"
-    },
-    {
-      "since": 59,
-      "source": "told",
-      "fact": "myth-fact-a8b64b269404",
-      "knower": "myth-char-5c39daf64e36",
-      "certainty": "knows",
-      "knower_name": "Gardwen"
-    },
-    {
-      "knower_name": "Magda",
-      "source": "told",
-      "fact": "myth-fact-a8b64b269404",
-      "certainty": "knows",
-      "since": 59,
-      "knower": "myth-char-d8b643d61817"
-    },
-    {
-      "knower_name": "Gardwen",
-      "certainty": "knows",
-      "fact": "myth-fact-b1623d5b1835",
-      "source": "told",
-      "since": 59,
-      "knower": "myth-char-5c39daf64e36"
-    },
-    {
-      "source": "told",
-      "knower_name": "Magda",
-      "certainty": "knows",
-      "fact": "myth-fact-b1623d5b1835",
-      "since": 59,
-      "knower": "myth-char-d8b643d61817"
-    },
-    {
-      "since": 65,
-      "knower": "myth-char-5c39daf64e36",
       "source": "witnessed",
-      "fact": "myth-fact-b67286a2a180",
-      "knower_name": "Gardwen",
-      "certainty": "knows"
+      "knower_name": "Hanzo di Teufel"
     },
     {
-      "knower_name": "Temerach Nebulo",
-      "knower": "myth-char-a34f0237a753",
       "source": "witnessed",
-      "fact": "myth-fact-b67286a2a180",
-      "certainty": "knows",
-      "since": 65
-    },
-    {
-      "since": 65,
-      "knower": "myth-char-d8b643d61817",
-      "fact": "myth-fact-b67286a2a180",
-      "certainty": "knows",
-      "knower_name": "Magda",
-      "source": "witnessed"
-    },
-    {
-      "fact": "myth-fact-b74b25474621",
-      "since": 61,
       "knower": "myth-char-5c39daf64e36",
       "knower_name": "Gardwen",
-      "source": "told",
-      "certainty": "knows"
-    },
-    {
-      "source": "told",
-      "fact": "myth-fact-b74b25474621",
+      "fact": "myth-fact-2660bef1e8bf",
       "certainty": "knows",
-      "knower_name": "Magda",
-      "knower": "myth-char-d8b643d61817",
-      "since": 61
-    },
-    {
-      "source": "deduced",
-      "certainty": "knows",
-      "knower": "myth-char-a34f0237a753",
-      "fact": "myth-fact-bef6153f65a7",
-      "knower_name": "Temerach Nebulo",
       "since": 0
     },
     {
-      "since": 55,
-      "fact": "myth-fact-c170b110fcb7",
-      "knower_name": "Santo di Teufel",
+      "knower": "myth-char-cee57a7f5de2",
+      "fact": "myth-fact-2660bef1e8bf",
+      "knower_name": "Hanzo di Teufel",
+      "since": 0,
       "source": "witnessed",
-      "knower": "myth-char-1ebc75c92e6a",
       "certainty": "knows"
-    },
-    {
-      "certainty": "believes",
-      "source": "witnessed",
-      "knower_name": "Emmeralda",
-      "knower": "myth-char-b713577f61eb",
-      "fact": "myth-fact-c170b110fcb7",
-      "since": 55
     },
     {
       "since": 0,
-      "knower": "myth-char-5c39daf64e36",
+      "knower": "myth-char-a34f0237a753",
+      "fact": "myth-fact-75a1618d2f6f",
+      "knower_name": "Temerach Nebulo",
+      "certainty": "knows",
+      "source": "told"
+    },
+    {
+      "knower_name": "Temerach Nebulo",
       "source": "deduced",
-      "fact": "myth-fact-d24f708565ee",
-      "knower_name": "Gardwen",
-      "certainty": "suspects"
-    },
-    {
-      "fact": "myth-fact-d24f708565ee",
-      "knower": "myth-char-cee57a7f5de2",
-      "certainty": "knows",
-      "knower_name": "Hanzo di Teufel",
-      "source": "witnessed",
-      "since": 0
-    },
-    {
-      "since": 55,
-      "source": "witnessed",
-      "knower_name": "Ila",
-      "fact": "myth-fact-d9353ac22e2e",
-      "certainty": "knows",
-      "knower": "myth-char-2cabe8ce1bf4"
-    },
-    {
-      "fact": "myth-fact-d9353ac22e2e",
-      "source": "witnessed",
-      "knower_name": "Constantine",
-      "since": 55,
-      "knower": "myth-char-49ee20e7a554",
+      "knower": "myth-char-a34f0237a753",
+      "fact": "myth-fact-85d3bd81f317",
+      "since": 0,
       "certainty": "knows"
     },
     {
+      "source": "deduced",
+      "fact": "myth-fact-bef6153f65a7",
+      "since": 0,
+      "knower_name": "Temerach Nebulo",
+      "certainty": "knows",
+      "knower": "myth-char-a34f0237a753"
+    },
+    {
+      "knower_name": "Gardwen",
+      "certainty": "suspects",
+      "source": "deduced",
+      "since": 0,
       "knower": "myth-char-5c39daf64e36",
-      "certainty": "knows",
-      "since": 55,
-      "fact": "myth-fact-d9353ac22e2e",
-      "source": "witnessed",
-      "knower_name": "Gardwen"
+      "fact": "myth-fact-d24f708565ee"
     },
     {
-      "knower": "myth-char-d8b643d61817",
       "source": "witnessed",
-      "fact": "myth-fact-d9353ac22e2e",
-      "knower_name": "Magda",
       "certainty": "knows",
-      "since": 55
-    },
-    {
       "knower_name": "Hanzo di Teufel",
-      "source": "witnessed",
-      "fact": "myth-fact-dc3f304a66fe",
-      "since": 52,
-      "certainty": "knows",
+      "fact": "myth-fact-d24f708565ee",
+      "since": 0,
       "knower": "myth-char-cee57a7f5de2"
     },
     {
-      "source": "witnessed",
-      "fact": "myth-fact-dc3f304a66fe",
-      "knower_name": "Blau",
       "certainty": "knows",
-      "knower": "myth-char-dbb5fdad535d",
-      "since": 52
-    },
-    {
-      "knower_name": "Hanzo di Teufel",
-      "fact": "myth-fact-e607c48bee30",
+      "since": 52,
       "knower": "myth-char-cee57a7f5de2",
+      "fact": "myth-fact-dc3f304a66fe",
+      "source": "witnessed",
+      "knower_name": "Hanzo di Teufel"
+    },
+    {
+      "knower_name": "Blau",
+      "fact": "myth-fact-dc3f304a66fe",
+      "since": 52,
+      "source": "witnessed",
+      "certainty": "knows",
+      "knower": "myth-char-dbb5fdad535d"
+    },
+    {
+      "fact": "myth-fact-e607c48bee30",
       "since": 0,
+      "knower_name": "Hanzo di Teufel",
       "certainty": "knows",
-      "source": "witnessed"
-    },
-    {
-      "knower_name": "Gardwen",
-      "fact": "myth-fact-f9cb38ca45eb",
-      "certainty": "knows",
-      "knower": "myth-char-5c39daf64e36",
-      "since": 52,
-      "source": "told"
-    },
-    {
-      "since": 52,
       "source": "witnessed",
-      "certainty": "knows",
-      "knower_name": "Magda",
-      "knower": "myth-char-d8b643d61817",
-      "fact": "myth-fact-f9cb38ca45eb"
-    },
-    {
-      "source": "witnessed",
-      "since": 53,
-      "fact": "myth-fact-fa96c55233d0",
-      "knower_name": "Randall",
-      "certainty": "knows",
-      "knower": "myth-char-5aa2aad55f3b"
+      "knower": "myth-char-cee57a7f5de2"
     }
   ],
   "agenda_requires": [
@@ -693,10 +149,5 @@
       "amount": 2
     }
   ],
-  "supersedes": [
-    {
-      "superseding": "myth-fact-c170b110fcb7",
-      "superseded": "myth-fact-5cccb4bf1262"
-    }
-  ]
+  "supersedes": []
 }

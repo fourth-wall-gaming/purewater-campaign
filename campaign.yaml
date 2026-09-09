@@ -1,11 +1,11 @@
 format: "mythras-gm-campaign"
 format_version: "1.1"
 id: "myth-campaign-8327f8687a98"
-name: "And Then the Dragons Came: Purewater"
+name: "And Then the Dragons Came: Purewater — S1 (Conall)"
 description: "A Classic Fantasy Imperative port of 'And then the Dragons Came', relocated to Purewater -- a Venice-like canal city where the sacred waters of the Lake Lady meet the sea. Baron Hanzo di Teufel arrives with his Dragon Knights for the Lake Lady's Tourney, his possessed champion concealed among them. Four strangers arrive the same week. Built as a living world: every NPC and faction runs its own agenda on a clock, and what the party does not witness happens anyway."
-game_date: "d0/night -- the night of the Lake Lady's Tourney"
-current_scene: "The Moist Oyster, after the Tourney. Thuban Eta is at rest; the boy called Bird is free; the Baron is in irons; Nerissa has thanked the canal folk from the temple steps and told Magda she is not welcome on Temple Isle again. Conall and Randall have just seen each other for the first time. Thorne is still owed the true version, once."
-time_index: 64
+game_date: "d-3/dawn -- three days before the Lake Lady's Tourney"
+current_scene: "The Anminster road, an hour out from Purewater, d-3/dawn. Conall Bjornlasch is riding in beside his patron Temerach Nebulo for the Lake Lady's Tourney -- an errand she has not explained, and she has been unusually quiet for two days. The di Teufel column is overtaking them: twenty-odd riders in scale under dragon colours, and in the middle of it a covered litter with the curtains laced shut. The outriders are waving them into the verge."
+time_index: 52
 session_number: 0
 created_at: "2026-09-05T12:00:00"
-exported_at: "2026-09-07T22:33:15"
+exported_at: "2026-09-08T00:00:00"

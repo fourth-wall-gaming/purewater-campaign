@@ -230,10 +230,10 @@
     "source_class": "Druid (Classic Fantasy class; mapped to Cleric in CFI's four core classes -- divine caster)"
   },
   "fatigue": "Fresh",
-  "luck_current": 6,
+  "luck_current": 3,
   "magic_current": 18,
   "experience_rolls": 0,
-  "location": "myth-loc-d70253b09da8",
+  "location": "myth-loc-e68bde0d7264",
   "factions": [],
   "from_template": null,
   "created_at": "2026-06-24T22:18:02"
