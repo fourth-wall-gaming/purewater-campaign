@@ -1,7 +1,7 @@
 ---
 id: "myth-agenda-e0469a5c2863"
 title: "Field the champion and take the city"
-goal: "Win the Lake Lady's Tourney with a possessed champion and buy standing in Purewater"
+goal: "Win the Single Combat, take the champion's private audience with the Prince, and put Thuban Eta into Emeric"
 status: "active"
 clock_size: 8
 clock_filled: 2
@@ -11,11 +11,15 @@ targets: ["myth-char-cac22cc2cbf6", "myth-faction-2b6cfc142c63"]
 created_at: "2026-09-05T12:00:00"
 ---
 
-**What he wants.** Influence in Purewater, and past that something far
-larger -- the Awake the Dragon Movement's promise that a man can be made into a
-Dragon King. Cailan is the proof of concept: a boy taken in a border raid with
-the spirit of the dragon-knight Thuban Eta bound inside him. Win the Single
-Combat, and the Baron becomes a man the city's powers must deal with.
+**What he wants.** Not standing. **The room.**
+
+The Single Combat champion is presented to the Crown's representative alone, unarmed, behind a
+closed door, by a rite older than the Governor's office -- and nobody has ever thought to guard a
+ceremony. That door is what four generations of this family have been working toward. Cailan is
+the jar and the proof that a dragon-knight's spirit can be held in a living body for a decade
+without destroying it; **Prince Emeric is the destination.**
+
+Which means the champion must genuinely **win**, and the boy must not be recognised before he does.
 
 **How he pursues it.** Money, protocol, and patience. He arrives with a retinue
 and a tournament entry, keeps the champion behind his own walls, and reinforces
@@ -27,5 +31,10 @@ not deterred by cost or by scandal -- both are survivable. He is deterred by
 losing the locket, because without it the daily reinforcement gets harder and
 Thuban gets louder.
 
-**Pressure points.** The locket he carries; the bones in his border tower
-(out of reach this adventure); and Thuban's own reluctance.
+**Pressure points.** Four, and the party only needs one:
+- the **locket** he carries (a working Anchor -- lose it and Reinforce the Seat gets hard);
+- the **bones** in his border tower (the primary Anchor, out of reach this adventure);
+- **Thuban's own reluctance** -- reachable with Speak with the Bound, and held by a torment rather
+  than by iron;
+- and the **bracket**. He has to win. Temerach Nebulo is the one blade in this city who could
+  beat him, and she is entered in the Archery instead.

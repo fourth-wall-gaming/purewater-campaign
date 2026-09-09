@@ -4,7 +4,7 @@
   "type": "npc",
   "status": "active",
   "description": "Baron Hanzo di Teufel -- the campaign's master villain: a charismatic borderland noble and fire-wielding arcane sorcerer/demonologist who commands the Dragon Knights, runs possession rituals, and secretly seeks to become a Dragon King.",
-  "narrative": "Baron Hanzo di Teufel is a rising political power in the borderlands and the true 'power behind the throne' -- urbane, magnetic and utterly ruthless (Deceit 93, Influence 92, Willpower 94). A master arcane sorcerer steeped in fire magic and demonology, he binds spirits into living flesh and is engineering a possession scheme to win the Lake Lady's Tourney; his ultimate aim is dragon transformation -- to rise as a Dragon King. He commands the Dragon Knights ('Dragonshits' to the locals) and arrives on the steam-wreathed DragonBarge. He is the father, by an elven mage, of the twins Randall and Conall, and of his cruel heir Santo.",
+  "narrative": "Baron Hanzo di Teufel is a rising political power in the borderlands and the true 'power behind the throne' -- urbane, magnetic and utterly ruthless (Deceit 93, Influence 92, Willpower 94). A master arcane sorcerer steeped in fire magic and demonology, he binds spirits into living flesh and is engineering a possession scheme to win the Lake Lady's Tourney; his ultimate aim is dragon transformation -- to rise as a Dragon King. He commands the Dragon Knights ('Dragonshits' to the locals) and arrives on the steam-wreathed DragonBarge. He is the father, by an elven mage, of the twins Randall and Conall, and of his cruel heir Santo.\n\n**What he can actually do (rules).** Hanzo is a magician of the ordinary framework who happens to\nhold a school that is taught nowhere: the complete **Binding School** — Spirit Sight, Speak with\nthe Bound, Open the Channel, Seat the Bound, Reinforce the Seat, Anchor, Draw Forth. Arcane Casting\n88. That is the entire scheme on one sheet, and every step of what was done to Cailan is a spell he\ndemonstrably knows.\n\nHe is **not** a battle-mage and never has been. He has never personally fought anybody; that is\nwhat Blau and Tat Atarer are for. His other spells are all social or defensive -- Charm Being,\nSuggestion, Hold Person, Sleep, Hypnotism -- and they are how three men on a prince's council came\nto advise him to silence a temple's fouling alarm.\n\n**His vulnerability is the anchors.** He holds two for Thuban Eta: the bones in the border tower\n(primary) and the locket he wears (working). Take the locket and the daily Reinforce the Seat gets\nhard. Take both and the binding starts failing without anybody doing anything.",
   "characteristics": {
     "STR": 13,
     "CON": 11,
@@ -150,30 +150,35 @@
     "Court dress and dragon-scale half-cloak",
     "Letters of credit from the Awake the Dragon Movement"
   ],
-  "passions": {},
+  "passions": {
+    "Become a Dragon King": 90,
+    "A hundred years of patience -- never be seen doing it": 80,
+    "Contempt for Santo, who is not enough": 65
+  },
   "combat_styles": {
     "Nobleman (broadsword, etc.)": 56
   },
   "spells": {
+    "binding": [
+      "Spirit Sight",
+      "Speak with the Bound",
+      "Open the Channel",
+      "Seat the Bound",
+      "Reinforce the Seat",
+      "Anchor",
+      "Draw Forth"
+    ],
     "arcane": [
       "Charm Being",
-      "Detect Magic",
-      "Friendship",
-      "Hypnotism",
-      "Sleep",
-      "Read Magic",
-      "Magic Missile",
-      "Shield",
-      "Hold Person",
-      "Locate Object",
       "Suggestion",
+      "Hold Person",
+      "Sleep",
+      "Hypnotism",
+      "Detect Magic",
+      "Read Magic",
       "Mage Lock",
-      "Fly",
-      "Lightning Bolt",
-      "Confusion",
-      "Fumble",
-      "Charm Monster",
-      "Wall of Fire"
+      "Shield",
+      "Locate Object"
     ]
   },
   "extras": {

@@ -169,7 +169,11 @@
       "notes": "AP 3 each location; no armor penalty"
     }
   ],
-  "passions": {},
+  "passions": {
+    "Bring the company home paid": 75,
+    "This is a contract, not a cause": 60,
+    "Professional contempt for the Baron's private business": 50
+  },
   "combat_styles": {
     "Fighter (sword, dagger, shield, bow)": 97
   },

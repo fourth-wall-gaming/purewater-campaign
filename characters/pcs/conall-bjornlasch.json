@@ -170,7 +170,11 @@
       "notes": "AP 2 each location; armor penalty -2"
     }
   ],
-  "passions": {},
+  "passions": {
+    "Find the man who wears my face": 60,
+    "Love (Temerach Nebulo), unspoken": 65,
+    "Know a thing before acting on it": 55
+  },
   "combat_styles": {
     "Fighter (all weapons, all shields)": 82
   },

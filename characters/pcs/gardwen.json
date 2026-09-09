@@ -4,7 +4,7 @@
   "type": "pc",
   "status": "active",
   "description": "Feral-raised elf druid and lone survivor of a Dragon Knight raid; a rank-1 divine caster of nature and pure-water magic who walks with a befriended she-wolf, searching for her long-lost brother.",
-  "narrative": "A feral-raised elf druid and the sole survivor of a Dragon Knight raid that killed her family roughly ten years ago. Gardwen channels the magic of nature and pure water and travels with a befriended she-wolf, Ruhi. She is searching for her brother, taken during the raid as a child -- now, unknown to her, the possessed warrior serving Baron Hanzo di Teufel. Dark hair, blue eyes; soft-spoken but fierce in defense of kin and the wild. She journeys with the old warrior-protector Magda (an emissary of the death goddess Hel) toward Zorastor, following the Dragon Knights.",
+  "narrative": "A feral-raised elf druid and the sole survivor of a Dragon Knight raid that killed her family roughly ten years ago. Gardwen channels the magic of nature and pure water and travels with a befriended she-wolf, Ruhi. She is searching for her brother, taken during the raid as a child -- now, unknown to her, the possessed warrior serving Baron Hanzo di Teufel. Dark hair, blue eyes; soft-spoken but fierce in defense of kin and the wild. She journeys with the old warrior-protector Magda (an emissary of the death goddess Hel) toward Zorastor, following the Dragon Knights.\n\n**The old ways gave her more than healing.** The grove that remade itself around eight murdered\npeople did not teach her herbs alone. She carries the **woodland set** of the binding school --\nSpirit Sight, Speak with the Bound, **Unseat**, Sanctuary -- learned in a place thick with people\nwho died badly, where such things are not theory.\n\nThere is no attack spell in it and there never was. **Unseat is a burial rite:** you put your hands\non somebody who is carrying a passenger and you refuse to let go until it can leave. It cannot be\nforced on a spirit that is holding on -- and a spirit held by torment counts as holding on until\nsomebody addresses the torment, which is what Speak with the Bound is for.\n\nShe has never used any of it on a person. She has used it twice on animals and once on a place.",
   "characteristics": {
     "STR": 10,
     "CON": 14,
@@ -155,9 +155,9 @@
   ],
   "passions": {
     "Love (Brother + Family)": 80,
-    "Hatred (The Dragons)": 0,
-    "Love (Elves)": 0,
-    "Love (Nature + Wilderness)": 0
+    "Hatred (The Dragons)": 70,
+    "Love (Nature + Wilderness)": 65,
+    "Love (Elves)": 45
   },
   "combat_styles": {
     "Druid (club, dagger, dart, hammer, sickle, scimitar, shield, sling, spear, staff, staff sling, whip)": 59
@@ -176,6 +176,12 @@
       "Cure Serious Wounds",
       "Cure Disease",
       "Hold Person"
+    ],
+    "woodland": [
+      "Spirit Sight",
+      "Speak with the Bound",
+      "Unseat",
+      "Sanctuary"
     ]
   },
   "extras": {

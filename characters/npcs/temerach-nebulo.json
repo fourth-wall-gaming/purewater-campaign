@@ -158,7 +158,11 @@
       "notes": "AP 8 each location; armor penalty -10"
     }
   ],
-  "passions": {},
+  "passions": {
+    "See Hanzo di Teufel answer lawfully": 75,
+    "Loyalty (the Swords of the Lake)": 70,
+    "Protect Conall from what he is": 65
+  },
   "combat_styles": {
     "Knight of the Lake (Swords of the Lake; bow, spear, longsword, rapier, shield)": 121
   },

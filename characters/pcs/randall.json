@@ -185,7 +185,9 @@
     }
   ],
   "passions": {
-    "Caring for Loved Ones": 0
+    "Caring for Loved Ones": 70,
+    "The Pearl raised me and I pay it back": 60,
+    "Never ask who my mother was": 55
   },
   "combat_styles": {
     "Thief (broadsword, club, dagger, dart, falchion, garrotte, hand crossbow, knife, longsword, shortbow, shortsword, sling)": 75

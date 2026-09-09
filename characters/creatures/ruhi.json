@@ -138,7 +138,10 @@
       "notes": "AP 1 each location; no armor penalty"
     }
   ],
-  "passions": {},
+  "passions": {
+    "Bonded to Gardwen": 85,
+    "Distrust of enclosed places and cities": 55
+  },
   "combat_styles": {
     "Pack Savage (Bite)": 85
   },
