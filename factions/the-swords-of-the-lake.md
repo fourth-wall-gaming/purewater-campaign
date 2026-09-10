@@ -5,7 +5,7 @@ summary: "An austere knightly order sworn to the Lake Lady and the protection of
 created_at: "2026-06-24T23:31:07"
 ---
 
-A close-knit, austere order of knights sworn to a code of honor beyond the city watch or the King's army, and held to account by the goddess herself. They hold battle honors from the ancient uprising against the Dragon Kings and live disciplined lives of service. They operate across Mystamyr to protect the realm and, above all, the old water magic.
+A close-knit, austere order of knights sworn **to the Lake Lady herself and not to her priesthood** -- a code of honor beyond the city watch or the King's army, held to account by the goddess directly. They take no tithes and keep no temples. *[[The Order of the Lake Lady]] cannot command a Sword and never could*: see *[[The Order and the Swords: one goddess, two houses]]*, which is the reason Temerach can act in a week when the clergy may not. They hold battle honors from the ancient uprising against the Dragon Kings and live disciplined lives of service. They operate across Mystamyr to protect the realm and, above all, the old water magic.
 
 **Ranks** are earned and worn plainly; the white belt is the mark of a full Sword, and [[Corvin]] would tell you at length how much he wants one.
 
@@ -43,7 +43,7 @@ She knows it. Everyone who has thought about it for two minutes knows it. **And 
 
 ## Friction
 
-Sworn to the [[The Order of the Lake Lady]] and honoured by them. Respectful of the [[The City Watch]] and privately appalled at what has been done to it. Contemptuous of the [[The Harbor Masters]]. Implacably opposed to the [[The Dragon Knights]], whose past raids the order has been documenting for thirty years -- and one of whose survivors, [[Gardwen]], is the reason this is personal for more than one person in the story.
+Kin to the [[The Order of the Lake Lady]] and formally its equal -- bread, water and a bed at any temple, the Rite of Account on request, and no authority in either direction. Four hundred years of courteous disagreement about whether a priesthood that accepted civic power can still act when it matters. Respectful of the [[The City Watch]] and privately appalled at what has been done to it. Contemptuous of the [[The Harbor Masters]]. Implacably opposed to the [[The Dragon Knights]], whose past raids the order has been documenting for thirty years -- and one of whose survivors, [[Gardwen]], is the reason this is personal for more than one person in the story.
 
 ## Hooks
 

@@ -19,7 +19,7 @@ campaign format (v1.1).
 
 | Contents | Count |
 |---|---|
-| Lore entries | 19 |
+| Lore entries | 20 |
 | Characters | 40 (PCs: Conall Bjornlasch, Gardwen, Magda, Randall) |
 | Creature templates | 4 |
 | Locations | 19 |
@@ -111,6 +111,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 
 **religion**
 - [The Gods of Mystamyr](lore/religion/the-gods-of-mystamyr.md)
+- [The Order and the Swords: one goddess, two houses](lore/religion/the-order-and-the-swords.md)
 
 ## Dramatis personae
 

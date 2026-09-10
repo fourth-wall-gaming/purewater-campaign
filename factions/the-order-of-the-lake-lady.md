@@ -9,7 +9,9 @@ Both a religious cult and a civic power, the Order maintains the temples and sac
 
 **Ranks:** Water Initiates, Reflectionists, Tide Wardens, Wave Speakers (those with proven water-affinity), Deep Visionaries (who commune with the Lake Lady), and The High Tide -- the ruling council of five Deep Visionaries.
 
-**Leadership.** [[Lilura Deepcurrent]] has led the Order for three decades: elderly, piercing-eyed, rumored to carry merfolk ancestry. Beneath her, [[High Priestess Nerissa]] runs the Temple of the Lake Lady day to day -- she can sense water corruption, bless sacred waters, and speak with water spirits, but **temple law forbids her from intervening directly unless the sacred sites are threatened.** She therefore needs agents. That constraint is the engine of the party's whole relationship with the Order.
+**Leadership.** [[Lilura Deepcurrent]] has led the Order for three decades: elderly, piercing-eyed, rumored to carry merfolk ancestry. Beneath her, [[High Priestess Nerissa]] runs the Temple of the Lake Lady day to day -- she can sense water corruption, bless sacred waters, and speak with water spirits, but **temple law forbids her from intervening directly unless the sacred sites are threatened.** She therefore needs agents.
+
+**And the Swords are not hers to send.** [[The Swords of the Lake]] are sworn to the goddess, not to the priesthood; Nerissa cannot command one, and the forms give her no graceful way to ask. See *[[The Order and the Swords: one goddess, two houses]]*. That double constraint -- gagged by an instruction, and unable to call on the one armed body that shares her goddess -- is the engine of the party's whole relationship with the Order.
 
 **Stated aim:** preserve the sacred waters and the Lake Lady's blessings. **Real aim:** hold their political power as the waters fail; some higher clergy fear the goddess's power is waning and quietly study the corruption to understand it.
 
@@ -44,7 +46,7 @@ She is a powerful priestess, boxed in on two sides, watching the water go wrong 
 
 ## Friction
 
-Allied with [[The Watercrafters Guild]] -- which is now *awkward*, since a Watercrafter's signature is what silenced them. On arranged terms with [[Ravella]]. Cautiously allied with the progressive wing of [[The Dredgers]]. Their chief enemy is the Baron's fire demonology, and since his arrival the corruption -- and their alarm -- has steadily risen.
+Kin to [[The Swords of the Lake]], and neither house commands the other. Allied with [[The Watercrafters Guild]] -- which is now *awkward*, since a Watercrafter's signature is what silenced them. On arranged terms with [[Ravella]]. Cautiously allied with the progressive wing of [[The Dredgers]]. Their chief enemy is the Baron's fire demonology, and since his arrival the corruption -- and their alarm -- has steadily risen.
 
 ## Hooks
 
