@@ -29,7 +29,7 @@ and the ship is quiet enough at night to hear a man walk.
 | **Blau** | wherever the Baron is |
 | **Cailan and his keeper** | below the waterline aft, a lamp that is never put out, the keeper sleeping across the door |
 | **Six of the Dragon Circle** | the inner guard, the only Knights aboard, watch-and-watch |
-| **Shipmaster Odell Renn and five crew** | borderlanders, paid, incurious, contemptuous of Knights |
+| **Shipmaster Odell Renn and four crew** | borderlanders, paid, incurious, contemptuous of Knights |
 | **Four household** | a cook, a laundress, a body servant, and a secretary who keeps the Baron's correspondence |
 
 *The laundress cannot get a grey residue out of the same linen every morning and
@@ -49,3 +49,5 @@ goes aft.
 
 **Which is why the estate is the softer target.** Two hundred people, tents, a
 kitchen, hired local labour, and men who talk. See [[The Vantt Estate]].
+
+**Deck by deck:** [[The DragonBarge: deck plan]].

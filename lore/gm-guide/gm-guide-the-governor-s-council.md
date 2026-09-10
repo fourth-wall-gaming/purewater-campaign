@@ -54,8 +54,13 @@ all. Let them chase it. Let them be certain. The correction, when it comes, is t
 best scene in the political thread -- and Quist, accused wrongly and in public,
 becomes the hardest ally in the city to recover.
 
-The Society is worth keeping as its own thread: sixty subscribers, of whom about
-four matter, and the GM never has to say which four.
+The Society has its own write-up: *[[The Ember Society]]*. Sixty subscribers, of
+whom four matter -- and **the fourth name on the list is [[Ivo Calder]]**, the
+Watercrafters' assessor who signed the temple's fouling alarm off as a false
+reading. That signature is what let Quist carry the temple instruction in good
+conscience. Work backwards from *who signed the assessment* and the thread pays
+out; work forwards from *who is in the cult* and it hands you Quist and a
+disaster.
 
 ## How the party actually wins this
 

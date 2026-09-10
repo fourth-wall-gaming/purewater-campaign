@@ -19,8 +19,8 @@ campaign format (v1.1).
 
 | Contents | Count |
 |---|---|
-| Lore entries | 17 |
-| Characters | 38 (PCs: Conall Bjornlasch, Gardwen, Magda, Randall) |
+| Lore entries | 19 |
+| Characters | 40 (PCs: Conall Bjornlasch, Gardwen, Magda, Randall) |
 | Creature templates | 4 |
 | Locations | 19 |
 | Factions | 14 |
@@ -96,10 +96,12 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [GM Guide: Dramatis Personae](lore/gm-guide/gm-guide-dramatis-personae.md) *(GM only)*
 - [GM Guide: Running the Living World](lore/gm-guide/gm-guide-running-the-living-world.md) *(GM only)*
 - [GM Guide: Supporting and Offscreen Cast](lore/gm-guide/gm-guide-supporting-and-offscreen-cast.md) *(GM only)*
+- [The DragonBarge: deck plan](lore/gm-guide/gm-guide-the-dragonbarge-deck-plan.md) *(GM only)*
 - [The Governor's council](lore/gm-guide/gm-guide-the-governor-s-council.md) *(GM only)*
 
 **gm-secret**
 - [GM Secrets: The Possession Scheme](lore/gm-secret/gm-secrets-the-possession-scheme.md) *(GM only)*
+- [The Ember Society](lore/gm-secret/the-ember-society.md) *(GM only)*
 
 **history**
 - [The Dragon Kings and the Lake Lady](lore/history/the-dragon-kings-and-the-lake-lady.md)
@@ -123,6 +125,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [Abel Weir](characters/npcs/abel-weir.json) — Sergeant of the City Watch, forty-one, twenty-two years in blue-grey. Keeps the referral book: four inches of complaints against the Baron's men that he has been ordered in writing to record and not act on. Not brave, thoroughly professional, and looking for someone to refer it all *to*. The party's lawful door.
 - [Asphodel](characters/npcs/asphodel.json) — A courtesan at the Promise of Heaven, the house where Randall grew up. Warm, quick, and trusted by him 'as brother and sister' -- his closest confidante on the Pearl Quay and a ready source of information from the working girls.
 - [Blau](characters/npcs/blau.json) — Baron Hanzo's albino lieutenant -- known to the ranks as Commander Vask. A thin, red-eyed, burn-scarred killer with unnatural strength who runs the Dragon Knights' day-to-day command and handles the Baron's 'dirty work': a cold, efficient assassin and intimidator.
+- [Cassian Bree](characters/npcs/cassian-bree.json) — Secretary of the Ember Society, forty-four: courteous, boring on purpose, immaculate minutes. The only actual Movement member in Purewater, and the worst kind of suspect -- everything he does is legal and he will help you with all of it. Has been quietly reporting on Baron Hanzo to the Movement for six years; Hanzo does not know.
 - [Cailan](characters/npcs/cailan.json) — Gardwen's possessed brother (birth name Gabriel) -- the Baron's tournament champion, host to the ancient dragon-knight spirit Thuban Eta. Dragon-scale armor fused to his skin; eyes flicker reptilian when possessed; fights with uncanny ancient skill and minor fire.
 - [Constantine](characters/npcs/constantine.json) — Proprietor of The Sylph's Embrace on the Pearl -- shrewd, protective of her workers, fiercely independent. Operates under Marisette's authority. After Santo's attack on Emmeralda in her house, she is hiring protection and wants justice.
 - [Corvin](characters/npcs/corvin.json) — Sword of the Lake, twenty-two: earnest, brave, and not remotely subtle. Rows well, watches badly, and wants the white belt more than he wants to be careful.
@@ -136,6 +139,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [High Priestess Nerissa](characters/npcs/high-priestess-nerissa.json) — High Priestess of the Temple of the Lake Lady -- middle-aged, silver-streaked hair, blue-green robes that ripple like water. A powerful divine caster (Piety 92, Willpower 85) who senses water corruption, blesses sacred waters, and speaks with water spirits. Temple law forbids her from intervening directly, so she works through the PCs.
 - [Ila](characters/npcs/ila.json) — A young elven girl (about thirteen) at the Sylph's Embrace, devoted to Emmeralda. An innocent of the Pearl, and a thread on the party's conscience.
 - [Kerrin (brown coat)](characters/npcs/kerrin-brown-coat.json) — One of Crowbill's watchers: dockside, unremarkable, professional. Eleven years of reading faces across a room, and he follows rather than closes.
+- [Ivo Calder](characters/npcs/ivo-calder.json) — Tide Master of the Watercrafters and the city's appointed assessor, fifty. Signed the Lake Lady's fouling alarm off as a **false reading** six weeks ago, at one polite request from a man he respects, and kept his original notes proving it was real. A confession waiting for a competent interviewer -- and his recantation reopens the alarm and puts the Order officially onto the Baron three days before the Tourney.
 - [Lilura Deepcurrent](characters/npcs/lilura-deepcurrent.json) — Elderly head of the Order of the Lake Lady for three decades -- piercing blue eyes, rumored merfolk ancestry (she holds her breath unnaturally long). The city's most powerful divine caster (Piety 95, Willpower 92), guiding the Order's water-faith against the Baron's fire demonologists.
 - [Marda Blackwater](characters/npcs/marda-blackwater.json) — Broad-shouldered leader of The Dredgers, risen from the dredge-boats during a labor dispute five years ago. A powerful working-class champion (Brawn 75, Oratory 78, Influence 75) who rallies dock labor against the merchant princes and -- above all -- against the Baron's Dragon Knights.
 - [Mariarta](characters/npcs/mariarta.json) — An older, canny courtesan of the Promise of Heaven with 'the calm intelligence of someone who can survive almost any situation involving men.' Sent up to entertain the Baron's soldiers, she brings back the hard intelligence on his guarded quarters -- Randall's most valuable inside source on the Dragon Knights' manor.
