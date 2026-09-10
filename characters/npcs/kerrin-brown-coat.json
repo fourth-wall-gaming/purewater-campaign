@@ -22,7 +22,7 @@
     "initiative_bonus": 13,
     "luck_points": 2,
     "magic_points": 11,
-    "movement": "4m walk / 12m fly"
+    "movement": "6m"
   },
   "skills": {
     "Athletics": 25,
@@ -44,7 +44,6 @@
     "Stealth": 68,
     "Unarmed": 25,
     "Willpower": 52,
-    "Flight": 25,
     "Customs": 66,
     "Native Tongue": 65,
     "Streetwise": 71
@@ -54,7 +53,7 @@
       "name": "Right Leg",
       "range": [
         1,
-        2
+        3
       ],
       "ap": 0,
       "hp": 5,
@@ -63,8 +62,8 @@
     {
       "name": "Left Leg",
       "range": [
-        3,
-        4
+        4,
+        6
       ],
       "ap": 0,
       "hp": 5,
@@ -73,8 +72,8 @@
     {
       "name": "Abdomen",
       "range": [
-        5,
-        7
+        7,
+        9
       ],
       "ap": 0,
       "hp": 6,
@@ -83,38 +82,18 @@
     {
       "name": "Chest",
       "range": [
-        8,
-        10
+        10,
+        12
       ],
       "ap": 0,
       "hp": 7,
       "current_hp": 7
     },
     {
-      "name": "Right Wing",
-      "range": [
-        11,
-        12
-      ],
-      "ap": 0,
-      "hp": 5,
-      "current_hp": 5
-    },
-    {
-      "name": "Left Wing",
-      "range": [
-        13,
-        14
-      ],
-      "ap": 0,
-      "hp": 5,
-      "current_hp": 5
-    },
-    {
       "name": "Right Arm",
       "range": [
-        15,
-        16
+        13,
+        15
       ],
       "ap": 0,
       "hp": 4,
@@ -123,7 +102,7 @@
     {
       "name": "Left Arm",
       "range": [
-        17,
+        16,
         18
       ],
       "ap": 0,

@@ -3,8 +3,8 @@
   "name": "Sana",
   "type": "npc",
   "status": "active",
-  "description": "Nineteen, dark red hair chopped ragged on the left side. High Priestess Nerissa's niece, six weeks at the temple school. Clever, not biddable, and a noticer -- she is the only person who spotted what happened to Bettan and the only one who thought going where somebody is already looking was pointless. Missing since yesterday morning; folded into a gap between two floor-joists in the tower-stub on Lost Isle since, with no water.",
-  "narrative": null,
+  "description": "Nineteen, dark red hair chopped ragged on the left side. High Priestess Nerissa's niece, six weeks at the temple and not yet resigned to it. Clever, not biddable, and a noticer -- she sees the thing nobody else in the room thought was worth looking at, and says so at the wrong moment.",
+  "narrative": "Sent to the temple by a family that ran out of other ideas, and kept there by an\naunt who will not admit how much she likes having her about.\n\nSana is useful to a GM as the person who *noticed*. She carries water, runs errands\nbetween the temple and the Northern Isles, and is in and out of rooms that important\npeople assume are empty. She is not brave and she is not trained; she is observant,\nand she is nineteen, which means she will tell the wrong person something true.\n\n**Use her** as the thread the party pulls when they need a way into the temple's\nside of things, or as somebody it costs them to protect.",
   "characteristics": {
     "STR": 9,
     "CON": 11,
@@ -22,7 +22,7 @@
     "initiative_bonus": 13,
     "luck_points": 3,
     "magic_points": 13,
-    "movement": "4m walk / 12m fly"
+    "movement": "6m"
   },
   "skills": {
     "Athletics": 40,
@@ -44,7 +44,6 @@
     "Stealth": 45,
     "Unarmed": 21,
     "Willpower": 56,
-    "Flight": 21,
     "Customs": 70,
     "Native Tongue": 70,
     "Swim": 45
@@ -54,7 +53,7 @@
       "name": "Right Leg",
       "range": [
         1,
-        2
+        3
       ],
       "ap": 0,
       "hp": 5,
@@ -63,8 +62,8 @@
     {
       "name": "Left Leg",
       "range": [
-        3,
-        4
+        4,
+        6
       ],
       "ap": 0,
       "hp": 5,
@@ -73,8 +72,8 @@
     {
       "name": "Abdomen",
       "range": [
-        5,
-        7
+        7,
+        9
       ],
       "ap": 0,
       "hp": 6,
@@ -83,38 +82,18 @@
     {
       "name": "Chest",
       "range": [
-        8,
-        10
+        10,
+        12
       ],
       "ap": 0,
       "hp": 7,
       "current_hp": 7
     },
     {
-      "name": "Right Wing",
-      "range": [
-        11,
-        12
-      ],
-      "ap": 0,
-      "hp": 5,
-      "current_hp": 5
-    },
-    {
-      "name": "Left Wing",
-      "range": [
-        13,
-        14
-      ],
-      "ap": 0,
-      "hp": 5,
-      "current_hp": 5
-    },
-    {
       "name": "Right Arm",
       "range": [
-        15,
-        16
+        13,
+        15
       ],
       "ap": 0,
       "hp": 4,
@@ -123,7 +102,7 @@
     {
       "name": "Left Arm",
       "range": [
-        17,
+        16,
         18
       ],
       "ap": 0,

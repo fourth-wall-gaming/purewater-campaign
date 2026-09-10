@@ -32,15 +32,17 @@ the bleeding, the grey residue the laundress cannot boil out. **Every step is a 
 failure.** Take the locket and the rite gets hard; take both anchors and the binding fails on its
 own; sweep a seat and an unfinished channel closes.
 
-**Santo cannot do any of it.** He has Open the Channel and Spirit Sight, self-taught by tracing,
-and he had exactly **one scroll** of Seat the Bound stolen from his father's locked case. He spent
-it on Emmeralda and botched the roll, and a scroll is consumed whatever the result. Hanzo does not
-know it is gone. The spent sheet is in the Baron's own hand and is therefore evidence.
+**Santo cannot do any of it, and is not trying to.** He has Open the Channel and Spirit Sight,
+self-taught by tracing, and exactly **one scroll** of Seat the Bound stolen from his father's locked
+case. He is not building anything and he is not part of the scheme -- he wants one girl off the
+Pearl and thinks a seated spirit will make her want it too. He spends the scroll on Emmeralda and
+botches the roll, and a scroll is consumed whatever the result. Hanzo does not know it is gone. The
+spent sheet is in the Baron's own hand and is therefore evidence, which is the entire reason this
+squalid little crime opens the door onto the real one.
 
-**Lost Isle is the supply line, not the mechanism.** The drowned district is old ground thick with
-people who died badly, which is exactly where **Anchor** material comes from -- and the quiet one
-has been harvesting it. Ellick Sarn and Bettan Marrow are what careless anchoring produces:
-hollow men, warmed and worn, who said yes to a coat in a cold winter. Shutting that down cripples
-the Baron's *resupply*. It does not stop what happens at noon.
+**He needs no supply line.** Both anchors already exist and have for a decade: the bones, and the
+locket he wears. There is nothing to raid, nowhere to interdict, and no second site. The scheme is
+four generations of patience, two anchors, a boy, and a room -- which is why it has never once
+looked like a conspiracy from outside.
 
 **The lever.** The campaign's resolution is **not** a frontal fight with the Baron but the dismantling of his ritual. The plot turns on the locket: [[Nus]] pickpockets it before the tourney on Conall's behalf; the Baron, discovering the theft, launches a purge to recover it and displays Nus's body as a warning -- "he would turn the entire city inside out to retrieve it." Hold the locket, and you have leverage; damage it and the bones, and the possession weakens. The emotional climax is Gardwen recognizing her brother across the tournament ground.

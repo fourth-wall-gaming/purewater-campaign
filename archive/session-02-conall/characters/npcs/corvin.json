@@ -1,0 +1,160 @@
+{
+  "id": "myth-char-83fb9476ee6a",
+  "name": "Corvin",
+  "type": "npc",
+  "status": "active",
+  "description": "Sword of the Lake, twenty-two, earnest and brave and not remotely subtle. Rows well. Currently in a brown coat that is too short in the arm and sulking about it.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 13,
+    "SIZ": 13,
+    "DEX": 12,
+    "INT": 11,
+    "POW": 11,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 0,
+    "healing_rate": 3,
+    "initiative_bonus": 11,
+    "luck_points": 2,
+    "magic_points": 11,
+    "movement": "4m walk / 12m fly"
+  },
+  "skills": {
+    "Athletics": 25,
+    "Boating": 68,
+    "Brawn": 26,
+    "Conceal": 23,
+    "Dance": 23,
+    "Deceit": 22,
+    "Drive": 23,
+    "Endurance": 60,
+    "Evade": 24,
+    "First Aid": 23,
+    "Influence": 22,
+    "Insight": 22,
+    "Locale": 22,
+    "Perception": 55,
+    "Ride": 23,
+    "Sing": 22,
+    "Stealth": 45,
+    "Unarmed": 25,
+    "Willpower": 50,
+    "Flight": 25,
+    "Customs": 62,
+    "Native Tongue": 62
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 0,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [],
+  "passions": {
+    "Earn the white belt of the Swords of the Lake": 70,
+    "Do what the Mother tells me, exactly": 65,
+    "Do not be sick in front of anybody again": 40
+  },
+  "combat_styles": {},
+  "spells": null,
+  "extras": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-09-09T16:38:40"
+}
