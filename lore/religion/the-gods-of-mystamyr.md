@@ -113,15 +113,15 @@ the instrument [[Santo di Teufel]] means to use on [[Emmeralda]]. His mark on th
 blade is the unmistakable signature of the fire-demonology at the campaign's
 heart, and the sight of it makes even Hel's warrior recoil.
 
-**The legal position, which the party should be told plainly if they ask:** arcane
-practice is lawful and licensed in Mystamyr -- that is what institutions like
-[[The King's Assay]] exists to oversee. **Seating a spirit in an
-unwilling person is a capital crime under the King's law**, and has been since the
-uprising, for the obvious historical reason.
+**The position under the King's law:** arcane practice is lawful and licensed --
+that is what [[The King's Assay]], the Crown's arcane inspectorate, exists to
+oversee. **Seating a spirit in an unwilling person is a hanging matter**, and has
+been since the uprising, for the obvious historical reason.
 
-This is why the evidence matters so much. A spent scroll of *Seat the Bound* in
-Baron Hanzo di Teufel's own hand is not a scandal, not a rumour, and not a
-theological dispute. **It is a hanging document**, and it is one of the reasons a
-lawful route through [[Abel Weir]], [[Maro Quist]], the [[The Harbor Masters]]'
-maritime jurisdiction, or the Assay's institutional weight is a genuine way to
-win this campaign rather than a consolation prize.
+**Which does not mean anybody can arrest a baron for it.** A lord answers to the
+King and to nobody else, and the King is at Sharna. A spent scroll of *Seat the
+Bound* in Baron Hanzo di Teufel's own hand convicts no one by itself -- what it
+does is give a person with **standing** something worth risking their name on: a
+sworn knight, a warranted assayer, the Lady's clergy speaking to what was done to
+the water, or the Crown's own representative in this city. That is the whole of
+the lawful road, and it is a real one. See *[[The King's justice, and how a lord is called to answer]]*.

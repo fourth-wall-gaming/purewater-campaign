@@ -19,7 +19,7 @@ campaign format (v1.1).
 
 | Contents | Count |
 |---|---|
-| Lore entries | 20 |
+| Lore entries | 21 |
 | Characters | 40 (PCs: Conall Bjornlasch, Gardwen, Magda, Randall) |
 | Creature templates | 4 |
 | Locations | 19 |
@@ -106,6 +106,9 @@ concrete things those goals produce, scheduled against the world clock. Run
 **history**
 - [The Dragon Kings and the Lake Lady](lore/history/the-dragon-kings-and-the-lake-lady.md)
 
+**law**
+- [The King's justice, and how a lord is called to answer](lore/law/the-kings-justice.md)
+
 **magic-system**
 - [Magic in Purewater: Water and Fire](lore/magic-system/magic-in-purewater-water-and-fire.md)
 
@@ -154,7 +157,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [Sana](characters/npcs/sana.json) — Nineteen, dark red hair chopped ragged on the left side. High Priestess Nerissa's niece, six weeks at the temple, and the one who notices what nobody else notices.
 - [Sinnit](characters/npcs/sinnit.json) — A brutish Purewater canal-rat and rival thief who nurses a hard grudge against Randall -- a brawling enforcer-type with a long memory and a short temper.
 - [Tat Atarer](characters/npcs/tat-atarer.json) — Captain of the Dragon Knights -- a hardened, pragmatic mercenary commander who serves Baron Hanzo for pay, not ideology. Master fighter (combat 97%); 'the Baron pays for our swords, not our opinions.'
-- [Temerach Nebulo](characters/npcs/temerach-nebulo.json) — Elf knight of the Swords of the Lake, called 'the Lakelady's Javelin'; a deadly archer and peerless martial fighter tracking Baron Hanzo to expose his crimes.
+- [Temerach Nebulo](characters/npcs/temerach-nebulo.json) — Elf knight of the Swords of the Lake, called 'the Lakelady's Javelin'; a deadly archer and peerless martial fighter. Has spent four years trying to get Baron Hanzo **called to answer** and has not yet dared make the accusation -- because a lord may answer an accusation with his champion's sword, and nobody has seen the Baron's champion fight.
 - [Thorne](characters/npcs/thorne.json) — Elderly storyteller of The Moist Oyster -- frail-seeming but with penetrating blue eyes and a cane that hides a blade. Secretly a former Order of the Lake initiate and Dragon-Knight-raid survivor with peerless historical lore (Dragon Kings era 92) and knowledge of possession-ritual weaknesses.
 - [Thuban Eta](characters/npcs/thuban-eta.json) — The ancient dragon-knight spirit bound inside Cailan. A betrayed tactical genius from the Dragon Kings era, held in thrall by Baron Hanzo's ritual through his bones and the binding locket. Indomitable will (Willpower 95), peerless tactics, honors the old codes -- a potential ally if freed.
 

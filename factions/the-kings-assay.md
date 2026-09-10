@@ -14,7 +14,7 @@ by magic, and it never intended to be surprised by that again.
 **What they actually do.** License practitioners. Inspect and hallmark enchanted
 goods so a buyer knows what he is holding. Keep **the Register** -- who may work,
 what they may work, and what they have made. Investigate unlicensed practice, and
-prosecute the proscribed kind.
+lay the proscribed kind before the Crown.
 
 They are, in consequence, about as popular as any body that can close your
 workshop.
@@ -83,11 +83,18 @@ for and cannot command, and the delay is the point: writing to the Assay is a re
 action with a real cost in time, and the answer arrives after the thing has
 happened.
 
-**And this is squarely their jurisdiction.** Seating a spirit in an unwilling
-person is a capital crime under the King's law, and the Assay is the body that
-brings that charge. A borderland baron holding a spirit inside a living child for
-ten years, working from nine folded sheets in a locked case, is not a scandal to
-them. It is the exact thing they were chartered to find.
+**And this is squarely within their charter.** Seating a spirit in an unwilling
+person is a hanging matter, and a warranted assayer is one of the few people in
+Mystamyr with **standing to call a lord to answer for it** -- not to arrest him,
+which nobody can do, but to lay a finding before the Crown and put his own name
+behind it. A borderland baron holding a spirit inside a living child for ten
+years, working from nine folded sheets in an unregistered hand, is the exact thing
+they were chartered to find.
+
+**And a warrant is only worth the man holding it.** The Table sits at Sharna among
+courtiers and can be leaned on like anything else made of people. An assayer who
+lays a finding against a great lord and cannot make it stand answers for it
+himself.
 
 ## The door
 

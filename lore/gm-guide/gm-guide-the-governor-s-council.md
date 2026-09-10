@@ -64,8 +64,10 @@ disaster.
 
 ## How the party actually wins this
 
-Not by exposing a conspiracy -- there isn't one to expose. By **making the
-instructions expensive**:
+Not by exposing a conspiracy -- there isn't one to expose -- and not by
+prosecuting anyone, because nobody in this city can prosecute a lord. By **making
+the instructions expensive**, and by reaching the one man in Purewater who can act
+in the King's name:
 
 - **Vantt** moves the moment a Knight's crime looks like it will carry his name.
   Fear of the Baron works; the debt does not, and he will call it friendship.

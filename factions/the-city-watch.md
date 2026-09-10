@@ -37,6 +37,10 @@ started drinking off duty in places where dragonshits do not go.
 party's most useful lawful ally.
 
 **Stated aim:** keep the peace through the festival. **Real aim,** among the ones
-who still care: get one of these incidents in front of somebody who outranks the
-council -- the Prince himself, the Order of the Lake Lady, or a Sword of the Lake
+who still care: get the book in front of **somebody with standing to use it** --
+the Prince in person, the Lady's clergy, a Sword of the Lake, a warranted assayer
 -- without any watchman having to be the one who disobeyed.
+
+A sergeant cannot accuse a baron. He would be ruined for trying, and he knows the
+arithmetic exactly. What he can do is keep an unimpeachable record and put it in
+the hands of someone whose word survives being wrong. See *[[The King's justice, and how a lord is called to answer]]*.

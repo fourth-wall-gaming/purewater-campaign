@@ -3,8 +3,8 @@
   "name": "Temerach Nebulo",
   "type": "npc",
   "status": "active",
-  "description": "Elf knight of the Swords of the Lake, called 'the Lakelady's Javelin'; a deadly archer and peerless martial fighter tracking Baron Hanzo to expose his crimes.",
-  "narrative": "An elven knight of the elite order of the Swords of the Lake, known as 'the Lakelady's Javelin' for her uncanny skill with the bow. Disciplined, sharp and lethally precise, Temerach has been tracking Baron Hanzo for some time and carries knowledge of his past crimes; she means to expose and stop his threat to Mystamyr. A consummate warrior in full plate, she fights with longsword, rapier and kite shield -- but it is her marksmanship that has made her name.",
+  "description": "Elf knight of the Swords of the Lake, called 'the Lakelady's Javelin'; a deadly archer and peerless martial fighter who has spent four years trying to get Baron Hanzo called to answer -- and has not yet dared make the accusation.",
+  "narrative": "An elven knight of the elite order of the Swords of the Lake, known as 'the\nLakelady's Javelin' for her uncanny skill with the bow. Disciplined, sharp and\nlethally precise. A consummate warrior in full plate, she fights with longsword,\nrapier and kite shield -- but it is her marksmanship that has made her name.\n\n**A rare outsider who rose to greatness among human knights**, admitted on merit by\nan order that did not care where she came from. It is why she recognises the same\nthing in [[Conall]] on sight, and why neither of them can be bought with anything\nthis city has to offer.\n\n**What she is actually doing here, which is not detective work.** There is no\narresting a baron. A lord answers to the King, and King Halvern is at Sharna, far\naway and content, surrounded by men who have been Hanzo's friends for thirty years.\nTemerach has petitioned the Crown twice; both petitions were received courteously\nand died in that warmth.\n\nSo she works in the forms her order actually has. **She has standing** -- a sworn\nknight of a recognised order may call a lord to answer, and that is the one real\nweapon she carries. She has used the **Rite of Account** three times in two years,\nrequiring the Lady's clergy to put a question to the goddess on her behalf, and the\nanswers have come back poorer each time as the pools foul. **She asks men to swear\nover still water**, and has learned most of what she knows from who refused.\n\nAnd she spent four years earning an **archery** entry to this Tourney, because a\ncompetitor is presented to the Crown's representative -- which buys her a quarter\nof an hour in front of a prince. That is what the entry is for.\n\n**Why she has not accused him.** Because a lord called to answer may refuse the\nmatter and offer trial by arms, or his champion's, and Hanzo has a champion nobody\nhas seen fight. She is too good a soldier to open with a move whose answer she\ncannot predict. She is very probably the one blade who could beat that champion,\nand she cannot enter the Single Combat without giving up the room.\n\n**She has long known whose son Conall is** and has not told him. She brought him\nhere deliberately. Both of those facts are going to cost her his trust, and she has\nalready decided to pay it.",
   "characteristics": {
     "STR": 17,
     "CON": 12,
@@ -159,7 +159,7 @@
     }
   ],
   "passions": {
-    "See Hanzo di Teufel answer lawfully": 75,
+    "See Hanzo di Teufel called to answer": 75,
     "Loyalty (the Swords of the Lake)": 70,
     "Protect Conall from what he is": 65
   },
