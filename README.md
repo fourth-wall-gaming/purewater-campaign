@@ -19,7 +19,7 @@ campaign format (v1.1).
 
 | Contents | Count |
 |---|---|
-| Lore entries | 21 |
+| Lore entries | 22 |
 | Characters | 40 (PCs: Conall Bjornlasch, Gardwen, Magda, Randall) |
 | Creature templates | 4 |
 | Locations | 19 |
@@ -93,6 +93,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [The City and Its Islands](lore/geography/the-city-and-its-islands.md)
 
 **gm-guide**
+- [GM Guide: Conflicting agendas, and resolving them offscreen](lore/gm-guide/gm-guide-conflicting-agendas.md) *(GM only)*
 - [GM Guide: Dramatis Personae](lore/gm-guide/gm-guide-dramatis-personae.md) *(GM only)*
 - [GM Guide: Running the Living World](lore/gm-guide/gm-guide-running-the-living-world.md) *(GM only)*
 - [GM Guide: Supporting and Offscreen Cast](lore/gm-guide/gm-guide-supporting-and-offscreen-cast.md) *(GM only)*
