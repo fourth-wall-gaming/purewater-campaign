@@ -2,49 +2,50 @@
 id: "myth-loc-0900adc8395d"
 name: "The DragonBarge"
 type: "vessel"
-summary: "Baron Hanzo's dragon-prowed vessel at a private pier on High Isle's seaward side -- not a hideout but a floating household of eighty-odd people: crew, servants, Knights, petitioners, and one boy kept below."
+summary: "Baron Hanzo's dragon-prowed vessel at a private pier on High Isle's seaward side. Twenty aboard and no more -- the Baron, his household, six of the Dragon Circle, and one boy kept below the waterline. The company itself camps ashore on the Vantt estate."
 created_at: "2026-06-24T23:31:07"
 ---
 
-Baron Hanzo's personal vessel: a massive ship adorned with dragon motifs that
+Baron Hanzo's personal vessel: a large ship adorned with dragon motifs that
 **steams continuously where its hull meets the water**, fire magic warring with the
-sacred channel and slowly corrupting it. It lies at a private pier on **[[High
-Isle]]'s eastern, seaward side**, among the smoke of the **[[The Forge Quarter]]**
+sacred channel and slowly corrupting it. It lies at a private pier on **[[High Isle]]'s eastern, seaward side**, among the smoke of the **[[The Forge Quarter]]**
 and within easy reach of the open sea through the Mouth -- the corruption it sheds
 is felt worst in these eastern yards and creeps north toward the Lake from here.
 
-**It is not an empty set piece and it is not a dungeon.** Something near eighty
-people live and work aboard, and at any hour of the day perhaps thirty of them are
-awake and in your way. The Baron does not hide on this ship; he *receives* on it.
+**Twenty people aboard, and that is the whole of it.** The barge is not a barracks
+and it will not hold one. The company -- the Knights, the horses, the farriers,
+the armourers, the servants, the tourney gear -- is camped ashore on **[[The Vantt Estate]]**, east of the city, and comes aboard only when sent for.
+
+What that means in play: **a stranger on this deck is noticed inside a minute.**
+There is nowhere to be lost in a crowd. Everyone aboard knows every other face,
+and the ship is quiet enough at night to hear a man walk.
 
 **Who is aboard**
 
-- **Shipmaster Odell Renn** and thirty crew -- borderlanders, paid, incurious,
-  and contemptuous of the Knights they ferry about.
-- **The household**: cooks, two laundresses, body servants, a barber-surgeon, a
-  secretary who keeps the Baron's correspondence, and a steward who knows the
-  provisioning bill to the penny. *One of the laundresses cannot get a grey
-  residue out of the same linen every morning and has stopped mentioning it.*
-- **The Dragon Circle** -- the inner guard, eight to twelve aboard at a time, the
-  only Knights permitted past the after-companionway.
-- **Petitioners and hangers-on**: borderland gentry wanting favour, two men of
-  the **[[The Awake the Dragon Movement]]** who are never introduced, contractors,
-  a tailor, a horse-dealer.
-- **Purewater labour**, hired by the day for provisioning, water, and cartage --
-  they come aboard at the forward gangway, they are never allowed aft, and they
-  go home at dusk and talk. **This is the way in.**
-- **Cailan**, below the waterline aft, in a cabin with a lamp that is never put
-  out, with a keeper who sleeps across the door. He is exercised on the after
-  deck before first light, in harness, with the deck cleared.
-- **Santo**, in the good cabins forward, with too much money and no duties.
-- **Women brought aboard for an evening** and put ashore again in the morning,
-  which is normal enough here that one more would not be remarked on.
+| | |
+|---|---|
+| **The Baron** | aft, in his own quarters, with the working cabin beside them |
+| **Santo** | forward, in the good cabins, with too much money and no duties |
+| **Blau** | wherever the Baron is |
+| **Cailan and his keeper** | below the waterline aft, a lamp that is never put out, the keeper sleeping across the door |
+| **Six of the Dragon Circle** | the inner guard, the only Knights aboard, watch-and-watch |
+| **Shipmaster Odell Renn and five crew** | borderlanders, paid, incurious, contemptuous of Knights |
+| **Four household** | a cook, a laundress, a body servant, and a secretary who keeps the Baron's correspondence |
+
+*The laundress cannot get a grey residue out of the same linen every morning and
+has stopped mentioning it.*
 
 **Aft of the companionway**: the Baron's quarters, his apparatus, the working
 cabin, the locked case behind the border rolls -- and the daily rite at first
-light, which is the one fixed point in the ship's day.
+light, which is the one fixed point in the ship's day. Cailan is exercised on the
+after deck before dawn, in harness, with the deck cleared.
 
-**Getting aboard** is therefore a social problem, not a stealth problem. A cook's
-boy, a delivery of lamp oil, a laundress's basket, a tailor's appointment, an
-invitation. Getting *aft* is the hard part, and it is hard because of people,
-not locks.
+**Getting aboard.** Not a stealth problem and not a crowd to hide in -- an
+*invitation* problem. Provisioning comes out from shore daily and is taken at the
+forward gangway by the cook, who does not let carriers past it. A tailor, a
+horse-dealer, a petitioner, a woman brought out for an evening and put ashore in
+the morning: all of these come aboard, all of them are escorted, and none of them
+goes aft.
+
+**Which is why the estate is the softer target.** Two hundred people, tents, a
+kitchen, hired local labour, and men who talk. See [[The Vantt Estate]].

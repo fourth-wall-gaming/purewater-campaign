@@ -12,8 +12,7 @@ where the long borderland road finally meets the city and the **Gate of Triumph*
 opens onto the first bridges and quays. Here caravans unload, travellers and
 competitors for the tourney throng in, beasts are penned and goods are staged before
 everything must take to boats. It is the southern jaw of the Mouth, looking across
-the landward channel to [[High Isle]]'s south-west point and the [[The Merchant's
-Quarter]] beyond.
+the landward channel to [[High Isle]]'s south-west point and the [[The Merchant's Quarter]] beyond.
 
 It was in the crush of Caravan Square that [[Randall]] first marked the disguised
 [[Baron Hanzo di Teufel]] coming into the city -- and was taken for "Lord Santo" by

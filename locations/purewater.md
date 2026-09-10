@@ -24,8 +24,7 @@ rotten. Locals call it **"Pisswater"** for the pollution and the corruption alik
   across a calmer **landward channel**; its east point reaches toward the Shoals
   across the **seaward channel** (the true Mouth); its north-west point faces the
   open Lake. The waters part around the isle and rejoin to the south.
-- North of High Isle, scattered across the Lake's calmer waters, lie **[[The Northern
-  Isles]]** -- among them the bright pleasure-island of **[[The Pearl]]**, the
+- North of High Isle, scattered across the Lake's calmer waters, lie **[[The Northern Isles]]** -- among them the bright pleasure-island of **[[The Pearl]]**, the
   half-drowned ruins of **[[Lost Isle]]**, quiet court-family retreats, and a few
   shunned, haunted, or magically claimed islets. Off the north-east edge, alone and
   unbridged, sits little **[[Temple Isle]]** with its temple and Sacred Confluence.

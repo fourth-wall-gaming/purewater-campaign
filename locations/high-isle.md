@@ -32,8 +32,7 @@ carry barge-traffic to every door:
 - **The residential northern edge** -- broad avenues run **east-west** across the
   isle, from the Merchant's Quarter to the forges. Along the **northern edge**,
   moving south-east, the houses slope steadily from **rich to middling** until they
-  reach a canal-mouth opening to the Lake -- and **across that canal lies [[The
-  Lullwater]]**, the crowded poor-and-criminal quarter.
+  reach a canal-mouth opening to the Lake -- and **across that canal lies [[The Lullwater]]**, the crowded poor-and-criminal quarter.
 
 The Baron's **[[The DragonBarge]]** lies at a private pier on the isle's **eastern,
 seaward side**, steam rising where its hull meets the water. The **Tournament

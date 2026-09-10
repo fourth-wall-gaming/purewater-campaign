@@ -19,10 +19,10 @@ campaign format (v1.1).
 
 | Contents | Count |
 |---|---|
-| Lore entries | 16 |
-| Characters | 35 (PCs: Conall Bjornlasch, Gardwen, Magda, Randall) |
+| Lore entries | 17 |
+| Characters | 38 (PCs: Conall Bjornlasch, Gardwen, Magda, Randall) |
 | Creature templates | 4 |
-| Locations | 18 |
+| Locations | 19 |
 | Factions | 14 |
 | Encounters | 0 |
 | Journal events | 2 |
@@ -96,6 +96,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [GM Guide: Dramatis Personae](lore/gm-guide/gm-guide-dramatis-personae.md) *(GM only)*
 - [GM Guide: Running the Living World](lore/gm-guide/gm-guide-running-the-living-world.md) *(GM only)*
 - [GM Guide: Supporting and Offscreen Cast](lore/gm-guide/gm-guide-supporting-and-offscreen-cast.md) *(GM only)*
+- [The Governor's council](lore/gm-guide/gm-guide-the-governor-s-council.md) *(GM only)*
 
 **gm-secret**
 - [GM Secrets: The Possession Scheme](lore/gm-secret/gm-secrets-the-possession-scheme.md) *(GM only)*
@@ -118,6 +119,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [Randall](characters/pcs/randall.json) — Street thief of Purewater, raised in a brothel on the Pearl; identical twin of Conall and secretly a son of Baron Hanzo. A nimble, silver-tongued rogue (Deceit 75, Stealth 72, Sleight 71).
 
 **NPCs**
+- [Alderic Vantt](characters/npcs/alderic-vantt.json) — Merchant prince and councillor, fifty-two. The Baron's host: the Dragon Knights are camped on his water-meadow, and he drafted the standing order that told the watch to stand down. **Bought** -- Hanzo quietly covered four thousand of his debt two winters ago and asked for nothing, and this is the week he finds out what it cost. Not a cultist; knows nothing of the scheme.
 - [Abel Weir](characters/npcs/abel-weir.json) — Sergeant of the City Watch, forty-one, twenty-two years in blue-grey. Keeps the referral book: four inches of complaints against the Baron's men that he has been ordered in writing to record and not act on. Not brave, thoroughly professional, and looking for someone to refer it all *to*. The party's lawful door.
 - [Asphodel](characters/npcs/asphodel.json) — A courtesan at the Promise of Heaven, the house where Randall grew up. Warm, quick, and trusted by him 'as brother and sister' -- his closest confidante on the Pearl Quay and a ready source of information from the working girls.
 - [Blau](characters/npcs/blau.json) — Baron Hanzo's albino lieutenant -- known to the ranks as Commander Vask. A thin, red-eyed, burn-scarred killer with unnatural strength who runs the Dragon Knights' day-to-day command and handles the Baron's 'dirty work': a cold, efficient assassin and intimidator.
@@ -126,6 +128,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [Corvin](characters/npcs/corvin.json) — Sword of the Lake, twenty-two: earnest, brave, and not remotely subtle. Rows well, watches badly, and wants the white belt more than he wants to be careful.
 - [Crowbill](characters/npcs/crowbill.json) — Leader of Purewater's criminal underworld -- canal smuggling, gambling, protection. Wiry and forgettable but for a small crow tattoo on his right hand. A master of streets and shadows (Streetwise 88, Stealth 82, Conceal 78) who keeps to a code: no killing locals, no harming children, no touching the Lake Lady's sites.
 - [Emmeralda](characters/npcs/emmeralda.json) — Elven courtesan of The Sylph's Embrace -- poised, magnetic, and the finest performer on the Pearl (CHA 18, Seduction 88, Dance 85).
+- [Hesketh Pyle](characters/npcs/hesketh-pyle.json) — Councillor, fifty-eight, salt and glass. **Frightened** -- the Baron's people made his son's killing go away two years ago and kept the deposition, and he has voted as told ever since. Drinks in a wine-shop where councillors do not go. The crack in the council.
 - [Guildmaster Torval Bluehand](characters/npcs/guildmaster-torval-bluehand.json) — Guildmaster of the Watercrafters -- middle-aged, practical innovator whose hands are permanently blue-tinged from decades of watercraft enchantment. A Magic-User specialized in water artifice (Craft 85, Arcane Casting 60, Mechanisms 80) rather than battle magic; his guild's enchantments keep the canal-city running.
 - [Hanzo di Teufel](characters/npcs/hanzo-di-teufel.json) — Baron Hanzo di Teufel -- the campaign's master villain: a charismatic borderland noble and the only complete practitioner of the binding school, who has held a dragon-knight's spirit inside a living child for ten years. Not a battle-mage; he has never personally fought anybody, and works through charm, suggestion, the Dragon Knights, and a hundred years of patience. He means to become a Dragon King.
 - [Harbormaster Velen Deepkeel](characters/npcs/harbormaster-velen-deepkeel.json) — Stern, weathered Harbormaster with forty years at the docks -- meticulous, traditional, publicly incorruptible. A consummate seaman and administrator (Seamanship 85, Navigation 82, Maritime Law 80) who controls the harbor's lawful face while quietly tolerating Crowbill's smuggling.
@@ -136,6 +139,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [Lilura Deepcurrent](characters/npcs/lilura-deepcurrent.json) — Elderly head of the Order of the Lake Lady for three decades -- piercing blue eyes, rumored merfolk ancestry (she holds her breath unnaturally long). The city's most powerful divine caster (Piety 95, Willpower 92), guiding the Order's water-faith against the Baron's fire demonologists.
 - [Marda Blackwater](characters/npcs/marda-blackwater.json) — Broad-shouldered leader of The Dredgers, risen from the dredge-boats during a labor dispute five years ago. A powerful working-class champion (Brawn 75, Oratory 78, Influence 75) who rallies dock labor against the merchant princes and -- above all -- against the Baron's Dragon Knights.
 - [Mariarta](characters/npcs/mariarta.json) — An older, canny courtesan of the Promise of Heaven with 'the calm intelligence of someone who can survive almost any situation involving men.' Sent up to entertain the Baron's soldiers, she brings back the hard intelligence on his guarded quarters -- Randall's most valuable inside source on the Dragon Knights' manor.
+- [Maro Quist](characters/npcs/maro-quist.json) — Councillor, seventy-one, thirty years in the chamber. **Sincere** -- incorruptible, formidable, and completely wrong: he voted for both instructions on the merits, having been given true facts in the right order. Subscribes to a dining society that is a cult recruiting front and thinks they are antiquarians, which makes the innocent man look the guiltiest. The best ally in the city government.
 - [Marisette](characters/npcs/marisette.json) — The madame with overall authority over Purewater's Pearl -- the proprietors, Constantine among them, answer to her. A consummate social power broker (Influence 85, Insight 82, Commerce 82) who keeps the pleasure district running and resents the disorder the Baron and Santo have brought to it.
 - [Murgeroch](characters/npcs/murgeroch.json) — Temerach Nebulo's squire and go-between -- the steady, competent young fighter who carries the knight's messages, screens her meetings, and tends her gear. Usually the first of Temerach's people the party deals with.
 - [Nus](characters/npcs/nus.json) — A quick-fingered Purewater street thief and loyal friend of Randall -- lookout, fence, and second pair of hands for a job; nimble, streetwise, and easy to underestimate.

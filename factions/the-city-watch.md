@@ -18,10 +18,12 @@ city and of the Crown's representative; complaints against them are to be record
 and referred, and not acted upon, until the Tourney is concluded.* Recorded and
 referred. Not acted upon.
 
-It came down over Prince Emeric's signature. He signed it because three men on his
-council told him it would keep the peace during the festival, and he is
-two-and-twenty and badly advised. **The same three men later have him sign the
-instruction that silences the temple's fouling alarm.** A party that pulls on the
+It came down over Prince Emeric's signature. He signed it because three of his
+councillors -- [[Alderic Vantt]], [[Hesketh Pyle]] and [[Maro Quist]] -- told him
+it would keep the peace during the festival, and he is two-and-twenty and badly
+advised. **The same three later have him sign the instruction that silences the
+temple's fouling alarm.** They are not a cult cell and they did not act for the
+same reason: see *[[The Governor's council]]*. A party that pulls on the
 watch's order is pulling on the same thread as the party that investigates the
 Lake's corruption, and neither of them knows it yet.
 

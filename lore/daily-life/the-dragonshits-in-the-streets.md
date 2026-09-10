@@ -41,18 +41,20 @@ instruction from the Governor's council: the Baron's people are guests of the
 Crown's representative; complaints against them are to be **recorded and referred,
 and not acted upon**, until the Tourney is concluded.
 
-It went out over **[[Prince Emeric]]**'s signature. Three men on his council told
-him it would keep the peace through the festival. He is two-and-twenty and badly
-advised, and it is the second time this month those same three men have got his
-name onto something.
+It went out over **[[Prince Emeric]]**'s signature. Three of his councillors --
+**[[Alderic Vantt]]**, who drafted it, **[[Hesketh Pyle]]**, who seconded it, and
+**[[Maro Quist]]**, who carried the chamber for it -- told him it would keep the
+peace through the festival. He is two-and-twenty and badly advised, and it is the
+second time this month those same three have got his name onto something.
+
+They are not cultists and they did not do it for the same reason. See *[[The Governor's council]]*.
 
 The watch is not corrupt. The watch has been *ordered*, in writing, and every
 sergeant in the city knows exactly how that will read afterwards.
 
 ## What it does to the board
 
-- **The Dredgers** work the water-stairs the Knights keep commandeering. [[Marda
-  Blackwater]] has three hundred dock labourers, a grievance, and no legal route.
+- **The Dredgers** work the water-stairs the Knights keep commandeering. [[Marda Blackwater]] has three hundred dock labourers, a grievance, and no legal route.
   She is the powder in this.
 - **[[Crowbill]]**'s code is *no killing locals, no harming children, no touching
   the Lady's sites*. The Knights are breaking the spirit of all three and he

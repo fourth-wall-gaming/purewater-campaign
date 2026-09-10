@@ -17,7 +17,7 @@ THIS IS THE POINT OF THE ENTIRE HUNDRED YEARS.
 
 The Tourney is older than the Governor's office, and by the old form the martial champion is presented to the Crown's representative PRIVATELY AND UNARMED, immediately after the bout, with the doors shut -- a rite, not a favour, which is exactly why nobody guards it and why a family would spend four generations engineering their way into that one room.
 
-Prince Emeric is two-and-twenty, well-meaning, badly advised, and has already been used once this week: three men on his council had him sign the instruction that silenced the temple's fouling alarm.
+Prince Emeric is two-and-twenty, well-meaning, badly advised, and has already been used once this week: three of his councillors had him sign the instruction that silenced the temple's fouling alarm, for three unrelated reasons, none of which was this one.
 
 Cailan is the jar. Emeric is the destination. In that room Hanzo casts DRAW FORTH on the boy and SEAT THE BOUND on the Prince -- both on his sheet, both requiring an anchor, and he wears one round his neck.
 
