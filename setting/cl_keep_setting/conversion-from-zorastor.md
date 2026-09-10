@@ -38,7 +38,7 @@ All five player characters have direct equivalents between the two versions:
 | Conall | Jason's character | Magical investigator twin; secret son of Hanzo |
 | Temerach Nebulo | Temerach Nebulo | Elven knight; tracking the Awake the Dragon movement |
 
-The twins' backstory is preserved exactly: both are biological sons of Baron Hanzo, born of an elven mage he raped before establishing himself as a Baron. Their mother died when they were four. They were separately taken in — Conall by Lythande and the Order of the Blue Star, Randall by Jubal's criminal underworld — and grew up unaware of each other.
+The twins' backstory is preserved exactly: both are biological sons of Baron Hanzo, born of an elven mage he raped before establishing himself as a Baron. Their mother died when they were four. They were separately taken in — Conall by Lythande and the Order of the Blue Star (both since replaced -- see below), Randall by Jubal's criminal underworld — and grew up unaware of each other.
 
 ### The Antagonists
 
@@ -100,7 +100,8 @@ Several original NPCs are consolidated, renamed, or expanded:
 
 | Original | Conversion | Change |
 |----------|------------|--------|
-| Lythande (Order of the Blue Star) | **Hesper**, secret agent of the new order **The Quiet Hand** | Renamed (Lythande was a Thieves' World throwback) and **fully reconceived**: no brow-star, no fatal personal secret. Hesper now wears the cover of Marisette's enforcer while truly serving the Quiet Hand -- a hidden, benevolent fellowship that steers the world toward good through espionage. A potential secret patron, not a wild-card menace. Conall's training stays with the Order of the Blue Star (via Old Johz). |
+| Lythande (Order of the Blue Star) | **Hesper**, secret agent of the new order **The Quiet Hand** | Renamed (Lythande was a Thieves' World throwback) and **fully reconceived**: no brow-star, no fatal personal secret. Hesper now wears the cover of Marisette's enforcer while truly serving the Quiet Hand -- a hidden, benevolent fellowship that steers the world toward good through espionage. A potential secret patron, not a wild-card menace. Conall's training passes to **The King's Assay** (via Old Johz). |
+| The Order of the Blue Star | **The King's Assay** | Renamed and reconceived. The blue star at the brow is Thieves' World (Lythande, the Mageguild of Sanctuary) and had no business in a published package. The Assay is original to Mystamyr: a Crown inspectorate chartered after the uprising to license, hallmark and register arcane practice -- no body-marks, but a warrant, a thumb-ring and a personal steel punch. Its doctrine (*establish, record, refer*) gives Conall a real institutional constraint to strain against. |
 | Prince Kadith (Zorastor's ruler) | **Prince Emeric**, Governor of Purewater | The young, untested ruler becomes the King's idealistic nephew -- intelligent, well-meaning, and entirely unsuited to govern Purewater. |
 | King (offscreen) | **King Halvern** of Mystamyr | Renamed from the draft's King Jorrell. |
 | Jubal / Talons | Crowbill / criminal underground | Renamed; given explicit ethical code |

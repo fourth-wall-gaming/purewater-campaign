@@ -23,7 +23,7 @@ They are also feeling the occupation from an angle nobody else is: the Knights a
 
 ## The door
 
-**A Harbourman at a dockside office**, for anything routine -- and routine is where the value is. A berth registration is a public record; the manifest is not, but a clerk can be persuaded, bribed, or shown a Blue Star seal.
+**A Harbourman at a dockside office**, for anything routine -- and routine is where the value is. A berth registration is a public record; the manifest is not, but a clerk can be persuaded, bribed, or shown an Assay warrant.
 
 **[[Harbormaster Velen Deepkeel]]** himself is reachable, formal, and immovable on procedure. He will not be bribed, will not bend a rule, and *will* act on a properly evidenced complaint under maritime law -- which is a much shorter road than the criminal law the watch has been forbidden to use. Nobody has thought of this. It is one of the best unpulled levers in the city.
 

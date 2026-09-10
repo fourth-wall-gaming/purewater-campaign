@@ -20,7 +20,7 @@ Purewater have full sheets; the rest are recorded here.
 
 **Offscreen mentors (referenced, not present):**
 - **Gleinanion Othal** -- the elven druid who found the orphaned [[Gardwen]] in her remade grove and taught her the old ways. She left the grove in his keeping to follow the Dragon Knights to Purewater. A potential refuge, counsel, or quest-giver if the party ever returns to the borderlands.
-- **Old Johz** -- the wizard of the [[The Order of the Blue Star]] who recognized [[Conall]] as the Baron's son in Anminster, later healed and trained him in Sharna, then delivered him to [[Temerach Nebulo]] and abruptly departed. His whereabouts and motives are a loose thread the Blue Star could pull.
+- **Old Johz** -- the Master Assayer of [[The King's Assay]] who recognized [[Conall]] as the Baron's son in Anminster, later healed and trained him in Sharna, then delivered him to [[Temerach Nebulo]] and abruptly departed. His whereabouts and motives are a loose thread the Assay could pull -- and an assayer walking away from the Register without a word is itself irregular.
 - **Conall and Randall's mother** -- a young elven mage Baron Hanzo seduced and broke before his open turn to evil; she fled to the city and died when the twins were small. Her story is the key to the twins' parentage and any claim against the Baron.
 
 **Powers of the wider realm (distant):**

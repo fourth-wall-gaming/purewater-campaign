@@ -25,7 +25,7 @@
 
 ### Conall
 - **Role**: Magical investigator
-- **Background**: Adopted by a family in Anminster, trained by the Order of the Blue Star
+- **Background**: Adopted by a family in Anminster, warranted by the King's Assay
 - **Abilities**: Arcane magic, investigation skills
 - **Secret**: Twin brother of Randall, biological son of Baron Hanzo
 - **Connection to Plot**: Working with Temerach Nebulo to expose the Baron

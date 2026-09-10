@@ -115,7 +115,7 @@ heart, and the sight of it makes even Hel's warrior recoil.
 
 **The legal position, which the party should be told plainly if they ask:** arcane
 practice is lawful and licensed in Mystamyr -- that is what institutions like
-[[The Order of the Blue Star]] exist to oversee. **Seating a spirit in an
+[[The King's Assay]] exists to oversee. **Seating a spirit in an
 unwilling person is a capital crime under the King's law**, and has been since the
 uprising, for the obvious historical reason.
 
@@ -123,5 +123,5 @@ This is why the evidence matters so much. A spent scroll of *Seat the Bound* in
 Baron Hanzo di Teufel's own hand is not a scandal, not a rumour, and not a
 theological dispute. **It is a hanging document**, and it is one of the reasons a
 lawful route through [[Abel Weir]], [[Maro Quist]], the [[The Harbor Masters]]'
-maritime jurisdiction, or the Blue Star's institutional weight is a genuine way to
+maritime jurisdiction, or the Assay's institutional weight is a genuine way to
 win this campaign rather than a consolation prize.

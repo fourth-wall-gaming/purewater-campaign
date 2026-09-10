@@ -3,7 +3,7 @@ id: "myth-lore-b62f2af67223"
 title: "Entry Point: Conall on the road"
 category: "entry-points"
 visibility: "player"
-summary: "An investigator of the Blue Star rides in beside his patron as the Dragon Knights overtake them"
+summary: "A warranted investigator of the King's Assay rides in beside his patron as the Dragon Knights overtake them"
 about: ["myth-char-06f87a379bbf", "myth-char-a34f0237a753"]
 created_at: "2026-09-05T12:00:00"
 ---
@@ -11,7 +11,7 @@ created_at: "2026-09-05T12:00:00"
 **You are Conall Bjornlasch.** A militiaman's son from Anminster who
 should have died in a ditch at nineteen and instead was pulled out of it by a
 knight of the Swords of the Lake, taught to read, and then taught rather more
-than that. The Order of the Blue Star finished the job. You investigate things
+than that. The King's Assay finished the job, and gave you a warrant, a thumb-ring, and a steel punch with your own mark on it. You investigate things
 that other people would rather call bad luck.
 
 You are riding into Purewater beside Temerach Nebulo for the Lake Lady's Tourney,

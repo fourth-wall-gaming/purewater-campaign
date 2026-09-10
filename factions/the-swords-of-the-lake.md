@@ -11,6 +11,8 @@ A close-knit, austere order of knights sworn **to the Lake Lady herself and not 
 
 **Leadership** in Purewater is effectively [[Temerach Nebulo]], "the Lakelady's Javelin" -- an elven knight of legendary skill with bow and spear, a rare outsider who rose to greatness among them. She has entered the Tourney's **archery** competition, not for glory but for the court access it buys, and she has been tracking the Baron and the [[The Awake the Dragon Movement]] for years. She has also long known whose son [[Conall]] is, and has not told him.
 
+**No connection to [[The King's Assay]].** Separate charters, separate loyalties, and no arrangement between the orders -- Old Johz delivered [[Conall]] to Temerach personally, and neither institution was consulted. What the two of them share is not a treaty but a kind: an elf who rose among human knights and a ditch-boy who rose among Crown assayers, both admitted on merit by bodies that did not care who they came from, both holding an oath that answers somewhere other than this city. Neither can be bought with anything Purewater has.
+
 **Stated aim:** safety of the realm. **Real aim:** expose and stop the Baron's revival of draconic power before it can take root. They have resources, agents, and dead-drops throughout Purewater, and move through quiet, unknown intermediaries.
 
 ## Where they stand, Tourney week

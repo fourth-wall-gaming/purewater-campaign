@@ -166,7 +166,7 @@ The annual tournament is Purewater's most prestigious event, celebrating the Lak
 
 **Conall** - The Magical Investigator
 - Adopted by a family in Anminster
-- Trained by the Order of the Blue Star
+- Warranted by the King's Assay
 - Skilled in arcane magic and investigation
 - Fellow thief with Nus Rutas (who will steal the locket)
 - Secret: Twin brother of Randall, biological son of Baron Hanzo
@@ -438,11 +438,15 @@ The annual tournament is Purewater's most prestigious event, celebrating the Lak
 - Working to expose threats to water magic
 - Has resources and connections throughout the realm
 
-### The Order of the Blue Star
-- Magical organization
-- Trained Conall in magical investigation
-- May actively intervene against the Baron
+### The King's Assay
+- The Crown's chartered inspectorate for arcane practice, founded after the uprising
+- Licenses practitioners, hallmarks enchanted goods, keeps the Register, prosecutes the proscribed
+- Warranted Conall and trained him in magical investigation (via Old Johz)
+- Doctrine is *establish, record, refer* -- it investigates and reports, it does not act
+- Recruits outsiders on merit: people with no family to protect and no patron to please
+- May actively intervene against the Baron, slowly
 - Represents institutional magical authority
+- *(Replaces the 'Order of the Blue Star', which was a Thieves' World holdover)*
 
 ### The Pleasure Houses Network
 - Connected through Ravella's influence

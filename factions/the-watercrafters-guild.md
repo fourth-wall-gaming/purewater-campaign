@@ -43,7 +43,7 @@ That appetite is why the fouling assessment went the way it did. The Order's ala
 
 ## Friction
 
-Allied with the [[The Order of the Lake Lady]] -- an alliance now sitting on a fault line, since a Watercrafter's signature is what gagged the Order's alarm. Rivals of the dwarven crafters of [[The Forge Quarter]]. Wary of the [[The Order of the Blue Star]]. Professionally contemptuous of the [[The Harbor Masters]], who regulate water they do not understand.
+Allied with the [[The Order of the Lake Lady]] -- an alliance now sitting on a fault line, since a Watercrafter's signature is what gagged the Order's alarm. Rivals of the dwarven crafters of [[The Forge Quarter]]. Two hundred years of quarrel with [[The King's Assay]], who decide whether guild work may be sold and stamp it accordingly. Professionally contemptuous of the [[The Harbor Masters]], who regulate water they do not understand.
 
 ## Hooks
 

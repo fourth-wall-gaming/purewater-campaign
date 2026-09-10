@@ -3,8 +3,8 @@
   "name": "Conall Bjornlasch",
   "type": "pc",
   "status": "active",
-  "description": "Arcane-casting magical investigator of the Order of the Blue Star; twin brother of Randall and secretly a son of Baron Hanzo. A razor-sharp investigator (Insight 88) who is also a capable fighter.",
-  "narrative": "A magical investigator and arcane caster trained by the Order of the\nBlue Star, with a soldier's martial skill (all weapons, all shields). Sharp-eyed and\nanalytical -- Insight 88.\n\nHe rides into Purewater beside Temerach Nebulo for the Lake Lady's Tourney, an\nerrand she has declined to explain. He knows the city not at all, has never heard of\na brother, and has no idea whose son he is.\n\n**GM:** he is Randall's identical twin and a biological son of Baron Hanzo. Temerach\nhas known for years and brought him here deliberately -- see the gm-secret lore. He\nlearns none of this until play delivers it.",
+  "description": "Warranted investigator of the King's Assay -- the Crown's arcane inspectorate; twin brother of Randall and secretly a son of Baron Hanzo. A razor-sharp investigator (Insight 88) who is also a capable fighter.",
+  "narrative": "A magical investigator and arcane caster warranted by the King's Assay -- the\nCrown's chartered inspectorate for licensing and policing arcane practice -- with a soldier's martial skill (all weapons, all shields). Sharp-eyed and\nanalytical -- Insight 88.\n\nHe rides into Purewater beside Temerach Nebulo for the Lake Lady's Tourney, an\nerrand she has declined to explain. He knows the city not at all, has never heard of\na brother, and has no idea whose son he is.\n\n**GM:** he is Randall's identical twin and a biological son of Baron Hanzo. Temerach\nhas known for years and brought him here deliberately -- see the gm-secret lore. He\nlearns none of this until play delivers it.",
   "characteristics": {
     "STR": 13,
     "CON": 14,
@@ -255,7 +255,7 @@
         "Mirror Image"
       ]
     },
-    "organization": "Order of the Blue Star",
+    "organization": "The King's Assay (warranted investigator)",
     "twin": "Randall (identical twin brother); both secretly sons of Baron Hanzo",
     "wound": "Right Arm at 2/4 HP",
     "gear": [
@@ -279,7 +279,8 @@
         "rank": 2,
         "title": "Mage"
       }
-    }
+    },
+    "assay_marks": "Warrant (sealed, renewed yearly); thumb-ring of assay silver struck with his own mark; and his steel punch. Losing the punch would be a professional catastrophe -- with it, anything can be licensed, and the Register will back it until the fraud is found."
   },
   "fatigue": "Fresh",
   "luck_current": 3,
