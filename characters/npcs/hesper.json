@@ -4,7 +4,7 @@
   "type": "npc",
   "status": "active",
   "description": "To Purewater, Hesper is the madame Marisette's cold, dangerous mage-enforcer -- quiet, watchful, able to drop a strong man with a single spoken word. The truth is the opposite of what the mask suggests: Hesper is a deep-cover agent of the Quiet Hand, a hidden fellowship that works unseen for the good of the world, and the menace is a costume worn over a conscience. Master arcane caster (Arcane Casting 100, Willpower 95).",
-  "narrative": "Hesper moves through Purewater like cold air through a door, and everyone who feels it assumes the worst -- which is the point. For years Hesper has played the part of Marisette's arcane enforcer, the perfect cover for a listening post at the heart of the Pearl's secrets. In truth Hesper is a 'finger' of the Quiet Hand, the secret fellowship that stops great evils before they ripen by knowing of them first and acting unseen, and has been watching Baron Hanzo since before he ever reached the city. The seizing of Conall and Randall into the catacombs looked like cruelty; it was the Hand taking control of a dangerous night, learning the truth of the soul-knife, and keeping it -- and the twins -- out of worse hands. Hesper kills rarely and reluctantly, never for convenience, and will not be moved by gold or threat; behind the predator's stillness is an old, patient kindness that gives nothing away.",
+  "narrative": "**Hesper is neither a man nor a woman, and uses they/them.** Not a disguise and not a secret -- simply what Hesper is. Nobody in Purewater knows it as gossip because nobody has ever had the nerve to ask, and Hesper has never once given them a reason to.\n\nHesper moves through Purewater like cold air through a door, and everyone who feels it assumes the worst -- which is the point. For years Hesper has played the part of Marisette's arcane enforcer, the perfect cover for a listening post at the heart of the Pearl's secrets. In truth Hesper is a 'finger' of the Quiet Hand, the secret fellowship that stops great evils before they ripen by knowing of them first and acting unseen, and has been watching Baron Hanzo since before he ever reached the city. The seizing of Conall and Randall into the catacombs looked like cruelty; it was the Hand taking control of a dangerous night, learning the truth of the soul-knife, and keeping it -- and the twins -- out of worse hands. Hesper kills rarely and reluctantly, never for convenience, and will not be moved by gold or threat; behind the predator's stillness is an old, patient kindness that gives nothing away.",
   "characteristics": {
     "STR": 9,
     "CON": 11,
@@ -178,7 +178,7 @@
     ]
   },
   "extras": {
-    "gender": "Hesper volunteers nothing and is asked nothing; it has no bearing on the work.",
+    "gender": "NEITHER. Hesper is not a man and not a woman -- this is a fact about Hesper, not a secret being kept, and it is not a disguise, a curse, or a reveal waiting to happen. Deliberately NOT the Lythande device it replaced: there is no hidden sex to be uncovered and no plot hangs on it. Purewater does not know and has never asked; Marisette has employed them twenty years and could not tell you.",
     "class": "Magic-User (sorcerer); secret agent",
     "renamed_from": "Lythande -- a Thieves' World / Sanctuary throwback (a Blue Star adept) in the Zorastor draft. Renamed Hesper and fully reconceived: no brow-star, no borrowed order (the 'Order of the Blue Star' was itself a Thieves' World holdover and is now the King's Assay), no fatal personal secret. Now a deep-cover agent of an original benevolent order, the Quiet Hand.",
     "order": "[[The Quiet Hand]] -- a secret, centuries-old fellowship that works unseen for the good of the world. Hesper is its one 'finger' in Purewater. NOT [[The King's Assay]] (the Crown inspectorate that warranted Conall) -- the two are unrelated.",
@@ -189,7 +189,8 @@
     "manner": "Quiet, watchful, unsettling -- by design. Speaks little; means all of it; cannot be bought or frightened. Behind the stillness, an old patient kindness that never shows.",
     "gm_secret": "Hesper is the party's potential SECRET PATRON. Once they prove themselves against the Baron, the Hand quietly tips the scales -- an unlocked door, a guard looking away, the needed thing already in place -- usually without the party ever learning who arranged it. Hesper's deepest priority is stopping the [[The Awake the Dragon Movement]], the catastrophe the Quiet Hand exists to prevent. Hesper will spend secrets, favors, and cover freely to that end, but kills only as a last resort and will never seize power directly.",
     "magic_tradition": "Arcane Casting (CFI Magic-User), master tier -- Arcane Casting 100, Invocation 92, Willpower 95. Favors knowing and moving unseen: scrying, sending, disguise, compulsion, sleep/stun by command word, mist and cold, wards -- force is the last tool reached for.",
-    "source": "Novelization (And then the Dragons Came) -- the star-marked mage at Marisette's side; fully reconceived per GM direction as an agent of the new benevolent espionage order, the Quiet Hand."
+    "source": "Novelization (And then the Dragons Came) -- the star-marked mage at Marisette's side; fully reconceived per GM direction as an agent of the new benevolent espionage order, the Quiet Hand.",
+    "pronouns": "they/them. Use these always, including in GM narration and in other NPCs' mouths."
   },
   "fatigue": "Fresh",
   "luck_current": 2,
