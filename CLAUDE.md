@@ -12,31 +12,42 @@ the game.
 > and the persistent database: your rolls aren't auditable, and any state you
 > change here is silently discarded the next time the campaign is exported.
 
-## This campaign is already loaded
+## Where the save actually is
 
-It lives in the standalone **`mythras`** TypeDB database, hosted in the
-`mythras-typedb` Docker container that the standalone **mythras-gm** skill boots
-for itself:
+**Database `alhazen_notebook`, on `localhost:1729`, in the Docker container
+`alhazen-typedb` (image `typedb/typedb:3.8.0`).** These are the CLI defaults, so
+you do not need to export anything.
 
-- **And Then the Dragons Came: Purewater** — `myth-campaign-66a98ba4a70e`
+The live game is:
 
-So you normally skip the import step and go straight to `get-context`.
+- **Purewater — Gardwen** — `myth-campaign-44abede1efbf`
 
-> **Setup note.** `mythras-gm` is standalone now — its own `mythras` database in
-> its own `mythras-typedb` container, no Alhazen required. If another TypeDB
-> (e.g. an Alhazen server) already holds the default port 1729, this container
-> runs on **1730**; in that case `export TYPEDB_PORT=1730` so the CLI talks to
-> it. (Migrated off `alh_mythras` in September 2026.)
+Other Purewater rows in the same database, none of which you should write to:
+
+| id | what it is |
+|---|---|
+| `myth-campaign-66a98ba4a70e` | v1, **finished** — session 2, ends at CH.25 |
+| `myth-campaign-8327f8687a98` | archive of the Magda playthrough |
+| `myth-campaign-476ed76d90b8` | the Magda v2 run, superseded |
+| `myth-campaign-cdd876ebe965` | the Conall run, archived under `archive/session-02-conall/` |
+
+> **If `list-campaigns` does not show `myth-campaign-44abede1efbf`, STOP.**
+> Do not run `import-campaign` to "fix" it — you will fork the save and play on
+> a copy while the real one rots. Check the container is up
+> (`docker start alhazen-typedb`) and ask.
+
+Because the campaign is already loaded, skip the import and go straight to
+`get-context`.
 
 ## How to run
 
 1. **Invoke the `mythras-gm` skill** (triggers: "play", "continue campaign",
    "run mythras", "gamesmaster"). Read its `SKILL.md`, then `USAGE.md`.
-2. Confirm it's loaded: `list-campaigns` — you should see the id above. If it
-   somehow isn't there, `import-campaign --path <this-directory>` (no `--new-ids`
-   — this tree carries stable ids).
-3. `get-context --campaign myth-campaign-66a98ba4a70e --compact` — **this is the
-   save file**: current scene, PC combat cards, factions, recent events.
+2. Confirm it's loaded: `list-campaigns` — you should see
+   `myth-campaign-44abede1efbf`. If you do not, read the warning above and stop.
+3. `get-context --campaign myth-campaign-44abede1efbf --compact` — **this is the
+   save file**: current scene, PC combat cards and where each one is standing,
+   factions, recent events.
 4. Recap the scene in a few sentences, then play.
 
 ## Operating rules (non-negotiable)
@@ -62,4 +73,4 @@ So you normally skip the import step and go straight to `get-context`.
 (the possession scheme, the champion's identity). Keep them out of player-facing
 narration until they land in play.
 
-Campaign id: `myth-campaign-66a98ba4a70e`
+Campaign id: `myth-campaign-44abede1efbf` (**Purewater — Gardwen**)
