@@ -8,7 +8,7 @@ created_at: "2026-06-24T23:31:07"
 
 The brightest of [[The Northern Isles]]: a small island north of [[High Isle]],
 given over to pleasure and the high end of Purewater's nightlife. Its houses string
-their lamps like pearls along the waterfront **Pearl Quay** -- the [[The Sylph's Embrace]], the grander [[The Siren's Call]], the Aphrodisia House, the Lily Garden,
+their lamps like pearls along the waterfront **Pearl Quay** -- the [[The Sylph's Embrace]], the grander [[The Siren's Call]], [[The Mother of Pearl]], the Lily Garden,
 and the Promise of Heaven (where [[Randall]] was raised among its women). Legitimate
 entertainment and quiet crime braid together here, all under the near-absolute
 authority of the madame [[Marisette]].

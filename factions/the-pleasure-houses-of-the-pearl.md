@@ -5,7 +5,7 @@ summary: "The courtesan network of the Pearl, under the madame Marisette's near-
 created_at: "2026-06-24T23:31:07"
 ---
 
-The entertainment trade of Purewater's pleasure district is no loose collection of houses but a network under the near-absolute authority of the madame [[Marisette]], who rules the business of pleasure from the Aphrodisia House. Individual proprietors answer to her: [[Constantine]] runs [[The Sylph's Embrace]]; the half-merfolk broker [[Ravella]] runs the grander, information-soaked [[The Siren's Call]]. Houses like the Lily Garden, the Promise of Heaven (where [[Randall]] was raised), and the Aphrodisia House line the Pearl.
+The entertainment trade of Purewater's pleasure district is no loose collection of houses but a network under the near-absolute authority of the madame [[Marisette]], who rules the business of pleasure from [[The Mother of Pearl]]. Individual proprietors answer to her: [[Constantine]] runs [[The Sylph's Embrace]]; the half-merfolk broker [[Ravella]] runs the grander, information-soaked [[The Siren's Call]]. The lesser houses -- the Lily Garden, the Promise of Heaven (where [[Randall]] was raised) -- line the Quay below them.
 
 **The rule that matters.** The Pearl does not sell women off the islands. A night is for sale; a person is not. It is Marisette's oldest rule, it predates Constantine's house, and it is the reason there is anyone left working on the Pearl at all. Every proprietor enforces it and no amount of money has ever moved it.
 

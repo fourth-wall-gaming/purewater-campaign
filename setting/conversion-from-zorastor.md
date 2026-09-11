@@ -106,6 +106,7 @@ Several original NPCs are consolidated, renamed, or expanded:
 | King (offscreen) | **King Halvern** of Mystamyr | Renamed from the draft's King Jorrell. |
 | Jubal / Talons | Crowbill / criminal underground | Renamed; given explicit ethical code |
 | Myrtis | Marisette + Constantine | Role split; Constantine runs Sylph's Embrace directly. (Myrtis was a Thieves' World / Sanctuary throwback in the Zorastor draft; renamed **Marisette** in Purewater.) |
+| The Aphrodisia House | **The Mother of Pearl** | Renamed. Marisette herself was renamed in the first pass but her house was not -- 'Aphrodisia House' is the same Thieves' World / Sanctuary borrowing (Myrtis's house in Sanctuary). Now Marisette's seat and the place her one unmoved rule was made. |
 | — | Ravella | New: half-merfolk information broker; connects water magic themes |
 | — | Thorne | New: former Order of the Lake member; historical knowledge resource |
 | — | High Priestess Nerissa | New: temple authority; tracks water corruption; cannot intervene directly |
