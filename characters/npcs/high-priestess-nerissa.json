@@ -136,7 +136,37 @@
   "combat_styles": {
     "Temple guardian (staff)": 45
   },
-  "spells": null,
+  "spells": {
+    "divine": [
+      "Bless",
+      "Create Water",
+      "Purify Water",
+      "Cure Minor Wounds",
+      "Cure Serious Wounds",
+      "Cure Disease",
+      "Neutralize Poison",
+      "Detect Evil",
+      "Remove Fear",
+      "Sanctuary",
+      "Hold Person",
+      "Silence",
+      "Prayer",
+      "Divination"
+    ],
+    "folk": [
+      "Calm",
+      "Extinguish",
+      "Find (X)",
+      "Heal",
+      "Light",
+      "Vigor"
+    ],
+    "rites": [
+      "The Lady's Washing -- the combatants' rite, first light before a contest on her water",
+      "The Drowning -- the unseating rite; the possessed is held under and the Lady keeps what is not theirs (Nerissa has never performed it; she witnessed Lilura do it once as a girl)",
+      "Blessing of the Waters -- the Tourney opening"
+    ]
+  },
   "extras": {
     "gender": "female",
     "class": "Cleric",
