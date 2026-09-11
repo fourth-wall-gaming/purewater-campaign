@@ -139,32 +139,46 @@
   "spells": {
     "divine": [
       "Bless",
+      "Calm",
+      "Command",
       "Create Water",
-      "Purify Water",
       "Cure Minor Wounds",
       "Cure Serious Wounds",
       "Cure Disease",
-      "Neutralize Poison",
       "Detect Evil",
-      "Remove Fear",
-      "Sanctuary",
-      "Hold Person",
-      "Silence",
-      "Prayer",
-      "Divination"
-    ],
-    "folk": [
-      "Calm",
+      "Detect Magic",
       "Extinguish",
       "Find (X)",
       "Heal",
+      "Hold Person",
       "Light",
-      "Vigor"
+      "Neutralize Poison",
+      "Purify Water",
+      "Remove Fear",
+      "Sanctuary",
+      "Silence",
+      "Slow Poison",
+      "Vigor",
+      "Water Walk"
     ],
     "rites": [
-      "The Lady's Washing -- the combatants' rite, first light before a contest on her water",
-      "The Drowning -- the unseating rite; the possessed is held under and the Lady keeps what is not theirs (Nerissa has never performed it; she witnessed Lilura do it once as a girl)",
-      "Blessing of the Waters -- the Tourney opening"
+      "Blessing of the Waters -- opens the Tourney; the whole Order, the Lady's own water.",
+      "The Lady's Washing -- combatants' rite at first light before a contest on her water. Nine of the Order inside the rope, no man armed within it, every fighter out of harness and into a shift.",
+      "Consecration -- makes a water hers; a day and a night and the Order present.",
+      "The Asking -- a question put to the Lady from inside the deep pool. Takes a night. The answer may not come, and Lilura Deepcurrent has fourteen months of it not coming and has told nobody.",
+      "The Raising -- performed three times in her lifetime and never by her alone. Requires the Lady's direct assent, which is Exhort, and which she does not expect to get twice.",
+      "The Drowning -- see NOT_HERS."
+    ],
+    "NOT_HERS": [
+      "No possession magic of any kind, by doctrine and by history. The Order has never had one. That province belongs to the demonologists (Open the Channel, Seat the Bound, Reinforce the Seat, Draw Forth) and to the wild-elf druids (Spirit Sight, Speak with the Bound, Unseat).",
+      "THE DROWNING is not expertise and must never be played as such: a blunt folk rite older than the institution -- hold them under and the Lady keeps what is not theirs. Nerissa has never done it and watched Lilura do it once, as a girl, from the back. It is a drowning and a hope and she knows that."
+    ],
+    "HOW_SHE_IS_POWERFUL": [
+      "Piety (Devotion) 92 -- she effectively does not fail, and criticals (free casting) about one time in eleven.",
+      "Exhort 80 -- she can ask the Lady for things outside the spell list. This is her real ceiling and the rites are where it is spent.",
+      "Breadth: twenty-two spells against a working magician's three or four. Thirty years of three Experience Rolls at a time.",
+      "The rites, which are not Intensity 1 and are not cast in an Action. They need the temple, the pool, the Order and time -- which is why she is formidable at home and an ordinary middle-aged woman on a dredge-boat.",
+      "Innate, not a spell: she feels what has gone INTO the Lady's waters, at distance, continuously, in her own body. It has never told her what is standing next to her."
     ]
   },
   "extras": {
@@ -175,12 +189,13 @@
     "character_type": "Major Character (patron / quest-giver)",
     "role": "High Priestess at the Temple of the Lake Lady. Middle-aged, silver-streaked dark hair, blue-green robes that ripple like water when she moves.",
     "powers": [
-      "Sense water corruption within sacred waters",
-      "Perform water-based blessing rituals",
-      "Communicate with water spirits"
+      "Sense water corruption within any of the Lady's waters, at distance, continuously, in her own body",
+      "Perform the rites: the Washing, the Blessing of the Waters, consecration",
+      "Communicate with water spirits (Lore: Water spirits 80)",
+      "Call on the Lady directly -- Commune and Divination. Whether she is answered is a separate question and Lilura Deepcurrent has fourteen months of evidence she has told nobody."
     ],
     "constraint": "Bound by temple law: cannot directly intervene unless sacred sites are threatened -- she needs the PCs as agents. Provides spiritual support, ritual knowledge, and water-magic countermeasures. Tracking rising corruption since the Baron's arrival.",
-    "magic_tradition": "Theism / divine (CFI Cleric) -- Devotion (Piety) 92, Exhort 80, water-aspected miracles. Suggested miracles: Bless Water, Heal, Cleanse, Sense (corruption), Spirit Block.",
+    "magic_tradition": "Theism / divine (Classic Fantasy Cleric) at the top of her order -- Devotion (Piety) 92, Exhort 80, Lore (Theology, Lake Lady) 88. A genuinely high-level cleric: she can Heal, Raise Dead, Part Water, Commune, Quest, Atone, and True See. Her power is in healing, water, ward, judgement and asking her goddess questions. She has NO possession magic of any kind -- no Exorcise, no Spirit Sight -- and the Order never has had. Her water-sensitivity is a power, not a spell: she feels what has gone INTO the water and it has never told her what is standing next to her.",
     "source": "GM-authored from source lore (Temple Leadership)"
   },
   "fatigue": "Fresh",
