@@ -14,16 +14,25 @@ the game.
 
 ## Where the save actually is
 
-**Database `alh_mythras`, on `localhost:1729`, in the Docker container
-`alhazen-typedb` (image `typedb/typedb:3.8.0`).** These are the CLI defaults, so
-you do not need to export anything.
+**Database `mythras`, on `localhost:1730`, in the Docker container
+`mythras-typedb` (image `typedb/typedb:3.8.0`).** These are the CLI defaults, so
+you do not need to export anything. If the container is not running, bring it up
+with `docker compose up -d` from the `mythras-gm` repo.
 
-> Migrated out of `alhazen_notebook` on 11 Sep 2026. The alhazen ecosystem now
-> runs one database per repo and `alh_mythras` is this repo's; the old shared
-> `alhazen_notebook` is retired. The pre-migration copy of this campaign is
-> still in it, and a file export sits under `~/mythras-backups/`. If a command
-> returns nothing, check which database you are pointed at **before** importing
-> anything.
+> This is the game's own TypeDB, not the Alhazen stack on 1729. It was created
+> by hand with `restart: no` and no compose file, so it did not survive a
+> reboot — and while it was down the save was moved onto the Alhazen server and
+> this note was deleted as describing something that did not exist. It does
+> exist. There is now a compose file with `restart: unless-stopped`.
+>
+> Migrated back on 11 Sep 2026. The legacy database predated the alh-collection
+> rebase and had to be mapped across with GLAV rules rather than dumped and
+> reloaded — see `migrations/legacy-mythras/` in the engine repo. Older copies
+> remain on 1729 in `alhazen_notebook` and `alh_mythras`, and there are file
+> exports plus a native database export under `~/mythras-backups/`.
+>
+> **If a command returns nothing, check which database and port you are pointed
+> at before importing anything.**
 
 The live game is:
 
