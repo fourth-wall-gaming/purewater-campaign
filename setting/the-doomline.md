@@ -1,10 +1,233 @@
 ---
-id: "doomline"
-name: "The Doomline — what happens if nobody interferes"
-type: "gm-guide"
-summary: "The campaign's default future: every faction's agenda played to its own conclusion with no PC intervention, ending in the Prince seated and the boy tidied. Authored once so that play only has to record deviations."
+arc: Purewater -- the doomline
+campaign: myth-campaign-44abede1efbf
+note: 'This front matter IS the schedule. Rewrite it, then run `sync-arc --file setting/the-doomline.md`
+  to reconcile the graph: entries are created or updated, entries you delete are cancelled, and anything
+  already played or narrated is left alone. The prose below is the same arc written for a human -- edit
+  both in the one pass.'
+thread:
+- id: myth-beat-25961a354ace
+  when: d0/night
+  title: Santo's third errand
+  agenda: myth-agenda-584bbb809405
+  at: myth-loc-02141eddf75b
+  cast:
+  - myth-char-981b1b011ac7
+  onscreen_if: A PC is on the Pearl after dark
+  summary: One night left before the combat and he still has not got the sheet back. He pays somebody
+    worse than Fennow, and he pays too much, which is how people get remembered.
+- id: myth-beat-7e2f7007b3fa
+  when: d1/dawn
+  title: A price on the face
+  agenda: myth-agenda-43fb5d3c4f30
+  at: myth-loc-d39950294ef9
+  cast:
+  - myth-char-bfd8e78eb24f
+  onscreen_if: The whole city has the description by the next dawn
+  summary: Dragon-gold offered on the street for a man with the dead heir's face
+- id: myth-beat-042d8fcdb075
+  when: d1/dawn
+  title: The stairs stop
+  agenda: myth-agenda-38522f402dc9
+  at: myth-loc-e2ae6d850b05
+  cast:
+  - myth-char-a505c427515b
+  onscreen_if: Any PC on the Shoals, the Pearl, or anywhere goods move -- which by mid-morning is everywhere
+  summary: The water-stairs stop -- IF 'Make them pay for one of ours' has reached 4. It stands at 2.
+- id: myth-beat-12921d0f696c
+  when: d1/day
+  title: Conall follows the money to its house
+  agenda: myth-agenda-548bb979a9ab
+  at: myth-loc-effa8ec8c83d
+  cast:
+  - myth-char-6d2291950d63
+  onscreen_if: A PC is in the Merchant's Quarter
+  summary: He has the banking house. Next he wants the name on the other end of the credit -- which is
+    the Movement, though he has no word for it yet.
+- id: myth-beat-4ff01ad055cf
+  when: d1/dusk
+  title: 'PIVOT (F): the Archery -- and what Temerach does with winning it'
+  agenda: myth-agenda-60d66b181533
+  at: myth-loc-409cf49a6a95
+  cast:
+  - myth-char-4bcd7153d73c
+  - myth-char-d142079adee8
+  - myth-char-d5d19b6fcd63
+  onscreen_if: A PC is at the Archery
+  summary: 'Four thousand witnesses, the Governor in the stand, and the one person in Purewater with standing
+    enough to make a baron answer. Canonically she does NOT spend it: all she holds is a boy''s knife,
+    which accuses a son. She will not burn thirty years to have a father say ''my son is wild'' and be
+    believed.'
+  branches:
+    wins-and-spends-it:
+      thwarts:
+      - myth-agenda-957017a6f62e
+    wins-and-holds-it: {}
+    loses: {}
+- id: myth-beat-7059471ea1ef
+  when: d1/dusk
+  title: The Order's alarm is stood down again
+  agenda: myth-agenda-605af58e242b
+  at: myth-loc-620ee1d17332
+  cast:
+  - myth-char-5eb88c4a324b
+  - myth-char-bc0e03fbbd4b
+  onscreen_if: A PC is on Temple Isle
+  summary: Nerissa asks for the water to be named publicly before the Combat. Lilura refuses -- a faith
+    whose goddess has gone quiet cannot afford to be wrong in front of the city. The third refusal in
+    two years.
+- id: myth-beat-47d4b5a07169
+  when: d1/night
+  title: 'PIVOT (C): Santo comes for the knife himself'
+  agenda: myth-agenda-584bbb809405
+  at: myth-loc-02141eddf75b
+  cast:
+  - myth-char-8d55d2eb9316
+  - myth-char-981b1b011ac7
+  onscreen_if: The party has baited him with the knife and he has run out of hirelings
+  summary: Three failed errands and one night left. If the bait is set well he stops paying strangers
+    and comes himself -- off the barge, past his father's man, onto ground he does not own.
+  branches:
+    captured:
+      activates:
+      - myth-beat-8370bf7c2188
+      thwarts:
+      - myth-agenda-584bbb809405
+    escapes:
+      advances:
+      - myth-agenda-584bbb809405:2
+    never-comes: {}
+- id: myth-beat-db3072f04ee2
+  when: d1/night
+  title: The last reinforcement
+  agenda: myth-agenda-957017a6f62e
+  onscreen_if: A PC is aboard the DragonBarge
+  summary: The night before the sand, the Baron tops the working up himself. Deeper than the daily rite,
+    because tomorrow it has to hold through a fight and then let go on command.
+- id: myth-beat-5a74248a934d
+  when: d2/dawn
+  title: Cailan is walked to the lists
+  agenda: myth-agenda-957017a6f62e
+  at: myth-loc-409cf49a6a95
+  cast:
+  - myth-char-bfd8e78eb24f
+  - myth-char-bed406244ae9
+  - myth-char-4bcd7153d73c
+  onscreen_if: A PC is at the lists on the morning of the Single Combat
+  summary: The only time the champion leaves that ship. In harness, deck cleared, and in the open for
+    the length of a walk.
+- id: myth-beat-7698d0669426
+  when: d2/dawn
+  title: Nus lifts the binding locket
+  agenda: myth-agenda-0d0688a76b9a
+  at: myth-loc-409cf49a6a95
+  cast:
+  - myth-char-4bcd7153d73c
+  - myth-char-ffe75ff9dced
+  onscreen_if: Any PC at the lists, or whoever put Nus up to it. NOBODY HAS. Unless a PC points him at
+    the Baron before the lists fill, he robs someone safer and this is cancelled.
+  summary: In the crush at the lists on the morning of the Single Combat, the pickpocket takes the locket
+    off the Baron himself
+- id: myth-beat-8de5c9af7c97
+  when: d2/day
+  title: 'PIVOT (G): the Single Combat -- Thuban fights in a boy''s body'
+  agenda: myth-agenda-bde16a325a45
+  at: myth-loc-620ee1d17332
+  cast:
+  - myth-char-bed406244ae9
+  - myth-char-4bcd7153d73c
+  - myth-char-e3e7b15fd5a4
+  onscreen_if: The Tourney is public; the party will be there unless something extraordinary prevents
+    it
+  summary: Cailan fights the Single Combat masked and armoured, and wins it, because there is a dragon-knight
+    in him
+  branches:
+    champion-wins:
+      activates:
+      - myth-beat-c5e2d6d42e63
+    champion-loses:
+      cancels:
+      - myth-beat-c5e2d6d42e63
+      - myth-beat-10b0508be90b
+      thwarts:
+      - myth-agenda-bde16a325a45
+    combat-does-not-happen:
+      cancels:
+      - myth-beat-c5e2d6d42e63
+      - myth-beat-10b0508be90b
+- id: myth-beat-c5e2d6d42e63
+  when: d2/dusk
+  title: The private audience
+  agenda: myth-agenda-bde16a325a45
+  at: myth-loc-620ee1d17332
+  cast:
+  - myth-char-bed406244ae9
+  - myth-char-4bcd7153d73c
+  - myth-char-d142079adee8
+  - myth-char-e3e7b15fd5a4
+  onscreen_if: Any PC who has got themselves inside the Governor's enclosure, or who stops the combat
+    before it is won
+  summary: The Single Combat champion is presented alone to Prince Emeric in the old rite -- and Hanzo
+    moves Thuban out of a worn-out boy and into the Crown's own nephew
+- id: myth-beat-10b0508be90b
+  when: d2/night
+  title: 'THE DOOM: the Prince is seated, and the boy is tidied'
+  agenda: myth-agenda-bde16a325a45
+  at: myth-loc-409cf49a6a95
+  cast:
+  - myth-char-bfd8e78eb24f
+  - myth-char-bed406244ae9
+  - myth-char-4bcd7153d73c
+  - myth-char-d142079adee8
+  onscreen_if: Anyone who got through that door first
+  summary: 'TERMINAL. Behind the closed door the working is done: Thuban is drawn out of a spent boy and
+    seated in Prince Emeric. The Crown''s man in Purewater becomes the Baron''s. And the emptied seventeen-year-old,
+    who is now only evidence, is a loose end in a house that has begun tidying.'
+- id: myth-beat-63841780f428
+  when: d2/night
+  title: Tat counts the cost
+  agenda: myth-agenda-05c91c16b97f
+  at: myth-loc-610195a74035
+  cast:
+  - myth-char-6764a1c4166f
+  onscreen_if: Only visible to a PC who has been cultivating him
+  summary: The mercenary captain starts pricing what the Baron's private business will cost his company
+- id: myth-beat-bf3a563f97fd
+  when: d2/night
+  title: 'The purge: a body on display'
+  agenda: myth-agenda-0d0688a76b9a
+  at: myth-loc-d39950294ef9
+  cast:
+  - myth-char-bfd8e78eb24f
+  - myth-char-ffe75ff9dced
+  onscreen_if: A PC is in the city that night
+  summary: With the Prince in hand the household stops being careful. Anyone who has handled the Baron's
+    property is collected. Nus, who has been telling people he could get in there, is taken and displayed.
+- id: myth-beat-1b290ef4d050
+  when: d3/day
+  title: The Governor's first act
+  agenda: myth-agenda-4d7f2706dbfd
+  at: myth-loc-409cf49a6a95
+  cast:
+  - myth-char-4bcd7153d73c
+  - myth-char-5eb88c4a324b
+  - myth-char-d142079adee8
+  onscreen_if: A PC is at the Governor's court
+  summary: 'AFTERMATH. The Crown''s man in Purewater signs what he is given: the Order''s alarm about
+    the water is formally set aside as superstition, and the Pearl is ordered open. Nerissa is right,
+    on the record, and has no standing left to be right with.'
+- when: d1/night
+  title: Orrin leaves the hatch unlatched again
+  agenda: myth-agenda-961860091bbf
+  at: myth-loc-610195a74035
+  cast:
+  - myth-char-9a2814a45c5e
+  - myth-char-e3e7b15fd5a4
+  onscreen_if: Anyone who has been down there once and was not reported
+  summary: He has kept a boy alive for ten years by never once doing anything that could be noticed. Having
+    done one thing, he does it again.
+  id: myth-beat-4842ac0f8405
 ---
-
 # The Doomline
 
 **This is not the plot. It is the default.** Every beat in it is an *attempt*,
