@@ -14,9 +14,16 @@ the game.
 
 ## Where the save actually is
 
-**Database `alhazen_notebook`, on `localhost:1729`, in the Docker container
+**Database `alh_mythras`, on `localhost:1729`, in the Docker container
 `alhazen-typedb` (image `typedb/typedb:3.8.0`).** These are the CLI defaults, so
 you do not need to export anything.
+
+> Migrated out of `alhazen_notebook` on 11 Sep 2026. The alhazen ecosystem now
+> runs one database per repo and `alh_mythras` is this repo's; the old shared
+> `alhazen_notebook` is retired. The pre-migration copy of this campaign is
+> still in it, and a file export sits under `~/mythras-backups/`. If a command
+> returns nothing, check which database you are pointed at **before** importing
+> anything.
 
 The live game is:
 
