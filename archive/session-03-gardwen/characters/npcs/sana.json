@@ -1,0 +1,141 @@
+{
+  "id": "myth-char-b92c3484c2ae",
+  "name": "Sana",
+  "type": "npc",
+  "status": "active",
+  "description": "Nineteen, dark red hair chopped ragged on the left side. High Priestess Nerissa's niece, six weeks at the temple and not yet resigned to it. Clever, not biddable, and a noticer -- she sees the thing nobody else in the room thought was worth looking at, and says so at the wrong moment.",
+  "narrative": "Sent to the temple by a family that ran out of other ideas, and kept there by an\naunt who will not admit how much she likes having her about.\n\nSana is useful to a GM as the person who *noticed*. She carries water, runs errands\nbetween the temple and the Northern Isles, and is in and out of rooms that important\npeople assume are empty. She is not brave and she is not trained; she is observant,\nand she is nineteen, which means she will tell the wrong person something true.\n\n**Use her** as the thread the party pulls when they need a way into the temple's\nside of things, or as somebody it costs them to protect.",
+  "characteristics": {
+    "STR": 9,
+    "CON": 11,
+    "SIZ": 10,
+    "DEX": 12,
+    "INT": 15,
+    "POW": 13,
+    "CHA": 13
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "-1d2",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 13,
+    "luck_points": 3,
+    "magic_points": 13,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 40,
+    "Boating": 20,
+    "Brawn": 19,
+    "Conceal": 25,
+    "Dance": 25,
+    "Deceit": 28,
+    "Drive": 25,
+    "Endurance": 22,
+    "Evade": 24,
+    "First Aid": 27,
+    "Influence": 26,
+    "Insight": 52,
+    "Locale": 30,
+    "Perception": 58,
+    "Ride": 25,
+    "Sing": 26,
+    "Stealth": 45,
+    "Unarmed": 21,
+    "Willpower": 56,
+    "Customs": 70,
+    "Native Tongue": 70,
+    "Swim": 45
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {
+    "Love (my aunt Nerissa)": 75,
+    "Notice what nobody else notices": 65,
+    "Bettan did my hair and I said thank you": 60
+  },
+  "combat_styles": {},
+  "spells": null,
+  "extras": null,
+  "actor_notes": "Sana\nLOOKS: Nineteen, dark red hair chopped ragged down one side, temple blue-green worn like a coat that belongs to somebody else.\nCORE: A novice who is cleverer than the job she has been given and knows it, and who is terrified that the adults have already worked out she is not really one of them.\nNATURE: Fast, funny, tactless, wildly curious. Interrupts. Asks the question everyone else was too polite to ask and then apologises and asks it again. Enormous energy and no filter and a real, unfeigned appetite for being useful.\nWOUND: She was sent here rather than kept at home, and has never been told which of those it was.\nWANTS: One adult to take her seriously, once, out loud, in front of somebody else.\nPRESSURE: She goes quiet -- properly quiet -- and anyone who knows her reads it instantly as an emergency, because it is the only thing she never does.\nKEY: \"Nobody tells me anything, which means I have to work it out, which means I am usually right and never believed.\"",
+  "fatigue": "Fresh",
+  "luck_current": 3,
+  "magic_current": 13,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-09-09T17:09:56"
+}

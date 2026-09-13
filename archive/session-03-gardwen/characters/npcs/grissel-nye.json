@@ -1,0 +1,160 @@
+{
+  "id": "myth-char-9e32fab2b027",
+  "name": "Grissel Nye",
+  "type": "npc",
+  "status": "active",
+  "description": "Carries out the ashes and the grates for all six counting-houses on Chandler'\\''s Row, in before light and out before the clerks. Forty years. Deaf as a post. Cannot read.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 11,
+    "CON": 10,
+    "SIZ": 13,
+    "DEX": 8,
+    "INT": 16,
+    "POW": 10,
+    "CHA": 13
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 2,
+    "magic_points": 10,
+    "movement": "4m walk / 12m fly"
+  },
+  "skills": {
+    "Athletics": 19,
+    "Boating": 21,
+    "Brawn": 45,
+    "Conceal": 18,
+    "Dance": 21,
+    "Deceit": 29,
+    "Drive": 18,
+    "Endurance": 55,
+    "Evade": 16,
+    "First Aid": 24,
+    "Influence": 26,
+    "Insight": 65,
+    "Locale": 80,
+    "Perception": 70,
+    "Ride": 18,
+    "Sing": 23,
+    "Stealth": 75,
+    "Unarmed": 19,
+    "Willpower": 60,
+    "Flight": 19,
+    "Customs": 72,
+    "Native Tongue": 69
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {
+    "Being asked, just once, about what she has seen": 70,
+    "Never be caught and lose the work": 65
+  },
+  "combat_styles": {},
+  "spells": null,
+  "extras": null,
+  "actor_notes": "Grissel Nye\nLOOKS: Small, wide, sixty-odd, sleeves permanently rolled, hands grey to the wrist from four decades of cold ash. Deaf enough that she pitches her own voice far too loud and has stopped caring.\nCORE: She has been the most invisible person on Chandler's Row for forty years and has understood for at least thirty of them that this makes her the best-informed. She has never once traded on it, because the work is how she eats and she is not a fool -- and because nobody has ever thought to ask her anything.\nNATURE: Blunt, unsentimental, dry as the ash. Speaks too loudly and does not apologise for it. No deference in her at all: she has emptied the grates of men who own half this street and she has seen what they throw away, and it has left her with a very low opinion of everybody and a certain amount of grim enjoyment.\nWOUND: Forty years of being walked past. Not resented -- she chose the invisibility and it kept her fed -- but nobody has asked, and she has a shelf of small things she has carried out of those houses that she has never explained to a living soul.\nWANTS: To be asked, once, properly, by somebody who then listens to the whole answer.\nPRESSURE: She gets specific and physical. Stops talking and starts showing you things -- the shelf, the pail, which grate, which morning.\nKEY: \"I can't read a word of it. Doesn't mean I don't know which of them burns theirs.\"",
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": "myth-loc-02141eddf75b",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-09-13T03:15:02"
+}
