@@ -33,14 +33,19 @@ The referral book at the Isle post is four inches thick and it is only a week ol
 that recording is at least something and are doing it obsessively; others have
 started drinking off duty in places where dragonshits do not go.
 
-**Sergeant [[Abel Weir]]** keeps the book. He is the crack in the order and the
-party's most useful lawful ally.
+**There is no one crack in it.** The order does not fail because a single
+sergeant disobeys -- it fails, or holds, at ninety desks at once. Every post
+keeps its own book and every sergeant has a private view about it, and a party
+that wants the watch has to give the whole institution a reason rather than
+recruit one sympathetic man.
 
 **Stated aim:** keep the peace through the festival. **Real aim,** among the ones
 who still care: get the book in front of **somebody with standing to use it** --
 the Prince in person, the Lady's clergy, a Sword of the Lake, a warranted assayer
 -- without any watchman having to be the one who disobeyed.
 
-A sergeant cannot accuse a baron. He would be ruined for trying, and he knows the
-arithmetic exactly. What he can do is keep an unimpeachable record and put it in
-the hands of someone whose word survives being wrong. See *[[The King's justice, and how a lord is called to answer]]*.
+A sergeant cannot accuse a baron. He would be ruined for trying, and every one
+of them has done that sum. What the watch can do is keep an unimpeachable record
+and act the moment somebody hands them a jurisdiction the standing order does not
+cover -- the King's Assay, maritime law, the Order's sacred ground. They are not
+waiting for proof. They are waiting for cover. See *[[The King's justice, and how a lord is called to answer]]*.

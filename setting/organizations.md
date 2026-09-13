@@ -151,3 +151,30 @@
 **What They Really Want:** To maintain their near-monopoly on maritime commerce and the considerable wealth it generates. The higher ranks of the Harbor Masters have become increasingly corrupt, taking bribes to overlook smuggling operations while maintaining a facade of strict regulation. They participate in complex schemes to manipulate shipping tariffs to their advantage.
 
 **Allies and Enemies:** The Harbor Masters maintain strong ties with the Governor and city council, as well as with wealthy merchants who depend on shipping. They have an uneasy arrangement with Crowbill, whose smuggling operations they officially oppose but secretly facilitate for the right price. They view the Dredgers with contempt and actively work to suppress their organization of dock workers. They are cautiously observing the Baron's arrival, seeing both threat and opportunity in his presence.
+## The City Watch
+
+**Type:** Purewater's ordinary police — about ninety men and women in blue-grey, run out of posts on each of the big isles.
+
+**Nature:** They are not soldiers and have never pretended to be. Their work is drunks, cutpurses, canal-right disputes, dead men fished out of the Lullwater, and keeping the Pearl from catching fire. They are reasonably honest by the standards of a port, badly paid, and thoroughly outmatched by anybody in armour. Almost all of them were born in the districts they patrol and most still live there, which is the single most important fact about them: the people the Dragonknights are preying on are their neighbours, their cousins, and the women who sell them their dinner.
+
+Seven days before the Tourney they received a written instruction from the Governor's council: *the Baron's people are guests of the city and of the Crown's representative; complaints against them are to be recorded and referred, and not acted upon, until the Tourney is concluded.* Recorded and referred. Not acted upon. It came down over Prince Emeric's signature, and ninety people who live in these districts have been ordered to be useless in them.
+
+It humiliates them. Sergeants route patrols away from the Merchant's Quarter rather than be seen standing twenty feet from something and doing nothing. The referral book at the Isle post is four inches thick and a week old. Some have decided that recording is at least something and do it obsessively; others have started drinking off duty in places the dragonshits do not go.
+
+**Dignitaries by Rank:**
+- *Watchman* — the patrol, in pairs, on foot or in a punt
+- *Sergeant* — runs a post's watch-list and keeps its book
+- *Post-Sergeant* — answers for one isle
+- *Watch-Captain* — answers for the city, and to the council
+
+Deliberately plain. The guilds of this city give themselves Pilots and Harbors and Tide Lords; the watch have four ranks and three of them are just *sergeant* with something in front.
+
+**Leader:** **Watch-Captain Ottilie Sarn.** She did not write the standing order, she cannot rescind it, and she has not resigned over it — which some of her own people have not forgiven. She reads every referral that comes in.
+
+**What They Say They Want:** To keep the peace through the festival, as instructed.
+
+**What They Really Want:** To be allowed to do their jobs, and — among the ones who still care — to see somebody answer for what has been done in their districts this week. They already believe the party. Belief is not their problem.
+
+**How they can be moved:** Not by evidence, and not by being talked round. What they lack is a **lawful basis to act that does not end the career of whoever acts on it**. A sergeant cannot arrest a baron's man under a standing order and survive it, and every one of them can do that sum. Bring them a jurisdiction the order does not cover — the King's Assay, maritime law, the Order's sacred ground — and they will move fast, in numbers, and with a great deal of stored-up feeling. Turning the watch is a victory condition, available from the first day, and it changes the worst night of the adventure completely.
+
+**Allies and Enemies:** Natural sympathy with the Dredgers and with the Order, both of whom they have spent years managing rather than fighting. A long, functional, unsentimental understanding with Crowbill, whose people they mostly leave alone in exchange for the city not burning. Their enemy is the Dragonknights, whom they cannot touch, and their real problem is the Governor's council, whose instruction they are carrying and whose reasons they do not know.
