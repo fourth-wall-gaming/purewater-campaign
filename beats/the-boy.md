@@ -3,7 +3,7 @@ id: "myth-beat-a80735bdff7f"
 title: "The boy"
 summary: "In the noise, or the water, or the wreck of the room, Gardwen gets her brother's body into her own hands, alive -- and he is still not her brother"
 status: "pending"
-when: "d2/night"      # the backstop -- fires here at the latest
+when: "d2/night"
 needs:
   - played: the-standoff
 onscreen_if: "Any PC present"

@@ -3,7 +3,7 @@ id: "myth-beat-e9920d8ddf8e"
 title: "Ivo Calder folds"
 summary: "The assayer who signed what he should not have has kept his original notes, moved them twice, and collapses completely the moment an independent reading appears"
 status: "pending"
-when: "d0/day"      # the backstop -- fires here at the latest
+when: "d0/day"
 needs:
   - fact: the-money-is-not-his
   - played: alderic-vantt-jokes-about-his-cellar

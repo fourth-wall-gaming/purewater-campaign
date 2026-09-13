@@ -3,7 +3,7 @@ id: "myth-beat-2a28a66d1f6f"
 title: "Alderic Vantt jokes about his cellar"
 summary: "The warmest man in the city makes two self-deprecating jokes in a row, which is where the seam is"
 status: "pending"
-when: "d-1/dusk"      # the backstop -- fires here at the latest
+when: "d-1/dusk"
 onscreen_if: "Any PC present"
 agenda: null
 place: "myth-loc-7c1e9a4d0b62"

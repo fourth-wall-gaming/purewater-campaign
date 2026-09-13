@@ -3,7 +3,7 @@ id: "myth-beat-d93eaa76bc01"
 title: "The flight"
 summary: "She is an outlaw from the instant the arrow leaves the string, and she knew that before she drew"
 status: "pending"
-when: "d2/dusk"      # the backstop -- fires here at the latest
+when: "d2/dusk"
 needs:
   - played: the-standoff
 onscreen_if: "Any PC present"

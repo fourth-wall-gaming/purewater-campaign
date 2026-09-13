@@ -3,7 +3,7 @@ id: "myth-beat-5010f08855ce"
 title: "THE STANDOFF"
 summary: "Hanzo comes out of the shut room into the open, and on the far side of the arena is an elf with a bow and nothing left to lose"
 status: "pending"
-when: "d2/dusk"      # the backstop -- fires here at the latest
+when: "d2/dusk"
 needs:
   - played: the-private-audience
 onscreen_if: "Any PC present"

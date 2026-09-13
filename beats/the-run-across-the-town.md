@@ -3,7 +3,7 @@ id: "myth-beat-09624d9fcd6a"
 title: "The Run across the town"
 summary: "The last event of the Tourney sends competitors through the whole city on foot and by boat, and for two hours Purewater has no crowd control at all"
 status: "pending"
-when: "d2/day"      # the backstop -- fires here at the latest
+when: "d2/day"
 onscreen_if: "Any PC anywhere in the city. It is impossible to be somewhere the Run is not."
 agenda: null
 place: "myth-loc-93c75b267cb2"

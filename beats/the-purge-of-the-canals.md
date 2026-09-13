@@ -3,7 +3,7 @@ id: "myth-beat-03475b935fd5"
 title: "The purge of the canals"
 summary: "They cut the rope bridges first, which turns a neighbourhood into forty islands of people who cannot reach each other"
 status: "pending"
-when: "d1/night"      # the backstop -- fires here at the latest
+when: "d1/night"
 needs:
   - played: nus-lifts-the-binding-locket
 onscreen_if: "Any PC present"

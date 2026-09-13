@@ -3,7 +3,7 @@ id: "myth-beat-b8652883cc65"
 title: "The old woman at the ford"
 summary: "Magda closes the distance in the tourney queue and says something about a dream that ends in her own death"
 status: "pending"
-when: "d-3/dawn"      # the backstop -- fires here at the latest
+when: "d-3/dawn"
 onscreen_if: "Any PC present"
 agenda: null
 place: "myth-loc-e68bde0d7264"

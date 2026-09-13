@@ -3,7 +3,7 @@ id: "myth-beat-0a2f2f3fb560"
 title: "Crowbill names his price"
 summary: "He collects somebody off a ledge at first light, already knows what they did last night, and does not ask"
 status: "pending"
-when: "d0/dawn"      # the backstop -- fires here at the latest
+when: "d0/dawn"
 onscreen_if: "Any PC present"
 agenda: null
 place: null
