@@ -16,11 +16,6 @@ are actually deciding**. Where a roll matters, the outcomes are written out as
 possibilities in plain language. Where no roll is named, nothing is being
 decided by chance and the scene turns on what the players do.
 
-**Scenes that already worked** are kept in [set-pieces/](set-pieces/) — real
-moments from three runs of this campaign, written to be re-run rather than
-re-read. They are linked from the scenes they belong to below. None of them is
-canon; the runs diverged hard, and they are stock to reach for.
-
 Two rules sit above everything else:
 
 - **Every act takes something.** Not a setback — a loss that does not come back.
@@ -68,7 +63,6 @@ does not get out at the gate.
   never explained. Anybody who pushes for a look gets an outrider's arm across
   their chest and a very polite refusal.
 
-**From play:** [The oath at the ford](set-pieces/01-the-oath-at-the-ford.md)
 
 ## Randall is greeted as Lord Santo
 
@@ -129,7 +123,6 @@ coin. Nobody's life is at risk and everybody's dignity is.
 - Fighting here is available and a very bad idea. They fight in threes, in mail,
   with trained styles, and a lone PC who takes one on should lose.
 
-**From play:** [The customs man at the water-gate](set-pieces/02-the-customs-man.md) · [The knights who were not from the column](set-pieces/13-the-knights-who-were-not-from-the-column.md)
 
 ## The Sylph's Embrace, and the offer for Emmeralda
 
@@ -145,7 +138,6 @@ own step in front of the room.
 
 He takes a room in the house anyway.
 
-**From play:** [Refused by one point](set-pieces/14-refused-by-one-point.md)
 
 ## The room at the Sylph's Embrace
 
@@ -186,7 +178,6 @@ that this city has laws that apply to everyone.
 
 ---
 
-**From play:** [Refused by one point](set-pieces/14-refused-by-one-point.md) · [The room that had almost nothing in it](set-pieces/11-the-room-that-had-nothing-in-it.md)
 
 # ACT II — `d-2` to `d-1` · THE CITY CLOSES
 ### They find out who did it, and discover that it does not matter
@@ -214,7 +205,6 @@ Two men tied to chairs in the dark, with the same face, who have never met.
   completely different scene: three men, one of whom is guilty, in front of a
   woman deciding what to do about a Baron's son.
 
-**From play:** [Incognito fails by two](set-pieces/10-incognito-fails-by-two.md) · [Walking straight at your own tail](set-pieces/09-walking-at-your-own-tail.md)
 
 ## The Pearl goes dark
 
@@ -244,7 +234,6 @@ spend two days finding out that knowing is worth nothing.
 
 A baron's son with a knife is weather, and you do not sue the weather.
 
-**From play:** [Four hundred years old and not mine to bend](set-pieces/15-not-mine-to-bend.md) · [Ask about the woman, not the ship](set-pieces/16-how-you-ask-mab-kellow.md)
 
 ## Santo comes back for what he left
 
@@ -303,7 +292,6 @@ livelihood, now burning down to nothing whether it is spent or not.
 
 ---
 
-**From play:** [The unhelming](set-pieces/17-the-unhelming.md)
 
 # ACT III — `d0` to `d1` · THE PLAN AND THE COUNTER
 ### They build something, and he breaks part of it
@@ -330,7 +318,6 @@ law and touches nothing else, and there are three courts it cannot reach:
 The whole middle game is finding the one court his protection does not cover,
 and getting somebody with standing to walk into it.
 
-**From play:** [The Lady's Washing](set-pieces/22-the-ladys-washing.md)
 
 ## The money
 
@@ -352,7 +339,6 @@ reading appears — there is no middle with him.
 what makes Act V's ending mean something, because the man who is paying is not
 in this city and does not die on this sand.
 
-**From play:** [Grissel Nye](set-pieces/21-grissel-nye.md)
 
 ## The thieves, and the locket
 
@@ -372,7 +358,6 @@ it is at the tourney rail on the morning of the sand.
 hiding it by raising the stakes out loud. That is the tragedy set up here and
 paid off in Act IV, and the party choose it with their eyes open.
 
-**From play:** [Crowbill fetches you off a ledge](set-pieces/20-crowbill-off-a-ledge.md) · [The count at the DragonBarge](set-pieces/03-the-barge-count.md) · [Santo sees his own face and is delighted](set-pieces/18-santo-sees-his-own-face.md) · [Orrin Sculle, and the left-handed cup](set-pieces/19-orrin-sculle-and-the-cup.md)
 
 ## The archery
 
@@ -409,7 +394,6 @@ thousand people looking at her and a prize she has to be handed.
 
 Whatever happens here, **this is the scene the standoff in Act V answers.**
 
-**From play:** [The archery, and the prize that went astray](set-pieces/07-the-archery.md)
 
 ## What he does about it
 
@@ -460,7 +444,6 @@ see the entrants walked past. One hour, one chance, four thousand witnesses.
   and cannot get clear, and somebody has to decide in about four seconds whether
   to go in after him.
 
-**From play:** [What the mud kept](set-pieces/12-the-mud-at-the-reed-landing.md)
 
 ## The purge of the canals
 
@@ -545,7 +528,6 @@ Gardwen in the stands unable to want either of them to lose.
 - If they have done nothing, he wins clean and the crowd loves him, and that is
   its own kind of horror.
 
-**From play:** [The assault at the Mouth](set-pieces/05-the-assault-on-the-mouth.md)
 
 ## 2 — The shut room
 
@@ -619,7 +601,6 @@ under pressure his manners get better rather than worse.
 
 ---
 
-**From play:** [It is not a demon, it is a dead man](set-pieces/04-a-shade-not-a-demon.md) · [Give them to her, and say somebody came back](set-pieces/06-give-them-to-her.md) · [The stair, and the funeral](set-pieces/08-the-stair-and-the-funeral.md)
 
 # WHAT IS WON, AND WHAT IS DELIBERATELY WITHHELD
 
