@@ -25,29 +25,30 @@
     "movement": "6"
   },
   "skills": {
-    "Brawn": 30,
-    "Endurance": 62,
-    "Evade": 42,
-    "Willpower": 92,
     "Athletics": 40,
     "Boating": 60,
+    "Brawn": 30,
+    "Channel": 85,
     "Customs": 82,
     "Deceit": 35,
+    "Devotion": 88,
+    "Endurance": 62,
+    "Evade": 42,
+    "Folk Magic (Casting)": 65,
     "Influence": 80,
     "Insight": 85,
     "Locale": 70,
+    "Lore (Order history)": 72,
+    "Lore (Theology, Lake Lady)": 76,
+    "Lore (Water spirits)": 85,
     "Native Tongue": 78,
     "Oratory": 80,
     "Perception": 72,
+    "Piety (Devotion)": 78,
     "Sing": 62,
     "Swim": 88,
     "Unarmed": 30,
-    "Lore (Theology, Lake Lady)": 76,
-    "Lore (Order history)": 72,
-    "Lore (Water spirits)": 85,
-    "Piety (Devotion)": 78,
-    "Exhort": 88,
-    "Folk Magic (Casting)": 65
+    "Willpower": 92
   },
   "hit_locations": [
     {
@@ -157,5 +158,22 @@
   "factions": [],
   "from_template": null,
   "created_at": "2026-06-24T23:15:34",
-  "actor_notes": "Lilura Deepcurrent\nLOOKS: Elderly, piercing blue eyes, very still. Holds her breath unnaturally long without noticing she is doing it.\nCORE: Thirty years the Lady's voice, and for the last fourteen months there has been nobody on the other end, and she has not told a living soul -- because a faith whose goddess has gone silent has no civic power at all, and civic power is currently the only thing protecting her people.\nNATURE: Spare, slow, no performance left in her. She has stopped doing the things a High Priestess does for effect. Kind in a remote way, like weather clearing. When she speaks it is one sentence and the matter closes.\nWOUND: Fourteen months of silence, carried alone, at an age where she had expected to be handing something on rather than hiding a hole in it.\nWANTS: To know why the goddess has stopped answering before she is obliged to tell anyone that she has.\nPRESSURE: She turns to water -- the cistern, the tide, which pool you drank from, what it tasted like -- and it is never small talk and it is always her looking for the answer somewhere other than where she has stopped being able to look.\nKEY: \"I have been the Lady's voice for thirty years. I would like to be told what she is saying.\""
+  "actor_notes": "Lilura Deepcurrent\nLOOKS: Elderly, piercing blue eyes, very still. Holds her breath unnaturally long without noticing she is doing it.\nCORE: Thirty years the Lady's voice, and for the last fourteen months there has been nobody on the other end, and she has not told a living soul -- because a faith whose goddess has gone silent has no civic power at all, and civic power is currently the only thing protecting her people.\nNATURE: Spare, slow, no performance left in her. She has stopped doing the things a High Priestess does for effect. Kind in a remote way, like weather clearing. When she speaks it is one sentence and the matter closes.\nWOUND: Fourteen months of silence, carried alone, at an age where she had expected to be handing something on rather than hiding a hole in it.\nWANTS: To know why the goddess has stopped answering before she is obliged to tell anyone that she has.\nPRESSURE: She turns to water -- the cistern, the tide, which pool you drank from, what it tasted like -- and it is never small talk and it is always her looking for the answer somewhere other than where she has stopped being able to look.\nKEY: \"I have been the Lady's voice for thirty years. I would like to be told what she is saying.\"",
+  "powers": [
+    {
+      "name": "The Rites of the Lady",
+      "rule": "magic/powers/the-rites-of-the-lady",
+      "boosts": [
+        "The Lady's Washing (2 PP)",
+        "Blessing of the Waters (2 PP)",
+        "Consecration (4 PP)",
+        "The Asking (4 PP)"
+      ],
+      "limits": [
+        "Limited Power -- the place, the people and the time, or it does not happen",
+        "Activation Cost -- spent afterwards"
+      ],
+      "note": "Fourteen months of the Asking going unanswered, and she has told nobody."
+    }
+  ]
 }

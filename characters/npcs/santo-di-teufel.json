@@ -158,14 +158,10 @@
     "Magic User": 25
   },
   "spells": {
-    "binding": [
-      "Open the Channel",
-      "Spirit Sight"
-    ],
     "arcane": [
-      "Flaming Hands",
-      "Shocking Touch",
-      "Affect Normal Fires"
+      "Burning Hands",
+      "Ignite",
+      "Magic Missile"
     ]
   },
   "extras": {
@@ -190,5 +186,18 @@
   "factions": [],
   "from_template": null,
   "created_at": "2026-06-24T22:56:04",
-  "actor_notes": "Santo di Teufel\nLOOKS: Nineteen, dressed beautifully and always slightly too warm for it. Rings. A good sword he cannot really use.\nCORE: A boy who has never had to wait, and who therefore experiences ordinary refusal the way other people experience being robbed. He is not wicked in his own account of himself; he is wronged, constantly, by everyone.\nNATURE: Loud, generous, funny when things are going his way, and enormous fun for about an hour. He spends money on people to watch their faces. He genuinely likes being adored and is confused and hurt when adoration does not arrive.\nWOUND: His father is the only person alive who can make him feel small, does it without raising his voice, and has never once had to explain the consequences. Everything Santo does too loudly is done at that distance.\nWANTS: The thing he has pointed at. Now. Without the intervening steps.\nPRESSURE: The vagueness burns off and he becomes horribly precise -- an itemised account of exactly what will happen to your house, your girls, your boat, with the details getting smaller as the panic gets bigger.\nKEY: \"Do you know, I have never once had to ask for anything twice. Not once. It is a very strange feeling.\""
+  "actor_notes": "Santo di Teufel\nLOOKS: Nineteen, dressed beautifully and always slightly too warm for it. Rings. A good sword he cannot really use.\nCORE: A boy who has never had to wait, and who therefore experiences ordinary refusal the way other people experience being robbed. He is not wicked in his own account of himself; he is wronged, constantly, by everyone.\nNATURE: Loud, generous, funny when things are going his way, and enormous fun for about an hour. He spends money on people to watch their faces. He genuinely likes being adored and is confused and hurt when adoration does not arrive.\nWOUND: His father is the only person alive who can make him feel small, does it without raising his voice, and has never once had to explain the consequences. Everything Santo does too loudly is done at that distance.\nWANTS: The thing he has pointed at. Now. Without the intervening steps.\nPRESSURE: The vagueness burns off and he becomes horribly precise -- an itemised account of exactly what will happen to your house, your girls, your boat, with the details getting smaller as the panic gets bigger.\nKEY: \"Do you know, I have never once had to ask for anything twice. Not once. It is a very strange feeling.\"",
+  "powers": [
+    {
+      "name": "The Binding",
+      "rule": "magic/powers/the-binding",
+      "boosts": [
+        "Open the Channel (2 PP)"
+      ],
+      "limits": [
+        "Limited Power -- spirits only"
+      ],
+      "note": "An apprentice. He has cut a channel and does not know what came through it."
+    }
+  ]
 }

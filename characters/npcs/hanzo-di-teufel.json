@@ -159,26 +159,15 @@
     "Nobleman (broadsword, etc.)": 56
   },
   "spells": {
-    "binding": [
-      "Spirit Sight",
-      "Speak with the Bound",
-      "Open the Channel",
-      "Seat the Bound",
-      "Reinforce the Seat",
-      "Anchor",
-      "Draw Forth"
-    ],
     "arcane": [
-      "Charm Being",
-      "Suggestion",
-      "Hold Person",
-      "Sleep",
-      "Hypnotism",
+      "Charm Person",
       "Detect Magic",
-      "Read Magic",
+      "Hold Person",
+      "Locate Object",
       "Mage Lock",
+      "Read Magic",
       "Shield",
-      "Locate Object"
+      "Sleep"
     ]
   },
   "extras": {
@@ -206,5 +195,22 @@
   "factions": [],
   "from_template": null,
   "created_at": "2026-06-24T22:52:07",
-  "actor_notes": "Hanzo di Teufel\nLOOKS: Fifties, well made, silver at the temples, black cloth that cost more than a fishing boat. Nothing about him is ornamented.\nCORE: A man who has never once been refused anything he asked for pleasantly, and who has come to understand that the pleasantness is what makes it right. He does not think of himself as cruel. He thinks of himself as someone with obligations that other people are lucky enough to be included in.\nNATURE: Warm, and not faking it. Genuinely interested in other people, genuinely good company, genuinely delighted when somebody says something clever. He remembers what your mother was ill with and asks after her a year later, and he means it. That is the whole horror of him: the warmth is real and it is also the machine.\nWOUND: He was a younger son of nothing and he learned very early that the world opens for men who are loved. He has been loved by thousands of people, none of whom has ever known what he is, and the part of him that notices that has been quiet for a long time.\nWANTS: To be liked by everyone in the room. Nobody searches a man they are fond of.\nPRESSURE: He does not experience being cornered as fear; he experiences it as a failure of hospitality, and he corrects it by becoming more generous. The kinder he is getting, the worse your position.\nKEY: \"You must forgive my son. He was born after I had stopped being poor, and it shows.\""
+  "actor_notes": "Hanzo di Teufel\nLOOKS: Fifties, well made, silver at the temples, black cloth that cost more than a fishing boat. Nothing about him is ornamented.\nCORE: A man who has never once been refused anything he asked for pleasantly, and who has come to understand that the pleasantness is what makes it right. He does not think of himself as cruel. He thinks of himself as someone with obligations that other people are lucky enough to be included in.\nNATURE: Warm, and not faking it. Genuinely interested in other people, genuinely good company, genuinely delighted when somebody says something clever. He remembers what your mother was ill with and asks after her a year later, and he means it. That is the whole horror of him: the warmth is real and it is also the machine.\nWOUND: He was a younger son of nothing and he learned very early that the world opens for men who are loved. He has been loved by thousands of people, none of whom has ever known what he is, and the part of him that notices that has been quiet for a long time.\nWANTS: To be liked by everyone in the room. Nobody searches a man they are fond of.\nPRESSURE: He does not experience being cornered as fear; he experiences it as a failure of hospitality, and he corrects it by becoming more generous. The kinder he is getting, the worse your position.\nKEY: \"You must forgive my son. He was born after I had stopped being poor, and it shows.\"",
+  "powers": [
+    {
+      "name": "The Binding",
+      "rule": "magic/powers/the-binding",
+      "boosts": [
+        "Open the Channel (2 PP)",
+        "Seat the Bound (4 PP)",
+        "Anchor (2 PP)",
+        "Reinforce the Seat (1 PP)",
+        "Draw Forth (4 PP)"
+      ],
+      "limits": [
+        "Limited Power -- spirits only",
+        "Fatal Flaw -- every seat reinforced every morning"
+      ]
+    }
+  ]
 }
