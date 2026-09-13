@@ -207,6 +207,90 @@ the sequel, or the epilogue, or the thing they choose to give up.
 
 ---
 
+# THREE THINGS THE LAST RUN LEFT ON THE TABLE
+
+## 1. Santo — the confrontation, in two parts
+
+He is not a boss fight. He is nineteen, he has never once had to wait for
+anything, and he killed a girl by attempting a working he was not good enough
+for. **Beating him is easy and useless**, which is exactly what makes him
+dramatic: the whole house is untouchable and he is the soft place in it.
+
+**Part one — cornered.** He is pathetic *and* dangerous at the same moment, and
+the party has to hold both in their heads. He has fire, a knife, and no idea how
+to lose. When he panics he does not run, he **takes hold of whoever is nearest**,
+because it has always worked — and then everybody in the room is standing very
+still. His card's pressure is the tell: the vagueness burns off and he becomes
+horribly itemised, naming what will happen to your house, your girls, your boat.
+Detail is the panic showing.
+
+**Part two — the bargain, which is the real scene.** He knows everything: the
+working, the scroll, the champion, the room. And the one thing he wants is not to
+be handed to his father. So he offers to sell the house — and the price is that
+the people holding him have to **protect the man who killed Emmeralda**, from his
+own family, and keep him alive to say it.
+
+Put Constantine in that room. She buried four girls out of that house and did the
+books for every one. Put Marisette in it, whose one unmoved rule is that a person
+is not for sale. Then let the party decide, with Santo talking the entire time,
+because he never stops.
+
+**Whatever they choose, Act III or IV takes something for it.** Shelter him and
+the Pearl finds out. Hand him over and Blau makes the only witness to the working
+disappear inside a watch.
+
+## 2. The money — stop making it a ledger
+
+The financial thread is not boring because it is money. It is boring because it
+has been *paper*. Three fixes, and the last is the point.
+
+**Make it a person.** The counterparty is not a name on a page: somebody lights a
+fire in a back room of Hallow & Beck before four every morning, and that somebody
+is the Movement's man in this city. Finding the name means meeting him.
+
+**Make it jurisdiction.** This is the good part and the setting already has it.
+The standing order protects the Baron's people from *the city's* law — and there
+are three authorities it does not touch: the **King's Assay** (a Crown warrant,
+neither the city's nor the army's), **maritime law** (boats, berths, cargo — and
+the Knights have been commandeering boats, which is eating Velen Deepkeel alive),
+and the **Order's own sacred sites**. The game is not gathering evidence. It is
+finding the one court his protection does not reach.
+
+**Make it disarm the army.** Twenty-five knights and a mercenary captain are paid
+through that credit line. Tat Atarer fights for wages, has lost two companies to
+a bad month in a town, and will take his people home rather than die on an unpaid
+contract. **Cut the money and the Baron loses his soldiers** — which turns a
+counting-house into a weapon and gives the ledger an action-scene payoff.
+
+## 3. The watch — ninety people who have been ordered to be useless
+
+They are not absent. They have been *told*, in writing, over the Prince's own
+signature: *complaints against the Baron's people are to be recorded and referred,
+and not acted upon, until the Tourney is concluded.*
+
+Ninety men and women in blue-grey, competent at drunks and canal disputes,
+thoroughly outmatched by anybody in mail, and humiliated daily. Sergeants route
+patrols away from the Merchant's Quarter rather than be seen not acting. The
+referral book at the Isle post is four inches thick and one week old.
+
+**The three councillors who advised that order are the same three who later have
+him sign the instruction silencing the temple's water alarm.** A party pulling on
+the watch's standing order and a party investigating the fouling are pulling the
+same thread, and neither knows it.
+
+**Abel Weir is the crack in it.** Thirty-one entries he can recite from memory,
+none of them answered, and one want: to put the book in front of somebody with
+standing to use it — *without* being the man who disobeyed.
+
+And as of this telling there is finally somebody with standing: an elf who spent
+thirty years of it in public, in front of four thousand people, and has nothing
+left to lose by taking a book off a sergeant.
+
+**The set piece: the watch has to choose.** At the riot, or at the arrest, or on
+the worst night — ninety of them standing between the Knights and the city with a
+written order in their pockets telling them to do nothing. **Turning the watch is
+a victory condition**, and it is available from Act I if anybody talks to Weir.
+
 # THE ENDING
 
 Epic here does not mean large. It means **everything in one place at once**, and
