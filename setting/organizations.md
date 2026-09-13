@@ -65,6 +65,19 @@
 
 **Allies and Enemies:** The Dragonknights have few true allies in Purewater but maintain cordial official relations with the Governor as visiting dignitaries. They are actively opposed by the Order of the Lake Lady and viewed with suspicion by most residents. Some corrupt officials and merchants have been bribed to support their interests. Their worst enemies are those who have survived their previous raids and massacres, including Gardwen.
 
+**The escalation ladder — never skip a rung.** They get worse every act, and the
+watch does nothing every time, which is the point of them.
+
+1. Tolls and insults. A woman's basket tipped into the canal.
+2. A beating in daylight, over nothing, and the watch walks away.
+3. **A death nobody answers for** — a dredger, a boy off a boat.
+4. **Reprisal.** After a loss, they burn something belonging to people who had
+   no part in it.
+5. Open war in the streets, with the city fighting back badly.
+
+Mail, shields, trained combat styles, and **they fight in threes.** A PC who
+takes one on alone should lose.
+
 ## The Mermaid's Court
 
 **Type:** A secretive society of water magic practitioners with strong connections to merfolk and other aquatic beings.
