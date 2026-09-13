@@ -1,0 +1,26 @@
+---
+id: "myth-beat-b8652883cc65"
+title: "The old woman at the ford"
+summary: "Magda closes the distance in the tourney queue and says something about a dream that ends in her own death"
+status: "pending"
+when: "d-5/dawn"      # the backstop -- fires here at the latest
+onscreen_if: "Any PC present"
+agenda: null
+place: "myth-loc-e68bde0d7264"
+cast: ["myth-char-d8b643d61817"]
+created_at: "2026-09-13T00:00:00"
+---
+
+Carts three deep at the gravel ford, heat, horses, crushed fennel, and
+everybody has been standing in it for an hour. Ahead in the queue is a di Teufel
+column with a covered litter in the middle that the outriders let nobody walk
+beside.
+
+Three places back, an old woman in ringmail is looking at one of the PCs and not
+pretending otherwise. She has dreamed that face for eleven nights and every
+dream ends in her own death. **She is not good at explaining and will not try
+twice.**
+
+The litter is the first fact of the campaign. Offer it as an image; never
+explain it. Anyone who pushes for a look gets an outrider's arm across the chest
+and a very polite refusal.

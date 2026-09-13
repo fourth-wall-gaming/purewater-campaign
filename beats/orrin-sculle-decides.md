@@ -6,13 +6,13 @@ status: "pending"
 trigger: "contact"
 needs:
   any:
-    - contact: "myth-char-bed406244ae9"   # a PC gets near Cailan
-    - contact: "myth-loc-610195a74035"    # a PC gets aboard the DragonBarge
+    - contact: "myth-char-cac22cc2cbf6"   # a PC gets near Cailan
+    - contact: "myth-loc-0900adc8395d"    # a PC gets aboard the DragonBarge
 by: null    # NO BACKSTOP -- this never happens on its own
 onscreen_if: "Always onscreen. It is not an event in the world; it is a door that opens when somebody reaches it."
 agenda: null
-place: "myth-loc-610195a74035"
-cast: ["myth-char-9a2814a45c5e", "myth-char-bed406244ae9"]
+place: "myth-loc-0900adc8395d"
+cast: ["myth-char-6ecea7177538", "myth-char-cac22cc2cbf6"]
 created_at: "2026-09-13T00:00:00"
 ---
 
