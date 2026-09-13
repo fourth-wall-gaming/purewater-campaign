@@ -3,7 +3,7 @@ id: "myth-beat-da17d07e0e18"
 title: "Santo comes for it himself"
 summary: "He does not run when he panics -- he takes hold of whoever is nearest, because that has always worked"
 status: "pending"
-when: "d-1/night"      # the backstop -- fires here at the latest
+when: "d1/night"      # the backstop -- fires here at the latest
 onscreen_if: "Any PC present"
 agenda: null
 place: null

@@ -3,7 +3,7 @@ id: "myth-beat-0e45c0d0f760"
 title: "The champion takes the sand -- and wins"
 summary: "Cailan fights the Single Combat masked and armoured, and wins it, because there is a dragon-knight in him"
 status: "pending"
-when: "d0/day"
+when: "d1/day"
 time_index: 65
 trigger: "time"
 onscreen_if: "The Tourney is public; the party will be there unless something extraordinary prevents it"

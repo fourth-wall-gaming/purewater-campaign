@@ -3,7 +3,7 @@ id: "myth-beat-9fd257803343"
 title: "The private audience"
 summary: "The Single Combat champion is presented alone to Prince Emeric in the old rite -- and Hanzo moves Thuban out of a worn-out boy and into the Crown's own nephew"
 status: "pending"
-when: "d0/dusk"
+when: "d2/dusk"
 time_index: 66
 trigger: "time"
 onscreen_if: "Any PC who has got themselves inside the Governor's enclosure, or who stops the combat before it is won"

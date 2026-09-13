@@ -3,7 +3,7 @@ id: "myth-beat-25394f03774e"
 title: "Four knights and a King's officer"
 summary: "Bored knights stop Temerach on the road because she is an elf and because they can, and she takes it"
 status: "pending"
-when: "d-5/day"      # the backstop -- fires here at the latest
+when: "d-3/day"      # the backstop -- fires here at the latest
 onscreen_if: "Any PC present"
 agenda: null
 place: "myth-loc-d7201945f52a"

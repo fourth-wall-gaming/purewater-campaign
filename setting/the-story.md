@@ -23,10 +23,10 @@ conditions on a beat can bring it forward when the party earns it. A scene with
 no beat has not been built yet; a beat linked from nowhere is one the story has
 forgotten.
 
-**The clock is a countdown.** `d-5` is five days before the Tourney and `d0` is
-the Tourney itself. Negative days are meant to be read out loud at the table as
-what they are — *three days before* — which is why the numbering has to keep
-meaning that.
+**The clock is a countdown to the Tourney's first day.** `d-3` is three days
+before it starts; `d0`, `d1` and `d2` are the Tourney itself. Negative days are
+meant to be read at the table as what they are — *two days before* — so the
+numbering has to keep meaning that.
 
 Two rules sit above everything else:
 
@@ -40,21 +40,32 @@ Two rules sit above everything else:
 
 ## The clock
 
-Five days, and the whole city is counting them down to the same hour.
+Six days, and the whole city is counting them down to the same week.
 
-The **Tourney of the Lake** falls on `d0`. Purewater fills for it: entrants,
-pilgrims, bookmakers, three thousand people who came to drink. The Governor,
-**Prince Emeric** — the King's nephew, young, decent, and entirely unsuited to
-this city — presides. Every inn is full and every price has doubled.
+**The Tourney of the Lake runs three days**, and each of them is a different
+event in a different part of the city:
+
+| | | |
+|---|---|---|
+| `d-1` | **The presentation** | every entrant before the Prince, bare-headed for the space of one bow |
+| `d0` | **The Archery** | the open event, on the long butts, anyone may shoot |
+| `d1` | **The Single Combat** | the sand, the champions, and the only day the Baron's champion leaves that ship |
+| `d2` | **The Run**, then the closing | across the whole city, and then the audiences, the rewards, and the shut room |
+
+The party arrive on `d-3`, two days before any of it starts.
+
+The Governor, **Prince Emeric** — the King's nephew, young, decent, and entirely
+unsuited to this city — presides over all four. Every inn is full and every price
+has doubled.
 
 That is why the Baron is here, why the watch has been ordered to be patient
 until it is over, and why nobody in authority wants a murder investigated this
 week. The festival is not a backdrop. It is the reason the law has stopped
-working, and it has a date on it.
+working, and it has a date on it — four of them.
 
 ---
 
-# ACT I — `d-5` · THE COLUMN
+# ACT I — `d-3` · THE COLUMN
 ### The city as it is, and then a girl dies in it
 
 ## The road, and the ford
@@ -75,7 +86,7 @@ does not get out at the gate.
   never explained. Anybody who pushes for a look gets an outrider's arm across
   their chest and a very polite refusal.
 
-**Beats:** [The old woman at the ford](../beats/the-old-woman-at-the-ford.md) `d-5/dawn`
+**Beats:** [The old woman at the ford](../beats/the-old-woman-at-the-ford.md) `d-3/dawn`
 
 ## Randall is greeted as Lord Santo
 
@@ -98,7 +109,7 @@ part, Stealth to be gone before anybody senior looks up.
 Either way the city now contains a face that opens doors and gets throats cut,
 and Randall is wearing it.
 
-**Beats:** [A knight calls Randall 'my lord'](../beats/a-knight-calls-randall-my-lord.md) `d-5/day`
+**Beats:** [A knight calls Randall 'my lord'](../beats/a-knight-calls-randall-my-lord.md) `d-3/day`
 
 ## Temerach on the road, and the joke
 
@@ -122,7 +133,7 @@ comfortable to play, and that is the point.
   the archery in Act III and the shot in Act V. Those two scenes are the same
   scene, three days apart.
 
-**Beats:** [Four knights and a King's officer](../beats/four-knights-and-a-kings-officer.md) `d-5/day`
+**Beats:** [Four knights and a King's officer](../beats/four-knights-and-a-kings-officer.md) `d-3/day`
 
 ## The gate toll
 
@@ -140,7 +151,7 @@ coin. Nobody's life is at risk and everybody's dignity is.
 - Fighting here is available and a very bad idea. They fight in threes, in mail,
   with trained styles, and a lone PC who takes one on should lose.
 
-**Beats:** [The Baron's column enters Purewater](../beats/the-baron-s-column-enters-purewater.md) `d-5/day` · [Three of them on the gate bridge](../beats/three-of-them-on-the-gate-bridge.md) `d-5/day`
+**Beats:** [The Baron's column enters Purewater](../beats/the-baron-s-column-enters-purewater.md) `d-3/day` · [Three of them on the gate bridge](../beats/three-of-them-on-the-gate-bridge.md) `d-3/day`
 
 ## The Sylph's Embrace, and the offer for Emmeralda
 
@@ -156,7 +167,7 @@ own step in front of the room.
 
 He takes a room in the house anyway.
 
-**Beats:** [An offer for the girl](../beats/an-offer-for-the-girl.md) `d-5/dusk`
+**Beats:** [An offer for the girl](../beats/an-offer-for-the-girl.md) `d-3/dusk`
 
 ## The room at the Sylph's Embrace
 
@@ -197,9 +208,9 @@ that this city has laws that apply to everyone.
 
 ---
 
-**Beats:** [Santo carves Emmeralda](../beats/santo-carves-emmeralda.md) `d-5/night`
+**Beats:** [Santo carves Emmeralda](../beats/santo-carves-emmeralda.md) `d-3/night`
 
-# ACT II — `d-4` to `d-3` · THE CITY CLOSES
+# ACT II — `d-2` to `d-1` · THE CITY CLOSES
 ### They find out who did it, and discover that it does not matter
 
 ## The catacombs
@@ -225,7 +236,7 @@ Two men tied to chairs in the dark, with the same face, who have never met.
   completely different scene: three men, one of whom is guilty, in front of a
   woman deciding what to do about a Baron's son.
 
-**Beats:** [Hesper takes the look-alike](../beats/hesper-takes-the-look-alike.md) `d-4/dawn` · [Two men with one face](../beats/the-catacombs-two-men-one-face.md) `d-4/dawn`
+**Beats:** [Hesper takes the look-alike](../beats/hesper-takes-the-look-alike.md) `d-2/dawn` · [Two men with one face](../beats/the-catacombs-two-men-one-face.md) `d-2/dawn`
 
 ## The Pearl goes dark
 
@@ -238,7 +249,7 @@ asset, and everyone involved knows it — which is what makes her dangerous to b
 allied with. **She will spend it once.** The party's choice, eventually, is what
 she spends it on.
 
-**Beats:** [The houses close to the di Teufels](../beats/the-houses-close-to-the-di-teufels.md) `d-4/day` · [The Pearl goes dark](../beats/the-pearl-goes-dark.md) `d-3/dawn`
+**Beats:** [The houses close to the di Teufels](../beats/the-houses-close-to-the-di-teufels.md) `d-2/day` · [The Pearl goes dark](../beats/the-pearl-goes-dark.md) `d-1/dawn`
 
 ## The wall
 
@@ -257,7 +268,7 @@ spend two days finding out that knowing is worth nothing.
 
 A baron's son with a knife is weather, and you do not sue the weather.
 
-**Beats:** [Maro Quist reads it to the end](../beats/quist-reads-it-to-the-end.md) `d-3/day`
+**Beats:** [Maro Quist reads it to the end](../beats/quist-reads-it-to-the-end.md) `d-1/day`
 
 ## Santo comes back for what he left
 
@@ -282,7 +293,7 @@ having **covered for one**, and the whole street saw it happen.
 - Whoever chooses the fire over the fight saves the house and loses the man,
   and should have to make that choice out loud.
 
-**Beats:** [Santo comes back for her](../beats/santo-comes-back-for-her.md) `d-4/day` · [Santo's tantrum on the Pearl street](../beats/santo-s-tantrum-on-the-pearl-street.md) `d-4/dusk`
+**Beats:** [Santo comes back for her](../beats/santo-comes-back-for-her.md) `d-2/day` · [Santo's tantrum on the Pearl street](../beats/santo-s-tantrum-on-the-pearl-street.md) `d-2/dusk`
 
 ## The presentation of the entrants
 
@@ -318,9 +329,9 @@ livelihood, now burning down to nothing whether it is spent or not.
 
 ---
 
-**Beats:** [The presentation of the entrants](../beats/the-presentation-of-the-entrants.md) `d-3/day`
+**Beats:** [The presentation of the entrants](../beats/the-presentation-of-the-entrants.md) `d-1/day`
 
-# ACT III — `d-2` to `d-1` · THE PLAN AND THE COUNTER
+# ACT III — `d-1/dusk` to `d0` · THE PLAN AND THE COUNTER
 ### They build something, and he breaks part of it
 
 The party stops reacting and starts working. The Baron stops running a timetable
@@ -345,7 +356,7 @@ law and touches nothing else, and there are three courts it cannot reach:
 The whole middle game is finding the one court his protection does not cover,
 and getting somebody with standing to walk into it.
 
-**Beats:** [A boat taken off the water-stair](../beats/a-boat-taken-off-the-water-stair.md) `d-4/day` · [The stairs stop](../beats/the-stairs-stop.md) `d-3/dawn`
+**Beats:** [A boat taken off the water-stair](../beats/a-boat-taken-off-the-water-stair.md) `d-2/day` · [The stairs stop](../beats/the-stairs-stop.md) `d-1/dawn`
 
 ## The money
 
@@ -367,7 +378,7 @@ reading appears — there is no middle with him.
 what makes Act V's ending mean something, because the man who is paying is not
 in this city and does not die on this sand.
 
-**Beats:** [Alderic Vantt jokes about his cellar](../beats/alderic-vantt-jokes-about-his-cellar.md) `d-2/dusk` · [Ivo Calder folds](../beats/ivo-calder-folds.md) `d-1/day`
+**Beats:** [Alderic Vantt jokes about his cellar](../beats/alderic-vantt-jokes-about-his-cellar.md) `d-1/dusk` · [Ivo Calder folds](../beats/ivo-calder-folds.md) `d0/day`
 
 ## The thieves, and the locket
 
@@ -387,7 +398,7 @@ it is at the tourney rail on the morning of the sand.
 hiding it by raising the stakes out loud. That is the tragedy set up here and
 paid off in Act IV, and the party choose it with their eyes open.
 
-**Beats:** [Crowbill names his price](../beats/crowbill-names-his-price.md) `d-2/dawn` · [Orrin Sculle decides](../beats/orrin-sculle-decides.md) `on contact`
+**Beats:** [Crowbill names his price](../beats/crowbill-names-his-price.md) `d0/dawn` · [Orrin Sculle decides](../beats/orrin-sculle-decides.md) `on contact`
 
 ## The archery
 
@@ -424,7 +435,7 @@ thousand people looking at her and a prize she has to be handed.
 
 Whatever happens here, **this is the scene the standoff in Act V answers.**
 
-**Beats:** [PIVOT: the Archery](../beats/pivot-the-archery.md) `d-1/day`
+**Beats:** [PIVOT: the Archery](../beats/pivot-the-archery.md) `d0/day`
 
 ## What he does about it
 
@@ -456,9 +467,9 @@ they can move around in.
 
 ---
 
-**Beats:** [A price on the face](../beats/a-price-on-the-face.md) `d-1/dawn` · [A courier from the Movement](../beats/a-courier-from-the-movement.md) `d-3/night` · [Temerach tells Conall whose son he is](../beats/temerach-tells-conall-whose-son-he-is.md) `d-4/night`
+**Beats:** [A price on the face](../beats/a-price-on-the-face.md) `d0/dusk` · [A courier from the Movement](../beats/a-courier-from-the-movement.md) `d-1/night` · [Temerach tells Conall whose son he is](../beats/temerach-tells-conall-whose-son-he-is.md) `d-2/night`
 
-# ACT IV — `d-1/night` to `d0/dawn` · THE UNFORGIVING CITY
+# ACT IV — `d1` · THE UNFORGIVING CITY
 ### The worst night
 
 Whatever they built gets used against them. The Knights come off the leash. And
@@ -477,7 +488,24 @@ see the entrants walked past. One hour, one chance, four thousand witnesses.
   and cannot get clear, and somebody has to decide in about four seconds whether
   to go in after him.
 
-**Beats:** [Nus lifts the binding locket](../beats/nus-lifts-the-binding-locket.md) `d0/dawn`
+**Beats:** [Nus lifts the binding locket](../beats/nus-lifts-the-binding-locket.md) `d1/dawn`
+
+## The sand
+
+Cailan fights, and wins, because Thuban Eta has been winning fights since before
+this city had walls.
+
+It should be magnificent and unbearable at the same time: a thousand-year-old
+knight of the Sixth Wing doing beautiful work with arms too thin to do it, and
+Gardwen in the stands unable to want either of them to lose.
+
+- If the party have interfered with the reinforcement, the boy is closer to the
+  surface and the fighting is worse — and there is a real chance Cailan is badly
+  hurt on the sand, which is a disaster and an opportunity at once.
+- If they have done nothing, he wins clean and the crowd loves him, and that is
+  its own kind of horror.
+
+**Beats:** [The champion takes the sand -- and wins](../beats/the-champion-takes-the-sand-and-wins.md) `d1/day`
 
 ## The purge of the canals
 
@@ -509,7 +537,7 @@ no reason to lie. Every hour they hold onto it has a name attached to it.
 
 Play it so they can hear it from where they are. Do not cut away.
 
-**Beats:** [The purge of the canals](../beats/the-purge-of-the-canals.md) `d0/dawn`
+**Beats:** [The purge of the canals](../beats/the-purge-of-the-canals.md) `d1/night`
 
 ## The other losses of that night
 
@@ -536,9 +564,9 @@ they needed most either lost or in the wrong hands.
 
 ---
 
-**Beats:** [Santo comes for it himself](../beats/santo-comes-for-it-himself.md) `d-1/night` · [The nightly reinforcement](../beats/the-nightly-reinforcement.md) `d-4/night`
+**Beats:** [Santo comes for it himself](../beats/santo-comes-for-it-himself.md) `d1/night` · [The nightly reinforcement](../beats/the-nightly-reinforcement.md) `d1/night`
 
-# ACT V — `d0` · THE SAND, THE WATER, AND THE ROOM
+# ACT V — `d2` · THE RUN, THE ROOM, AND THE SHOT
 ### Everything in one place at once
 
 Epic here is not scale. It is **simultaneity** — the crowd, the shallows, the
@@ -551,24 +579,29 @@ lake-water, singing. The Knights loose in the streets on the mainland behind,
 visible as smoke. And on the sand, in harness, for the only time he ever leaves
 that ship: the champion.
 
-## 1 — The sand
+## The Run across the town
 
-Cailan fights, and wins, because Thuban Eta has been winning fights since before
-this city had walls.
+The last event, and the only one that leaves the island. From the Lists out
+through the water-gate, across Caravan Square, down the Merchant's Quarter, over
+the Lullwater by whatever means a competitor can find, and back along the Shoals
+to the temple steps. On foot and by boat, no route laid down, no help forbidden.
 
-It should be magnificent and unbearable at the same time: a thousand-year-old
-knight of the Sixth Wing doing beautiful work with arms too thin to do it, and
-Gardwen in the stands unable to want either of them to lose.
+**For about two hours Purewater has no crowd control at all.** The watch is
+holding a line on a route instead of patrolling districts. The Knights are
+strung out along it with nothing to do. Every bridge and stair has people packed
+onto it, cheering, and nobody can move against the flow.
 
-- If the party have interfered with the reinforcement, the boy is closer to the
-  surface and the fighting is worse — and there is a real chance Cailan is badly
-  hurt on the sand, which is a disaster and an opportunity at once.
-- If they have done nothing, he wins clean and the crowd loves him, and that is
-  its own kind of horror.
+That is either the best cover the party will ever get or the reason they cannot
+reach somewhere in time, and it should be both in the same hour.
 
-**Beats:** [The champion takes the sand -- and wins](../beats/the-champion-takes-the-sand-and-wins.md) `d0/day`
+**It is the last normal thing that happens.** Whatever they have built by the
+morning of `d2`, the Run is the window to use it in — because at dusk the
+competitors come back to the steps, the Prince takes his place, and the closing
+begins.
 
-## 2 — The shut room
+**Beats:** [The Run across the town](../beats/the-run-across-the-town.md) `d2/day`
+
+## The shut room
 
 By a form older than the Governor's office, the winning champion is presented
 **alone and unarmed** to the Crown's representative, behind a closed door,
@@ -593,9 +626,9 @@ No swords in this scene matter at all.
   him and the campaign has a different second half — and that is a legitimate
   ending, not a failure state.
 
-**Beats:** [The private audience](../beats/the-private-audience.md) `d0/dusk`
+**Beats:** [The private audience](../beats/the-private-audience.md) `d2/dusk`
 
-## 3 — The standoff
+## The standoff
 
 However the room ends, Hanzo comes out of it into the open, in front of the
 entire city. And on the far side of the arena is an elf with a bow and nothing
@@ -617,9 +650,9 @@ Then she shoots.
   in front of everyone, and for about four seconds he wins — and then somebody
   in the crowd throws something, and then everybody does.
 
-**Beats:** [THE STANDOFF](../beats/the-standoff.md) `d0/dusk`
+**Beats:** [THE STANDOFF](../beats/the-standoff.md) `d2/dusk`
 
-## 4 — The flight
+## The flight
 
 She is an outlaw from the instant the arrow leaves the string. Assassination at
 a sacred festival, in public, on the Crown's guest. Thirty years of service gone
@@ -628,9 +661,9 @@ in one second, deliberately, with her eyes open.
 Whether the party gets her off the island is theirs to decide and it costs them
 something. She will not thank them and will not explain.
 
-**Beats:** [The flight](../beats/the-flight.md) `d0/dusk`
+**Beats:** [The flight](../beats/the-flight.md) `d2/dusk`
 
-## 5 — The boy
+## The boy
 
 In the noise, or in the water, or in the wreck of that room, Gardwen gets her
 brother's body into her own hands, alive.
@@ -646,7 +679,7 @@ under pressure his manners get better rather than worse.
 
 ---
 
-**Beats:** [The boy](../beats/the-boy.md) `d0/night` · [Tat counts the cost](../beats/tat-counts-the-cost.md) `d0/night`
+**Beats:** [The boy](../beats/the-boy.md) `d2/night` · [Tat counts the cost](../beats/tat-counts-the-cost.md) `d2/night`
 
 # WHAT IS WON, AND WHAT IS DELIBERATELY WITHHELD
 

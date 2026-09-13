@@ -3,7 +3,7 @@ id: "myth-beat-67016bb3aea0"
 title: "Two men with one face"
 summary: "Marisette's people have taken everyone wearing Santo's face, and in the dark under the city the twins meet"
 status: "pending"
-when: "d-4/dawn"      # the backstop -- fires here at the latest
+when: "d-2/dawn"      # the backstop -- fires here at the latest
 onscreen_if: "Any PC present"
 agenda: null
 place: "myth-loc-3e03305b5abb"

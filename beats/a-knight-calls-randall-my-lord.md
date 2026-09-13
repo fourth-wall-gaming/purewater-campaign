@@ -3,7 +3,7 @@ id: "myth-beat-a8e861623ff3"
 title: "A knight calls Randall 'my lord'"
 summary: "At the gate bridge a Dragon Knight takes Randall by the arm and offers him a hand down off a cart he is robbing"
 status: "pending"
-when: "d-5/day"      # the backstop -- fires here at the latest
+when: "d-3/day"      # the backstop -- fires here at the latest
 onscreen_if: "Any PC present"
 agenda: null
 place: "myth-loc-b46458cc59e8"

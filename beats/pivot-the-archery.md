@@ -3,7 +3,7 @@ id: "myth-beat-31a30c96c2d8"
 title: "PIVOT: the Archery"
 summary: "Temerach wins, and the dice decide what she does with the ninety seconds afterwards in front of the Governor's box"
 status: "pending"
-when: "d-1/day"      # the backstop -- fires here at the latest
+when: "d0/day"      # the backstop -- fires here at the latest
 onscreen_if: "Any PC present"
 agenda: null
 place: "myth-loc-95b0d058ff45"

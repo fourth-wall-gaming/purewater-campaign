@@ -5,7 +5,7 @@ summary: "Marisette closes the houses: four hundred people out of work on one wo
 status: "pending"
 needs: 
   - played: the-houses-close-to-the-di-teufels
-when: "d-3/dawn"
+when: "d-1/dawn"
 onscreen_if: "Any PC present"
 agenda: null
 place: "myth-loc-6062ee281912"

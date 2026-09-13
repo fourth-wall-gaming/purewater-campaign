@@ -3,7 +3,7 @@ id: "myth-beat-012be842c9dd"
 title: "Maro Quist reads it to the end"
 summary: "The magistrate reads everything put in front of him, at his own pace, while you wait -- and then explains accurately why it is not his to act on"
 status: "pending"
-when: "d-3/day"      # the backstop -- fires here at the latest
+when: "d-1/day"      # the backstop -- fires here at the latest
 onscreen_if: "Any PC present"
 agenda: null
 place: null
