@@ -150,7 +150,10 @@
     "Ship-hand (belaying pin, knife)": 40
   },
   "spells": null,
-  "extras": {},
+  "extras": {
+    "gender": "male",
+    "pronouns": "he/him"
+  },
   "fatigue": "Fresh",
   "luck_current": 3,
   "magic_current": 15,

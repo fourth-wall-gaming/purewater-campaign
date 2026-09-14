@@ -147,7 +147,8 @@
     "role": "Proprietor of The Sylph's Embrace, the high-end pleasure house on the Pearl. Protective of her workers, fiercely independent, operates under [[marisette]]'s overall authority.",
     "context": "Her establishment was the site of Santo's ritual attack on Emmeralda; she is hiring protection for her workers in the aftermath. Values loyalty and codes of conduct.",
     "magic_tradition": null,
-    "source": "GM-authored from source lore"
+    "source": "GM-authored from source lore",
+    "pronouns": "she/her"
   },
   "fatigue": "Fresh",
   "luck_current": 2,

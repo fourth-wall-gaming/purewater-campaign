@@ -128,7 +128,10 @@
   },
   "combat_styles": {},
   "spells": null,
-  "extras": null,
+  "extras": {
+    "gender": "female",
+    "pronouns": "she/her"
+  },
   "fatigue": "Fresh",
   "luck_current": 3,
   "magic_current": 13,

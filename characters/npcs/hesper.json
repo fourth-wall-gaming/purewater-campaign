@@ -174,7 +174,7 @@
     ]
   },
   "extras": {
-    "gender": "NEITHER. Hesper is not a man and not a woman -- this is a fact about Hesper, not a secret being kept, and it is not a disguise, a curse, or a reveal waiting to happen. Deliberately NOT the Lythande device it replaced: there is no hidden sex to be uncovered and no plot hangs on it. Purewater does not know and has never asked; Marisette has employed them twenty years and could not tell you.",
+    "gender": "neither",
     "class": "Magic-User (sorcerer); secret agent",
     "renamed_from": "Lythande -- a Thieves' World / Sanctuary throwback (a Blue Star adept) in the Zorastor draft. Renamed Hesper and fully reconceived: no brow-star, no borrowed order (the 'Order of the Blue Star' was itself a Thieves' World holdover and is now the King's Assay), no fatal personal secret. Now a deep-cover agent of an original benevolent order, the Quiet Hand.",
     "order": "[[The Quiet Hand]] -- a secret, centuries-old fellowship that works unseen for the good of the world. Hesper is its one 'finger' in Purewater. NOT [[The King's Assay]] (the Crown inspectorate that warranted Conall) -- the two are unrelated.",
@@ -186,7 +186,8 @@
     "gm_secret": "Hesper is the party's potential SECRET PATRON. Once they prove themselves against the Baron, the Hand quietly tips the scales -- an unlocked door, a guard looking away, the needed thing already in place -- usually without the party ever learning who arranged it. Hesper's deepest priority is stopping the [[The Awake the Dragon Movement]], the catastrophe the Quiet Hand exists to prevent. Hesper will spend secrets, favors, and cover freely to that end, but kills only as a last resort and will never seize power directly.",
     "magic_tradition": "Arcane Casting (CFI Magic-User), master tier -- Arcane Casting 100, Invocation 92, Willpower 95. Favors knowing and moving unseen: scrying, sending, disguise, compulsion, sleep/stun by command word, mist and cold, wards -- force is the last tool reached for.",
     "source": "Novelization (And then the Dragons Came) -- the star-marked mage at Marisette's side; fully reconceived per GM direction as an agent of the new benevolent espionage order, the Quiet Hand.",
-    "pronouns": "they/them. Use these always, including in GM narration and in other NPCs' mouths."
+    "pronouns": "they/them",
+    "gender_note": "Hesper is not a man and not a woman. This is a fact about Hesper, not a secret being kept, and it is not a disguise, a curse, or a reveal waiting to happen. Deliberately NOT the Lythande device it replaced: there is no hidden sex to be uncovered and no plot hangs on it. Purewater does not know and has never asked; Marisette has employed them twenty years and could not tell you."
   },
   "fatigue": "Fresh",
   "luck_current": 2,

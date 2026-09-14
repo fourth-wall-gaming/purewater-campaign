@@ -195,7 +195,8 @@
     "magic_tradition": null,
     "armor": "Light armor, AP 3 on all 7 locations; no armor penalty",
     "sheet_cleanup_note": "EXCLUDED as held-over template/download error (NOT Tat's data; he is a sword-for-hire, not a caster, per source): the magic professional skills Folk Magic 84, Exhort 100, Devotion 100, Storm Speech 87 and the 'Folk Magic' tradition (rank 1). Kept his martial/mercenary skills as captured; note Lore (Cult) 95 / Lore (World) 92 are high for INT 9 and may also be template-inflated -- trim to taste.",
-    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)"
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
+    "pronouns": "he/him"
   },
   "fatigue": "Fresh",
   "luck_current": 2,

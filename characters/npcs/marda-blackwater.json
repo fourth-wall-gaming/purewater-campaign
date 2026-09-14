@@ -157,7 +157,8 @@
     "role": "Leader of The Dredgers -- broad-shouldered woman in her forties who started as a dredger and rose during a labor dispute five years ago. Practical, passionate, committed to the working class.",
     "faction": "The Dredgers -- cautiously allied with progressive elements of the Order of the Lake Lady and ethical merchants; complicated relationship with Crowbill; hostile to the merchant princes, the Governor, and especially the Baron and his Dragon Knights as the ultimate aristocratic oppressors.",
     "magic_tradition": null,
-    "source": "GM-authored from source lore (purewater-organizations.md, The Dredgers)"
+    "source": "GM-authored from source lore (purewater-organizations.md, The Dredgers)",
+    "pronouns": "she/her"
   },
   "fatigue": "Fresh",
   "luck_current": 2,

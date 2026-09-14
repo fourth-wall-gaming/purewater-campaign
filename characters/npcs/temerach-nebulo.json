@@ -181,7 +181,9 @@
     "data_cleanup_note": "EXCLUDED as held-over template/download error (NOT Temerach's real data, per operator): all magic -- Folk Magic spells (Bladesharp, Fireblade, Disruption, etc.), Theism miracles (Turn Undead, Sever Spirit, Bind Ghost, Truesword, Consecrate, Excommunicate, etc.), Humakt Gifts, Allied Spirit (Humakt), Spirit Combat (Binding 81); the magic professional skills (Binding, Devotion, Exhort, Folk Magic); and the 'Detect Assassin' passions. She is a straight Fighter.",
     "sheet_notes": "Roll20 sheet did not display Luck Points (luck_points 3 derived from POW 16); no bow appeared in the weapon list though lore/operator make her a signature archer -- bow stats not captured.",
     "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
-    "power_note": "Intentionally high-powered elite NPC knight; skills restored to the original sheet values per operator. The only removed material is magic (see data_cleanup_note)."
+    "power_note": "Intentionally high-powered elite NPC knight; skills restored to the original sheet values per operator. The only removed material is magic (see data_cleanup_note).",
+    "gender": "female",
+    "pronouns": "she/her"
   },
   "fatigue": "Fresh",
   "luck_current": 3,

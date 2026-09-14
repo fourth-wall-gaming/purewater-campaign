@@ -172,7 +172,8 @@
     "minor_fire": "Can wreathe weapon/limbs in flame for +1d4 fire on a successful hit, a few times per scene (Baron's ritual gift). Tied to the binding locket.",
     "vulnerability": "Weakening or removing the binding locket / Thuban's remains can free him; appeals to his true identity ('Gabriel') can surface clarity.",
     "magic_tradition": "None of his own; fire is the Baron's grafted gift via the binding.",
-    "source": "GM-authored from source lore (Key Supporting Characters)"
+    "source": "GM-authored from source lore (Key Supporting Characters)",
+    "pronouns": "he/him"
   },
   "fatigue": "Fresh",
   "luck_current": 2,

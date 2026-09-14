@@ -149,7 +149,8 @@
     "possession": "Healing interrupted [[santo-di-teufel]]'s ritual before full possession. She suffers strange behaviors, speaks in bestial voices, and occasionally asks for 'Lord Santo.' The demon can surge: brief unnatural strength (treat as STR 16 for one action, claws 1d3) and frightening presence, then she collapses, distraught.",
     "significance": "Living evidence of Santo's crime; her interrupted binding is the key to developing a counter-ritual. A potential ally if her possession can be reversed.",
     "magic_tradition": "None of her own; the demon-taint is an affliction, not a learned tradition.",
-    "source": "GM-authored from source lore (The Partially Possessed Courtesan)"
+    "source": "GM-authored from source lore (The Partially Possessed Courtesan)",
+    "pronouns": "she/her"
   },
   "fatigue": "Fresh",
   "luck_current": 2,

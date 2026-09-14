@@ -174,7 +174,8 @@
     "source": "GM-authored from source lore (Temple Leadership)",
     "magic_rank": 4,
     "spell_access": "CFI cleric, Rank 4: access to every cleric spell of that Rank or below. \"memorized\" is what is currently prayed for, not what she can have.",
-    "magic": "The rites, her sensing of the Lady's waters, and the doctrine that the Order has never had possession magic are all one power: magic/powers/the-rites-of-the-lady. Read it before playing her doing anything magical."
+    "magic": "The rites, her sensing of the Lady's waters, and the doctrine that the Order has never had possession magic are all one power: magic/powers/the-rites-of-the-lady. Read it before playing her doing anything magical.",
+    "pronouns": "she/her"
   },
   "fatigue": "Fresh",
   "luck_current": 2,

@@ -189,7 +189,8 @@
     ],
     "magic_tradition": null,
     "authored_note": "New NPC -- no Roll20 sheet existed. Entirely GM-authored from the brief ('a thief called Nus, friend of Randall') and Randall's notes; tune freely.",
-    "source": "Authored for the And then the Dragons Came campaign (friend of Randall)"
+    "source": "Authored for the And then the Dragons Came campaign (friend of Randall)",
+    "pronouns": "he/him"
   },
   "fatigue": "Fresh",
   "luck_current": 3,

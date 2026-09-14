@@ -148,7 +148,8 @@
     "role": "High Priestess and head of the Order of the Lake Lady for three decades. Elderly, piercing blue eyes; can hold her breath for unnaturally long periods (rumored merfolk ancestry).",
     "faction": "Order of the Lake Lady -- cordial with the Governor and city council (tensions over water management), allied with the Watercrafters Guild and arranged with Ravella; chief rivals are the Baron's fire demonologists. Distinct from -- and senior to -- [[high-priestess-nerissa]], who leads the Temple of the Lake Lady.",
     "magic_tradition": "Theism / divine (CFI Cleric), highest tier in the city: Piety 95, Exhort 88, water-aspected miracles plus innate breath-holding.",
-    "source": "GM-authored from source lore (purewater-organizations.md, Order of the Lake Lady)"
+    "source": "GM-authored from source lore (purewater-organizations.md, Order of the Lake Lady)",
+    "pronouns": "she/her"
   },
   "fatigue": "Fresh",
   "luck_current": 2,

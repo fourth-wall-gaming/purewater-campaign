@@ -184,7 +184,8 @@
     ],
     "magic_tradition": null,
     "authored_note": "New NPC -- no Roll20 sheet. GM-authored from the brief ('a local enemy of Randall: Sinnit'). The grudge hook (old double-cross) is a suggestion -- adjust the cause to taste. Tune freely.",
-    "source": "Authored for the And then the Dragons Came campaign (enemy of Randall)"
+    "source": "Authored for the And then the Dragons Came campaign (enemy of Randall)",
+    "pronouns": "he/him"
   },
   "fatigue": "Fresh",
   "luck_current": 2,

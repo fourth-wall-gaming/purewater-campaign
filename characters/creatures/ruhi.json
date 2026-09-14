@@ -156,7 +156,9 @@
     "magic_tradition": null,
     "armor": "Natural pelt, AP 1 on all 7 quadruped locations; no armor penalty",
     "sheet_notes": "Roll20 sheet showed an unusually high INT 15 and some 'civilized' skills (Native Tongue 55, Customs 30, Locale 30) for an animal -- recorded as-is from the sheet (likely sheet defaults / a specially clever bonded companion); Spirit Combat 'Willpower 22%' left out as a sheet default.",
-    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)"
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
+    "gender": "female",
+    "pronouns": "she/her"
   },
   "fatigue": "Fresh",
   "luck_current": 1,

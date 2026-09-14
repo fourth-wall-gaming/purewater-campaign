@@ -176,7 +176,8 @@
     "magic_theme": "Fire and lightning (Flaming Hands, Affect Normal Fires, Fireball, Lightning Bolt, Shocking Touch) + utility (Magic Missile, Levitate, Web).",
     "family": "Son and heir of Baron Hanzo di Teufel; half-brother/double of the twins Randall & Conall (all three uncannily identical, all Hanzo's sons)",
     "sheet_cleanup_note": "On the Roll20 sheet Arcane Casting & Arcane Knowledge were a broken -75 -- supplied working values (Casting 55, Knowledge 50) for a junior mage; GM adjust as desired. Rapier damage was blank on the sheet (CFI standard 1d8 used).",
-    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)"
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
+    "pronouns": "he/him"
   },
   "fatigue": "Fresh",
   "luck_current": 5,

@@ -127,7 +127,10 @@
   },
   "combat_styles": {},
   "spells": null,
-  "extras": null,
+  "extras": {
+    "gender": "male",
+    "pronouns": "he/him"
+  },
   "fatigue": "Fresh",
   "luck_current": 2,
   "magic_current": 11,

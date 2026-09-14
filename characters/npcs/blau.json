@@ -174,7 +174,8 @@
     ],
     "magic_tradition": null,
     "authored_note": "IMPORTANT: Blau's Roll20 sheet was a BLANK placeholder (only baseline characteristics, all 11s/SIZ 13, and default attributes). This kit is GM-AUTHORED from the setting lore, calibrated 'competent, just below Tat', and is a PURE physical enforcer -- no magic (the earlier fire-magic draft was removed per operator). Tune freely.",
-    "source": "Roll20 (blank sheet) + And then the Dragons Came setting lore"
+    "source": "Roll20 (blank sheet) + And then the Dragons Came setting lore",
+    "pronouns": "he/him"
   },
   "fatigue": "Fresh",
   "luck_current": 2,

@@ -172,7 +172,8 @@
     "role": "Squire to [[temerach-nebulo]], the Lakelady's Javelin. Carries her messages, screens her meetings, tends her horse and gear, and watches the road for ambush. The discreet, competent face the party usually deals with before reaching Temerach herself.",
     "manner": "Steady, loyal, professional; quick enough to laugh at Conall's antics but disciplined enough to catch himself.",
     "magic_tradition": null,
-    "source": "Novelization (And then the Dragons Came) -- 'Murgeroch, her squire'."
+    "source": "Novelization (And then the Dragons Came) -- 'Murgeroch, her squire'.",
+    "pronouns": "he/him"
   },
   "fatigue": "Fresh",
   "luck_current": 2,

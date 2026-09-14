@@ -153,7 +153,8 @@
     "role": "Harbormaster and head of the Harbor Masters -- stern, weathered older man, forty years in service, meticulous and traditional, resistant to corruption at least in his public persona.",
     "faction": "Harbor Masters -- strong ties to the Governor, council, and wealthy merchants; uneasy arrangement with Crowbill (officially oppose, secretly facilitate smuggling for a price); contemptuous of the Dredgers; cautiously watching the Baron, seeing both threat and opportunity.",
     "magic_tradition": null,
-    "source": "GM-authored from source lore (purewater-organizations.md, The Harbor Masters)"
+    "source": "GM-authored from source lore (purewater-organizations.md, The Harbor Masters)",
+    "pronouns": "he/him"
   },
   "fatigue": "Fresh",
   "luck_current": 2,

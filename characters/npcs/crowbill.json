@@ -160,7 +160,8 @@
     "assets": "Network of lookouts using crow symbols as signals; access to hidden boat paths through the canals; several safe houses.",
     "arc": "Initially opportunistic about the Baron's arrival; grows alarmed as the Dragon Knights wreck the established equilibrium -- may become a reluctant ally.",
     "magic_tradition": null,
-    "source": "GM-authored from source lore (Criminal Underground Leader)"
+    "source": "GM-authored from source lore (Criminal Underground Leader)",
+    "pronouns": "he/him"
   },
   "fatigue": "Fresh",
   "luck_current": 2,

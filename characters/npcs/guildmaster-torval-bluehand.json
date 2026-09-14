@@ -153,7 +153,8 @@
     "role": "Guildmaster of the Guild of Watercrafters -- middle-aged, practical, forward-thinking, more interested in innovation than tradition.",
     "magic_tradition": "Arcane Casting (CFI Magic-User), specialized in water enchantment / artifice -- enchants boats, locks, pumps and watercraft rather than slinging combat spells. Suggested spells: Animate (water), Repair, Reinforce, Strength (of materials), Float.",
     "faction": "Watercrafters Guild -- allied with the Order of the Lake Lady; their enchantments keep the canal-city running.",
-    "source": "GM-authored from source lore (purewater-organizations.md, Guild of Watercrafters)"
+    "source": "GM-authored from source lore (purewater-organizations.md, Guild of Watercrafters)",
+    "pronouns": "he/him"
   },
   "fatigue": "Fresh",
   "luck_current": 2,

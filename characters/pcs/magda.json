@@ -193,7 +193,9 @@
       "Cudmudgeon->Curmudgeon",
       "Wiillpower->Willpower"
     ],
-    "source_class": "Berserker (Classic Fantasy class; maps to Fighter in CFI's four core classes)"
+    "source_class": "Berserker (Classic Fantasy class; maps to Fighter in CFI's four core classes)",
+    "gender": "female",
+    "pronouns": "she/her"
   },
   "fatigue": "Fresh",
   "luck_current": 3,
