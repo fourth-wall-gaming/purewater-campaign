@@ -49,6 +49,8 @@ numbering has to keep meaning that.
 # ACT I — `d-3` · THE COLUMN
 
 Arrival, and a girl dies in a city that turns out to have no law in it this week.
+| `d-3/dawn` | [The short ledger](../beats/kag-the-short-ledger.md) | KAG'S OPENING. Three accounts short on one bridge for one reason, and she is the only person in the outfit who can read it |
+| `d-3/day` | [Crowbill wants a number](../beats/kag-crowbill-wants-a-number.md) | he gives the costing job to *her*, in front of the two men everybody pictures instead — the commission that runs her campaign |
 
 
 **Takes:** Emmeralda, on most paths. And the assumption that the law applies to everyone.
@@ -70,6 +72,8 @@ Arrival, and a girl dies in a city that turns out to have no law in it this week
 # ACT II — `d-2 to d-1` · THE CITY CLOSES
 
 They find out who did it in about a day, and then spend the rest of the act discovering that knowing is worth nothing. Ends on the presentation.
+| `d-2/day` | [Somebody sold that knife](../beats/kag-somebody-sold-that-knife.md) | the trade route into the Baron: a fence who would not touch it, and a goldsmith who kept the drawing — in the same hand as the scroll |
+| `d-1/dawn` | [The Pearl was the account](../beats/kag-the-pearl-was-the-account.md) | the arithmetic starts arguing for settling with the Baron, and she is the one holding it. Nobody will ever check her figures |
 
 
 **Takes:** The belief that evidence matters, and the Pearl's livelihood — spent or not, it burns down to nothing.
@@ -97,6 +101,8 @@ They find out who did it in about a day, and then spend the rest of the act disc
 # ACT III — `d-1/dusk to d0` · THE PLAN AND THE COUNTER
 
 They stop reacting and start building. He stops running a timetable and starts answering, within a watch, every time they touch something real. The act's real question is jurisdiction, not evidence.
+| *opportunity* | [He asks her, in front of them](../beats/kag-he-asks-her-in-front-of-them.md) | Crowbill treats her as a principal with his own men standing there. Once, ever. Makes the later collision expensive |
+| `d0/dusk` | [Nus asks her if it can be done](../beats/kag-nus-asks-her-if-it-can-be-done.md) | THE FUSE. The hinge of the adventure is handed to her to light or not, and nobody warns her what it costs |
 
 
 **The act's real question is jurisdiction.** The standing order shields him from
@@ -121,6 +127,7 @@ walk into it. His money is the thread that unravels him, because it is not his.
 # ACT IV — `d1` · THE UNFORGIVING CITY
 
 Combat day, and then the worst night. Whatever they built gets used against them, and every ally is somewhere else for reasons already established in play.
+| *opportunity* | [Explain it to me slowly](../beats/kag-explain-it-to-me-slowly.md) | her signature, in the catalog so it is spent deliberately. Hate 75 augments anything it drives by +15 |
 
 
 **Takes:** Somebody they recruited, by name, and because they asked.
