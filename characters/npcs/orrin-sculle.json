@@ -26,7 +26,7 @@
   },
   "skills": {
     "Athletics": 28,
-    "Boating": 23,
+    "Boating": 60,
     "Brawn": 65,
     "Conceal": 28,
     "Dance": 26,
@@ -46,7 +46,8 @@
     "Willpower": 55,
     "Flight": 28,
     "Customs": 60,
-    "Native Tongue": 63
+    "Native Tongue": 63,
+    "Swim": 50
   },
   "hit_locations": [
     {
