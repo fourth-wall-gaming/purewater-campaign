@@ -124,43 +124,62 @@ walk into it. His money is the thread that unravels him, because it is not his.
 
 ---
 
-# ACT IV — `d1` · THE UNFORGIVING CITY
+# ACT IV — `d1` · THE UNFORGIVING CITY — **PLAYED, AND IT ENDED EARLY**
 
-Combat day, and then the worst night. Whatever they built gets used against them, and every ally is somewhere else for reasons already established in play.
-| *opportunity* | [Explain it to me slowly](../beats/kag-explain-it-to-me-slowly.md) | her signature, in the catalog so it is spent deliberately. Hate 75 augments anything it drives by +15 |
+**Rewritten d1/night of run 4, because play went through this act in a single day and out the other side.**
 
+The closing was run on the evening of the single combat rather than on `d2`, so
+Act IV and the front half of Act V collapsed into one day. What this act was
+*for* still happened — whatever they built got used against them, and the city
+stopped being a place they could move around in — but its **Takes** did not
+land where the plan put it.
 
-**Takes:** Somebody they recruited, by name, and because they asked.
+**Takes, as played:** not an ally. It took the *plan*. Every route the party had
+— the ransom, the case, the summons, the quiet exit — was spent or made
+impossible inside four hours, and what they have instead is a boy, a locket, a
+prisoner, and a corpse nobody can explain.
 
-
-| when | beat | what it is for |
+| when | beat | what happened |
 |---|---|---|
-| `d1/dawn` | [Nus lifts the binding locket](../beats/nus-lifts-the-binding-locket.md) | one hour in the week that man is reachable |
-| `d1/day` | [The champion takes the sand -- and wins](../beats/the-champion-takes-the-sand-and-wins.md) | ACT IV CLIMAX. Thuban wins in her brother's body and she watches |
-| `d1/night` | [Santo comes for it himself](../beats/santo-comes-for-it-himself.md) | he takes hold of whoever is nearest, because it has always worked |
-| `d1/night` | [The nightly reinforcement](../beats/the-nightly-reinforcement.md) | the boy goes deeper, on the worst night |
-| `d1/night` | [The purge of the canals](../beats/the-purge-of-the-canals.md) | ACT IV TAKES. The bridges first. Nus at the Fishmarket stair |
-
+| `d1/dawn` | [Nus lifts the binding locket](../beats/nus-lifts-the-binding-locket.md) | **FAILED, and the failure was the discovery** — the chain is a closed ring with no clasp and can only be cut. Kag called him off across the water |
+| `d1/day` | [The champion takes the sand -- and wins](../beats/the-champion-takes-the-sand-and-wins.md) | **PLAYED.** Won in under a minute, helm never off, broke a King's Assay knight's leg in three places. The crowd went quiet instead of loud |
+| `d1/night` | Santo comes for it himself | **CANCELLED.** He was taken off the Lily Garden stair on `d0/night` and killed at first light |
+| `d1/night` | The nightly reinforcement | **CANCELLED.** Hanzo is dead and the locket is cut off him. Replaced by THE FOUR MORNINGS |
+| `d1/night` | The purge of the canals | **NEVER FIRED.** It needed the locket taken at the blessing. Kag called it off, and four thousand people on plank walkways will never know |
+| `d1/night` | **THE PIER** *(unwritten, played)* | ACT IV CLIMAX AS PLAYED. Blau tried to leave with the boy; the invoice reached Tat Atarer; Hanzo ran out of a royal closing and died on the stones; the ring came off a dead man; Thuban left |
 
 ---
 
-# ACT V — `d2` · THE RUN, THE ROOM, AND THE SHOT
+# ACT V — `d2` · **TO BE REWRITTEN. THIS IS THE REAL ONE.**
 
-The last day. A two-hour window with the city ungoverned, then the closing, then a shut door with a prince behind it — and an elf on the far side of the arena.
+The old Act V — the run, the private audience, the standoff, the flight — was
+built for a living Baron and a locket still on his neck. None of that exists.
 
+**What the last act is now for:** the party won, in one night, harder and faster
+than the plan allowed, and every single thing they won is a problem that has to
+be answered before Thursday morning.
 
-**Takes:** Nothing more. This is where it is paid back, and what is withheld is withheld on purpose.
+**The clock that replaces the Tourney:** **FOUR MORNINGS.** A seat ten years
+deep is an open hole in a seventeen-year-old, it was reinforced every morning
+for a decade, and nobody will reinforce it on Wednesday. Blau is selling the
+procedure for a boat, a poler and the sea. Thursday is the wall.
 
+**What is actually live:**
 
-| when | beat | what it is for |
-|---|---|---|
-| `d2/day` | [The Run across the town](../beats/the-run-across-the-town.md) | two hours with no crowd control — the window, and the trap |
-| `d2/dusk` | [The private audience](../beats/the-private-audience.md) | the shut room. Four generations bought their way to this door |
-| `d2/dusk` | [THE STANDOFF](../beats/the-standoff.md) | THE IMAGE. She names him across eighty yards and gives him the chance to answer |
-| `d2/night` | [Tat counts the cost](../beats/tat-counts-the-cost.md) | the professional's verdict on all of it |
-| `d2/night` | [The boy](../beats/the-boy.md) | she gets him back and he is still not her brother. The hook, unresolved on purpose |
-| `d2/dusk` | [The flight](../beats/the-flight.md) | thirty years gone in one second, with her eyes open |
+| | |
+|---|---|
+| **Cailan** | free of Thuban, cannot stand, and coming apart on a timetable nobody has verified |
+| **Blau** | in a cellar of Crowbill's, the only man alive who has watched the working eleven times, and selling |
+| **A dead nobleman** | on the Shoals ice, going over the bar on the four o'clock run, with a Prince still on the island |
+| **Temerach Nebulo** | holds a case against a corpse, was never told, and will find out |
+| **Ivo Calder** | Tide Master, bought the knife on the 4th of June, four months before the column — which means a Purewater conspiracy that predates the Baron entirely, and somebody paying for it who was never in this city |
+| **The water** | going wrong north of the Forge Quarter since Candlemas. The Dredgers won't put a grab in it |
+| **Tat Atarer** | twenty-five tents at the Vantt, no employer, no pay, and thirty years of never losing a company |
+| **The Pearl** | opens tomorrow. Emmeralda and Ila still have to be got out. Hesper's face was seen |
+| **Kag** | said *this is Crowbill's town* on a pier in front of twenty-six people, and five of them were his |
 
+**Takes:** not yet decided, and it should be. This act has to cost her something
+she chose, not something she lost.
 
 ---
 
