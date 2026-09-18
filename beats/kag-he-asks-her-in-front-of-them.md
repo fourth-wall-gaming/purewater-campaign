@@ -44,3 +44,12 @@ ambition go to an opposed roll, she will have this afternoon in her hand.
 
 **GM note.** Do not repeat it. Once. If it happens twice it becomes a
 relationship instead of a hinge, and the hinge is worth more.
+
+---
+
+**AS AN NPC.** Re-home it. In another party's game the beat is not Crowbill
+promoting her — it is the moment the **party** has to decide whether to put a
+decision to her as a principal or hand her a task. Fire it the first time they
+need something only she can judge, and make the difference visible: if they ask
+her to choose, Crowbill's people in the room look at her differently
+afterwards, and so does she.

@@ -47,3 +47,12 @@ beat is that this week she has a reason to spend it.
 **GM note.** Available, not compulsory (`TABLE.md` section 6, *a want is not a
 compulsion*). Fire it when a scene offers the opening cleanly. Two or three
 times a session is a character; every scene is a symptom.
+
+---
+
+**AS AN NPC.** This is her signature and it must stay *rare*. Fire it once,
+deliberately, the first time somebody with standing talks through her to the man
+beside her — and let it be a **PC** who does it if one does, because that is far
+more interesting than an NPC doing it. Hate 75 augments anything it drives. She
+does not raise her voice; she gets precise, and the numbers are always right and
+always worse than anybody hoped. Once per party, ever.

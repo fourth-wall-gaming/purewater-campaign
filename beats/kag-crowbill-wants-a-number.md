@@ -42,3 +42,12 @@ keeps giving her things.
 **If she does not bring him the ledger,** he sends for her by the end of the day
 anyway -- he has heard about the three from somebody else -- and it goes the
 same way with less credit.
+
+---
+
+**AS AN NPC.** Run it offscreen. Its function in somebody else's game is that
+by `d-3/dusk` Crowbill has a costed grievance in his hand, which is why he is
+already interested when the party reaches him. If a PC is present, this is the
+best possible first look at her: her own boss sends the complaint back and tells
+her to price it, and she is visibly *pleased*, and nobody in the room but the
+party notices that.

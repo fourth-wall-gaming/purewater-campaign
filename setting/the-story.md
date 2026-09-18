@@ -183,6 +183,21 @@ she chose, not something she lost.
 
 ---
 
+# Kag, if she is an NPC in your game
+
+She was the player character for run 4 and she is canon now. If somebody else is
+holding the dice, she runs on her own track underneath the whole scenario —
+sheet at `../characters/npcs/kag.json`, agenda at
+`../agendas/the-one-who-works-it-out.md`, and the day-by-day and the one rule
+for running her at [`kag-as-an-npc.md`](kag-as-an-npc.md).
+
+The one rule, because it is the whole of her: **how you talk to her decides what
+she is.** Address the muscle and she is exactly as much use as you paid for.
+Ask her what a thing costs and you have the best analyst in Purewater for
+nothing, permanently.
+
+---
+
 # Available, not scheduled
 
 Beats with no time on them. They never happen on their own; they happen the

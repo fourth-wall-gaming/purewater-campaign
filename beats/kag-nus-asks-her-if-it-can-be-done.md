@@ -43,3 +43,12 @@ is a legitimate campaign. Revise the beat rather than working around her.
 **Do not warn her.** No foreshadowing, no significant pause, no NPC saying *are
 you sure*. She is the person in this city best equipped to see what it costs.
 Let her see it or not.
+
+---
+
+**AS AN NPC.** The fuse still has to be lit by somebody, and with Kag as an NPC
+the person Nus asks is **whoever in the party has been treating him as a
+professional**. If nobody has, he asks Kag — and she will answer honestly, which
+is that it can be done and that he will not survive having done it, and then she
+will tell the party she said so. She does not stop him. She is not his mother
+and she has never once been asked to be anybody's conscience.

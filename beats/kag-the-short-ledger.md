@@ -44,3 +44,13 @@ carry it back to Crowbill as a number, which is not what muscle is for.
 **Do not resolve which.** The point of the opening is that she is the only
 person in this organisation who can see it, and that seeing it is her job in a
 way nobody has ever said out loud.
+
+---
+
+**AS AN NPC.** This fires whether anybody is watching or not, and it is where
+Kag's whole track starts. If a PC is anywhere on the Shoals that morning, the
+scene is a very large half-orc at a rope stall doing sums out loud and arguing
+with a man about eleven shillings, and she will explain the whole of it to
+anybody who asks — because the explanation is an accusation and she wants it
+repeated. If nobody asks, she takes it to Crowbill and the party hears it third
+hand on `d-1` with the numbers wrong.

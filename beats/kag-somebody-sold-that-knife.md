@@ -46,3 +46,12 @@ the trade, with a witness who has no stake and no reason to lie.
 **And the cost:** a goldsmith who talks to Crowbill's about a di Teufel
 commission is a goldsmith who has just put himself in front of it. Whatever she
 promises him, she will be held to.
+
+---
+
+**AS AN NPC.** She gets to Orsk & Daughter on `d-1/dawn` by taking a charcoal
+rubbing of the pommel mark rather than lifting the knife — which means **the
+knife stays where it was dropped** and is still there for the party to find.
+Hild will not discuss the same mark with two sets of people without saying so,
+so whoever gets there second is told, plainly, that a big half-orc was here
+first. That is a door, not an obstacle: Hild liked her.

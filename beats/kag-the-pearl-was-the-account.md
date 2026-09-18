@@ -34,3 +34,13 @@ helpless girl beside the Lady's water. He has not said so to her yet.
 So the beat is a genuine conflict between the job she was given and the thing
 the job is going to be used to argue for, and she will have to decide how she
 presents her own figures. **Nobody will ever check them.**
+
+---
+
+**AS AN NPC.** The important half is not that she costs it. It is that she
+**refuses the answer her own arithmetic gives her** — settle with the Baron,
+because eleven houses shut costs more than the occupation — and says so to
+Crowbill in front of his people. Fire it offscreen and let the party find out
+from somebody else that Crowbill's counter argued him out of a settlement. If a
+PC is in the room, this is the scene that shows them she is not for hire in the
+way they assumed.
