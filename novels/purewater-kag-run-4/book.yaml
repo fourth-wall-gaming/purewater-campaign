@@ -2,40 +2,96 @@ title: The Short Ledger
 author: Fourth Wall Gaming
 slug: purewater-kag-run-4
 campaign_id: myth-campaign-f7af4bb667ac
-style: hemingway
+style: gully-burns
+art_style: cartoon-bw
 status: drafted
 high_water_mark: myth-event-03f2345b4e1f
 outline:
   - n: 1
+    pov: Kag
     title: The Short Ledger
     covers: "d-3 -- three accounts short on one bridge for one reason; costing it for Crowbill; the word thieves in front of forty people"
   - n: 2
+    pov: Pell
     title: Who Mended Her
-    covers: "d-2 -- the carving at the Sylph's; Pell sent with the right question; Gardwen"
+    covers: "d-2 -- the carving; a boy sent with the one question nobody else is asking; Gardwen"
   - n: 3
+    pov: Kag
     title: Twenty-Five Tents
-    covers: "d-2 -- the water butt, the Vantt, eleven of them cold; Tam and Pav taken off the Guild landing"
+    covers: "d-2 -- the water butt, the Vantt, eleven of them cold; Tam and the Mendick boy off the Guild landing"
   - n: 4
+    pov: Marisette
     title: The Mother of Pearl
-    covers: "d-2 dusk -- Marisette; seen through; a Sword of the Lake out of a cellar; the rubbing and the grate"
+    covers: "d-2 dusk -- a half-orc who wants nothing; a Sword of the Lake out of a cellar; the rubbing and the grate"
   - n: 5
+    pov: Kag
     title: The Fourth of June
-    covers: "d-1 -- Hild's chained book; the Pearl goes dark; 411 people; refusing the arithmetic; the presentation"
+    covers: "d-1 -- Hild's chained book; the Pearl goes dark; refusing the arithmetic; the presentation and a stolen brother"
   - n: 6
+    pov: Emmeralda
     title: A Letter in Her Own Hand
-    covers: "d0 -- the runner who cannot pole; the Butts at dawn; the eleventh sheet; Ila"
+    covers: "d0 -- ten spoiled sheets and an eleventh; the comb; and a thirteen-year-old in the doorway"
   - n: 7
+    pov: Ila
     title: The Landing
-    covers: "d0 -- Temerach holds it; the handoff; Blau's hand on a child's arm; a woman in the water"
+    covers: "d0 -- a basket of somebody else's washing, four thousand people, and a hand round her arm"
   - n: 8
+    pov: Kag
     title: Nine Steps
-    covers: "d0 night -- the stair; one word; the linen room; Crowbill's price and the rewrite"
+    covers: "d0 night -- the stair; the linen room; he's about five foot nine; Crowbill's price and the rewrite"
   - n: 9
+    pov: Kag
     title: The Ice Run
-    covers: "d1 dawn -- the Lost Isle; the Lady's blessing; the chain with no clasp; Gardwen on the stern chains"
+    covers: "d1 dawn -- the Lost Isle; a city that stops working; the blessing and the chain with no clasp"
   - n: 10
+    pov: Gardwen
+    title: He Begs
+    covers: "d1 -- boots on a rock, six hours on the stern chains, and a name said every night"
+  - n: 11
+    pov: Blau
+    title: A Man Who Cannot Buy a Fish
+    covers: "d1 -- THE ENEMY'S CHAPTER. Eight watchers, ten sovereigns a dredger, six boats, and one line corrected"
+  - n: 12
+    pov: Kag
     title: An Itemised Bill
     covers: "d1 day -- Dess; Ossa Kyne; the knife still on the floor; Orsk's shed; the Oyster; the invoice"
-  - n: 11
+  - n: 13
+    pov: Kag
     title: Crowbill's Town
     covers: "d1 night -- the pier"
+illustrations:
+  - file: 01-the-bridge.png
+    chapter: 1
+    after_text: "You're thieves. Say thieves."
+    prompt_file: 01-the-bridge.txt
+    caption: "The Fishmarket bridge."
+  - file: 02-the-water-butt.png
+    chapter: 3
+    after_text: "Not four hundred."
+    prompt_file: 02-the-water-butt.txt
+    caption: "Eleven miles east, through a bung hole."
+  - file: 03-the-rubbing.png
+    chapter: 5
+    after_text: "The fourth came out clean."
+    prompt_file: 03-the-rubbing.txt
+    caption: "She did not pick it up."
+  - file: 04-the-eleventh-sheet.png
+    chapter: 6
+    after_text: "the first laugh in that room in four days"
+    prompt_file: 04-the-eleventh-sheet.txt
+    caption: "The eleventh sheet."
+  - file: 05-eight-seconds.png
+    chapter: 7
+    after_text: "Eight seconds. That was the whole of it. Eight seconds and a name."
+    prompt_file: 05-eight-seconds.txt
+    caption: "\"What's your name?\""
+  - file: 06-the-stern-chains.png
+    chapter: 10
+    after_text: "listened to her brother's body beg"
+    prompt_file: 06-the-stern-chains.txt
+    caption: "Under the counter."
+  - file: 07-the-ring.png
+    chapter: 13
+    after_text: "it came off the dead man's throat into her left hand"
+    prompt_file: 07-the-ring.txt
+    caption: "Three turns."

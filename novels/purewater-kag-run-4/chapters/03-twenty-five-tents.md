@@ -1,101 +1,99 @@
 # Chapter 3 — Twenty-Five Tents
 
-There are no roads in Purewater and there are no horses. The land stops at Caravan Square and everything past it goes on the water, and everything the city eats comes down the Anminster road to the Gate of Triumph and gets put in a boat.
+KAG WENT EAST UNDER A WATER BUTT, on her side, in the dark, with her knees up and her cheek on her own forearm, for two hours, because there is no other way to look at the Vantt estate and because everybody in Purewater had spent nine weeks repeating a number that not one single person had ever counted.
 
-The di Teufel company had four hundred men in it, or it was said to have four hundred men in it, and four hundred men and their horses cannot be in a canal city. So they were east, on the Vantt estate, on dry ground, and nobody from the city went out there and nobody from out there came in except in twos and threes.
+Four hundred men. That was the number. It had come down the Anminster road with the column and it had been in every mouth in the city ever since, and the extraordinary thing — the thing that had kept her awake on Tuesday night with the book open on her chest — was that it *couldn't* be checked. There are no roads in Purewater. The land stops dead at Caravan Square and everything past it goes on the water, and the Vantt estate was eleven miles east on dry ground where nobody from the city went and nobody from out there came in except in twos and threes to be unpleasant on a bridge.
 
-Kag went out under a water butt.
+So four hundred was not a fact. Four hundred was a rumour with armour on.
 
----
+Sim's barge ran produce east three mornings a week and had done since before Kag was born, and the butt was empty and on its side in the bow with sacking over it, and it had a gap at the bung end you could get an eye to. She got in at four. Sim put the sacking over and poled off and never once said anything about the weight, which is the whole of what you want in a man.
 
-The barge was Sim's and it ran produce east three mornings a week and it had run produce east three mornings a week since before Kag was born. The butt was empty and on its side in the bow with sacking over it and it had a gap at the bung end you could get an eye to.
-
-She got in at four and Sim put the sacking over and poled off and did not say anything about the weight.
-
-It took two hours. She lay on her side on the boards with her knees up and her cheek on her arm and watched a strip of sky go past, and when the sky went from grey to the other grey she knew they were out of the city.
+She watched a strip of sky go past for two hours, and when the sky went from one grey to another grey she knew they were out of the city.
 
 "Coming up on it," Sim said, to nobody, the way a man talks to a boat.
 
 ---
 
-What she could see through a bunghole was a strip about two feet high, and the barge went past the landing at a walking pace, and it took a little over four minutes.
+Through a bunghole you get about two feet of the world, and the barge went past the landing at a walking pace, and the whole of it took a little over four minutes.
 
-She counted tents.
-
-There were twenty-five. She counted them twice and got twenty-five both times and then the angle closed and she could not count any more.
+She counted tents. There were twenty-five. She counted them twice and got twenty-five both times and then the angle shut and there was nothing more to see.
 
 Eleven of them had no smoke.
 
-It was a cold morning and every fire in Purewater was lit and there was not a chimney on the Shoals that was not going, and eleven tents on that meadow had nothing coming off them at all. A tent with no fire on a cold morning is a tent with nobody in it.
+Now. It was a cold morning. Every chimney on the Shoals was going and every brazier in the Lullwater was lit, and Kag had spent her whole life on water in October and knew exactly what men do on a cold morning, which is burn something. Eleven tents on a frozen meadow with nothing coming off them at all is not eleven tents of hardy lads. It is eleven tents with nobody in them.
 
-She counted horses in the lines and got forty-one and was not sure of forty-one, so she wrote forty and a question mark.
+Forty-one horses in the lines, and she wasn't sure of forty-one, so she wrote forty and a question mark, which was the single most honest thing in the book.
 
-There were two wagons and one of them had a wheel off and had had the wheel off long enough for the grass to come up round the axle.
+Two wagons, one with a wheel off, and the grass had come up around the axle.
+
+She lay there with her cheek on her arm and did the sum while a man twelve feet away complained about bread.
+
+Fourteen tents live. Eight to a tent is generous for a tent. Ten is a lie. Call it a hundred and twelve and call it a hundred and forty if you're being kind to them, and forty-one horses is a horse for every third man, which is not cavalry, that's a company with some riders in it and a farrier who's bored out of his skull.
+
+Not four hundred.
+
+Nothing like four hundred. Not a third of it. The entire occupation of Purewater — the thing that had shut the gate tolls, emptied the bridges, put four hundred armed men in the mouths of forty thousand people and taken sixty feet of best line off a rope-seller with no chit — was twenty-five tents, eleven of them cold, and a story.
+
+And she was the only person alive who knew it.
+
+That is a peculiar feeling to have while lying in a barrel.
 
 ---
 
-Sim tied at the estate landing and unloaded for an hour and Kag lay in the butt and listened.
-
-Two of them came down to the landing while the sacks were going off. They were soldiers and they were talking about bread.
+The two soldiers came down to the landing while the sacks were going off, and they were talking about bread, and Kag lay six feet from them with her eye at a hole and listened to the softest joint in the whole business come apart in front of her.
 
 "He says Thursday."
 
-"He said Thursday last Thursday."
+"He said Thursday *last* Thursday."
 
-"Then it's Thursday."
+"Then it's Thursday, isn't it."
 
-"There's no flour out here and there's flour eleven miles that way and no bugger will sell it to us."
+"There's no flour out here and there's flour eleven mile that way and not one bugger will sell it to us."
 
 "They'll sell it to you."
 
-"They will not. I stood in the Fishmarket for an hour on Monday with money in my hand."
+"They will *not*." A boot went into the turf. "I stood in the Fishmarket an hour on Monday with money in my hand like a prick."
 
-They went away up the path. Somebody was hammering at the far end and stopped and started again.
+They went off up the path. Somebody was hammering at the far end and stopped and started again.
 
-Kag lay with her cheek on her arm and did the sum.
+*That*, thought Kag, with the absolute clarity that comes to a person at six in the morning in a barrel, *is a man who came down a road into a city that doesn't have any, and now cannot feed himself without hiring us to do it.*
 
-Twenty-five tents. Eleven of them cold. Call it fourteen tents live and call it eight men to a tent, which is generous for a tent, and you have a hundred and twelve. Call it ten to a tent and you have a hundred and forty. Forty-one horses, which is a horse for every third man and not a horse for every man, so it is not cavalry, it is a company with some riders in it.
-
-Not four hundred. Nothing like four hundred.
-
-Four hundred was a thing that had been said in the city and repeated in the city and nobody in the city had ever counted, because there was no way to count it, because there are no roads and nobody goes east.
-
-The whole occupation was twenty-five tents and a story.
+Outsiders can't handle a boat. Everybody in Purewater knew it and nobody ever said it, because saying it was like announcing that water was wet. Every child on those canals could pole before they could read. And the corollary — the thing that had been sitting in plain sight for nine weeks with a bow on it — was that Baron Hanzo di Teufel could not move a sack of flour across his own occupied city without paying a local to do it for him.
 
 ---
 
-Coming back she heard the other thing.
+She found out on the way back what he did about that, and it stopped being funny.
 
-Sim brought the barge in at the Guild landing at ten and there were three watermen on the stones and they were not working.
+Sim brought the barge in at the Guild landing at ten and there were three watermen on the stones not working, which on a Thursday morning meant something had happened.
 
-"Four o'clock this morning," one of them said. "Off this landing. Tam and the Mendick boy."
+"Four o'clock," one of them said. "Off this landing. Tam and the Mendick boy."
 
-"Took where."
+"Took where?"
 
-"Took. Two of them come down and told them there was a fare and they got in and they've not come back, and Tam's wife has been on this landing since six."
+"*Took.* Two of them come down and said there was a fare, and they got in, and they've not come back, and Tam's wife has been stood on this landing since six."
 
-"Whose boat."
+"Whose boat?"
 
 "Theirs. The green."
 
-Kag came out from under the sacking and stood up in the bow and the three of them looked at her and none of them were surprised, because it had been a morning for things.
+Kag came out from under the sacking and stood up in the bow and none of the three looked surprised to see a half-orc unfold herself out of a water butt, because it had been that kind of morning.
 
-"What time exactly," she said.
+"What time, exactly?"
 
 "Four."
 
-"How do you know it was four."
+"How do you know it was four?"
 
-"Because the ice run goes out over the bar at four and Tam waved at it."
+"Because the ice run goes out over the bar at four every morning of the year and Tam waved at it."
 
-She wrote that down. *Tam. Mendick boy. Guild landing. 4 a.m. Green boat. Waved at the ice.*
+She wrote it down. *Tam. Mendick boy. Guild landing. Four. Green boat. Waved at the ice.*
 
-An hour before that, a man had come up this water soaked to the neck and poled east past two of the whiting boats in the dark, and one of the whiting men had said so to his wife and his wife had said it to the fish market, and by the time it got to Kag it was a ghost.
+An hour before that, a man had come up this water soaked to the neck and poled east past the whiting boats in the dark, and one of the whiting men had told his wife, and his wife had told the market, and by the time it reached Kag it had become a ghost, because that is what this city does with anything it doesn't understand by nine in the morning.
 
-Outsiders cannot handle a boat. That was the thing about this city that everybody in it knew and nobody ever said, because it was like saying that water was wet. Hanzo di Teufel had come down the Anminster road with a column, and the road had stopped at the gate, and from the gate onward every single thing he did had to be done by somebody local.
+She sat on the gunwale and looked at the empty place on the landing where the green boat should have been, and she thought about a man's wife standing on wet stone since six with nothing to do with her hands.
 
-So he had taken two.
+Twenty-five tents was a thing to sell.
 
-Kag sat down on the gunwale and looked at the green boat's empty place on the landing for a while.
+Two boatmen was a thing to answer for.
 
-Then she went to find out what Marisette knew.
+And Kag, who had been told very clearly by her own boss not to do anything about any of it, got up off the gunwale and went to find out what the Mother of Pearl knew.

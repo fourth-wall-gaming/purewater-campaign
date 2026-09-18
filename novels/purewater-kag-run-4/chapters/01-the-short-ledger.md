@@ -1,70 +1,56 @@
 # Chapter 1 — The Short Ledger
 
-The bridges of the Shoals paid on the third day of the week and they paid in the morning, before the catch was sorted and while the money was still loose on the trestles. Kag walked them in order, north to south, and she had walked them in that order for nine years.
+KAG HAD WALKED THE SHOALS BRIDGES ON THE THIRD MORNING OF EVERY WEEK FOR NINE YEARS, north to south, before the catch was sorted and while the money was still loose on the trestles, and in all that time not one person on those bridges had ever asked her opinion about anything. They asked her to move a barrel. They asked her, once, memorably, to frighten a man's brother-in-law, and she had done it by standing quietly in a doorway for about ninety seconds. They asked her for the time, because she was tall enough to see the temple clock over the roofline, and they asked her whether it was going to rain, because she was out in it more than they were.
 
-She was seven feet of her and the fish market moved around her without being asked to.
+Nobody had ever asked her what a thing cost.
 
-At the rope stall the man was eleven shillings short. His name was Dess and he sold cordage on the third pitch along and he had never been short before in four years.
+She was seven feet of half-orc in oiled leather with a club on her belt that she actually used, and the whole fish market moved around her without being asked to, and she had a quarter-bound octavo in her coat with five years of the Shoals written into it in her own hand. She had paid for the book herself. That was the part she'd never said out loud to anybody, and she didn't know why it mattered, and it did.
 
-"I'll have it Thursday," Dess said.
+The rope stall was eleven shillings short.
+
+"I'll have it Thursday," Dess said, and he wouldn't look up from the coil he was winding, and Dess had never been short in four years.
 
 "You'll have it Thursday."
 
 "I will."
 
-She wrote the eleven in the book and she wrote Thursday beside it and she went on to the next.
+She wrote the eleven and she wrote *Thursday* beside it and she went on down the bridge, and the ice woman was six shillings short, and two pitches along from her the man who dealt in cheap brass was nine.
 
-The next was short as well. Six shillings, off a woman who sold ice by the sack and had a boy to help her lift, and the boy was not there. Two pitches on from her a man who dealt in cheap brass was short by nine.
+Kag stopped in the middle of the bridge and got the book out again and stood there with the tide going out under her.
 
-Kag stopped in the middle of the bridge and got the book out again and stood there with it.
+Three in a row was not three people stealing. Three people stealing did not steal in a line.
 
-Three in a row was not three men stealing. Three men stealing did not steal in a line.
+---
 
-She went back to the ice woman.
+The ice woman's boy wasn't there. That was the first thread, and she pulled it, and the whole thing came off the reel in about four minutes the way a bad knot does once you find the right end.
 
-"Where's the boy."
+"They took the barrow," the woman said, and then looked at her hands, which is what people in that city did instead of crying in public. "Two of them, Monday. Wanted the ice for the horses and took the barrow to carry it and never brought the barrow back."
 
-"He's about."
-
-"He's not about. Where's the boy."
-
-The woman looked down the bridge and then she looked at her hands.
-
-"They took the barrow," she said. "Two of them, Monday. They wanted the ice for the horses and they took the barrow to carry it and they didn't bring the barrow back."
-
-"Did they pay."
+"Did they pay?"
 
 "They don't pay."
 
-"Did anybody give you a chit."
+"Did they leave you a chit?"
 
-"There's no chit. There's nobody to give a chit. You go and ask them for a chit."
+"There's no chit." The woman laughed at her, not unkindly, the way you laugh at a child asking where the moon goes. "There's nobody to *give* a chit. You go on down there and ask them for a chit, love, and let me know how you get on."
 
-Kag went back to Dess.
+Dess had lost sixty feet of his best line off the end of the rack, four of them, Monday, no hurry about it. The brass man had lost nothing at all — he'd simply not been paid by three customers who had themselves not been paid, and that was the bit that made Kag's stomach go cold, because that was the thing spreading sideways.
 
-"Sixty feet," Dess said. "Off the end of the rack. Best line I had. Four of them and they didn't hurry."
+She sat down on the dry stone at the south end with her knees up and did the arithmetic properly.
 
-"Who'd you bill."
+Twenty-six shillings off one bridge in one week. Nine bridges on the Shoals and eleven on the Lullwater, and she had walked every one of them for nine years and knew what each of them paid in an ordinary month the way a farmer knows a field.
 
-Dess laughed. It was not much of a laugh and it stopped before it was finished.
+Eleven pounds by Michaelmas. More than that, in fact, and this was the part nobody upstairs was going to understand without being shown it: a man who cannot pay stops asking for credit, and a man who stops asking for credit stops buying stock, and a man who stops buying stock loses his pitch, and a lost pitch on a bridge in Purewater does not come back in a generation. It wasn't twenty-six shillings. It was a hole in the bottom of the boat, and everybody was bailing and nobody had looked down.
 
----
+It took her half a page. She used a fresh leaf because the sums wanted room.
 
-She did the arithmetic on the steps at the south end where the stone was dry.
-
-Eleven and six and nine was twenty-six shillings off one bridge in one week. There were nine bridges on the Shoals and eleven on the Lullwater and she had walked all of them and she knew what each one paid in an ordinary month.
-
-Twenty-six became eleven pounds by Michaelmas if nobody stopped it. It became more than that, because a man who cannot pay stops asking for credit, and a man who stops asking for credit stops buying, and then the stall goes and then the pitch goes.
-
-She wrote that down too. It took her half a page and she used a fresh leaf for it because the sums wanted room.
-
-A gull got into somebody's basket further up and there was shouting.
+Somewhere up the bridge a gull got into a basket and there was shouting and laughing and somebody threw a boot.
 
 ---
 
-Crowbill kept a counting room over a chandler's and he was in it and he had the shutters open.
+Crowbill kept a counting room over a chandler's on the Lullwater and he was in it with the shutters open, and he read the page standing up, all the way to the bottom, and said nothing at all while he read it and nothing at all for a while afterwards.
 
-He read the page standing up. He read all of it, to the bottom, and he did not say anything while he was reading and he did not say anything for a while after.
+That silence was the single most nerve-racking thing that had ever happened to Kag, and she had once been hit in the head with a grappling hook.
 
 "Twenty-six," he said.
 
@@ -74,62 +60,66 @@ He read the page standing up. He read all of it, to the bottom, and he did not s
 
 "No."
 
-"Say it, then."
+"Say it, then. Out loud, in this room, so I've heard you say it."
 
-"They're not short because they're keeping it," Kag said. "They're short because there's four hundred armed men in this city taking what they like off the stalls, and there's nobody in the whole household to present a bill to, and every man on that bridge has worked that out and none of them have said it out loud."
+And here is the thing about being asked: she had been rehearsing this on the ferry and she had a whole speech, four sentences of careful hedging with an exit built into every one of them, and when the moment came she threw all of it in the canal.
+
+"They're not short because they're keeping it," Kag said. "They're short because there's four hundred armed men in this city helping themselves off the trestles, and there isn't one single person in that entire household you can present a bill to, and every trader on that bridge has worked that out for themselves and not one of them has said it out loud. They're not being robbed. They're being *asked*. And asked by men with swords is the same as robbed except you can't even have the grievance."
 
 Crowbill turned the page over and looked at the back of it, which was blank, and turned it again.
 
-"Nine weeks," he said. "Nine weeks they've been here and not one bill."
+"Nine weeks," he said, "and not one bill."
 
 "Not one."
 
-"Who have you told."
+"Who else have you told?"
 
 "You."
 
-He put the page down on the ledge by the shutter and put a stone on it, out of a habit he had from when the shutters were open and the wind came up off the Mouth.
+He put the page down on the ledge by the shutter and set a stone on it out of an old habit from when the wind came up off the Mouth, and then he looked at her for a moment in a way that nobody had ever looked at her, which was thoughtfully.
 
-"Cost it by the day," he said. "The whole city, not your bridges. I'll want it by Friday."
+"Cost it by the day," he said. "The whole city, not your bridges. By Friday."
 
 "You've got two men who do that."
 
-"I've got two men who count. That's not the same thing and you know it's not, and that's why I'm asking you and not them."
+"I've got two men who *count*. That is not the same thing and you have known it wasn't since you were about fifteen, and it is why I am asking you and not them."
 
-She did not say anything.
+She went down the stairs with her ears hot.
 
-"Go on," Crowbill said. "And Kag. Don't do anything about it."
+"Kag." He didn't come to the door. "Don't do anything about it."
 
 ---
 
-She did something about it at four in the afternoon.
+She did something about it at four in the afternoon, and in her defence she had genuinely not planned to.
 
-There were four of them at the Fishmarket end and they were taking fish. Not buying it and not asking for it. One of them had a sack and the other three stood in a line across the width of the bridge so that the traffic had to go round, which on a bridge means it does not go at all.
+There were four of them at the Fishmarket end in di Teufel green, young, bored, and standing in a line across the width of the bridge in that way soldiers stand when they have not worked out that a bridge is a road. One of them had a sack. The sack was going in, and the fish was going in the sack, and Mother Kessel, who bought that fish at three in the morning off a boat that wanted cash and had four children and a husband with one lung, was saying absolutely nothing.
 
-They were in di Teufel green and they were young and they were bored.
+That was the part. Forty people on that bridge and the only sound in the world was the sack.
 
-The woman whose fish it was said nothing. Forty people said nothing. That was the part of it Kag would remember afterwards, that there were forty people on that bridge and the only sound was the sack.
+It is never wise to be the only one talking.
 
 "That's stealing," Kag said.
 
-The one with the sack looked up.
+The one with the sack looked up. "*What?*"
 
-"What."
-
-"What you're doing. There's a word for it and the word is stealing. You take a thing and you don't pay and you don't leave a chit and there's nobody to bill. That's not requisition. Requisition has paper."
+"What you're doing. There's a word for it and the word's stealing. You take a thing, you don't pay, you leave no chit, and there's nobody in your whole outfit a woman can bill. That's not requisition. Requisition has paper."
 
 "Get out of the road."
 
-"She's got four children and she buys that fish at three in the morning off a boat that wants cash," Kag said. "And you'll eat it tonight and you'll not think about it again, and that's fine, that's soldiering. But don't call it anything else. You're thieves."
+"She buys that at three in the morning with cash she hasn't got," Kag said, and she was aware, distantly, of the entire bridge having stopped, and of her own voice being extremely loud and extremely calm, "and you'll eat it tonight and never think of it again, and honestly, fine, that's soldiering, that's what soldiers are. But don't stand there and call it something else. You're thieves. Say thieves."
 
 Nobody moved.
 
-The young one with the sack went red in the neck and started to say something and the oldest of the four put a hand flat on his chest without looking at him.
+The young one with the sack went red from the collar up and started to say something, and the oldest of the four — a career man, thirty-five, tired — put a hand flat on his chest without looking at him.
 
-"Move along, then," the oldest one said.
+"Move along, then," the oldest one said, and there was something in it that was almost gratitude.
 
-Kag moved along. She went up the steps at the south end and she did not hurry and she did not look back, and behind her the bridge stayed quiet for about four seconds and then all forty of them started talking at once.
+Kag moved along. She went up the south steps without hurrying and without looking back, and behind her the bridge stayed silent for four whole seconds.
 
-She was on the third step when she heard the laugh come.
+Then forty people started talking at once, and somebody laughed, and the laugh went up the bridge and off it and into the lanes like a fire in a rope yard.
 
-By dusk it had got to the Lullwater. By the next morning she had been eight feet tall in it and there had been six of them.
+By dusk it was on the Lullwater. By the next morning she had been eight feet tall and there had been six of them and she had thrown one in the canal.
+
+She hadn't thrown anybody in the canal. She had, however, been asked a question and answered it, and the answer had been repeated by four hundred people before breakfast, and that had never once happened to her in thirty years.
+
+She should probably have felt worse about that than she did.

@@ -1,104 +1,74 @@
 # Chapter 6 — A Letter in Her Own Hand
 
-The chandler rendered tallow under Kag's room and the smell came up through the boards, and under it the Shoals had been awake since three. Winches. A man counting ice in Ostish. Gulls going at something on the roof opposite.
+EMMERALDA HAD BEEN WANTED BY EVERYBODY FOR FIFTEEN YEARS and asked what she wanted by almost nobody, and the great private joke of her life — the one she had never told a soul, not the girls, not Constantine, certainly not any of the men who wrote her poetry — was that she had been counting. Not money. Years. She had decided at twenty-two that she would give it until she was thirty-eight and then she would stop, and go somewhere with water and no lamps, and feed cats, and never again be the most interesting thing in a room.
 
-Pell sat on the end of the bed with his hands in the seam of her boot where the stitching had gone.
+She had two years left on that count when a nineteen-year-old opened her from the collarbone to the hip with a barbed knife because she had laughed at him.
 
-She told him what the day was and he stopped at the word.
-
-"Bamboozle."
-
-"Bamboozle."
-
-He liked it. Then he let go of the boot.
-
-"He can't pole," Pell said.
-
-"Who can't."
-
-"Blau's lad. The one that runs to the ship. He goes all the way round by the Fishmarket and the little humpback because there's no bridge at the ice-houses, and he won't get in a boat with anybody." Pell was pleased. "Near an hour each way. Twice before noon."
-
-"How do you lose him."
-
-"Ice. They break it into the channel at the humpback and it sets across when the tide's slack, and a boy who won't get in a boat stands and looks at it." He wiped his nose. "Or Mother Ives is out of the hot ones. Then he's off to the Fishmarket and that's another quarter hour of his life."
-
-Kag put her boots on.
-
-"He's not been going to the ship," Pell said.
-
-"Say that again."
-
-"Two runs to the Long Butts yesterday and one out to the Vantt. They're dressing the box. Gerda's boy carried the chairs out and got a copper for it, and he says there's six."
+On the Thursday morning she had been awake since six, and she had spoiled ten sheets of paper.
 
 ---
 
-The Long Butts before sunrise was two hundred paces of nothing.
+The trouble was not the words. The trouble was that every version she wrote was a version of herself, and she had been performing versions of herself for fifteen years, and she could do the frightened one and the yearning one and the sly one in her sleep — and every single one of them read, when she looked at it in the grey light with her ruined hair hanging in her eyes, like a woman writing a love letter to the man who had cut her.
 
-Rope. Pegs. A man walking the line barefoot with a bucket of whitening, swearing at the wind. The wind came off the open water across the range instead of along it and it had been doing that since before light and it was the only thing anybody said all morning.
+Which it was. That was the point. That was precisely and exactly the point, and knowing it did not help at all.
 
-The stands were half built with the carpenters still on them. At the near end the Governor's box was dressed in green already. The one going up beside it was black, two men on a trestle, six chairs stacked on the grass waiting to go in.
+Sheet six had got as far as *my dear*.
 
-Behind everything, the slope. And where the slope ran out at the west end, the landing. One stone quay, nine steps, a bollard line, four skiffs tied and dripping.
+Sheet nine had two words on it.
 
-It was the only way off that shore onto the water.
+Gardwen sat on the boards beside the chair with her knees up and did not say anything for hours at a time, and the wolf lay across the landing, and the grey cat that had followed her home in the spring sat on the sill with its feet folded under it as though nothing whatsoever had happened, which was, if she was honest, the only company she could stand.
 
-By dusk two hundred people would want it at the same moment.
-
-Kag stood on the grass and looked at it for a while and Pell got up on a bollard to see further and held his shirt down with both hands.
+Then the door went, and the half-orc came in.
 
 ---
 
-Marisette had the comb out already.
+She was enormous and she stood too far inside the room the way big people do when they are trying not to loom and are therefore looming in a new place, and she put a silver hair-comb down on the table beside the inkwell.
 
-It was in a lacquer dish on a low table in her own room with the window open onto the water, and it had been there long enough to have dust on the teeth. Silver. A hair-comb.
+His comb. Dusty in the teeth from wherever Marisette had been keeping it.
 
-She turned the dish a quarter turn so it faced Kag and left it on the table.
+Emmeralda stopped writing and looked at it.
 
-"I took that out of her things on Wednesday." A breath. "It's yours. The paper isn't mine to give."
+There was nothing on her head any more to put it in. She had done that herself on Tuesday with a kitchen knife, sitting on this floor, and she had no memory at all of deciding to.
 
-Down on the quay a man was mending a rail and stopped hammering and started again.
+She looked at the comb anyway, for considerably longer than it took.
 
-"She's awake and she's upstairs at Constantine's with the elf-girl who won't leave the room. Ask her yourself." Marisette settled her hands in her lap. "I don't send a girl of mine to write that."
+Then she pulled the coat closed at her throat with one hand and went back to the page, because if she looked at it one second more she was going to do something with it that she would have to explain.
 
----
+"He'll want to know I kept it hidden from Constantine," she said. "That's the part he'll like."
 
-The third floor at Constantine's had both windows open and it was cold. It smelled of the river and of something green and bitter that had been boiled and left. There was a grey cat on the sill with its feet folded under it.
-
-Emmeralda was at a writing table with her back to the window, in somebody's big wool coat over her shift. Her hair was off at the jaw. Hacked, not cut. Where the shift opened at the throat there was the top inch of a line, closed now, pink, and perfectly straight.
-
-Gardwen sat on the boards beside the chair with her knees up.
-
-There were eleven sheets on the table. Ten were spoiled, some after two words. She was four lines into the eleventh and she did not stop writing when Kag came in.
-
-"Have you brought his comb."
-
-Kag put it down beside the inkwell.
-
-Emmeralda stopped and looked at it. There was nothing on her head to put it in. She looked at it anyway, for longer than it took.
-
-Then she pulled the coat closed at her throat with one hand and went back to the page.
-
-"He'll want to know I kept it hidden from Constantine." The pen went into the ink. "That's the part he'll like."
-
-She turned the sheet a quarter so Kag could see what was on it.
+And then, because she had nothing left and this woman had at least brought the thing instead of sending it:
 
 "Tell me something I can write that only he knows."
 
-"I can't help you there," Kag said.
+---
 
-Emmeralda waited.
+"I can't help you there," the half-orc said.
 
-"If you want something off me it'll be numbers of people crossing bridges, or what a house takes in a night off one room." Kag turned her hands over. "You're the only person alive who knows the man. I do need the letter soon. We've got the whole of it to set up."
+Emmeralda waited, because waiting was a professional skill and she had eighteen years of it.
 
-Emmeralda made a sound that was nearly a laugh, and it was the first one in that room in four days.
+"If you want something off me it'll be numbers of people crossing bridges," Kag said, "or what a house takes in a night off one room, or what a boat of Anminster wool is worth at the Guild landing on a Tuesday against a Friday. That's what I've got." A shrug of enormous shoulders. "You're the only person alive who knows the man. I do need the letter soon, mind. There's the whole of it to set up."
 
-"Bridges," she said. The pen was already moving. "All right, then."
+And Emmeralda laughed.
 
-After that she wrote fast and did not stop, and the paper kept trying to lift in the draught until Gardwen got up without a word and pulled the far window down to a hand's width.
+It came out of her before she could stop it and it was a horrible, cracked, unused sound, and it was the first laugh in that room in four days, and Gardwen's head came up off her knees at the sound of it.
+
+*Bridges.*
+
+Of course. Of *course*. She had been sitting here since six o'clock trying to write herself, and what was actually wanted was a piece of work — a thing with a job to do, costed, delivered, the way you would order rope.
+
+"Bridges," she said. "All right, then."
+
+After that she wrote fast and did not stop, and the paper kept trying to lift off the table in the draught until Gardwen got up without a word and pulled the far window down to a hand's width and sat back down again.
 
 Four lines. Six. She turned it over and did three more on the back.
 
-"He told me I'd be out of this house inside a year, and I laughed at him." She blotted it with the heel of her hand rather than wait for sand. "I've put that he was right. That I shouldn't have laughed. That I can get out for an hour after the bell tonight and I'm frightened of Constantine."
+What she put in it was this, and she gave it to the half-orc plainly, because there was no version of saying it that improved with softening:
+
+"He told me I'd be out of this house inside a year, and I laughed at him." She blotted it with the heel of her hand rather than wait for sand, because she was not going to sit in front of these two waiting for sand. "I've put that he was right. That I shouldn't have laughed. That I can get out for an hour after the bell tonight and that I'm frightened of Constantine."
+
+A beat.
+
+"Every word of that is true except the last one, and he'll believe the last one hardest, because it's the one that makes him the rescue."
 
 She folded it twice and pressed the crease flat with her thumbnail and held it out, and the coat fell open at the throat and she did not bother with it that time.
 
@@ -106,15 +76,19 @@ She folded it twice and pressed the crease flat with her thumbnail and held it o
 
 ---
 
-Kag asked who had carried the ones before.
+The half-orc asked who had carried the others, and Emmeralda answered before she had finished hearing the question, which is how she knew she had been dreading it since dawn.
 
-"Ila," Emmeralda said. "Both times." The pen went down flat on the table. "And you're not having her."
+"Ila. Both times." The pen went down flat on the table. "And you're not having her."
 
-The window Gardwen had left at a hand's width whistled. Gardwen was not looking at Emmeralda any more. She was looking at the door.
+The window Gardwen had left at a hand's width whistled a little.
 
-Ila was in it. Thirteen, elven, thin as a rope, barefoot on cold boards, holding a jug of water somebody had sent her for.
+Gardwen was not looking at Emmeralda any more. Gardwen was looking at the door.
 
-"I took the first one in a basket of his own shirts, back to the barge landing," Ila said. "The second I gave to the boy in the green coat at the Fishmarket end, because he'd started coming that way."
+Ila was in it.
+
+Thirteen years old, elven, thin as a rope, barefoot on cold boards with a jug of water somebody had sent her for, and she had plainly been standing on that landing with the wolf for some time.
+
+"I took the first one in a basket of his own shirts, back to the barge landing," Ila said, with no particular weight on any of it. "The second I gave to the boy in the green coat at the Fishmarket end, because he'd started coming that way."
 
 She looked at the folded paper in Kag's hand.
 
@@ -122,12 +96,24 @@ She looked at the folded paper in Kag's hand.
 
 ---
 
-There was an argument after that and Kag did not win it and did not lose it either, and at the end of it Emmeralda came off the wall and took the comb out of Kag's hand before it got to the child.
+There was an argument after that and Emmeralda lost it, and she lost it because the child was right and because the half-orc did not once raise her voice and because Ila, who had no social reflexes at all and had never in her life softened anything for anybody, simply put her hand out and asked whether she was going.
 
-She wrapped it in one of the spoiled sheets, folded the ends over the way you wrap a fish, and put it into Ila's palm with the letter on top of it and closed the girl's fingers on both.
+Nobody had ever asked Ila for anything either. That was the whole trouble with this house. That was the whole trouble with the entire island, come to that, and Emmeralda had spent fifteen years not saying so.
+
+She got up. It took her longer than it should have and she did it without holding on to anything, because she was not going to hold on to anything in front of a child.
+
+And then she did the only thing left that was hers to do.
+
+She crossed the room and took the comb out of the half-orc's hand before it got to the girl, and wrapped it in one of the spoiled sheets, folding the ends over the way you wrap a fish, and put it into Ila's palm with the letter on top of it, and closed the child's fingers around both of them and held them shut.
 
 "Don't wait for him to read it."
 
-That was all of it. She went back to her chair and sat down, and she did that carefully too.
+That was the whole of it. Eighteen years of being the finest performer on the Pearl and that was the only useful thing she had ever had to teach anybody.
 
-Ila had already put the bundle inside her shift.
+She went back to her chair and sat down, and she did that carefully too.
+
+Ila had already put the bundle inside her shift and was gone down the stairs with her bare feet not making any sound at all, past a wolf who lifted her head and put it down again.
+
+Emmeralda picked up the pen, looked at the ten spoiled sheets, and began to tidy them into a stack, because her hands wanted something and there was nothing else on the table.
+
+She was still doing it when the light changed.
