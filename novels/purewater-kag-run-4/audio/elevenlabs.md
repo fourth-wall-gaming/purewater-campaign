@@ -193,7 +193,8 @@ is the warmest line in the first act.
 ## 3. Sound-effect prompts
 
 For ElevenLabs Sound Effects, as chapter stings or bed. Keep them sparse — the
-prose is doing the work and the book is not a radio play.
+prose is doing the work and the book is not a radio play. They should sit under
+the chapter opener and fade, the way the plates sit in the margin.
 
 - `Wet flat-bottomed wooden boat hull knocking once against stone steps, water slapping, distant gulls, outdoor night ambience`
 - `A crowded stone market bridge falling completely silent, forty people stopping at once, then a single sack of fish being dragged along wood`

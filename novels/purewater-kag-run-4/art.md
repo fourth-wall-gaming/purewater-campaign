@@ -1,53 +1,62 @@
-# Art-Style Card: Cartoon, Black and White
+# Art-Style Card: Ink Wash and Brush
 
-Bold brush-and-ink cartoon illustration in pure black and white. Cartoon in the
-sense of European album and newspaper-strip ink work — confident, economical,
-slightly caricatured — not childish and not a gag panel. (Prompts are
-self-contained: each one restates the style, because the image model never sees
-this card.)
+Monochrome brush drawing in diluted ink — tonal, atmospheric, and built out of
+value rather than line. The register is Rembrandt's brown-ink sketches and
+Japanese sumi-e rather than comics or engraving: a few loaded strokes, a lot of
+bare paper, and edges that dissolve where the light does. (Prompts are
+self-contained — each one restates the style, because the image model never
+sees this card.)
 
 ## Medium
-Hand-drawn brush-and-pen ink cartoon on white paper. Bold varying-weight brush
-contours, dry-brush edges where a stroke runs out. Not painterly, not
-photorealistic, not a 3D or CGI render, not pencil.
+Brush and diluted ink on damp rag paper. Visible brush-loading: a stroke that
+starts wet and heavy and ends dry and split. Wet-in-wet blooms and back-runs
+where two washes meet. Not pen work, not engraving, not comic inking, not
+pencil, not painterly oils, not a 3D or CGI render.
 
 ## Palette and value
-**Pure black and white only.** No colour of any kind. No grey wash and no
-airbrushing — value comes from spotted blacks, open white paper, and simple
-parallel hatching. Aim for large decisive black shapes against clean white,
-roughly a third of the image in solid black.
+**Monochrome only** — black ink and its dilutions, no colour anywhere. Full
+tonal range from bare paper to one area of near-solid black per image. Highlights
+are **reserved paper**, never white paint scratched back in. The eye should find
+the lightest thing first and it should almost always be a light source or water
+holding one.
 
 ## Line and texture
-Confident brush line that swells and tapers. Economical: fewer strokes than feel
-necessary. Hatching only where it does work — water, wet stone, night — and
-always in one direction per shape. Faces carry a little caricature in the nose,
-jaw and hands. Hands are drawn large and are always doing something.
+Line is incidental — it appears only where a brush edge happens to be sharp.
+Most contours are *tonal*: a shape is dark against light or light against dark,
+not outlined. Dry-brush for wet stone, rope, ice and weathered timber. Soft
+gradient for fog, breath, steam and lamp-haze. Detail concentrates in one small
+area — a pair of hands, a face, an object — and everything else is suggested and
+left alone.
 
 ## Composition
-Single clear subject in a strong silhouette, read at a glance from across a
-room. Landscape or squarish plate. Deep blacks in the foreground framing a
-lighter middle ground. Generous negative space. One light source, usually a
-lamp, low and off to one side.
+Landscape or squarish plate, generous margins, a lot of unworked paper. One
+figure or one small group, placed off-centre. Strong tonal separation into three
+depths: a dark near-silhouette framing the bottom or one side, a mid-tone where
+the subject is, and pale paper behind. Water occupies the lower third wherever
+the scene allows, and carries a broken reflection of whatever the light is.
 
 ## Subject canon
 Purewater, player-visible facts only:
-- **A canal city with no ground and no roads.** Buildings come straight out of
+- **A canal city with no ground and no roads.** Buildings rise straight out of
   the water. Doors open onto steps that go down under the surface. Movement is
   by flat-bottomed poled boat, by bridge, or along a narrow ledge with no rail.
-- **No horses anywhere in the city.** No carts, no cobbled streets.
+- **No horses anywhere in the city.** No carts, no cobbled streets, no wheels.
 - **Dress is pre-industrial working wear** — leather, wool, aprons, rolled
-  sleeves, bare feet on wet stone. Soldiers wear plain harness, no plate parade
-  armour.
-- **Half-orcs** are broad, tall, heavy-jawed people with small tusks. Human
+  sleeves, bare feet on wet stone. Soldiers in plain harness, never parade plate.
+- **Half-orcs** are broad, tall, heavy-jawed people with small tusks — human
   proportions, not monsters, not green.
 - **Elves** are slight and fine-boned with long ears. Not glowing, not winged.
+- Light sources are oil lamps, lanterns, firelight and the sky. Nothing else.
 
 ## Mood
-Nocturnal, working, wet. A crime story told in ink. Weather and water always
-present. People are tired and competent.
+Nocturnal, wet, and quiet. Weather is always present. The images should feel
+observed from a little way off by somebody who is fond of the place — closer to
+a travelling artist's sketchbook than to a book of illustrations.
 
 ## Never do
-No colour. No grey wash, no soft shading, no gradients, no lens or glow
-effects. No painterly or photoreal or 3D look. No engraving or woodcut texture.
-No text, captions, speech bubbles, signatures or logos in the image. No horses,
-carts, roads, firearms or modern objects. No cute or chibi proportions.
+No colour. No pen hatching or crosshatching as the primary texture. No
+engraving, woodcut or scraperboard look. No comic-style black outlines. No
+painterly impasto, no photoreal or 3D render, no lens flare or digital glow. No
+white gouache highlights — reserve the paper. No text, captions, speech bubbles,
+signatures, seals or logos in the image. No horses, carts, roads, wheels,
+firearms or modern objects.
