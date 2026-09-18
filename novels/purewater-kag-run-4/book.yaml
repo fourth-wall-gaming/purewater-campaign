@@ -1,7 +1,41 @@
-title: Purewater -- Kag (run 4)
+title: The Short Ledger
 author: Fourth Wall Gaming
 slug: purewater-kag-run-4
 campaign_id: myth-campaign-f7af4bb667ac
-style: null
-status: outline-pending
+style: hemingway
+status: drafted
 high_water_mark: myth-event-03f2345b4e1f
+outline:
+  - n: 1
+    title: The Short Ledger
+    covers: "d-3 -- three accounts short on one bridge for one reason; costing it for Crowbill; the word thieves in front of forty people"
+  - n: 2
+    title: Who Mended Her
+    covers: "d-2 -- the carving at the Sylph's; Pell sent with the right question; Gardwen"
+  - n: 3
+    title: Twenty-Five Tents
+    covers: "d-2 -- the water butt, the Vantt, eleven of them cold; Tam and Pav taken off the Guild landing"
+  - n: 4
+    title: The Mother of Pearl
+    covers: "d-2 dusk -- Marisette; seen through; a Sword of the Lake out of a cellar; the rubbing and the grate"
+  - n: 5
+    title: The Fourth of June
+    covers: "d-1 -- Hild's chained book; the Pearl goes dark; 411 people; refusing the arithmetic; the presentation"
+  - n: 6
+    title: A Letter in Her Own Hand
+    covers: "d0 -- the runner who cannot pole; the Butts at dawn; the eleventh sheet; Ila"
+  - n: 7
+    title: The Landing
+    covers: "d0 -- Temerach holds it; the handoff; Blau's hand on a child's arm; a woman in the water"
+  - n: 8
+    title: Nine Steps
+    covers: "d0 night -- the stair; one word; the linen room; Crowbill's price and the rewrite"
+  - n: 9
+    title: The Ice Run
+    covers: "d1 dawn -- the Lost Isle; the Lady's blessing; the chain with no clasp; Gardwen on the stern chains"
+  - n: 10
+    title: An Itemised Bill
+    covers: "d1 day -- Dess; Ossa Kyne; the knife still on the floor; Orsk's shed; the Oyster; the invoice"
+  - n: 11
+    title: Crowbill's Town
+    covers: "d1 night -- the pier"
