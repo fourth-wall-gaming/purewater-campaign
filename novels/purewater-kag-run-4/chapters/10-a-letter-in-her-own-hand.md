@@ -1,4 +1,4 @@
-# Chapter 6 — A Letter in Her Own Hand
+# Chapter 9 — A Letter in Her Own Hand
 
 EMMERALDA HAD BEEN WANTED BY EVERYBODY FOR FIFTEEN YEARS and asked what she wanted by almost nobody, and the great private joke of her life — the one she had never told a soul, not the girls, not Constantine, certainly not any of the men who wrote her poetry — was that she had been counting. Not money. Years. She had decided at twenty-two that she would give it until she was thirty-eight and then she would stop, and go somewhere with water and no lamps, and feed cats, and never again be the most interesting thing in a room.
 

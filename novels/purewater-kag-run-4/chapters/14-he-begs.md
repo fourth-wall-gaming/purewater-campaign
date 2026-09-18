@@ -1,4 +1,4 @@
-# Chapter 10 — He Begs
+# Chapter 13 — He Begs
 
 GARDWEN HAD BEEN IN THE TREES, and she had watched them take him, and she had not come out — and everything she had done in the ten years since had been an argument with that one night, conducted alone, in the open, in weather, against a version of herself who was nine years old and would not accept any of it.
 

@@ -1,4 +1,4 @@
-# Chapter 13 — Crowbill's Town
+# Chapter 16 — Crowbill's Town
 
 KAG STOOD ON HIGH ISLE'S SEAWARD PIER AT DUSK IN THE OPEN with a lamp beside her and six hundred sovereigns about to be counted into her hands, and the single strangest thing about the most dangerous evening of her life was that she was not hiding from anybody, because she was the contractor, and the contractor stands where the contractor stands.
 

@@ -159,7 +159,29 @@ the room he is in. No villain colour anywhere.
 round a pipe that does not come out for conversation. Very long pauses. Finds
 most people childish and does not hold it against them.
 
+### Hessa
+**Voice.** A woman of about fifty who has kept the tallies for the whole water
+since she was nineteen. Flat, fast, economical, and reads figures aloud the way
+other people read the weather. Never dramatic and never warm on the surface.
+She does not stop working while she talks, and the one time she stops — sits
+down, puts the pen down — the delivery should change so audibly that a listener
+sits up.
+
+### Tarrent
+**Voice.** A soldier of about thirty, unshaven, a long way from home and no
+longer impressed by anything. Loud, cheerful, genuinely likeable, and entirely
+unaware that he is the villain of the scene he is in. Delivers *"Sweetheart, if
+we had a quartermaster I'd have had a hot dinner in Anminster"* as a friendly
+joke at his own expense — because that is exactly what he thinks it is.
+
 ### Walk-ons
+**Sim** — a ferryman with a twenty-minute story and an audience; drops his voice
+for the good bit and knows he is doing it.
+**Rew** — sixty, a bad hip, tells you the exact size of what he will do and not
+one inch more.
+**Deller** — asks his question without anger, which is what makes it land.
+**Sabbe** — eighty, cheerful about the money, and *"you put it down right, girl"*
+is the warmest line in the first act.
 **Dess** — anxious, apologetic, rope-seller, talks too much when caught.
 **Sten** — a big careful man with his legs not working, grateful and awkward.
 **Mariarta** — exact, quiet, repeats a question back before answering it.
@@ -185,12 +207,12 @@ prose is doing the work and the book is not a radio play.
 
 ## 4. Production notes
 
-**One head per chapter.** Every chapter is close third from a single named
-character — Kag (1, 3, 5, 8, 9, 12, 13), Pell (2), Marisette (4), Emmeralda (6),
-Ila (7), Gardwen (10), Blau (11). The narrator should carry a touch of each
-POV's register: drier in Kag's, warmer in Pell's, cooler and more amused in
-Marisette's, and in chapter eleven she should be **fond of the villain**, which
-is the point of that chapter.
+**One head per chapter.** Seventeen chapters, six heads. Kag (1, 2, 4, 5, 6, 8,
+9, 12, 13, 16, 17), Hessa (3), Marisette (7), Emmeralda (10), Ila (11),
+Gardwen (14), Blau (15). The narrator should carry a touch of each POV's
+register: driest in Kag's, flattest and most precise in Hessa's, cooler and
+more amused in Marisette's — and in chapter fifteen she should be **fond of the
+villain**, which is the point of that chapter.
 
 **Chapter buttons.** Every chapter ends on a short flat line that usually
 reverses what came before. Full stop, one beat of silence, and out. Never lift

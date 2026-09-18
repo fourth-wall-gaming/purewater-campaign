@@ -1,4 +1,4 @@
-# Chapter 8 — Nine Steps
+# Chapter 11 — Nine Steps
 
 KAG HAD NEVER IN HER LIFE RUN ANYTHING, and standing at the top of the Lily Garden's back water-stair in the dark with a wet rope in her hand and six people's evenings arranged around a thing she had thought of on Tuesday, she discovered that the sensation was not power at all. It was closer to being very cold. Every part of it was somebody else's body. Tess on the fourth step in Emmeralda's grey. Hesper eight feet below in a boat with a rod propped up, pretending to fish, in a coat and a hat and a complete absence of anything describable. Deri and Fen on the stone at the top, forty feet apart, arguing quietly about a horse in the way of two married men who had been told to look bored and were overdoing it.
 

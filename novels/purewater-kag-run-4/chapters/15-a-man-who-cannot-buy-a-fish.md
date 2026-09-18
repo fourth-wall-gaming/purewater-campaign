@@ -1,4 +1,4 @@
-# Chapter 11 — A Man Who Cannot Buy a Fish
+# Chapter 14 — A Man Who Cannot Buy a Fish
 
 BLAU HAD NOT BEEN FRIGHTENED OF ANYTHING SINCE HE WAS NINETEEN YEARS OLD, and he understood perfectly well that this was not courage — courage is a thing that costs you something every time you spend it — but an absence, burned out of him along with most of the left side of his face in a farmhouse that no longer existed, in a war that nobody in Purewater had ever heard of, on an afternoon he had stopped being able to remember the smell of about a decade ago and which he did not miss.
 

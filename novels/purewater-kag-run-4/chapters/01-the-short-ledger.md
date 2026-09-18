@@ -1,125 +1,171 @@
 # Chapter 1 — The Short Ledger
 
-KAG HAD WALKED THE SHOALS BRIDGES ON THE THIRD MORNING OF EVERY WEEK FOR NINE YEARS, north to south, before the catch was sorted and while the money was still loose on the trestles, and in all that time not one person on those bridges had ever asked her opinion about anything. They asked her to move a barrel. They asked her, once, memorably, to frighten a man's brother-in-law, and she had done it by standing quietly in a doorway for about ninety seconds. They asked her for the time, because she was tall enough to see the temple clock over the roofline, and they asked her whether it was going to rain, because she was out in it more than they were.
+KAG HAD MADE THE SHOALS ROUND EVERY WEEK FOR FOUR YEARS, eleven calls between the ice-house and the smugglers' jetties, and she could have done the whole of it asleep and on two occasions very nearly had — and the thing nobody ever understood about that round, including the man who paid her for it, was that it was not frightening anybody. It was a conversation with eleven people about money, conducted at dawn, in the cold, with a book.
 
-Nobody had ever asked her what a thing cost.
+Nobody on that peninsula was afraid of her. That is what four years buys. They saw eight feet of her coming up the jetty and they got the box out from under the counter and then they talked about the weather.
 
-She was seven feet of half-orc in oiled leather with a club on her belt that she actually used, and the whole fish market moved around her without being asked to, and she had a quarter-bound octavo in her coat with five years of the Shoals written into it in her own hand. She had paid for the book herself. That was the part she'd never said out loud to anybody, and she didn't know why it mattered, and it did.
+Marn at the ice-house had it counted out before she was through the door and asked after her knee. The two Tolliver brothers tried the same joke they had been trying since spring and laughed at it themselves. The woman who smoked eels gave her a fish, as she did every single week and had never once been asked to, and it went in her coat and it would be breakfast.
 
-The rope stall was eleven shillings short.
+Eight of them were ordinary.
 
-"I'll have it Thursday," Dess said, and he wouldn't look up from the coil he was winding, and Dess had never been short in four years.
-
-"You'll have it Thursday."
-
-"I will."
-
-She wrote the eleven and she wrote *Thursday* beside it and she went on down the bridge, and the ice woman was six shillings short, and two pitches along from her the man who dealt in cheap brass was nine.
-
-Kag stopped in the middle of the bridge and got the book out again and stood there with the tide going out under her.
-
-Three in a row was not three people stealing. Three people stealing did not steal in a line.
+Three of them were short.
 
 ---
 
-The ice woman's boy wasn't there. That was the first thread, and she pulled it, and the whole thing came off the reel in about four minutes the way a bad knot does once you find the right end.
+Not light. Not fiddled. *Short* — with the money not there and said to her face, which nobody ever does, because the entire point of the arrangement is that nobody should have to.
 
-"They took the barrow," the woman said, and then looked at her hands, which is what people in that city did instead of crying in public. "Two of them, Monday. Wanted the ice for the horses and took the barrow to carry it and never brought the barrow back."
+Deller at the net-loft, who had never been a copper out in nine years, had a quarter of it and put both hands flat on the bench when he said so.
 
-"Did they pay?"
+The tally-clerk on the middle jetty had none at all and did not look away.
 
-"They don't pay."
+And old Sabbe, who sold ice off the third stair and was eighty if she was a day, said it perfectly cheerfully, the way you'd mention rain.
 
-"Did they leave you a chit?"
+All three of them on or under the Fishmarket bridge.
 
-"There's no chit." The woman laughed at her, not unkindly, the way you laugh at a child asking where the moon goes. "There's nobody to *give* a chit. You go on down there and ask them for a chit, love, and let me know how you get on."
+And all three of them, once they had said it, said something else — not as an excuse, more as a thing they would genuinely have liked her opinion on, and Deller put it shortest.
 
-Dess had lost sixty feet of his best line off the end of the rack, four of them, Monday, no hurry about it. The brass man had lost nothing at all — he'd simply not been paid by three customers who had themselves not been paid, and that was the bit that made Kag's stomach go cold, because that was the thing spreading sideways.
+"Two of them stood on that bridge Tuesday and took a barrel off my boy. Off him, out of his hands, on the bridge, at eleven in the morning."
 
-She sat down on the dry stone at the south end with her knees up and did the arithmetic properly.
+He was not angry. That was the strange part.
 
-Twenty-six shillings off one bridge in one week. Nine bridges on the Shoals and eleven on the Lullwater, and she had walked every one of them for nine years and knew what each of them paid in an ordinary month the way a farmer knows a field.
+"Nobody made them pay for that, Kag. So what am I paying for?"
 
-Eleven pounds by Michaelmas. More than that, in fact, and this was the part nobody upstairs was going to understand without being shown it: a man who cannot pay stops asking for credit, and a man who stops asking for credit stops buying stock, and a man who stops buying stock loses his pitch, and a lost pitch on a bridge in Purewater does not come back in a generation. It wasn't twenty-six shillings. It was a hole in the bottom of the boat, and everybody was bailing and nobody had looked down.
+There is no good answer to that question and Kag had four years of watching a man not give one.
 
-It took her half a page. She used a fresh leaf because the sums wanted room.
+"Let's make it up next time, yeah?"
 
-Somewhere up the bridge a gull got into a basket and there was shouting and laughing and somebody threw a boot.
+Deller let out a breath he had been holding since he saw her coming up the jetty, and said *yeah, yeah, all right*, and watched her get the book out, and watched her write — and something in his shoulders came down. Not because the debt had gone anywhere, because it hadn't. Because it was *written*, and a thing written in Kag's book was a thing that was going to be dealt with properly by somebody who could count.
 
----
+> *Deller, net-loft. 3/4 short. Carried. Barrel taken off the boy on the Fishmarket bridge, Tues, abt 11. Asking what he pays for.*
 
-Crowbill kept a counting room over a chandler's on the Lullwater and he was in it with the shutters open, and he read the page standing up, all the way to the bottom, and said nothing at all while he read it and nothing at all for a while afterwards.
+Same entry for the tally-clerk. Same for Sabbe, and Sabbe watched her write it with her chin up and said, "You put it down right, girl," which from Sabbe was a declaration of love.
 
-That silence was the single most nerve-racking thing that had ever happened to Kag, and she had once been hit in the head with a grappling hook.
-
-"Twenty-six," he said.
-
-"Off one bridge. This week."
-
-"It's not skimming."
-
-"No."
-
-"Say it, then. Out loud, in this room, so I've heard you say it."
-
-And here is the thing about being asked: she had been rehearsing this on the ferry and she had a whole speech, four sentences of careful hedging with an exit built into every one of them, and when the moment came she threw all of it in the canal.
-
-"They're not short because they're keeping it," Kag said. "They're short because there's four hundred armed men in this city helping themselves off the trestles, and there isn't one single person in that entire household you can present a bill to, and every trader on that bridge has worked that out for themselves and not one of them has said it out loud. They're not being robbed. They're being *asked*. And asked by men with swords is the same as robbed except you can't even have the grievance."
-
-Crowbill turned the page over and looked at the back of it, which was blank, and turned it again.
-
-"Nine weeks," he said, "and not one bill."
-
-"Not one."
-
-"Who else have you told?"
-
-"You."
-
-He put the page down on the ledge by the shutter and set a stone on it out of an old habit from when the wind came up off the Mouth, and then he looked at her for a moment in a way that nobody had ever looked at her, which was thoughtfully.
-
-"Cost it by the day," he said. "The whole city, not your bridges. By Friday."
-
-"You've got two men who do that."
-
-"I've got two men who *count*. That is not the same thing and you have known it wasn't since you were about fifteen, and it is why I am asking you and not them."
-
-She went down the stairs with her ears hot.
-
-"Kag." He didn't come to the door. "Don't do anything about it."
+Three entries. Same bridge. Same week.
 
 ---
 
-She did something about it at four in the afternoon, and in her defence she had genuinely not planned to.
+The Fishmarket bridge is a hump of stone over the cut, wide enough for four abreast, and at that hour it should have been solid with handcarts going to the market on the far side.
 
-There were four of them at the Fishmarket end in di Teufel green, young, bored, and standing in a line across the width of the bridge in that way soldiers stand when they have not worked out that a bridge is a road. One of them had a sack. The sack was going in, and the fish was going in the sack, and Mother Kessel, who bought that fish at three in the morning off a boat that wanted cash and had four children and a husband with one lung, was saying absolutely nothing.
+It was not, because there were two men standing on the crown of it.
 
-That was the part. Forty people on that bridge and the only sound in the world was the sack.
+Dragon-blazoned harness, good kit, cloaks against the damp. Not doing anything. One of them had his back to the traffic and was eating something.
 
-It is never wise to be the only one talking.
+And the whole morning's trade was going round them in single file, hard against the parapet — carts tipped up on one wheel, fish carried at shoulder height, a boy with a tray of ice turning sideways and shuffling — and nobody was saying one word about it.
 
-"That's stealing," Kag said.
+She could hear them from the bottom of the steps, which the people squeezing past probably could not. One of them was telling the other a long story about a woman in Anminster, and he was not lowering his voice, because it had not occurred to him that there was any reason on earth to.
 
-The one with the sack looked up. "*What?*"
+Kag went up the bridge, friendly like.
 
-"What you're doing. There's a word for it and the word's stealing. You take a thing, you don't pay, you leave no chit, and there's nobody in your whole outfit a woman can bill. That's not requisition. Requisition has paper."
+"Ullo then lads. How are you on this fine morning?"
 
-"Get out of the road."
+---
 
-"She buys that at three in the morning with cash she hasn't got," Kag said, and she was aware, distantly, of the entire bridge having stopped, and of her own voice being extremely loud and extremely calm, "and you'll eat it tonight and never think of it again, and honestly, fine, that's soldiering, that's what soldiers are. But don't stand there and call it something else. You're thieves. Say thieves."
+The storyteller stopped mid-sentence, and not because of anything she had done. Eight feet of half-orc had come up a bridge at him out of a fish market at dawn, and he had had a week of carters looking at their boots, and this was the most interesting thing that had happened since Anminster.
 
-Nobody moved.
+"*Morning*," he said, and he said it delightedly, and he meant it. About thirty, unshaven, with the easy manner of a man who had been a soldier a long time and was no longer very impressed by anything. "God's teeth. What do they feed you?"
 
-The young one with the sack went red from the collar up and started to say something, and the oldest of the four — a career man, thirty-five, tired — put a hand flat on his chest without looking at him.
+He was grinning. It was not a sneer. It was a man enjoying himself.
 
-"Move along, then," the oldest one said, and there was something in it that was almost gratitude.
+The other one was younger, and had not said anything, and had his hand on his belt near the hilt, and it had gone there fast and had not come away again.
 
-Kag moved along. She went up the south steps without hurrying and without looking back, and behind her the bridge stayed silent for four whole seconds.
+"You're not the fella that carries the ice," the storyteller said. "Is there a *tribe* of you?" A beat, and then, entirely without malice, in exactly the tone you'd use about the weather: "Here — you understand me all right, do you?"
 
-Then forty people started talking at once, and somebody laughed, and the laugh went up the bridge and off it and into the lanes like a fire in a rope yard.
+"They feed me fish."
 
-By dusk it was on the Lullwater. By the next morning she had been eight feet tall and there had been six of them and she had thrown one in the canal.
+She had one in her coat, as it happened.
 
-She hadn't thrown anybody in the canal. She had, however, been asked a question and answered it, and the answer had been repeated by four hundred people before breakfast, and that had never once happened to her in thirty years.
+"Listen — I've work to do on the other side of this bridge and this is taking a little too long. So if you don't mind I'll hop on through and then I'll be back in a little while." She let that sit. "Just thought I'd, y'know, ask nicely."
 
-She should probably have felt worse about that than she did.
+And the storyteller laughed — a real one, out of the belly — and stepped sideways without any ceremony at all.
+
+"Go on then, fish." Still grinning. "Nicely asked."
+
+The younger one moved slower and did not stop watching her hands, and she went through the gap between them, which was a gap because one of them had made it properly and the other had made it grudgingly.
+
+And here is what she could not help noticing on the way past, because it was happening on both sides of her at once.
+
+Six carts had been waiting. Not one of them had been let through. The old man at the front of that queue had been standing there since before she arrived and was standing there still.
+
+She had asked.
+
+Nobody had told him no. Nobody had told him anything at all.
+
+---
+
+Halfway across, the storyteller called after her, conversationally, because he was bored and she had been the entertainment and it was not yet eight in the morning.
+
+"Here — you want to get your business done early, big lass. It's going to be a circus after noon."
+
+She turned. It cost nothing and he was plainly delighted.
+
+"The Baron's in today. Whole column, off the landward road. There's twenty-five of us coming over that water before dark and we're all going to want feeding."
+
+"The Baron? Which one?"
+
+"Di Teufel." He said it as though she ought to have heard of it and was enjoying that she hadn't. "Baron Hanzo di Teufel, out of the east. We're his." And then, really pleased with himself now, leaning in about six inches — which put him closer to her than any of the carters had got all morning — "Here for the Tourney, same as everybody. Except we've got a *man* for the sand. Single combat, day after the archery."
+
+He tapped the side of his nose. He actually did it.
+
+"You want to keep your money in your pocket on that one, big lass. Or put it all on the same place I have."
+
+"**Tarrent.**"
+
+That was the younger one. The first word he had said. It was not loud and it was not friendly, and the storyteller — Tarrent, then — stopped with his mouth open for about half a second.
+
+Then it was gone and he was easy again. "Ah, he's all right. Nothing anybody in this town doesn't know by Thursday."
+
+But he had straightened up, and stopped leaning, and his hands had found his belt.
+
+---
+
+Kag smiled at the younger one.
+
+The smile is a real weapon and she had never had to practise it. She had the jaw for it and the teeth for it, and forty years of people flinching at her face by accident meant she knew exactly how much of it to use, and the younger one got about a third.
+
+He did not step back. He went very slightly grey around the mouth and did not step back, which for a man his age in front of a colleague was about as well as it could have gone.
+
+"No. It's all right, friend." Pleasant. Reasonable. The voice she used on a man who was four weeks behind. "So you're just holding up the traffic till your lord passes. And requisitioning supplies for your men, more generally." A beat. "Like I said — only asking in a friendly manner. I might be able to help with supply issues. Who'd be a good person to talk to, in your organisation? A quartermaster, or something."
+
+And Tarrent laughed.
+
+Not unkindly. It was the same laugh as before — except it went on a little too long, and it changed shape while it was happening, and by the end of it he was looking at her with something uncomfortably close to pity.
+
+"*Buy* it?"
+
+He said it the way you would say it to a child who had offered to pay for the weather.
+
+"Love. There's twenty-five of us coming over that water tonight and about four hundred camped out east, and we've been on the road nine weeks." He gestured vaguely at the fish market, the jetties, the whole peninsula, the way a man indicates a view. "What do you think we've been *eating*?"
+
+The younger one had not blinked.
+
+"You want to talk to a quartermaster." Tarrent was still amused. "Sweetheart, if we had a quartermaster I'd have had a hot dinner in Anminster."
+
+And there it was, and neither of them thought he had said anything remarkable.
+
+There was no supply chain to sell to. No office, no requisition, no name to ask for, because none of that had been necessary for nine weeks. They walked over a bridge and things came off carts and not one living soul had ever presented them with a bill.
+
+She had just offered to sell fish to men who had stopped understanding why anybody would buy it.
+
+---
+
+The younger one spoke for the second time.
+
+"What's your name?"
+
+Not aggressive. Flat, straight at her, and his hand had come off his belt to ask it, which was somehow worse.
+
+"I'm Kag."
+
+She was already turning.
+
+"Ask around. If you fellas ever bother to actually talk to the people you're stealing from, you'll find out who I am quick as you like."
+
+A beat.
+
+"Nice to meet you all."
+
+And she walked off down the other side, and behind her *stealing* landed a great deal harder than the smile had — because Tarrent had been calling it nine weeks on the road, and provisioning, and *what do you think we've been eating*, and not one of those is the word she had used, and she had used it pleasantly, and she was already gone.
+
+Behind them the queue still had not moved.
+
+Three carts had turned round and given up entirely, and the old man at the front was standing exactly where he had been standing when she arrived.

@@ -1,4 +1,4 @@
-# Chapter 7 — The Landing
+# Chapter 10 — The Landing
 
 ILA HAD BEEN TOLD TO BE SOMEWHERE ELSE FOR FOUR DAYS, by adults who were managing their own grief so badly that they had entirely failed to notice she was managing hers alone, on a step, in the cold, where she could see the front door — and she had decided, at some point on the Wednesday, without telling anybody, that she was going to do something about it.
 
