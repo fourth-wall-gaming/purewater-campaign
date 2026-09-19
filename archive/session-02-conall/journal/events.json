@@ -1,0 +1,91 @@
+[
+  {
+    "id": "myth-event-cc704f061056",
+    "type": "gm-note",
+    "summary": "Campaign seeded: Purewater, living-world build. 12 agendas, 14 beats, four playable entry points. World clock starts at d-3/dawn; the Tourney is d0.",
+    "narrative": "Nothing has happened yet. Run `tick` to start the world moving.",
+    "session": 0,
+    "involves": [],
+    "at": "2026-09-05T12:00:00"
+  },
+  {
+    "id": "myth-event-fe0639a9022f",
+    "type": "session-start",
+    "summary": "SESSION 1 -- Purewater, living-world build. Play opens on the Anminster road an hour out from the city, d-3/dawn, three days before the Lake Lady's Tourney. Gully plays Conall Bjornlasch, riding in beside his patron Temerach Nebulo as the di Teufel column overtakes them. Magda, Gardwen and Randall are GM-run.",
+    "narrative": "Four strangers reach Purewater in the same week and none of them knows about the others. Conall is the one with a patron, a borrowed face and a licence to ask questions -- and the least idea of what he is.",
+    "session": 1,
+    "involves": [],
+    "at": "2026-09-08T00:00:01"
+  },
+  {
+    "id": "myth-event-d977e8be5525",
+    "type": "scene",
+    "summary": "CH.1 -- The road and the first day. Conall reads Temerach on the Anminster verge as the di Teufel column overtakes them (Insight 64/88): she was not surprised, she was counting faces and did not find one, and whatever she is carrying is about him. Murgeroch (Insight 63/132) has been told not to discuss something and was braced to be asked. Temerach names the column, says the Baron has entered a champion, billets herself at the Swords' barracks and tells Conall to stay away from anything green.",
+    "narrative": "Conall held Witchsight rather than spend it at two miles' range. In the city he spent the day broadcasting himself: Influence 28/20 -- he cannot make people like him; Streetwise 95/67 -- he was fed a confident, detailed and entirely wrong map of the underside of Purewater and repeated a dockhand's joke name back to four people. Insight 73/88 delivered the real yield: the city is happy, nobody is frightened, the Baron is the entertainment and his unseen champion is the joke of the week with money on the board -- and the fouling bells that rang four minutes after midday from the water-tower, stopped inside a quarter of an hour, are a thing six people cannot explain and none of them find odd. By dusk a three-point box was steering him along a railless ledge; Perception 46/73 counted all three, Locale 18/32 kept his bearings, and he went in through the street door of a loud dockside house.",
+    "session": 1,
+    "involves": [
+      "myth-char-a069c599a279"
+    ],
+    "at": "2026-09-09T06:47:21"
+  },
+  {
+    "id": "myth-event-94aadb35598c",
+    "type": "scene",
+    "summary": "CH.2 -- The Moist Oyster. Conall walks straight at his own tail and takes it off him (opposed Insight 25/88 vs Deceit 67/62): Kerrin is Crowbill's, has been on him since midday, is not a robber and is not the Watch. Conall answers honestly -- 'a flavour of the law, but not the city or the king' -- and Kerrin CANNOT READ HIM (Insight 98/55), so he refuses to judge it and refers it upward. Crowbill named freely. Then Thorne, who has been chalking on his table all evening: RANDALL, struck through; not Randall; then who is wearing it.",
+    "narrative": "Thorne has watched Randall's face grow up in that room for twenty years and is unambiguous that this is not a resemblance but the same face -- the same slightly high left eyebrow -- with a different life written on top of it: Randall carries a knife-line under the jaw and a set nose, Conall sits like a man taught to hold a line. Randall: Pearl-born, raised by Corliss's house then Asphodel's, a thief, fond of people, known to Marisette since he was four, twenty-two years old. Nobody in Purewater has ever known there were two. Thorne traded it straight and demanded payment: where were you born and who raised you. Conall answered Anminster, the watch captain, twenty-one. RECORDED: Conall now SUSPECTS (told) that he and Randall are identical twins. He has two appointments pending -- Crowbill at Gallows Reach, and a brother he did not know he had.",
+    "session": 1,
+    "involves": [
+      "myth-char-0fca6d4eb8ce",
+      "myth-char-a069c599a279"
+    ],
+    "at": "2026-09-09T07:11:22"
+  },
+  {
+    "id": "myth-event-11053e2467fe",
+    "type": "scene",
+    "summary": "CH.3 -- The Catacombs. Hesper takes Conall off a ledge at dawn on a witnessed identification; Conall's Incognito FAILS by two (75/73) in plain view of a sorcerer, which makes every true thing about him look like evidence. He rides the compulsion rather than spend Luck (Willpower 69/74 vs Arcane Casting 84/100) and is taken. Hooded, boated, and put in a chair opposite Randall -- who has been underground for three hours wearing the mark of the questioning.",
+    "narrative": "Marisette's Insight on Conall's account: 7 against 82, a CRITICAL. She cuts him loose on an alibi that can be checked by breakfast -- Thorne, Crowbill, Meaney's. Hesper recants his own identification in front of the room. THE ROOM LEARNS THERE ARE TWO: recorded as witnessed knowledge for Conall, Randall and Marisette. Conall's Arcane Knowledge 45/48 Hard, working only from a second-hand description, reframes the crime: one long barbed cut drawn slowly is a channel, not a wound; a figure with corners round a subject is a SEAT; the victim was left alive. He was not trying to take something out of her, he was trying to put something in -- and Hesper confirms that since she is still herself, the binding was interrupted or FAILED, and a man who fails at that goes again. Conall volunteered his half-elven blood, which broke Marisette open: she knew the mother eleven days, an elven woman off a ship who would not give her name and died on the Pearl -- and she carried ONE baby down those stairs herself.",
+    "session": 1,
+    "involves": [
+      "myth-char-41731cfa029b",
+      "myth-char-a069c599a279"
+    ],
+    "at": "2026-09-09T14:16:47"
+  },
+  {
+    "id": "myth-event-815f602b9621",
+    "type": "scene",
+    "summary": "CH.4 -- The Pearl and the Temple. The room at the Sylph's Embrace yields almost nothing because Santo took every instrument out with him: no knife, no cloth, nothing of his at all. Conall's Perception 61/73 recovers one thing from the joint between two floorboards -- a scorched, spent twist of oiled silk with three or four long DARK RED hairs still in the fold, bound with fine copper wire. Emmeralda is black to the root. Arcane Knowledge 49/72 on the figure itself: it is a SEAT, and it is copied -- confident strokes, hesitant joins, the hand of a man who can read the language and cannot speak it -- with a boot-scuff breaking the line from the INSIDE. He was standing in it and stepped backwards out in a hurry.",
+    "narrative": "Marisette names the two women on the Pearl with that hair colour, neither of whom works: a Watercrafter's daughter of sixteen, and the High Priestess of the Lake Lady's own niece. Conall reads her clean (39/88) -- she knew about his patron only from her water-gate ledger -- and gets NOTHING off Hesper at Hard (71/59), which is itself the finding: the thin man can turn his reactions off like a lamp. Conall then volunteers Temerach's title to buy standing, on Marisette's promise of discretion. At the temple, Courtesy 45/53 -- augmented by his new passion, without which he misses by four -- gets the word 'niece' carried inside. Lilura's Insight critical (8/85) clears him, and she seizes the distinction that matters: cut hair in a wrapping is not a girl who has had something done to her, it is a girl somebody has taken a PIECE of. Nerissa (Insight 10/80) trades her half: the channel went thin four minutes after noon and Prince Emeric silenced her alarm in writing before the third peal. Then she asked to see the hair, and Conall did not have it -- Marisette does. FIRST PASSION WRITTEN: 'Find the man who wears my face' 60.",
+    "session": 1,
+    "involves": [
+      "myth-char-a069c599a279"
+    ],
+    "at": "2026-09-09T15:41:58"
+  },
+  {
+    "id": "myth-event-73e6e5191877",
+    "type": "scene",
+    "summary": "CH.5 -- Lost Isle. Marrec put Bettan back on the reed landing at her own asking; the mud kept everything (Perception 45/73, Survival 17/50): a girl standing eleven feet up waiting, a big barefoot man coming out of the reeds, and the two of them walking to the water side by side with no drag-mark anywhere. Keel-drag pointing south-west. Conall crossed the long way under Invisibility Radius and cast WITCHSIGHT at last -- 9/73, one off a critical.",
+    "narrative": "What the Witchsight showed: something very old and entirely uninterested under the whole island; a working laid out cold on the north side in the same hand as the chalk at the Sylph's Embrace; an ancient THRESHOLD older than the working sitting on top of it; two wrong-lit figures moving stone, one of them fourteen; and one small frightened human light, not wrong, three storeys up in the tower-stub. Two failed Stealth rolls (90/50, 62/50) woke the island and brought Sana down twelve feet in the open. Corvin -- 45 Stealth in a coat that did not fit -- was the quiet one both times. Sana believed him at Insight 14/35 Hard on the strength of her aunt's name alone. Conall held the hollow man alone: parried the bar, put a maximum-damage rapier thrust through its chest for a MINOR wound and no reaction whatsoever, was bashed off his feet, lost his rapier to a bare-handed grip on the blade, and broke contact on an Evade CRITICAL (9/81) with a stab wound in the thigh. The hollow man walked into deep water after the boat and did not surface. Bettan taken alive on Conall's order -- do not kill her, subdue her. NEW FACTS ESTABLISHED: the threshold under Lost Isle is being dug open; it can only be used while the channel runs thin; and it goes thin on the day of the Lake Lady's Tourney. Nerissa now has to decide whether to open her own Tourney. Rapier lost; Sword-Captain's armoury opened; Conall took an arming sword.",
+    "session": 1,
+    "involves": [
+      "myth-char-83fb9476ee6a",
+      "myth-char-a069c599a279",
+      "myth-char-afbaff4ec4a8"
+    ],
+    "at": "2026-09-09T18:19:08"
+  },
+  {
+    "id": "myth-event-98eec45ad2fc",
+    "type": "scene",
+    "summary": "CH.6 -- The Siren's Call. Santo di Teufel taken alive, four minutes before he cut a woman called Nyssa. Crowbill's network found the boatman in one guess (Streetwise 40/88); Perrin had been hired three nights running and was waiting on the water. Conall went in the water door invisible, dropped it for Ravella, took the back stair and opened the door with Knock (56/73). Santo heard the lock (Perception 22/41) and had turned -- but has Evade 30 and a combat style of 25, and Conall put Shocking Grasp through his sternum (cast 16/73 against an evade of 91/30) and Crowbill put a boot on him.",
+    "narrative": "The room: a neater chalk seat than the one at the Sylph's Embrace -- he had two days to think about where he went wrong -- and an ink guide-line drawn down a living woman who could not move. He had not started. CONALL'S INSIGHT CRITICAL (2/88) on the interrogation: Santo is telling the truth. Noon on the day of the Tourney, said twice in front of him as though he were furniture. A hundred years and four generations of the house working toward it. A man called only 'the quiet one' who came when Santo was thirteen, whom his father speaks to carefully, who 'knows where things are kept', and who has been away on a boat for three days. And the form was copied out of a locked case on the third shelf of his father's study, behind the border rolls -- nine folded sheets older than the house, in a fluent hand that is not Hanzo's, which is the hand Conall read underneath the tracing. The critical gives the hole he does not know is a hole: 'noon on the day' is not a plan, it is the END of one, and Santo was never included in any of it. He worked that out in front of the room. EARLIER THIS EVENING: Hesper unbound the still-live working on Constantine's floor on Conall's Read Magic diagnosis (30/150), and Gardwen closed Emmeralda on a CRITICAL (1/87). Emmeralda will live.",
+    "session": 1,
+    "involves": [
+      "myth-char-6c701f9ffdbe",
+      "myth-char-a069c599a279"
+    ],
+    "at": "2026-09-09T21:58:46"
+  }
+]

@@ -1,0 +1,161 @@
+{
+  "id": "myth-char-afbaff4ec4a8",
+  "name": "Sana",
+  "type": "npc",
+  "status": "active",
+  "description": "Nineteen, dark red hair chopped ragged on the left side. High Priestess Nerissa's niece, six weeks at the temple school. Clever, not biddable, and a noticer -- she is the only person who spotted what happened to Bettan and the only one who thought going where somebody is already looking was pointless. Missing since yesterday morning; folded into a gap between two floor-joists in the tower-stub on Lost Isle since, with no water.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 9,
+    "CON": 11,
+    "SIZ": 10,
+    "DEX": 12,
+    "INT": 15,
+    "POW": 13,
+    "CHA": 13
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "-1d2",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 13,
+    "luck_points": 3,
+    "magic_points": 13,
+    "movement": "4m walk / 12m fly"
+  },
+  "skills": {
+    "Athletics": 40,
+    "Boating": 20,
+    "Brawn": 19,
+    "Conceal": 25,
+    "Dance": 25,
+    "Deceit": 28,
+    "Drive": 25,
+    "Endurance": 22,
+    "Evade": 24,
+    "First Aid": 27,
+    "Influence": 26,
+    "Insight": 52,
+    "Locale": 30,
+    "Perception": 58,
+    "Ride": 25,
+    "Sing": 26,
+    "Stealth": 45,
+    "Unarmed": 21,
+    "Willpower": 56,
+    "Flight": 21,
+    "Customs": 70,
+    "Native Tongue": 70,
+    "Swim": 45
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {
+    "Love (my aunt Nerissa)": 75,
+    "Notice what nobody else notices": 65,
+    "Bettan did my hair and I said thank you": 60
+  },
+  "combat_styles": {},
+  "spells": null,
+  "extras": null,
+  "fatigue": "Fresh",
+  "luck_current": 3,
+  "magic_current": 13,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-09-09T17:09:56"
+}

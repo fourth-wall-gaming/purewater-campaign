@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-f3ac26583d8f",
+  "id": "myth-char-e2628befaaee",
   "name": "Mariarta",
   "type": "npc",
   "status": "active",
@@ -140,10 +140,6 @@
     "Self-defense (knife)": 40
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 12,
-  "experience_rolls": 0,
   "extras": {
     "gender": "female",
     "class": "Courtesan (noncombatant)",
@@ -154,7 +150,16 @@
     "relationship": "Works alongside [[asphodel]] at the Promise of Heaven; affectionate, lifelong-acquaintance ease with [[randall]].",
     "magic_tradition": null,
     "correction_note": "Recast from an earlier mistaken 'canal-runner / smuggler' Rogue kit. Per the novelization 'Moriata' is an older courtesan at the Promise of Heaven who went to the Baron's manor and gathered intel -- a social informant, not a thief.",
-    "source": "Novelization (And then the Dragons Came, ch. 13) -- 'Moriata' (= Mariarta), the older girl who went up to the manor."
+    "source": "Novelization (And then the Dragons Came, ch. 13) -- 'Moriata' (= Mariarta), the older girl who went up to the manor.",
+    "pronouns": "she/her"
   },
-  "created_at": "2026-06-25T10:48:16"
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-25T10:48:16",
+  "actor_notes": "Mariarta\nLOOKS: Older, composed, entirely unremarkable in a room full of soldiers -- which is the whole skill.\nCORE: A woman who has spent years being invisible in rooms where decisions get made, and who has paid for that position in ways she does not offer and should not be asked about.\nNATURE: Exact. Quiet. Repeats a question back before answering so that she is answering the one that was asked. Not cold -- there is real warmth for the handful of people she works for -- but rationed, and never in public.\nWOUND: What it has cost to be in those rooms. It is not a secret exactly; it is simply not on offer.\nWANTS: To get it to the people who can use it, and go on being nobody.\nPRESSURE: She stops working. The hands go still in her lap, and whatever she says next is the part that cost her something to be able to say.\nKEY: \"He said it twice. The second time he was not talking to me, which is why I believed it.\""
 }

@@ -1,0 +1,161 @@
+{
+  "id": "myth-char-51514e4647c3",
+  "name": "Hollow man (the digger)",
+  "type": "npc",
+  "status": "active",
+  "description": "One of the two working the drowned street. A boatman or a labourer once; something off the threshold is sitting in him now and he does not fight it. Does not bleed, does not breathe, does not hurry, does not speak. Takes wounds without reacting to them.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 15,
+    "CON": 14,
+    "SIZ": 14,
+    "DEX": 10,
+    "INT": 8,
+    "POW": 8,
+    "CHA": 3
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+1d2",
+    "experience_modifier": -1,
+    "healing_rate": 3,
+    "initiative_bonus": 9,
+    "luck_points": 2,
+    "magic_points": 8,
+    "movement": "4m walk / 12m fly"
+  },
+  "skills": {
+    "Athletics": 45,
+    "Boating": 29,
+    "Brawn": 60,
+    "Conceal": 18,
+    "Dance": 13,
+    "Deceit": 11,
+    "Drive": 18,
+    "Endurance": 80,
+    "Evade": 20,
+    "First Aid": 18,
+    "Influence": 6,
+    "Insight": 16,
+    "Locale": 16,
+    "Perception": 50,
+    "Ride": 18,
+    "Sing": 11,
+    "Stealth": 18,
+    "Unarmed": 25,
+    "Willpower": 40,
+    "Flight": 25,
+    "Customs": 56,
+    "Native Tongue": 51
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 0,
+      "hp": 8,
+      "current_hp": 4
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [],
+  "passions": {
+    "It warms you and it wears you, and I said yes": 70,
+    "Likes the digging": 55
+  },
+  "combat_styles": {
+    "Labourer (stone-bar, fists)": 48
+  },
+  "spells": null,
+  "extras": null,
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 8,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-09-09T17:06:12"
+}

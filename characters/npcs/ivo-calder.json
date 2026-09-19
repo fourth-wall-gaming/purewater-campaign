@@ -1,0 +1,155 @@
+{
+  "id": "myth-char-b74e0a3c1d58",
+  "name": "Ivo Calder",
+  "type": "npc",
+  "status": "active",
+  "description": "Tide Master of the Watercrafters Guild, fifty, assessor by appointment to the city -- and the man who signed the Lake Lady's fouling alarm off as a false reading six weeks ago. He has not slept properly since.",
+  "narrative": "**One of the Four, and he does not know what he is part of.**\n\nIvo Calder is a genuinely distinguished water-diviner: thirty years of readings,\nan appointment as the city's assessor, and a reputation for being unbribable that\nis entirely deserved. Nobody bribed him.\n\nHe was invited to a private reading of the [[The Ember Society]] four years ago\nand it was the best evening of his intellectual life -- real pre-uprising texts,\nhandled, in front of him. He has been to eleven since. Six weeks ago a man he\nrespects asked him, once, over port, for one thing: that he take the temple's\nfouling reading himself and give the guild an honest assessment, since the Order\nwas plainly excitable and the guild's own interest in the Baron's hull deserved\nbetter than a panic.\n\nHe took the reading. **It was not false.** The corruption bleeding off the\nDragonBarge is real, measurable, and spreading north toward the Lake.\n\nHe signed it false anyway, and he has spent six weeks constructing the reason: the\nguild wants to *study* that hull, a panic would have it towed, the reading was at\nthe edge of the instrument's range, the festival, the tariffs, the Order's\nexcitability. He can say the whole argument aloud and it sounds well.\n\n**He is a confession waiting for a competent interviewer.** Insight on him reads\nas a man carrying something. He will not volunteer it and he will defend the\nassessment vigorously -- until somebody puts the original reading, or a second\nindependent reading, in front of him. Then he folds completely and at once,\nbecause he has been waiting six weeks for someone to make him.\n\n**What his recantation does.** It reopens the Lake Lady's fouling alarm. That puts\nthe Order of the Lake Lady officially onto the corruption three days before the\nTourney, with standing to act, and it is the single most damaging thing the party\ncan do to the Baron by lawful means. It also destroys Calder, who knows it.\n\n**He cannot tell them who asked him.** Not from loyalty -- he genuinely does not\nknow what he would be naming. He can describe an upper room, a good dinner, and a\ncourteous secretary who takes the minutes.",
+  "characteristics": {
+    "STR": 11,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 13,
+    "INT": 16,
+    "POW": 14,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 14,
+    "luck_points": 3,
+    "magic_points": 14,
+    "movement": "6m"
+  },
+  "skills": {
+    "Craft (Watercraft)": 84,
+    "Lore (Water Divination)": 88,
+    "Commerce": 55,
+    "Influence": 58,
+    "Insight": 60,
+    "Locale": 72,
+    "Customs": 66,
+    "Native Tongue": 74,
+    "Bureaucracy": 70,
+    "Willpower": 48,
+    "Perception": 70,
+    "Boating": 66,
+    "Swim": 60,
+    "Evade": 32,
+    "Endurance": 30,
+    "Athletics": 28,
+    "Arcane Casting": 45
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Assessor's instruments",
+      "notes": "Divining rods, glass, and a sealed reference vial. Guild property, city-appointed."
+    },
+    {
+      "name": "The original reading",
+      "type": "document",
+      "notes": "His own working notes from six weeks ago, in his own hand, showing the fouling as real and its bearing as north-north-east from the Baron's pier. He did not destroy them. He has moved them twice."
+    }
+  ],
+  "passions": {
+    "Thirty years of honest readings": 80,
+    "The shame of the one that was not": 75,
+    "Awe of being let into the room": 60,
+    "The guild, and his place in it": 55
+  },
+  "combat_styles": {},
+  "spells": {
+    "arcane": [
+      "Detect Magic",
+      "Read Magic"
+    ]
+  },
+  "extras": {
+    "gender": "male",
+    "pronouns": "he/him"
+  },
+  "fatigue": "Fresh",
+  "luck_current": 3,
+  "magic_current": 14,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-09-09T00:00:00",
+  "actor_notes": "Ivo Calder\nLOOKS: Fifty, distinguished, guild indigo, instruments kept beautifully. Has not slept properly in six weeks and it has started to show in the hands.\nCORE: A craftsman of real integrity who signed one reading he did not believe, for reasons that were almost good, and who has discovered that a man cannot hold a single lie of that size without it taking up all the room.\nNATURE: Precise, proud, a genuine enthusiast about his own trade and wonderful on it when he forgets to be frightened. Formal. Slightly pompous. Kind to apprentices.\nWOUND: He has not destroyed the original notes. He has moved them twice. He cannot explain to himself why he has not simply burned them.\nWANTS: To be told by somebody qualified that what he signed was reasonable.\nPRESSURE: There is no middle in him -- a vigorous, well-argued defence right up until an independent reading appears, and then the whole thing comes out at once, in one breath, with something close to relief.\nKEY: \"The instrument was at the edge of its range. I have said that sentence eleven times now.\""
+}

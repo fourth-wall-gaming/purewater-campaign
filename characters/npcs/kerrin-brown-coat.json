@@ -1,0 +1,144 @@
+{
+  "id": "myth-char-0d4f52aa41bb",
+  "name": "Kerrin (brown coat)",
+  "type": "npc",
+  "status": "active",
+  "description": "One of Crowbill's watchers. Dockside, unremarkable, brown coat. Professional -- follows, does not close.",
+  "narrative": "Put on Conall the afternoon a well-dressed stranger spent the day asking the working canals where a man finds criminals, mercenaries and untaxed cargo. Crowbill wants to know whether that is a mark, a rival, or the Watch before anything happens to him.",
+  "characteristics": {
+    "STR": 11,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 14,
+    "INT": 13,
+    "POW": 11,
+    "CHA": 12
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 13,
+    "luck_points": 2,
+    "magic_points": 11,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 25,
+    "Boating": 65,
+    "Brawn": 23,
+    "Conceal": 25,
+    "Dance": 26,
+    "Deceit": 62,
+    "Drive": 25,
+    "Endurance": 24,
+    "Evade": 60,
+    "First Aid": 27,
+    "Influence": 24,
+    "Insight": 55,
+    "Locale": 26,
+    "Perception": 64,
+    "Ride": 25,
+    "Sing": 23,
+    "Stealth": 68,
+    "Unarmed": 25,
+    "Willpower": 52,
+    "Customs": 66,
+    "Native Tongue": 65,
+    "Streetwise": 71,
+    "Swim": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {
+    "Eleven years of reading faces across a room": 65,
+    "Loyalty to Crowbill, who is straight with me": 60
+  },
+  "combat_styles": {},
+  "spells": null,
+  "extras": {
+    "gender": "male",
+    "pronouns": "he/him"
+  },
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-09-09T06:52:41",
+  "actor_notes": "Kerrin -- brown coat\nLOOKS: Dockside, unremarkable, brown coat, easy in a crowd.\nCORE: A professional watcher who long ago worked out that a watcher who lies is a watcher who gets remembered, and who therefore tells the truth all day long and gives away nothing.\nNATURE: Pleasant. Patient. Genuinely good company for the length of a drink. No vanity about the work at all -- being spotted does not embarrass him and he will say so cheerfully. Takes his time over everything.\nWOUND: None that shows. This is a job, he is good at it, he goes home afterwards.\nWANTS: To go home having got it right.\nPRESSURE: He stops pretending and becomes conversational, which is considerably more unsettling than a denial would be.\nKEY: \"You've made me. That's fine -- I'd rather buy you a drink than follow you about in the rain.\""
+}

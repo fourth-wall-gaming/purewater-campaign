@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-faf01f1ed696",
+  "id": "myth-char-2e299ed60112",
   "name": "Murgeroch",
   "type": "npc",
   "status": "active",
@@ -164,10 +164,6 @@
     "Squire of the Lake (sword, spear, bow, shield)": 68
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 10,
-  "experience_rolls": 0,
   "extras": {
     "gender": "male",
     "class": "Fighter (squire)",
@@ -176,7 +172,16 @@
     "role": "Squire to [[temerach-nebulo]], the Lakelady's Javelin. Carries her messages, screens her meetings, tends her horse and gear, and watches the road for ambush. The discreet, competent face the party usually deals with before reaching Temerach herself.",
     "manner": "Steady, loyal, professional; quick enough to laugh at Conall's antics but disciplined enough to catch himself.",
     "magic_tradition": null,
-    "source": "Novelization (And then the Dragons Came) -- 'Murgeroch, her squire'."
+    "source": "Novelization (And then the Dragons Came) -- 'Murgeroch, her squire'.",
+    "pronouns": "he/him"
   },
-  "created_at": "2026-06-25T10:48:16"
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-25T10:48:16",
+  "actor_notes": "Murgeroch\nLOOKS: Steady young fighter, kit well kept, stands slightly in front of whoever he is screening without making a production of it.\nCORE: A soldier who has decided that being reliable is a whole identity and is quietly right about that, and who wants promotion more than he would ever say out loud because wanting it out loud would be unprofessional.\nNATURE: Calm, methodical, always working on something. Repeats a message back to confirm it and tells you when it will be delivered. Not humourless -- he is good company on a long watch -- but never off duty in front of strangers.\nWOUND: None yet. He has not been tested past his competence and he is aware that everyone eventually is.\nWANTS: To be trusted with the next thing up.\nPRESSURE: The warmth simply switches off. Not cold -- finished -- and nothing said afterwards moves him an inch.\nKEY: \"I'll carry it word for word. I'd rather you said it twice than I guessed once.\""
 }

@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-c02fbe121484",
+  "id": "myth-char-fff1e79e219c",
   "name": "Tat Atarer",
   "type": "npc",
   "status": "active",
@@ -169,15 +169,15 @@
       "notes": "AP 3 each location; no armor penalty"
     }
   ],
-  "passions": {},
+  "passions": {
+    "Bring the company home paid": 75,
+    "This is a contract, not a cause": 60,
+    "Professional contempt for the Baron's private business": 50
+  },
   "combat_styles": {
     "Fighter (sword, dagger, shield, bow)": 97
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 7,
-  "experience_rolls": 0,
   "extras": {
     "gender": "male",
     "class": "Fighter",
@@ -195,7 +195,16 @@
     "magic_tradition": null,
     "armor": "Light armor, AP 3 on all 7 locations; no armor penalty",
     "sheet_cleanup_note": "EXCLUDED as held-over template/download error (NOT Tat's data; he is a sword-for-hire, not a caster, per source): the magic professional skills Folk Magic 84, Exhort 100, Devotion 100, Storm Speech 87 and the 'Folk Magic' tradition (rank 1). Kept his martial/mercenary skills as captured; note Lore (Cult) 95 / Lore (World) 92 are high for INT 9 and may also be template-inflated -- trim to taste.",
-    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)"
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
+    "pronouns": "he/him"
   },
-  "created_at": "2026-06-24T23:00:08"
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 7,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T23:00:08",
+  "actor_notes": "Tat Atarer\nLOOKS: Hard-faced professional in harness that fits properly. Fifties. Unhurried.\nCORE: A mercenary captain of thirty years' standing whose entire reputation rests on bringing companies home, and who is watching a standing order he did not write rot the discipline he has spent his life building.\nNATURE: Flat, courteous, entirely without theatre. Deals with his own men in front of you and does not apologise for the interruption. Dry. Fair. He tells you at once which part of what you want is not his to give, which people mistake for hostility and is actually efficiency.\nWOUND: He has lost two companies in his life and neither of them to a battle. Both to a bad month in a town exactly like this one.\nWANTS: To be paid and take them home whole.\nPRESSURE: He stops delegating and handles it himself, in front of you, without raising his voice -- and whoever it lands on goes grey.\nKEY: \"I have never lost a company to a battle. I have lost two to a bad month in a town.\""
 }

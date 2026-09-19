@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-87541eebf6d7",
+  "id": "myth-char-7b078f2349da",
   "name": "Marda Blackwater",
   "type": "npc",
   "status": "active",
@@ -149,10 +149,6 @@
     "Dockside brawler (hook, fists)": 68
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 14,
-  "experience_rolls": 0,
   "extras": {
     "gender": "female",
     "class": "Commoner / labor leader (Fighter-flavored brawler)",
@@ -161,7 +157,16 @@
     "role": "Leader of The Dredgers -- broad-shouldered woman in her forties who started as a dredger and rose during a labor dispute five years ago. Practical, passionate, committed to the working class.",
     "faction": "The Dredgers -- cautiously allied with progressive elements of the Order of the Lake Lady and ethical merchants; complicated relationship with Crowbill; hostile to the merchant princes, the Governor, and especially the Baron and his Dragon Knights as the ultimate aristocratic oppressors.",
     "magic_tradition": null,
-    "source": "GM-authored from source lore (purewater-organizations.md, The Dredgers)"
+    "source": "GM-authored from source lore (purewater-organizations.md, The Dredgers)",
+    "pronouns": "she/her"
   },
-  "created_at": "2026-06-24T23:15:34"
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 14,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T23:15:34",
+  "actor_notes": "Marda Blackwater\nLOOKS: Forties, broad, dredge-boat hands, a black armband with a white wave on it.\nCORE: A working woman who was pushed into speaking for three hundred people, is better at it than she expected, and is discovering that the distance between leading them and being carried by them is about four days wide.\nNATURE: Loud, plain, physically busy, no ceremony whatever. Real humour, mostly at her own expense. She trusts numbers and distrusts sympathy. She will hand you one end of whatever she is carrying in the middle of a sentence and she does not think of that as rude.\nWOUND: Somebody's boy went into that water and came out wrong, and she was the one who had to tell his mother, and she has not slept properly since.\nWANTS: Something she can take back to three hundred people and call a result.\nPRESSURE: She gets reasonable. Her demands shrink and sharpen -- and the smaller and more reasonable they get, the closer the thing is to going off, because what she is really doing is finding the least she can accept and still hold them.\nKEY: \"Give me one man's wages and one name and I can hold them another day. Give me sympathy and I can't.\""
 }

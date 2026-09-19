@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-10a52bd8bff7",
+  "id": "myth-char-77eeb2d15196",
   "name": "Ravella",
   "type": "npc",
   "status": "active",
@@ -138,10 +138,6 @@
     "Defensive (dagger)": 45
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 15,
-  "experience_rolls": 0,
   "extras": {
     "gender": "female",
     "heritage": "Half-merfolk (secret)",
@@ -153,7 +149,16 @@
     "network": "Gondoliers, washerwomen, dockhands -- anyone who touches water daily. Possible access to merfolk paths beneath the city. Can sense threats to water magic and aquatic communities.",
     "magic_tradition": "Folk Magic (water-themed) -- light innate gift from her merfolk blood, NOT a trained arcane caster. Suggested spells: Witch Sight, Mystic Vision (water), Calm Water, Breathe (self).",
     "disposition": "Cautious with new arrivals; conflicted between profit and protecting water magic from the Baron's corruption.",
-    "source": "GM-authored from source lore (The Information Broker)"
+    "source": "GM-authored from source lore (The Information Broker)",
+    "pronouns": "she/her"
   },
-  "created_at": "2026-06-24T23:15:34"
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 15,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T23:15:34",
+  "actor_notes": "Ravella\nLOOKS: Half-merfolk to anyone who looks properly -- faint scales at the hairline, slightly webbed fingers, eyes that catch the water-light.\nCORE: A woman running a house full of people whose existence is illegal, who has decided that the safest possible cover is to be the most visible, most sociable, most harmless creature in the district.\nNATURE: Delighted. Genuinely, exhaustingly delighted -- by gossip, by new people, by a good glass, by the idea that you have come to see her. She touches everything and everyone. She is the most likeable person on the water and roughly a third of it is armour.\nWOUND: She has seen what happens to waterfolk who are noticed by the wrong office, and she has a house of them upstairs, and she has never once been able to say so out loud to anybody.\nWANTS: To know it before anybody else does, because knowing first is how her people stay ahead of things.\nPRESSURE: She becomes a better host. More wine, more attention, an introduction to somebody far more interesting -- and the subject you came in with has simply ceased to exist.\nKEY: \"Oh, that is a good question. Let me get you a better chair before you ask me the next one.\""
 }

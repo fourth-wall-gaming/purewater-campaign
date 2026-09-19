@@ -1,0 +1,166 @@
+{
+  "id": "myth-char-69161cb76e05",
+  "name": "Abel Weir",
+  "type": "npc",
+  "status": "active",
+  "description": "Sergeant of the City Watch, forty-one, twenty-two years in blue-grey. Keeps the referral book at the Isle post -- four inches of complaints against the Baron's people that he has been ordered to record and not act on. He is very tired.",
+  "narrative": "Twenty-two years of drunks, cutpurses and canal-right disputes, and Abel Weir has\nnever once had to decide whether he was a coward. The standing order made that a\ndaily question and he has been answering it wrong since it came down, in writing,\nin a neat hand, in a book.\n\nHe is not a hero and he will not draw on a Dragon Knight in the street. What he\nwill do is *keep the record* -- names, dates, witnesses, the barrow-man's broken\njaw, the two boatmen who did not come back -- and he has begun to understand that\nthe record is worth something to somebody with the standing to use it.\n\n**Use him** as the party's lawful door. He cannot accuse a lord and he cannot lay a hand on a Knight -- a sergeant who tried would be ruined, and he knows the arithmetic exactly. He can produce\na written, dated, witnessed account of every offence committed in this city in the\nlast eight days, to the right person, and he badly wants to. He needs it to be\nsomeone else's decision.\n\n**He will recognise a professional.** Anyone who has held a warrant anywhere -- an\nOrder investigator, a watch captain out of Anminster, a Sword of the Lake -- gets\nthe book opened for them faster than any amount of Influence.\n\n**What he is afraid of:** not the Knights. Being the sergeant whose name is on the\ndisobedience when it all goes wrong, with a wife and two daughters on Isle post\npay.",
+  "characteristics": {
+    "STR": 12,
+    "CON": 13,
+    "SIZ": 13,
+    "DEX": 11,
+    "INT": 15,
+    "POW": 12,
+    "CHA": 12
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 3,
+    "initiative_bonus": 13,
+    "luck_points": 2,
+    "magic_points": 12,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 33,
+    "Boating": 68,
+    "Brawn": 35,
+    "Conceal": 30,
+    "Customs": 70,
+    "Deceit": 30,
+    "Endurance": 46,
+    "Evade": 32,
+    "First Aid": 48,
+    "Influence": 44,
+    "Insight": 62,
+    "Locale": 72,
+    "Native Tongue": 67,
+    "Perception": 58,
+    "Streetwise": 58,
+    "Swim": 58,
+    "Unarmed": 44,
+    "Willpower": 54,
+    "Bureaucracy": 65,
+    "Purewater Law": 68
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Watch baton",
+      "damage": "1d6",
+      "size": "M",
+      "reach": "S",
+      "notes": "Not a weapon of war and he knows it."
+    },
+    {
+      "name": "Blue-grey watch coat",
+      "notes": "Armour 1, chest and abdomen."
+    },
+    {
+      "name": "The referral book",
+      "type": "document",
+      "enc": 1,
+      "notes": "Four inches thick. Every complaint against the Baron's people since the column arrived: names, dates, witnesses, injuries. Recorded and referred, not acted upon. It is the single most useful object in the city for anyone trying to make the occupation a legal problem -- and he will not hand it over without being given a reason he can live with."
+    }
+  ],
+  "passions": {
+    "Twenty-two years in blue-grey": 70,
+    "Somebody should have to answer for the barrow-man": 65,
+    "A wife and two daughters on Isle post pay": 60,
+    "Loathing of the standing order": 55
+  },
+  "combat_styles": {
+    "Watch drill": 45
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "gender": "male",
+    "pronouns": "he/him"
+  },
+  "actor_notes": "Abel Weir\nLOOKS: Forty-one, heavy, tired, blue-grey Watch coat. A four-inch book under one arm that does not leave him.\nCORE: A career watchman who was given an order he considers monstrous, has obeyed it every day for six weeks, and has been keeping a perfect record of his own obedience against a day that may never come.\nNATURE: Slow, thorough, unexcitable, and much gentler than the size of him suggests. Genuinely takes pride in the craft of it -- clean entries, correct dates, two witnesses. No taste for violence and a real dislike of theatre.\nWOUND: He is ashamed, daily, in a way he has no language for, and procedure is the only place he has found to put it.\nWANTS: To hand the book to somebody who can use it without being the man who disobeyed.\nPRESSURE: The procedure gets more elaborate, not less -- entry numbers, dates, the names of witnesses -- and the more correct he becomes the closer he is to the thing he cannot say.\nKEY: \"Thirty-one entries. I can tell you all of them from memory and not one of them has been answered.\"",
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [
+    "myth-faction-9d005ad4ce8f"
+  ],
+  "from_template": null,
+  "created_at": "2026-09-09T00:00:00"
+}

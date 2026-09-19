@@ -1,5 +1,5 @@
 {
-  "id": "myth-tmpl-5fdfaec84911",
+  "id": "myth-tmpl-46b3d8246683",
   "name": "Canal Cutpurse",
   "description": "Generic Purewater street thief -- pickpocket, second-storey worker, or smuggler's runner. The Lullwater and the Pearl are thick with them.",
   "narrative": null,
@@ -141,9 +141,5 @@
   "combat_styles": {
     "Cutpurse (dagger, sap, sling)": 48
   },
-  "created_at": "2026-06-24T23:31:07",
-  "extras": {
-    "faction": "Crowbill's Underworld (unaffiliated street thieves)",
-    "source": "GM template (generic)"
-  }
+  "created_at": "2026-06-24T23:31:07"
 }

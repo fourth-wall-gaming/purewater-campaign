@@ -1,0 +1,166 @@
+{
+  "id": "myth-char-02db8f11dbbc",
+  "name": "Beck",
+  "type": "npc",
+  "status": "active",
+  "description": "Constantine's houseman at the Sylph's Embrace -- eighteen years on the same door. He was on it the night Emmeralda died.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 9,
+    "SIZ": 11,
+    "DEX": 14,
+    "INT": 16,
+    "POW": 9,
+    "CHA": 7
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 15,
+    "luck_points": 2,
+    "magic_points": 9,
+    "movement": "4m walk / 12m fly"
+  },
+  "skills": {
+    "Athletics": 27,
+    "Boating": 22,
+    "Brawn": 60,
+    "Conceal": 23,
+    "Dance": 21,
+    "Deceit": 23,
+    "Drive": 23,
+    "Endurance": 58,
+    "Evade": 28,
+    "First Aid": 30,
+    "Influence": 45,
+    "Insight": 55,
+    "Locale": 70,
+    "Perception": 65,
+    "Ride": 23,
+    "Sing": 16,
+    "Stealth": 30,
+    "Unarmed": 27,
+    "Willpower": 55,
+    "Flight": 27,
+    "Customs": 72,
+    "Native Tongue": 63
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 0,
+      "hp": 3,
+      "current_hp": 3
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 0,
+      "hp": 3,
+      "current_hp": 3
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Boat-hook",
+      "damage": "1d8",
+      "size": "L",
+      "reach": "VL"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Houseman (boat-hook, cudgel)": 55
+  },
+  "spells": null,
+  "extras": null,
+  "actor_notes": "Beck\nLOOKS: Fifties, thick through the shoulders, hands like a man who has hauled things his whole life. A boat-hook he uses for everything including pointing.\nCORE: A houseman who has worked the same door for eighteen years and long ago decided the door is his, and everything that comes through it is his to answer for. He has failed at that twice in one week and is not making a speech about it.\nNATURE: Laconic, dry, entirely unhurried, physically very capable without being a fighter by trade. Gruffly fond of the girls in a way nobody comments on. Good in a crisis because he has no interest whatever in how a crisis looks.\nWOUND: He was on that step the night she died and he let the man in.\nWANTS: To hand this to somebody it is not too big for.\nPRESSURE: He gets literal. Reports exactly what was said and done, word for word, in order, and flatly refuses to tell you what any of it meant.\nKEY: \"Eighteen years on that step. I'd know his footfall. I did know it.\"",
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 9,
+  "experience_rolls": 0,
+  "location": "myth-loc-b368e08632ac",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-09-11T22:30:44"
+}

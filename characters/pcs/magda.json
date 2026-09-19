@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-1a258abf278f",
+  "id": "myth-char-d8b643d61817",
   "name": "Magda",
   "type": "pc",
   "status": "active",
@@ -167,10 +167,6 @@
     "Berserker (all weapons + shields; uses anything she can get her hands on, including others' weapons)": 85
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 7,
-  "magic_current": 14,
-  "experience_rolls": 0,
   "extras": {
     "culture": "Barbarian",
     "frame": "Light",
@@ -180,13 +176,8 @@
     "deity": "Hel (goddess of death)",
     "magic_tradition": null,
     "abilities": [
-      "Blessed By Hel -- does not age naturally",
-      "Artful Dodger -- 1 extra action for parry/evade if ENC < 26",
-      "Eyes in the Back of Your Head -- if attacked from behind, a Formidable Perception check to turn (costs 1 Action Point)",
-      "Detect magic and illusions using Willpower",
-      "Berserk Rage: Damage Mod +1d2, weapon size +1 step, take only 1/2 damage, immune to serious wounds and fatigue",
-      "Berserk Rage: Endurance & Willpower rolls to stay fighting 1 grade easier; Brawn 1 grade easier; parry/evade 1 grade harder",
-      "Berserk Rage: lasts 14 rounds; at the end automatic 1 Fatigue level loss; cannot retreat and must always engage the enemy"
+      "Artful Dodger (CFI) -- unburdened and in light armor or less, Evade a melee attack without going prone; prone against a ranged attack only on a failure",
+      "Berserk, Hel's Mark -- see powers"
     ],
     "armor": "Ringmail on all 7 locations (AP 3, ENC 2 each); armor penalty -3",
     "encumbrance": {
@@ -202,7 +193,37 @@
       "Cudmudgeon->Curmudgeon",
       "Wiillpower->Willpower"
     ],
-    "source_class": "Berserker (Classic Fantasy class; maps to Fighter in CFI's four core classes)"
+    "source_class": "Berserker (Classic Fantasy class; maps to Fighter in CFI's four core classes)",
+    "gender": "female",
+    "pronouns": "she/her"
   },
-  "created_at": "2026-06-24T22:24:20"
+  "fatigue": "Fresh",
+  "luck_current": 3,
+  "magic_current": 14,
+  "experience_rolls": 0,
+  "location": "myth-loc-e68bde0d7264",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T22:24:20",
+  "actor_notes": "Magda\nLOOKS: Built like a gatepost, sixty-odd, ringmail under a travelling cloak, grey hair cropped short and badly by her own hand.\nCORE: An old soldier of the woodland faith who has outlived everyone she started with, and who has quietly decided that this girl is going to be the one she does not have to bury.\nNATURE: Blunt, unsentimental, and much funnier than she lets on. Enormous appetite -- for food, for sleep, for sitting down. No patience at all for ceremony and a deep, genuine pleasure in doing a physical job properly. She is rude to people she likes and polite to people she is considering hitting.\nWOUND: She has buried a great many people and has stopped being able to tell the difference between caring about someone and standing between them and the road. She knows the difference matters. She cannot find it.\nWANTS: To be told what is happening before it happens, so she can get in front of it.\nPRESSURE: She gets practical and slightly brutal about it -- the plan shrinks to what can be carried, and the people who cannot be carried get named out loud, and she does not pretend that is not what she is doing.\nKEY: \"I've buried people I liked better than you for less reason. Sit down and eat that.\"",
+  "powers": [
+    {
+      "name": "Berserk",
+      "rule": "magic/powers/berserk",
+      "boosts": [
+        "Stay over (2 PP)",
+        "Take it with her (2 PP)"
+      ],
+      "limits": [
+        "Limited Control",
+        "Limited Power -- cannot retreat, must engage"
+      ]
+    },
+    {
+      "name": "Hel's Mark",
+      "rule": "magic/powers/hels-mark",
+      "boosts": [],
+      "limits": []
+    }
+  ]
 }

@@ -1,0 +1,160 @@
+{
+  "id": "myth-char-589df6ac6645",
+  "name": "Tess",
+  "type": "npc",
+  "status": "active",
+  "description": "A Pearl girl out of work since the houses shut, carrying her sister's half as well as her own. Sat the stair as bait, and left the city loudly as Emmeralda beside Randall. she/her.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 9,
+    "CON": 11,
+    "SIZ": 11,
+    "DEX": 13,
+    "INT": 14,
+    "POW": 12,
+    "CHA": 15
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "-1d2",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 13,
+    "luck_points": 2,
+    "magic_points": 12,
+    "movement": "4m walk / 12m fly"
+  },
+  "skills": {
+    "Athletics": 22,
+    "Boating": 60,
+    "Brawn": 20,
+    "Conceal": 25,
+    "Dance": 28,
+    "Deceit": 55,
+    "Drive": 25,
+    "Endurance": 22,
+    "Evade": 26,
+    "First Aid": 27,
+    "Influence": 55,
+    "Insight": 60,
+    "Locale": 28,
+    "Perception": 50,
+    "Ride": 25,
+    "Sing": 27,
+    "Stealth": 27,
+    "Unarmed": 22,
+    "Willpower": 48,
+    "Flight": 22,
+    "Customs": 62,
+    "Native Tongue": 69,
+    "Streetwise": 58,
+    "Swim": 58
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {},
+  "spells": null,
+  "powers": null,
+  "extras": null,
+  "actor_notes": "Tess\nLOOKS: Early twenties, Purewater-born, dark hair pinned for work and coming down because there is no work. A good dress worn at the cuff, kept because it is the only capital she has.\nCORE: A young woman who understood at about fourteen that everybody in this trade gets sold by somebody eventually, and decided the only defence available was to be the one who knows the price of things first.\nNATURE: Dry, quick, unshockable, and better company than she has any reason to be. Talks to strangers the way she talks to everybody. Eats whatever is put in front of her without being asked twice.\nWOUND: Her sister does not work and cannot, and the whole of Tess's life is arranged around that without her ever once having said so out loud.\nWANTS: A day's wage that does not have to be explained to anyone afterwards.\nPRESSURE: She gets extremely practical and starts asking about the exits, the money, and who else knows -- not from fear, but because she has never been able to afford surprise.\nKEY: \"Tell me the hour and what I'm carrying. I don't need the rest of it.\"",
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-09-17T08:03:16"
+}

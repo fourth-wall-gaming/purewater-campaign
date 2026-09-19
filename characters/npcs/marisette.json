@@ -1,9 +1,9 @@
 {
-  "id": "myth-char-ded5a1522328",
+  "id": "myth-char-28320448049e",
   "name": "Marisette",
   "type": "npc",
   "status": "active",
-  "description": "The madame with overall authority over Purewater's Pearl -- the proprietors, Constantine among them, answer to her. A consummate social power broker (Influence 85, Insight 82, Commerce 82) who keeps the pleasure district running and resents the disorder the Baron and Santo have brought to it.",
+  "description": "Madame of The Mother of Pearl and the near-absolute authority over Purewater's Pearl -- the proprietors, Constantine among them, answer to her. A consummate social power broker who keeps the pleasure district running, keeps her accounts in obligations, and resents the disorder the Baron and Santo have brought to it. Her oldest rule: the Pearl sells a night, never a person.",
   "narrative": "Marisette is the madame who holds sway over the whole Pearl: the individual house-proprietors, Constantine included, operate under her overall authority. She is no fighter, but in her own arena she is dangerous -- a master of people, money and information who keeps the pleasure district's delicate order intact and skims its profits. Santo di Teufel's ritual attack on Emmeralda in one of her houses, and the Dragon Knights' growing menace, are precisely the kind of disorder she cannot abide, which can make her a useful, self-interested ally to anyone working against the Baron.",
   "characteristics": {
     "STR": 10,
@@ -138,20 +138,25 @@
     "Self-defense (dagger)": 45
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 15,
-  "experience_rolls": 0,
   "extras": {
     "gender": "female",
     "class": "Madame (power broker, noncombatant)",
-    "renamed_from": "Myrtis -- a Thieves' World / Sanctuary throwback (madame of the Aphrodisia House) carried over in the Zorastor draft; renamed Marisette for Purewater.",
+    "renamed_from": "Myrtis -- a Thieves' World / Sanctuary throwback (madame of the Aphrodisia House) carried over in the Zorastor draft; renamed Marisette for Purewater. Her house was renamed too, separately and later: 'Aphrodisia House' was the same borrowing and is now THE MOTHER OF PEARL.",
     "game_system": "Classic Fantasy",
     "character_type": "Supporting Character (district authority)",
     "role": "The madame holding overall authority over the Pearl pleasure district; [[constantine]] and other proprietors operate under her.",
     "context": "A formidable social power broker -- reads people effortlessly (Insight 82), commands the trade (Commerce 82, Influence 85), and keeps the district's peace. The Baron's Dragon Knights and Santo's attack on Emmeralda threaten the order she profits from.",
     "magic_tradition": null,
-    "source": "GM-authored from source lore (referenced as the authority over Constantine's house)"
+    "source": "GM-authored from source lore (referenced as the authority over Constantine's house)",
+    "pronouns": "she/her"
   },
-  "created_at": "2026-06-24T23:15:34"
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 15,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T23:15:34",
+  "actor_notes": "Marisette\nLOOKS: Immaculate, ageless in the way money buys, never dressed louder than the room. Sits while others stand.\nCORE: A woman who governs eleven houses on nothing but the belief that she is inevitable, and who knows precisely how thin that is. Her authority is not force. It is the settled expectation, held by everybody including her rivals, that she will still be there afterwards.\nNATURE: Gracious, unhurried, and privately amused by most things. She likes competence and forgives almost anything in someone who has it. Not warm exactly, but not cold either -- she treats people like weather she has learned to dress for.\nWOUND: She came up through the same rooms her girls are in now and does not discuss it, not from shame but because the fact of having survived is the only thing she has never been able to make useful.\nWANTS: To close this, so the Pearl can open again. Every day shut is a day her inevitability is being tested in public.\nPRESSURE: She becomes hospitable. A chair, a drink, another hour of her time -- and the warmer the room goes the worse your position has become.\nKEY: \"Sit down. You have been standing since you came in and it is making my girls nervous.\""
 }

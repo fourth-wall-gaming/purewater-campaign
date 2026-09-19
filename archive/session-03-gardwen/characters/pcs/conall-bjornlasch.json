@@ -1,0 +1,294 @@
+{
+  "id": "myth-char-6d2291950d63",
+  "name": "Conall Bjornlasch",
+  "type": "pc",
+  "status": "active",
+  "description": "Warranted investigator of the King's Assay -- the Crown's arcane inspectorate; twin brother of Randall and secretly a son of Baron Hanzo. A razor-sharp investigator (Insight 88) who is also a capable fighter.",
+  "narrative": "A magical investigator and arcane caster warranted by the King's Assay -- the\nCrown's chartered inspectorate for licensing and policing arcane practice -- with a soldier's martial skill (all weapons, all shields). Sharp-eyed and\nanalytical -- Insight 88.\n\nHe rides into Purewater beside Temerach Nebulo for the Lake Lady's Tourney, an\nerrand she has declined to explain. He knows the city not at all, has never heard of\na brother, and has no idea whose son he is.\n\n**GM:** he is Randall's identical twin and a biological son of Baron Hanzo. Temerach\nhas known for years and brought him here deliberately -- see the gm-secret lore. He\nlearns none of this until play delivers it.",
+  "characteristics": {
+    "STR": 13,
+    "CON": 14,
+    "SIZ": 11,
+    "DEX": 14,
+    "INT": 16,
+    "POW": 17,
+    "CHA": 10
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 3,
+    "initiative_bonus": 13,
+    "luck_points": 4,
+    "magic_points": 17,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 24,
+    "Endurance": 78,
+    "Evade": 81,
+    "Willpower": 74,
+    "Athletics": 49,
+    "Boating": 27,
+    "Conceal": 40,
+    "Customs": 32,
+    "Dance": 24,
+    "Deceit": 51,
+    "Drive": 31,
+    "First Aid": 30,
+    "Influence": 20,
+    "Insight": 88,
+    "Locale": 32,
+    "Native Tongue": 66,
+    "Perception": 73,
+    "Ride": 50,
+    "Sing": 27,
+    "Stealth": 50,
+    "Swim": 27,
+    "Unarmed": 50,
+    "Streetwise": 67,
+    "Courtesy": 41,
+    "Arcane Casting": 73,
+    "Arcane Knowledge": 72,
+    "Lore (Strategy + Tactics)": 50,
+    "Survival": 50,
+    "Lore (Military History)": 50,
+    "Sleight": 50
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Rapier",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Impale",
+      "ap": 5,
+      "hp": 8,
+      "enc": 1
+    },
+    {
+      "name": "Buckler",
+      "damage": "1d4",
+      "size": "L",
+      "reach": "S",
+      "notes": "Bash, Stun Location",
+      "ap": 6,
+      "hp": 9,
+      "enc": 1
+    },
+    {
+      "name": "Short bow",
+      "type": "ranged",
+      "damage": "1d6",
+      "force": "L",
+      "range": "15/100/200",
+      "ammo": 99,
+      "load": 2,
+      "notes": "Impale",
+      "ap": 4,
+      "hp": 4,
+      "enc": 1
+    },
+    {
+      "name": "Gambeson (all locations)",
+      "armor": true,
+      "ap": 2,
+      "enc": 1,
+      "notes": "AP 2 each location; armor penalty -2"
+    }
+  ],
+  "passions": {
+    "Find the man who wears my face": 60,
+    "Love (Temerach Nebulo), unspoken": 65,
+    "Know a thing before acting on it": 55
+  },
+  "combat_styles": {
+    "Fighter (all weapons, all shields)": 82
+  },
+  "spells": {
+    "arcane": [
+      "Babble",
+      "Darkness",
+      "Find",
+      "Incognito",
+      "Knock",
+      "Mimic",
+      "MindSpeech",
+      "Light",
+      "Ventriloquism",
+      "Witchsight",
+      "Protection",
+      "Coordination",
+      "Read Magic",
+      "Change Appearance",
+      "Color Cascade",
+      "Invisibility, Lesser",
+      "Illusion, Lesser",
+      "Audible Illusion",
+      "Friendship",
+      "Detect Magic",
+      "Shocking Grasp",
+      "Invisibility Radius",
+      "Locate Object",
+      "Read Thoughts",
+      "Illusion Greater",
+      "Mirror Image"
+    ]
+  },
+  "extras": {
+    "culture": "Human Civilized",
+    "frame": "Medium",
+    "class": "Magic-User",
+    "class_note": "Flat Magic-User (Rank 2 Mage; 6 mage class skills at 70%+, Arcane Casting 73, 26 arcane spells) per operator. He retains strong martial training (combat style Fighter 82, all weapons/shields) but is classed as a straight Magic-User, not a multiclass. Mage caveat: cannot cast arcane spells while wearing armor or using a shield.",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character",
+    "magic_tradition": "Arcane Magic",
+    "magic_rank": 2,
+    "magic_skills": {
+      "Arcane Casting": 73,
+      "Arcane Knowledge": 72
+    },
+    "spell_ranks": {
+      "cantrip": [
+        "Babble",
+        "Darkness",
+        "Find",
+        "Incognito",
+        "Knock",
+        "Mimic",
+        "MindSpeech",
+        "Light",
+        "Ventriloquism",
+        "Witchsight",
+        "Protection",
+        "Coordination"
+      ],
+      "rank_1": [
+        "Read Magic",
+        "Change Appearance",
+        "Color Cascade",
+        "Invisibility, Lesser",
+        "Illusion, Lesser",
+        "Audible Illusion",
+        "Friendship",
+        "Detect Magic",
+        "Shocking Grasp"
+      ],
+      "rank_2": [
+        "Invisibility Radius",
+        "Locate Object",
+        "Read Thoughts",
+        "Illusion Greater",
+        "Mirror Image"
+      ]
+    },
+    "organization": "The King's Assay (warranted investigator)",
+    "twin": "Randall (identical twin brother); both secretly sons of Baron Hanzo",
+    "wound": "Right Arm at 2/4 HP",
+    "gear": [
+      "Crop",
+      "Flint & tinder",
+      "Knife (tool)",
+      "Magnifying Glass",
+      "Razor, folding"
+    ],
+    "armor": "Gambeson on all 7 locations (AP 2, ENC 1 each); armor penalty -2",
+    "encumbrance": {
+      "avg_species_siz": 13,
+      "current_load": 7.5,
+      "load_band": "Normal",
+      "armor_penalty": -2
+    },
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
+    "gender": "male",
+    "class_ranks": {
+      "Magic-User": {
+        "rank": 2,
+        "title": "Mage"
+      }
+    },
+    "assay_marks": "Warrant (sealed, renewed yearly); thumb-ring of assay silver struck with his own mark; and his steel punch. Losing the punch would be a professional catastrophe -- with it, anything can be licensed, and the Register will back it until the fraud is found."
+  },
+  "actor_notes": "Conall Bjornlasch -- GM-run in this campaign\nLOOKS: Well-dressed traveller, sharp-eyed, unhurried. Sits where he can see the door because it was drummed into him.\nCORE: An investigator who has spent his working life finding out what other people are, and who has arrived in a city where the only outstanding question is what he is.\nNATURE: Methodical, dry, watchful. Looks at people rather than around rooms. Writes things down in front of them, deliberately, to see what it does to them. Goes back to the thing you said three answers ago. Good company once he has decided you are not a subject.\nWOUND: He knows whose son he is and has not worked out what a man is supposed to do with that.\nWANTS: To find out what he was brought here for.\nPRESSURE: He stops asking questions. Puts the pencil away and says something entirely plain, and the plainness is the alarm.\nKEY: \"I'm nobody's man in this city. That's meant to reassure you and I notice it never does.\"",
+  "fatigue": "Fresh",
+  "luck_current": 3,
+  "magic_current": 16,
+  "experience_rolls": 6,
+  "location": "myth-loc-02141eddf75b",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T22:29:01"
+}

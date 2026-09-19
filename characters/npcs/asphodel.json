@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-dd1e7add673d",
+  "id": "myth-char-4b75598941c7",
   "name": "Asphodel",
   "type": "npc",
   "status": "active",
@@ -138,10 +138,6 @@
     "Desperate self-defense (dagger)": 35
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 11,
-  "experience_rolls": 0,
   "extras": {
     "gender": "female",
     "class": "Courtesan (noncombatant)",
@@ -151,7 +147,16 @@
     "role": "A working girl at the Promise of Heaven and Randall's lifelong friend -- trusted 'as brother and sister'. His best information source on the Pearl Quay; relays the girls' intelligence on the Baron's manor (and introduces Mariarta to brief him).",
     "magic_tradition": null,
     "correction_note": "Recast from an earlier mistaken 'Rogue/Thief in Randall's crew' kit. Per the novelization she is a courtesan at the Promise of Heaven, not a thief; social/empathic skills, not stealth/sleight.",
-    "source": "Novelization (And then the Dragons Came, ch. 8 & 13) -- canonical named character"
+    "source": "Novelization (And then the Dragons Came, ch. 8 & 13) -- canonical named character",
+    "pronouns": "she/her"
   },
-  "created_at": "2026-06-24T23:15:34"
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T23:15:34",
+  "actor_notes": "Asphodel\nLOOKS: Warm, quick, always slightly underdressed for the weather. Touches people while talking to them.\nCORE: A woman who loves one unreliable young man completely, knows exactly what he is, and has decided that knowing is not the same as being able to stop.\nNATURE: Bustling, affectionate, bossy about small things, enormous fun. Feeds people within a minute of their arrival and is genuinely offended if they do not eat. Interrupts with questions about the parts that worry her. Entirely unguarded with Randall and carefully guarded with everyone else.\nWOUND: She has already worked out how this ends and has not let herself say the sentence.\nWANTS: To find out how much danger he is in without letting him see her asking.\nPRESSURE: The bustling stops dead and she simply holds on to a sleeve, and there is nothing to say to her that helps.\nKEY: \"Eat that. Then tell me the version you were going to tell me, and then the real one.\""
 }

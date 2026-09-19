@@ -1,5 +1,5 @@
 ---
-id: "myth-loc-898a80b05e39"
+id: "myth-loc-b46458cc59e8"
 name: "Caravan Square"
 type: "district"
 summary: "The landward gate of Purewater: a larger outcrop at the tip of the thin western promontory, where the borderland road meets the city. The Gate of Triumph, the caravan staging-yard, and the first crush of arrivals before the canals begin."
@@ -12,8 +12,7 @@ where the long borderland road finally meets the city and the **Gate of Triumph*
 opens onto the first bridges and quays. Here caravans unload, travellers and
 competitors for the tourney throng in, beasts are penned and goods are staged before
 everything must take to boats. It is the southern jaw of the Mouth, looking across
-the landward channel to [[High Isle]]'s south-west point and the [[The Merchant's
-Quarter]] beyond.
+the landward channel to [[High Isle]]'s south-west point and the [[The Merchant's Quarter]] beyond.
 
 It was in the crush of Caravan Square that [[Randall]] first marked the disguised
 [[Baron Hanzo di Teufel]] coming into the city -- and was taken for "Lord Santo" by

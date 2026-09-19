@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-d82a8cb7a906",
+  "id": "myth-char-49ee20e7a554",
   "name": "Constantine",
   "type": "npc",
   "status": "active",
@@ -139,10 +139,6 @@
     "Protective (stiletto, crossbow)": 55
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 13,
-  "experience_rolls": 0,
   "extras": {
     "gender": "female",
     "class": "Proprietor (capable noncombatant)",
@@ -151,7 +147,16 @@
     "role": "Proprietor of The Sylph's Embrace, the high-end pleasure house on the Pearl. Protective of her workers, fiercely independent, operates under [[marisette]]'s overall authority.",
     "context": "Her establishment was the site of Santo's ritual attack on Emmeralda; she is hiring protection for her workers in the aftermath. Values loyalty and codes of conduct.",
     "magic_tradition": null,
-    "source": "GM-authored from source lore"
+    "source": "GM-authored from source lore",
+    "pronouns": "she/her"
   },
-  "created_at": "2026-06-24T23:15:34"
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 13,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T23:15:34",
+  "actor_notes": "Constantine\nLOOKS: Forties, strong forearms, sleeves shoved past the elbow. Good cloth worn like working clothes.\nCORE: A woman who has run a house of other people's daughters for twenty years and has concluded that everyone in this trade is eventually sold by somebody -- and has decided, absolutely, that it will not be her who does the selling. She has just found out what that decision is worth.\nNATURE: Exact, dry, and not at all cold once you are inside her door. She likes competence and dislikes charm. She feeds people without being asked. She swears like the dock she grew up on and does not moderate it for priests.\nWOUND: Santo offered her money for Emmeralda's contract and she came within one breath of taking it. Nobody knows that. It is the only thing in her life she cannot put in a ledger.\nWANTS: To find out what you are going to cost her before she lets you any further in.\nPRESSURE: She becomes precise about the record -- what was actually said, on what day, in whose hearing -- because the record is the one thing that has never yet failed her.\nKEY: \"I have buried four girls out of this house. I did the books for every one of them.\""
 }

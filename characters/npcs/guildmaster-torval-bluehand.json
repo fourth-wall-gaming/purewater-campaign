@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-13a0580d1aeb",
+  "id": "myth-char-46bd3d314355",
   "name": "Guildmaster Torval Bluehand",
   "type": "npc",
   "status": "active",
@@ -144,10 +144,6 @@
     "Guild defense (mace)": 48
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 2,
-  "magic_current": 14,
-  "experience_rolls": 0,
   "extras": {
     "gender": "male",
     "class": "Magic-User (enchanter / artificer)",
@@ -157,7 +153,16 @@
     "role": "Guildmaster of the Guild of Watercrafters -- middle-aged, practical, forward-thinking, more interested in innovation than tradition.",
     "magic_tradition": "Arcane Casting (CFI Magic-User), specialized in water enchantment / artifice -- enchants boats, locks, pumps and watercraft rather than slinging combat spells. Suggested spells: Animate (water), Repair, Reinforce, Strength (of materials), Float.",
     "faction": "Watercrafters Guild -- allied with the Order of the Lake Lady; their enchantments keep the canal-city running.",
-    "source": "GM-authored from source lore (purewater-organizations.md, Guild of Watercrafters)"
+    "source": "GM-authored from source lore (purewater-organizations.md, Guild of Watercrafters)",
+    "pronouns": "he/him"
   },
-  "created_at": "2026-06-24T23:15:34"
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 14,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T23:15:34",
+  "actor_notes": "Guildmaster Torval Bluehand\nLOOKS: Middle-aged, indigo sash, hands permanently blue-tinged to the wrist.\nCORE: An engineer who loves the water-works of this city the way other men love their children, and whose curiosity is so strong that it can be used on him -- which has already happened once, and which he has not let himself finish thinking about.\nNATURE: Delighted by mechanisms. Leans in. Picks things up while discussing them and forgets to put them down. Impatient with politics, lit up by detail, generous with access because showing you how it works is how he enjoys it.\nWOUND: His guild was got at through him, through the one thing about him that is entirely admirable, and some part of him already knows that.\nWANTS: To get aboard that hull and find out what it is doing to his water.\nPRESSURE: He offers you the craft -- a demonstration, a drawing, the run of his workshop. Generosity is how this man asks for things, including help.\nKEY: \"Nobody has built anything new on this water in ninety years and then a man moors THAT at my door.\""
 }

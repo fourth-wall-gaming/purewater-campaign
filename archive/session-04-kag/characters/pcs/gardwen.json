@@ -1,0 +1,242 @@
+{
+  "id": "myth-char-65e70a6489b1",
+  "name": "Gardwen",
+  "type": "pc",
+  "status": "active",
+  "description": "Feral-raised elf druid and lone survivor of a Dragon Knight raid; a rank-1 divine caster of nature and pure-water magic who walks with a befriended she-wolf, searching for her long-lost brother.",
+  "narrative": "A feral-raised elf druid and the sole survivor of a Dragon Knight raid that killed her family roughly ten years ago. Gardwen channels the magic of nature and pure water and travels with a befriended she-wolf, Ruhi. She is searching for her brother, taken during the raid as a child -- now, unknown to her, the possessed warrior serving Baron Hanzo di Teufel. Dark hair, blue eyes; soft-spoken but fierce in defense of kin and the wild. She journeys with the old warrior-protector Magda (an emissary of the death goddess Hel) toward Zorastor, following the Dragon Knights.\n\n**The old ways gave her more than healing.** The grove that remade itself around eight murdered\npeople did not teach her herbs alone. She carries the **woodland set** of the binding school --\nSpirit Sight, Speak with the Bound, **Unseat**, Sanctuary -- learned in a place thick with people\nwho died badly, where such things are not theory.\n\nThere is no attack spell in it and there never was. **Unseat is a burial rite:** you put your hands\non somebody who is carrying a passenger and you refuse to let go until it can leave. It cannot be\nforced on a spirit that is holding on -- and a spirit held by torment counts as holding on until\nsomebody addresses the torment, which is what Speak with the Bound is for.\n\nShe has never used any of it on a person. She has used it twice on animals and once on a place.",
+  "characteristics": {
+    "STR": 10,
+    "CON": 14,
+    "SIZ": 11,
+    "DEX": 14,
+    "INT": 16,
+    "POW": 18,
+    "CHA": 14
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 15,
+    "luck_points": 6,
+    "magic_points": 18,
+    "movement": "6"
+  },
+  "skills": {
+    "Animal Training": 52,
+    "Athletics": 59,
+    "Boating": 24,
+    "Brawn": 21,
+    "Channel": 85,
+    "Conceal": 42,
+    "Courtesy": 40,
+    "Customs": 32,
+    "Dance": 28,
+    "Deceit": 32,
+    "Devotion": 87,
+    "Drive": 32,
+    "Druid's Cant": 70,
+    "Endurance": 48,
+    "Evade": 53,
+    "First Aid": 60,
+    "Influence": 38,
+    "Insight": 44,
+    "Language (Common)": 40,
+    "Locale": 72,
+    "Lore (Species)": 52,
+    "Lore (Woodland Animal 1)": 70,
+    "Lore (Woodland Animal 2)": 70,
+    "Native Tongue": 70,
+    "Perception": 79,
+    "Ride": 32,
+    "Sing": 32,
+    "Stealth": 50,
+    "Survival": 62,
+    "Swim": 24,
+    "Track": 60,
+    "Unarmed": 24,
+    "Willpower": 81
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Staff",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Stun Location",
+      "ap": 2,
+      "hp": 8,
+      "enc": 2
+    },
+    {
+      "name": "Dagger",
+      "damage": "1d4+1",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed / Impale",
+      "ap": 6,
+      "hp": 8,
+      "enc": 0
+    }
+  ],
+  "passions": {
+    "Love (Brother + Family)": 80,
+    "Hatred (The Dragons)": 70,
+    "Love (Nature + Wilderness)": 65,
+    "Love (Elves)": 45
+  },
+  "combat_styles": {
+    "Druid (club, dagger, dart, hammer, sickle, scimitar, shield, sling, spear, staff, staff sling, whip)": 59
+  },
+  "spells": {
+    "memorized": [
+      "Command",
+      "Cure Disease",
+      "Cure Minor Wounds",
+      "Cure Serious Wounds",
+      "Detect Evil",
+      "Hold Person",
+      "Know Alignment",
+      "Protection",
+      "Remove Fear",
+      "Slow Poison",
+      "Spiritshield"
+    ]
+  },
+  "powers": [
+    {
+      "name": "The Wild Line",
+      "rule": "magic/powers/the-wild-line",
+      "boosts": [
+        "Sanctuary (2 PP)",
+        "Unseat (4 PP)"
+      ],
+      "limits": [
+        "Limited Power -- spirits and the spirit-touched only"
+      ]
+    },
+    {
+      "name": "Woodwise",
+      "rule": "magic/powers/woodwise",
+      "boosts": [],
+      "limits": []
+    }
+  ],
+  "extras": {
+    "culture": "Elf / Feral",
+    "frame": "Lithe",
+    "class": "Cleric",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character",
+    "magic_tradition": "Divine Magic",
+    "magic_rank": 2,
+    "magic_skills": {
+      "Channel": 85,
+      "Piety": 87
+    },
+    "abilities": [
+      "The Wild Line, Woodwise -- see powers"
+    ],
+    "animal_companion": "Ruhi -- befriended female wolf",
+    "encumbrance": {
+      "avg_species_siz": 13,
+      "current_load": 2,
+      "load_band": "Normal",
+      "armor_penalty": 0
+    },
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
+    "source_typos_normalized": [
+      "Animal Traininig->Animal Training",
+      "Druiid's Cant->Druid's Cant",
+      "Cure Miinor Wounds->Cure Minor Wounds"
+    ],
+    "player_notes": "Dark hair, blue eyes. Female wolf named Ruhi. Older woman/protector - Magda - emissary of goddess of death. Following Dragonshits to Zorastor. Lord Santo was attacker of elven woman Emmerelda. Hanzo (dad). Baron Hesper - mage/sorcerer - 'power behind the throne'. Constantine (Sylph's Embrace) and Marisette (Aphrodisias) - madames. Randall, Conall and Santo are all identical -- Hanzo is the father of all three. Brother taken by dragons as a child - dead or alive? Hanzo leads the Dragonshits. Brother's name? Gabriel. Conall: the warrior lady (Tamarack?) here to stop Hanzo. Santo is a fire-wielding magician, equal power to Conall. Soul blade -- used to bind a spirit in a body (possession), crafted by a necromancer. Girl who hugged me - Ila, 13.",
+    "source_class": "Druid (Classic Fantasy class; mapped to Cleric in CFI's four core classes -- divine caster)",
+    "spell_access": "CFI cleric, Rank 2: access to every cleric spell of that Rank or below. \"memorized\" is what is currently prayed for, not what she can have.",
+    "gender": "female",
+    "pronouns": "she/her"
+  },
+  "actor_notes": "Gardwen -- GM-RUN IN THIS CAMPAIGN (run 4). Gully plays KAG here; myth-played-pcs is set to Kag alone. The old 'do not play her' note belonged to run 3, where she was the played character. In THIS save she is an NPC and needs a card like anybody else. If a later run hands her back to a player, delete this card again.\n\nLOOKS: Elven, feral-raised, weathered in a way elves usually are not. Moves quietly without appearing to try. A she-wolf called Ruhi who is not a pet and is not tame and simply goes where she goes.\nCORE: A woman who has spent ten years keeping one belief alive against all evidence -- that her brother survived that night -- and who found out on Monday that she was right, which has left her with nothing to do with ten years of hope except spend it.\nNATURE: Quiet, direct, physically unbothered by cold or dirt or long waits. Very little small talk and no social armour at all. She helps without being asked and without announcing it -- she shuts the window, she burns the papers, she gets up off the floor before anyone tells her to. Enormously fond of animals and children and short with everybody else.\nWOUND: She was in the trees and she watched them take him and she did not come out. Everything she has done for a decade is an argument with that one night.\nWANTS: Her brother out of that armour, alive, and to be the one who does it.\nPRESSURE: She stops asking. She goes and does the thing herself, alone, at once, and tells nobody -- and she is good enough at moving quietly that she will be halfway there before anyone notices she has gone.\nKEY: \"I've had ten years of being told to wait somewhere.\"",
+  "fatigue": "Fresh",
+  "luck_current": 3,
+  "magic_current": 18,
+  "experience_rolls": 0,
+  "location": "myth-loc-5f2b58f4bd7c",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T22:18:02"
+}

@@ -1,5 +1,5 @@
 {
-  "id": "myth-char-0fecded5fce3",
+  "id": "myth-char-df4b5d854459",
   "name": "Nus",
   "type": "npc",
   "status": "active",
@@ -30,7 +30,7 @@
     "Evade": 64,
     "Willpower": 45,
     "Athletics": 62,
-    "Boating": 40,
+    "Boating": 65,
     "Conceal": 60,
     "Customs": 26,
     "Dance": 30,
@@ -45,7 +45,7 @@
     "Ride": 22,
     "Sing": 24,
     "Stealth": 68,
-    "Swim": 40,
+    "Swim": 55,
     "Unarmed": 45,
     "Sleight": 65,
     "Lockpicking": 62,
@@ -167,10 +167,6 @@
     "Street Thief (dagger, sap, sling, short sword)": 65
   },
   "spells": null,
-  "fatigue": "Fresh",
-  "luck_current": 3,
-  "magic_current": 10,
-  "experience_rolls": 0,
   "extras": {
     "gender": "male",
     "culture": "Civilized (Purewater)",
@@ -193,7 +189,16 @@
     ],
     "magic_tradition": null,
     "authored_note": "New NPC -- no Roll20 sheet existed. Entirely GM-authored from the brief ('a thief called Nus, friend of Randall') and Randall's notes; tune freely.",
-    "source": "Authored for the And then the Dragons Came campaign (friend of Randall)"
+    "source": "Authored for the And then the Dragons Came campaign (friend of Randall)",
+    "pronouns": "he/him"
   },
-  "created_at": "2026-06-24T23:06:04"
+  "fatigue": "Fresh",
+  "luck_current": 3,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T23:06:04",
+  "actor_notes": "Nus\nLOOKS: Young, quick-fingered, dressed rather better than he can account for.\nCORE: A thief with genuine talent and no judgement at all, who has worked out that being thought the man for it is worth more to him than being alive, and has not yet met the situation that tests that.\nNATURE: Grinning, restless, funny, generous with money the moment he has any. Something is always moving in his hands. He listens badly and brilliantly -- misses half of what you say and catches the one detail that can be turned into a job.\nWOUND: Nobody has ever asked him for anything difficult, and he has built a whole personality out of pretending they have.\nWANTS: To be thought the man for it.\nPRESSURE: He raises the stakes out loud. Cornered, he does not retreat -- he offers something bigger and more dangerous, and the size of the offer is the size of the fear.\nKEY: \"I could get in there. I'm not saying I should. I'm saying nobody else could.\""
 }

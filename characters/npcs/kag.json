@@ -1,0 +1,200 @@
+{
+  "id": "myth-char-npc-kag",
+  "name": "Kag",
+  "type": "npc",
+  "status": "active",
+  "description": "Half-orc, female, thirties. Rank 2 Thief of Crowbill's guild -- muscle, not a burglar, and the only person in the outfit who can read a ledger. Raised among humans in a Purewater that had no use for her. Seven feet of her, a club she actually reaches for, and a quarter-bound octavo with five years of the Shoals in it that she paid for herself. she/her.",
+  "narrative": "**Kag is the party's route into Crowbill's, and she is the only person in Purewater who has costed the occupation.** Nobody else in this city has sat down and worked out what twenty-five tents, eleven of them cold, and forty-one horses actually mean, because nobody else has both the numbers and a reason to want them.\n\n**How you talk to her decides what she is.** This is the whole of running her and it is not subtle. Everyone who meets Kag sees seven feet of half-orc and addresses the muscle. She has spent her entire life being addressed as the muscle, she hates it at 75, and she has never once said so out loud.\n\n- **Treat her as the hired arm** -- give her an order, talk past her to whoever is standing next to her, ask her to fetch someone, be surprised that she can read -- and she is correct, unhelpful, and exactly as much use as you paid for. She will not sabotage you. She will simply never volunteer the one fact that would have saved you two days, and you will never know it was there.\n- **Ask her what a thing costs** -- ask her to price it, read it, count it, work out who benefits -- and you get the best analyst in the city for nothing, permanently, and she will go on giving you things you did not ask for, because almost nobody ever has.\n\nThe door is not Influence. It is the question.\n\n**What she actually knows**, and will trade or give away depending on the above: the Dragon Knights have no quartermaster and nobody has presented a bill in nine weeks; the shortfalls on the Shoals bridges are not theft, they are men being unable to pay because the Knights take what they like; the occupation is twenty-five tents and a story; the Pearl closing is eleven houses and four hundred and eleven people and the city cannot absorb it.\n\n**She will not** kill for a party, inform on Crowbill, or touch a job involving children -- and if she sees somebody else's child put in front of a knife she will get in the way of it without being asked and without mentioning it afterwards.\n\n**If she dies** the party loses their arithmetic and their door to Crowbill on the same afternoon, and they will feel the second one first.\n\n**A passion she does not start with.** *Killing is the last resort* (50) is not on her sheet at d-3. In the run where this happened she took it after she cut a nineteen-year-old's throat on a boat at first light because it was the sensible thing to do, and then had to go on being a person afterwards. Write it onto her the first time she does something like that in your game, and not before.",
+  "actor_notes": "Kag\nLOOKS: Half-orc, thirties, a head and a half taller than anybody in the room and built to match. Leather, worn. A club on the belt that is plainly the thing she reaches for. Hands too big for most work and good at all of it.\nCORE: A woman who worked out young that this city had decided what she was before she opened her mouth, and who has spent fifteen years quietly becoming the thing it insists she cannot be, without ever once asking to be believed.\nNATURE: Dry, flat, unhurried, and much funnier than she appears. Physically comfortable everywhere -- she sits down on floors, eats standing up, sleeps anywhere. Good with children and unsentimental about it. She listens all the way to the end of a sentence, which almost nobody does.\nWOUND: Nobody has ever asked her opinion first. Not once, in thirty years, in a city she knows better than the people who run it.\nWANTS: To be the one who works it out, and to be seen doing it.\nPRESSURE: She gets precise. The voice drops, the sentences get shorter, and she starts putting numbers on things -- and the numbers are always right and always worse than anybody hoped.\nKEY: \"That's not short because he's skimming. That's short because they took sixty feet of his line and there's nobody to bill.\"",
+  "characteristics": {
+    "STR": 18,
+    "CON": 15,
+    "SIZ": 20,
+    "DEX": 13,
+    "INT": 16,
+    "POW": 7,
+    "CHA": 5
+  },
+  "attributes": {
+    "action_points": 4,
+    "damage_modifier": "+1d6",
+    "experience_modifier": -1,
+    "healing_rate": 3,
+    "initiative_bonus": 14,
+    "luck_points": 3,
+    "magic_points": 7,
+    "movement": "20 ft"
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 9,
+      "current_hp": 9
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 10,
+      "current_hp": 10
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 8,
+      "current_hp": 8
+    }
+  ],
+  "skills": {
+    "Athletics": 70,
+    "Evade": 70,
+    "Stealth": 70,
+    "Insight": 70,
+    "Brawn": 58,
+    "Unarmed": 48,
+    "Endurance": 52,
+    "Perception": 50,
+    "Intimidation": 50,
+    "Commerce": 65,
+    "Streetwise": 60,
+    "Boating": 68,
+    "Conceal": 30,
+    "Customs": 72,
+    "Dance": 18,
+    "Deceit": 41,
+    "Drive": 25,
+    "First Aid": 29,
+    "Influence": 20,
+    "Locale": 42,
+    "Native Tongue": 61,
+    "Ride": 20,
+    "Sing": 12,
+    "Swim": 58,
+    "Willpower": 35,
+    "Craft (Boatwright)": 34,
+    "Lockpicking": 36,
+    "Mechanisms": 39,
+    "Language (Thieves' Cant)": 61,
+    "Thieves' Guild Oath": 53,
+    "Literacy (Common)": 48
+  },
+  "combat_styles": {
+    "Rogue (all basic weapons, hand crossbow, longsword, rapier, shortsword)": 78
+  },
+  "equipment": [
+    {
+      "name": "Shortsword",
+      "damage": "1d6",
+      "size": "M",
+      "effects": "Bleed, Impale",
+      "ap_hp": "6/8"
+    },
+    {
+      "name": "Dagger (x3, thrown 15/30/60)",
+      "damage": "1d4+1",
+      "size": "S",
+      "effects": "Bleed, Impale",
+      "ap_hp": "6/8"
+    },
+    {
+      "name": "Club -- the one she actually reaches for",
+      "damage": "1d6",
+      "size": "M",
+      "effects": "Bash, Stun Location",
+      "ap_hp": "4/4"
+    },
+    {
+      "name": "Leather armour, full set (AP 2, all locations)",
+      "worn": true
+    },
+    {
+      "name": "Lock picks and thieves' tools"
+    },
+    {
+      "name": "Backpack, waterskin, rations, bedroll, sack, flint and tinder, lantern, 2 flasks of oil"
+    },
+    {
+      "name": "The book -- quarter-bound octavo, five years of the Shoals, paid for herself"
+    },
+    {
+      "name": "Belt pouch"
+    }
+  ],
+  "passions": {
+    "Hate (being taken for dumb muscle)": 75,
+    "Loyalty (Crowbill -- he has never once short-changed me)": 60,
+    "Ambition (to run these streets the way he does)": 55
+  },
+  "extras": {
+    "gender": "female",
+    "pronouns": "she/her",
+    "race": "Half-Orc",
+    "culture": "Civilized (raised among humans)",
+    "class": "Rogue",
+    "rank": 2,
+    "title": "Thief",
+    "game_system": "Classic Fantasy Imperative",
+    "guild": "Crowbill's -- sworn, dues paid, a cut of every sanctioned job",
+    "abilities": [
+      "Climb Walls -- ignore 1 grade on Athletics to climb, unburdened and in light armor or less",
+      "Hide in Shadows -- in shadow, Perception rolls to spot her are 1 grade harder",
+      "Sneak Attack -- from outside the victim's field of vision: Choose Location free, +1d2 at Rank 2, and Bypass Armor / Maximize Damage need no critical",
+      "Subterfuge -- Lockpicking, Mechanisms and Sleight one grade easier",
+      "GREAT HEARING (Rank 1, chosen) -- all Perception rolls that pertain to hearing are one Difficulty Grade easier",
+      "Darkvision (half-orc) -- 60 ft; dim light reads as bright, darkness as dim",
+      "Literate -- raised among humans, so she reads and writes Common"
+    ]
+  }
+}

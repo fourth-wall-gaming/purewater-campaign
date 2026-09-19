@@ -1,0 +1,534 @@
+{
+  "knows": [
+    {
+      "since": 60,
+      "source": null,
+      "fact": "myth-fact-02db9ec920e6",
+      "certainty": "knows",
+      "knower_name": "Kag",
+      "knower": "myth-char-af1fa86db355"
+    },
+    {
+      "knower_name": "Hanzo di Teufel",
+      "certainty": "knows",
+      "since": 0,
+      "fact": "myth-fact-13b5151fc8a7",
+      "source": "witnessed",
+      "knower": "myth-char-f1bad9d5757b"
+    },
+    {
+      "knower": "myth-char-4074534baf31",
+      "knower_name": "Magda",
+      "since": 71,
+      "fact": "myth-fact-197a5b5ba73e",
+      "certainty": "knows",
+      "source": null
+    },
+    {
+      "certainty": "knows",
+      "source": null,
+      "knower_name": "Gardwen",
+      "knower": "myth-char-65e70a6489b1",
+      "fact": "myth-fact-197a5b5ba73e",
+      "since": 71
+    },
+    {
+      "knower_name": "Kag",
+      "fact": "myth-fact-197a5b5ba73e",
+      "since": 71,
+      "certainty": "knows",
+      "source": null,
+      "knower": "myth-char-af1fa86db355"
+    },
+    {
+      "knower_name": "Gardwen",
+      "certainty": "suspects",
+      "knower": "myth-char-65e70a6489b1",
+      "since": 0,
+      "source": "deduced",
+      "fact": "myth-fact-2df006248e9b"
+    },
+    {
+      "fact": "myth-fact-2df006248e9b",
+      "knower_name": "Hanzo di Teufel",
+      "knower": "myth-char-f1bad9d5757b",
+      "certainty": "knows",
+      "source": "witnessed",
+      "since": 0
+    },
+    {
+      "source": null,
+      "certainty": "knows",
+      "since": null,
+      "fact": "myth-fact-31bbd3d10838",
+      "knower_name": "Constantine",
+      "knower": "myth-char-7ba27e566acc"
+    },
+    {
+      "since": null,
+      "knower_name": "Kag",
+      "knower": "myth-char-af1fa86db355",
+      "certainty": "knows",
+      "fact": "myth-fact-31bbd3d10838",
+      "source": null
+    },
+    {
+      "source": null,
+      "fact": "myth-fact-32e42605f2b6",
+      "certainty": "knows",
+      "knower": "myth-char-7ba27e566acc",
+      "since": null,
+      "knower_name": "Constantine"
+    },
+    {
+      "source": null,
+      "knower": "myth-char-85b7a393679b",
+      "knower_name": "Hesper",
+      "fact": "myth-fact-32e42605f2b6",
+      "since": null,
+      "certainty": "knows"
+    },
+    {
+      "source": null,
+      "knower_name": "Marisette",
+      "certainty": "knows",
+      "fact": "myth-fact-32e42605f2b6",
+      "knower": "myth-char-af01a2536d03",
+      "since": null
+    },
+    {
+      "source": null,
+      "knower": "myth-char-af1fa86db355",
+      "knower_name": "Kag",
+      "since": null,
+      "fact": "myth-fact-32e42605f2b6",
+      "certainty": "knows"
+    },
+    {
+      "certainty": "knows",
+      "knower_name": "Hesper",
+      "source": null,
+      "fact": "myth-fact-4a7d3b0a270b",
+      "since": 67,
+      "knower": "myth-char-85b7a393679b"
+    },
+    {
+      "knower": "myth-char-af01a2536d03",
+      "source": null,
+      "certainty": "knows",
+      "fact": "myth-fact-4a7d3b0a270b",
+      "since": 67,
+      "knower_name": "Marisette"
+    },
+    {
+      "source": null,
+      "fact": "myth-fact-4a7d3b0a270b",
+      "knower": "myth-char-af1fa86db355",
+      "knower_name": "Kag",
+      "certainty": "knows",
+      "since": 67
+    },
+    {
+      "knower": "myth-char-7ba27e566acc",
+      "since": null,
+      "source": null,
+      "fact": "myth-fact-4b32742bd447",
+      "certainty": "knows",
+      "knower_name": "Constantine"
+    },
+    {
+      "since": null,
+      "knower": "myth-char-af01a2536d03",
+      "fact": "myth-fact-4b32742bd447",
+      "certainty": "knows",
+      "source": null,
+      "knower_name": "Marisette"
+    },
+    {
+      "knower": "myth-char-af1fa86db355",
+      "source": null,
+      "since": null,
+      "certainty": "knows",
+      "knower_name": "Kag",
+      "fact": "myth-fact-4b32742bd447"
+    },
+    {
+      "knower": "myth-char-0d9f630b6182",
+      "since": 0,
+      "source": "deduced",
+      "knower_name": "Cailan",
+      "certainty": "believes",
+      "fact": "myth-fact-4f523db49bb3"
+    },
+    {
+      "certainty": "knows",
+      "since": 0,
+      "knower": "myth-char-1a276445679f",
+      "source": "witnessed",
+      "knower_name": "Thuban Eta",
+      "fact": "myth-fact-4f523db49bb3"
+    },
+    {
+      "certainty": "knows",
+      "since": 0,
+      "source": "witnessed",
+      "knower_name": "Hanzo di Teufel",
+      "knower": "myth-char-f1bad9d5757b",
+      "fact": "myth-fact-4f523db49bb3"
+    },
+    {
+      "knower": "myth-char-2357f0fb2f3c",
+      "since": 71,
+      "knower_name": "Crowbill",
+      "fact": "myth-fact-4fffb1179fde",
+      "certainty": "knows",
+      "source": null
+    },
+    {
+      "certainty": "knows",
+      "fact": "myth-fact-4fffb1179fde",
+      "knower": "myth-char-af1fa86db355",
+      "since": 71,
+      "knower_name": "Kag",
+      "source": null
+    },
+    {
+      "fact": "myth-fact-504797a5faf8",
+      "source": null,
+      "knower_name": "Kag",
+      "knower": "myth-char-af1fa86db355",
+      "since": 67,
+      "certainty": "knows"
+    },
+    {
+      "knower_name": "Constantine",
+      "since": 59,
+      "fact": "myth-fact-523a17655fcb",
+      "knower": "myth-char-7ba27e566acc",
+      "certainty": "knows",
+      "source": null
+    },
+    {
+      "since": 59,
+      "source": null,
+      "knower": "myth-char-af1fa86db355",
+      "knower_name": "Kag",
+      "fact": "myth-fact-523a17655fcb",
+      "certainty": "knows"
+    },
+    {
+      "since": null,
+      "source": null,
+      "knower_name": "Conall Bjornlasch",
+      "fact": "myth-fact-52dc71fbb653",
+      "knower": "myth-char-9d8a0632e5ee",
+      "certainty": "knows"
+    },
+    {
+      "knower_name": "Temerach Nebulo",
+      "certainty": "knows",
+      "fact": "myth-fact-52dc71fbb653",
+      "source": null,
+      "knower": "myth-char-b73546ad8c81",
+      "since": null
+    },
+    {
+      "knower_name": "Hesper",
+      "since": null,
+      "fact": "myth-fact-5a948f3b88c6",
+      "source": null,
+      "certainty": "knows",
+      "knower": "myth-char-85b7a393679b"
+    },
+    {
+      "source": null,
+      "fact": "myth-fact-5a948f3b88c6",
+      "since": null,
+      "certainty": "knows",
+      "knower": "myth-char-af01a2536d03",
+      "knower_name": "Marisette"
+    },
+    {
+      "since": null,
+      "source": null,
+      "knower_name": "Kag",
+      "fact": "myth-fact-5a948f3b88c6",
+      "certainty": "knows",
+      "knower": "myth-char-af1fa86db355"
+    },
+    {
+      "since": 71,
+      "source": null,
+      "certainty": "knows",
+      "knower": "myth-char-2357f0fb2f3c",
+      "fact": "myth-fact-6399b0dd158d",
+      "knower_name": "Crowbill"
+    },
+    {
+      "knower": "myth-char-af1fa86db355",
+      "knower_name": "Kag",
+      "certainty": "knows",
+      "source": null,
+      "fact": "myth-fact-6399b0dd158d",
+      "since": 71
+    },
+    {
+      "knower_name": "Kag",
+      "knower": "myth-char-af1fa86db355",
+      "source": null,
+      "since": 59,
+      "certainty": "knows",
+      "fact": "myth-fact-6629a178c45c"
+    },
+    {
+      "knower": "myth-char-1d17728fc0ed",
+      "certainty": "knows",
+      "source": "witnessed",
+      "knower_name": "Blau",
+      "since": 52,
+      "fact": "myth-fact-66ae2d1940c1"
+    },
+    {
+      "fact": "myth-fact-66ae2d1940c1",
+      "knower": "myth-char-f1bad9d5757b",
+      "since": 52,
+      "certainty": "knows",
+      "knower_name": "Hanzo di Teufel",
+      "source": "witnessed"
+    },
+    {
+      "fact": "myth-fact-7f860aceb6d6",
+      "certainty": "knows",
+      "since": 0,
+      "source": "witnessed",
+      "knower": "myth-char-65e70a6489b1",
+      "knower_name": "Gardwen"
+    },
+    {
+      "since": 0,
+      "knower": "myth-char-f1bad9d5757b",
+      "fact": "myth-fact-7f860aceb6d6",
+      "knower_name": "Hanzo di Teufel",
+      "certainty": "knows",
+      "source": "witnessed"
+    },
+    {
+      "since": 59,
+      "fact": "myth-fact-85501500390e",
+      "knower_name": "Constantine",
+      "certainty": "knows",
+      "knower": "myth-char-7ba27e566acc",
+      "source": null
+    },
+    {
+      "certainty": "knows",
+      "knower": "myth-char-af1fa86db355",
+      "fact": "myth-fact-85501500390e",
+      "since": 59,
+      "knower_name": "Kag",
+      "source": null
+    },
+    {
+      "knower_name": "Crowbill",
+      "knower": "myth-char-2357f0fb2f3c",
+      "fact": "myth-fact-c8be17777695",
+      "certainty": "knows",
+      "source": null,
+      "since": 71
+    },
+    {
+      "knower_name": "Gardwen",
+      "fact": "myth-fact-c8be17777695",
+      "source": null,
+      "certainty": "knows",
+      "knower": "myth-char-65e70a6489b1",
+      "since": 71
+    },
+    {
+      "knower_name": "Kag",
+      "source": null,
+      "knower": "myth-char-af1fa86db355",
+      "certainty": "knows",
+      "since": 71,
+      "fact": "myth-fact-c8be17777695"
+    },
+    {
+      "knower_name": "Temerach Nebulo",
+      "knower": "myth-char-b73546ad8c81",
+      "certainty": "knows",
+      "fact": "myth-fact-d4c8270545c4",
+      "since": 0,
+      "source": "deduced"
+    },
+    {
+      "fact": "myth-fact-d83f02a21e94",
+      "knower": "myth-char-85b7a393679b",
+      "since": 71,
+      "knower_name": "Hesper",
+      "source": null,
+      "certainty": "knows"
+    },
+    {
+      "knower": "myth-char-af1fa86db355",
+      "source": null,
+      "knower_name": "Kag",
+      "since": 71,
+      "certainty": "knows",
+      "fact": "myth-fact-d83f02a21e94"
+    },
+    {
+      "knower": "myth-char-2357f0fb2f3c",
+      "since": 71,
+      "source": null,
+      "fact": "myth-fact-d9f9f2868766",
+      "knower_name": "Crowbill",
+      "certainty": "knows"
+    },
+    {
+      "fact": "myth-fact-d9f9f2868766",
+      "knower_name": "Kag",
+      "source": null,
+      "knower": "myth-char-af1fa86db355",
+      "certainty": "knows",
+      "since": 71
+    },
+    {
+      "fact": "myth-fact-e1861337971d",
+      "since": 71,
+      "knower": "myth-char-1d17728fc0ed",
+      "certainty": "knows",
+      "source": null,
+      "knower_name": "Blau"
+    },
+    {
+      "since": 71,
+      "certainty": "knows",
+      "fact": "myth-fact-e1861337971d",
+      "knower": "myth-char-2357f0fb2f3c",
+      "source": null,
+      "knower_name": "Crowbill"
+    },
+    {
+      "fact": "myth-fact-e1861337971d",
+      "source": null,
+      "certainty": "knows",
+      "knower_name": "Magda",
+      "knower": "myth-char-4074534baf31",
+      "since": 71
+    },
+    {
+      "certainty": "knows",
+      "knower": "myth-char-535c193a7d97",
+      "fact": "myth-fact-e1861337971d",
+      "knower_name": "Nus",
+      "since": 71,
+      "source": null
+    },
+    {
+      "fact": "myth-fact-e1861337971d",
+      "knower_name": "Gardwen",
+      "certainty": "knows",
+      "since": 71,
+      "knower": "myth-char-65e70a6489b1",
+      "source": null
+    },
+    {
+      "knower": "myth-char-af1fa86db355",
+      "source": null,
+      "fact": "myth-fact-e1861337971d",
+      "since": 71,
+      "certainty": "knows",
+      "knower_name": "Kag"
+    },
+    {
+      "knower_name": "Temerach Nebulo",
+      "knower": "myth-char-b73546ad8c81",
+      "certainty": "knows",
+      "fact": "myth-fact-f28703898456",
+      "source": "told",
+      "since": 0
+    },
+    {
+      "since": null,
+      "source": null,
+      "fact": "myth-fact-ff12b85a8c30",
+      "certainty": "knows",
+      "knower": "myth-char-4074534baf31",
+      "knower_name": "Magda"
+    },
+    {
+      "knower": "myth-char-65e70a6489b1",
+      "fact": "myth-fact-ff12b85a8c30",
+      "source": null,
+      "certainty": "knows",
+      "knower_name": "Gardwen",
+      "since": null
+    },
+    {
+      "source": null,
+      "knower_name": "Kag",
+      "fact": "myth-fact-ff12b85a8c30",
+      "knower": "myth-char-af1fa86db355",
+      "since": null,
+      "certainty": "knows"
+    },
+    {
+      "since": 0,
+      "knower": "myth-char-b73546ad8c81",
+      "source": "deduced",
+      "knower_name": "Temerach Nebulo",
+      "fact": "myth-fact-ffeabecbb28e",
+      "certainty": "knows"
+    }
+  ],
+  "agenda_requires": [
+    {
+      "fact": "myth-fact-f28703898456",
+      "agenda": "myth-agenda-5aa3a4fdbc90"
+    }
+  ],
+  "consequences": [
+    {
+      "fact": "myth-fact-5a948f3b88c6",
+      "agenda": "myth-agenda-2b6b58ede03f",
+      "effect": "thwart",
+      "amount": null
+    },
+    {
+      "fact": "myth-fact-5a948f3b88c6",
+      "agenda": "myth-agenda-5e3cf67cae25",
+      "effect": "stall",
+      "amount": 2
+    },
+    {
+      "fact": "myth-fact-5a948f3b88c6",
+      "agenda": "myth-agenda-b5fe70eb7b76",
+      "effect": "abandon",
+      "amount": null
+    },
+    {
+      "fact": "myth-fact-fa1c38e70c07",
+      "agenda": "myth-agenda-5e3cf67cae25",
+      "effect": "stall",
+      "amount": 3
+    },
+    {
+      "fact": "myth-fact-fa1c38e70c07",
+      "agenda": "myth-agenda-f0fe4a75430a",
+      "effect": "complete",
+      "amount": null
+    },
+    {
+      "fact": "myth-fact-fa95a8faf99f",
+      "agenda": "myth-agenda-d5f17e0009b9",
+      "effect": "advance",
+      "amount": 2
+    }
+  ],
+  "supersedes": [
+    {
+      "superseded": "myth-fact-fa1c38e70c07",
+      "superseding": "myth-fact-d9f9f2868766"
+    }
+  ]
+}

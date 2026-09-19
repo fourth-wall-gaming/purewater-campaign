@@ -1,0 +1,145 @@
+{
+  "id": "myth-char-96e01443c4a9",
+  "name": "Maro Quist",
+  "type": "npc",
+  "status": "active",
+  "description": "Councillor, seventy-one, thirty years on the council: incorruptible, formidable, and completely wrong. He voted for both instructions on the merits and will defend them to your face.",
+  "narrative": "**He is the honest one, and he is the problem.**\n\nMaro Quist cannot be bought and has never tried to be. He is the best-read man in\nthe chamber, he drafts beautifully, and his word carries the council on any\nquestion he cares about. He voted for the standing order because you do not police\na great lord's retinue during a sacred festival unless you want a diplomatic\nincident, and he voted to stand down the temple's fouling alarm because the\nWatercrafters' own assessor called it a false reading and the city does not need a\nwater panic in Tourney week.\n\nBoth positions are defensible. Both are wrong. Nobody lied to him -- he was\nsimply given true facts in the right order by people who knew what he would\nconclude, which is the only way anyone has ever moved Maro Quist.\n\n**He is the red herring, deliberately.** Quist subscribes to the **Ember\nSociety**: eleven dinners a year, a printed address, borderland-facing gentlemen\nof means, and a great deal of learned melancholy about the greatness of the age\nthat ended at the Lake. He has attended three. He thinks they are antiquarians.\n\n**They are a recruiting front for [[The Awake the Dragon Movement]]** (see [[The Ember Society]]), and a party\nthat finds the subscription list will find Quist's name on it and conclude they\nhave found their cultist. They have found a seventy-one-year-old who likes being\nread to about the fall of the Dragon Kings and who has never been asked for\nanything, because the Society asks nothing of most of its members and everything\nof about four of them.\n\n**How to move him.** Evidence. Not passion, not pressure, and absolutely not\naccusation -- accuse Maro Quist of treason and he will destroy you in open council\nin about four minutes, and he will be right to. Bring him **[[Abel Weir]]'s\nreferral book**, or the spent scroll in the Baron's hand, or a Knight's crime with\nwitnesses, and he will read it properly, and then he will change his position in\npublic and take the council with him, because that is what he has always done.\n\n**He is the single most valuable ally in the city government and the party will\nalmost certainly waste him.**",
+  "characteristics": {
+    "STR": 9,
+    "CON": 10,
+    "SIZ": 11,
+    "DEX": 9,
+    "INT": 17,
+    "POW": 14,
+    "CHA": 14
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "-1d2",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 13,
+    "luck_points": 3,
+    "magic_points": 14,
+    "movement": "6m"
+  },
+  "skills": {
+    "Commerce": 60,
+    "Influence": 82,
+    "Insight": 76,
+    "Locale": 74,
+    "Customs": 80,
+    "Native Tongue": 82,
+    "Bureaucracy": 86,
+    "Oratory": 80,
+    "Deceit": 30,
+    "Willpower": 74,
+    "Perception": 55,
+    "Purewater Law": 84,
+    "Lore (History)": 78,
+    "Evade": 20,
+    "Endurance": 18,
+    "Athletics": 15
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Councillor's chain, worn always"
+    },
+    {
+      "name": "Ember Society subscription card",
+      "type": "document",
+      "notes": "Eleven dinners a year. Third name on a list of sixty. He has attended three and found the wine poor. Damning-looking and almost meaningless -- which is the point."
+    }
+  ],
+  "passions": {
+    "Thirty years of getting it right": 85,
+    "The city, as an idea": 75,
+    "Contempt for men who are moved by money": 70,
+    "A weakness for being told the age is in decline": 50
+  },
+  "combat_styles": {},
+  "spells": null,
+  "extras": null,
+  "actor_notes": "Maro Quist\nLOOKS: Seventy-one, upright, councillor's chain always worn, hands entirely still.\nCORE: A man who has spent fifty years in public life and has never yet found an argument he would rather win than understand. It is not humility. It is that being wrong in private is cheap and being wrong in office is not.\nNATURE: Grave, unhurried, courteous to everybody at the same temperature. Dry humour, rarely deployed. He reads things properly, in front of you, at his own pace, and does not apologise for the wait. He is the only man in the chamber who cannot be hurried.\nWOUND: None operating. His danger is precisely that he has no secret and therefore no lever, and every other person in that room finds this unbearable.\nWANTS: To be right on the facts as they actually stand, and to be shown when he is not.\nPRESSURE: He goes back to the beginning. A man who has read a document once and starts again at the top has changed his mind, and the chamber knows it.\nKEY: \"You have brought me a conclusion. Bring me the thing you concluded it from.\"",
+  "fatigue": "Fresh",
+  "luck_current": 3,
+  "magic_current": 14,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-09-09T00:00:00"
+}
