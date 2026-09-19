@@ -11,6 +11,13 @@
 > engine with it, imports this package, briefs you on Mythras, and walks you
 > through choosing or rolling a character.
 >
+> **The marketplace is the engine repository, not this one.** This repo is a
+> *plugin*; mythras-gm carries the marketplace manifest that lists it. Adding
+> this repository as a marketplace fails with `no manifest found at
+> .claude-plugin/marketplace.json`, which is correct and expected — there is
+> deliberately one marketplace, so a campaign's dependency on the engine
+> resolves by itself.
+>
 > **This repository is a scenario seed, not a save.** The root is the pristine
 > starting state — world clock `d-3/dawn`, 43 beats all pending, an empty journal,
 > four pregens offered and none chosen. Nothing here spoils it: the records of
