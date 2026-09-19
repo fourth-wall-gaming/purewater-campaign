@@ -2,7 +2,7 @@
   "name": "purewater",
   "displayName": "And Then the Dragons Came: Purewater",
   "description": "A Classic Fantasy Imperative campaign for mythras-gm. Purewater is a canal city where the Lake Lady's waters meet the sea, and Baron Hanzo di Teufel has arrived for the Tourney with a champion nobody is allowed to see. Three days before it all goes wrong. A living world: 15 agendas on clocks, 43 scheduled beats, 42 characters, and four playable entry points.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Fourth Wall Gaming",
     "url": "https://github.com/fourth-wall-gaming"
@@ -10,7 +10,15 @@
   "repository": "https://github.com/fourth-wall-gaming/purewater-campaign",
   "homepage": "https://github.com/fourth-wall-gaming/purewater-campaign",
   "license": "MIT",
-  "keywords": ["rpg", "mythras", "campaign", "gamemaster", "tabletop"],
-  "dependencies": ["mythras-gm"],
+  "keywords": [
+    "rpg",
+    "mythras",
+    "campaign",
+    "gamemaster",
+    "tabletop"
+  ],
+  "dependencies": [
+    "mythras-gm"
+  ],
   "hooks": "./hooks/hooks.json"
 }
