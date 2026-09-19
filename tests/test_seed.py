@@ -138,3 +138,68 @@ def test_no_documented_directory_is_missing():
     readme = (ROOT / "README.md").read_text()
     for d in re.findall(r"\|\s*`([a-z-]+)/`\s*\|", readme):
         assert (ROOT / d).is_dir(), f"README documents {d}/ which does not exist"
+
+
+# --- the release tree carries no playthrough records --------------------
+#
+# These three directories shipped inside the installable plugin: ~25MB of raw
+# transcripts, novelisations with every ending, and four campaigns' end states.
+# The only thing keeping an installed GM out of them was a "do not read" table
+# in skills/purewater/SKILL.md, which is a prose lock on the answer. They live
+# on the `playthroughs` branch now, and these tests are what stops them coming
+# back onto a release.
+
+SPOILER_DIRS = ("session-logs", "novels", "archive")
+
+
+def _tracked():
+    import subprocess
+    return subprocess.run(["git", "ls-files"], cwd=ROOT, capture_output=True,
+                          text=True, check=True).stdout.splitlines()
+
+
+@pytest.mark.parametrize("d", SPOILER_DIRS)
+def test_playthrough_records_are_not_in_the_release_tree(d):
+    """Tracked, not on-disk: a contributor's leftover build artefacts are
+    nobody's business, but a tracked file is one an install receives."""
+    found = [f for f in _tracked() if f.startswith(d + "/")]
+    assert not found, (
+        f"{len(found)} file(s) under {d}/ are tracked on this branch, starting "
+        f"with {found[0]}. They belong on `playthroughs`: a release must not "
+        f"ship the record of four finished games to the player.")
+
+
+@pytest.mark.parametrize("d", SPOILER_DIRS)
+def test_gitignore_keeps_them_out(d):
+    """Removing them once is not enough -- export-campaign writes to archive/."""
+    ignored = (ROOT / ".gitignore").read_text()
+    assert re.search(rf"^{re.escape(d)}/\s*$", ignored, re.M), \
+        f"{d}/ is not in .gitignore; an export could put it back into a release"
+
+
+def test_the_skill_still_names_the_spoilers_it_does_ship():
+    """Dropping the three directories must not quietly drop the whole warning:
+    the GM-side files that DO ship are still spoilers."""
+    skill = (ROOT / "skills" / "purewater" / "SKILL.md").read_text()
+    for path in ("lore/gm-secret/", "setting/adventure.md",
+                 "lore/character-creation/the-four-companions.md"):
+        assert path in skill, f"SKILL.md no longer warns about {path}"
+    assert "playthroughs" in skill, \
+        "SKILL.md should say where the removed records went"
+
+
+def test_docs_do_not_point_at_directories_the_release_lacks():
+    """CLAUDE.md and README referenced archive/ paths as if they were here.
+
+    Checked per paragraph, not per line: the sentence that explains where these
+    went is naturally longer than one line, and a per-line rule would only
+    teach us to write worse prose.
+    """
+    for name in ("README.md", "CLAUDE.md"):
+        text = (ROOT / name).read_text()
+        for para in re.split(r"\n\s*\n", text):
+            if not any(f"`{d}/" in para for d in SPOILER_DIRS):
+                continue
+            assert "playthroughs" in para, (
+                f"{name} mentions a playthrough directory without saying it "
+                f"lives on the playthroughs branch:\n{para.strip()[:300]}")

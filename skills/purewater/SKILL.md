@@ -41,22 +41,25 @@ save, and edits to them never reach the game.
 
 ## 3. Never read these during play
 
-This repository contains, for archival reasons, complete records of four previous
-playthroughs. They are the highest-grade spoilers in the project.
-
 | do not read | what is in it |
 |---|---|
-| `session-logs/` | full transcripts of prior runs |
-| `novels/` | finished novelisations, including every ending |
-| `archive/` | the end-state of four campaigns |
 | `setting/adventure.md`, `setting/the-story-so-far.md` | the original adventure's full plot |
 | `lore/gm-secret/`, `lore/gm-guide/the-plot-timeline.md` | the reveals |
 | `lore/character-creation/the-four-companions.md` | GM-only; gives away the twins and the parentage |
 
-The GM-side files are yours to use, but the reveals in them land **in play** and
-never in narration before then. The first three are not even that — they are
-records of somebody else's game and reading them will make you tell this one
-wrong.
+These are yours to use. The reveals in them land **in play** and never in
+narration before then.
+
+The worst spoilers in the project are no longer here to be read. Complete
+records of four previous playthroughs -- raw transcripts, finished
+novelisations with every ending, and the end-state of each campaign -- used to
+ship in `session-logs/`, `novels/` and `archive/`, kept out of your hands by
+nothing but this list. A prose instruction is a weak lock on 25MB of the answer,
+so they now live on the `playthroughs` branch of this repository and are not
+part of a release. If you find those directories in your working copy you are on
+a contributor's checkout, not an install, and the rule above still applies to
+them: they are records of somebody else's game and reading them will make you
+tell this one wrong.
 
 ## 4. This campaign's own conventions
 

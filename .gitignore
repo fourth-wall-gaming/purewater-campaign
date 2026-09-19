@@ -8,3 +8,15 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# Records of finished playthroughs live on the `playthroughs` branch, never on
+# main. They are ~25MB of the highest-grade spoilers in the project -- raw
+# transcripts, novelisations with every ending, and four campaigns' end states
+# -- and they used to ship to players inside the plugin, held back by nothing
+# but a "do not read" list in skills/purewater/SKILL.md.
+#
+# Ignoring them here stops an `export-campaign` or a stray `cp` putting them
+# back into a release. To work with them: git checkout playthroughs
+session-logs/
+novels/
+archive/

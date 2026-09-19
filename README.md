@@ -13,8 +13,9 @@
 >
 > **This repository is a scenario seed, not a save.** The root is the pristine
 > starting state — world clock `d-3/dawn`, 43 beats all pending, an empty journal,
-> four pregens offered and none chosen. Four previous playthroughs are archived in
-> `archive/`, and they are spoilers.
+> four pregens offered and none chosen. Nothing here spoils it: the records of
+> four previous playthroughs live on the `playthroughs` branch and are not part
+> of a release.
 
 A Classic Fantasy Imperative port of 'And then the Dragons Came', relocated to Purewater -- a Venice-like canal city where the sacred waters of the Lake Lady meet the sea. Baron Hanzo di Teufel arrives with his Dragon Knights for the Lake Lady's Tourney, his possessed champion concealed among them. Four strangers arrive the same week. Built as a living world: every NPC and faction runs its own agenda on a clock, and what the party does not witness happens anyway.
 

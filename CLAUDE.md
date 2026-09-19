@@ -38,8 +38,8 @@ in the DB so they cannot be mistaken for a startable game.
 
 | id | run |
 |---|---|
-| `myth-campaign-f7af4bb667ac` | run 4 — Kag, `d1/night`, session 2 · `archive/session-04-kag/` |
-| `myth-campaign-44abede1efbf` | S2 — Gardwen, CH.1–13 · `archive/session-03-gardwen/` |
+| `myth-campaign-f7af4bb667ac` | run 4 — Kag, `d1/night`, session 2 · `archive/session-04-kag/` on `playthroughs` |
+| `myth-campaign-44abede1efbf` | S2 — Gardwen, CH.1–13 · `archive/session-03-gardwen/` on `playthroughs` |
 | `myth-campaign-7883760b82ef` | run 3 — Gardwen, `d-3` to `d-2` |
 | `myth-campaign-66a98ba4a70e` | v1, finished at CH.25 |
 
@@ -73,7 +73,8 @@ gm init-db && gm import-campaign --path .
 - **The database is the save.** Persist with `log-event`, `set-scene`,
   `update-character`. Never hand-edit these files to change game state.
 - **`export-campaign`** when you want a fresh file snapshot for git — but not over
-  the root, which is the seed. Export archives to `archive/`.
+  the root, which is the seed. Finished runs are exported to `archive/` **on the
+  `playthroughs` branch**, never onto `main`; `.gitignore` here enforces that.
 - **Load rules lazily** from the rules graph (`query-rules`, `get-rule`). Never
   read `rules/*.md` wholesale into context.
 
@@ -84,10 +85,22 @@ gm init-db && gm import-campaign --path .
 scheme, the champion's identity, the twins. Keep them out of player-facing
 narration until they land in play.
 
-And `session-logs/`, `novels/` and `archive/` are records of four finished
-playthroughs. They are the worst spoilers here and reading them during a session
-will make you run this one wrong. `skills/purewater/SKILL.md` says so where it
-reaches an installed GM.
+`session-logs/`, `novels/` and `archive/` are records of four finished
+playthroughs and the worst spoilers in the project. **They are not on this
+branch.** They live on `playthroughs`, which is never released, because a
+25MB directory of the answer held back by a prose instruction in a skill file
+is not held back at all.
+
+To work with them:
+
+```bash
+git checkout playthroughs            # the full record
+git checkout main                    # the release tree
+git checkout playthroughs -- novels/ # or pull one directory across
+```
+
+Do not merge `playthroughs` into `main`. It is a parallel record, not work in
+progress, and `main` is what a player installs.
 
 ## A note on `claude plugin validate --strict`
 
