@@ -2,21 +2,10 @@
   {
     "id": "myth-event-cb5ec92165e1",
     "type": "gm-note",
-    "summary": "Campaign seeded: Purewater, living-world build. 12 agendas, 14 beats, four playable entry points. World clock starts at d-3/dawn; the Tourney is d0.",
-    "narrative": "Nothing has happened yet. Run `tick` to start the world moving.",
+    "summary": "Campaign seeded: Purewater, living-world build. 15 agendas, 43 beats, 17 facts, four playable entry points. World clock starts at d-3/dawn; the Tourney is d0.",
+    "narrative": "Nothing has happened yet. Choose an entry point or roll a character, set the scene, then tick.",
     "session": 0,
     "involves": [],
     "at": "2026-09-05T12:00:00"
-  },
-  {
-    "id": "myth-event-052fc61db35a",
-    "type": "session-start",
-    "summary": "SESSION 1 -- Purewater, living-world build. Play opens on the Anminster road an hour out from the city, d-3/dawn, three days before the Lake Lady's Tourney. Gully plays Conall Bjornlasch, riding in beside his patron Temerach Nebulo as the di Teufel column overtakes them. Magda, Gardwen and Randall are GM-run.",
-    "narrative": "Four strangers reach Purewater in the same week and none of them knows about the others. Conall is the one with a patron, a borrowed face and a licence to ask questions -- and the least idea of what he is.",
-    "session": 1,
-    "involves": [
-      "myth-char-d8b643d61817"
-    ],
-    "at": "2026-09-06T05:30:05"
   }
 ]

@@ -1,0 +1,204 @@
+{
+  "id": "myth-char-6ed423cbc351",
+  "name": "Santo di Teufel",
+  "type": "npc",
+  "status": "dead",
+  "description": "Baron Hanzo's cruel son and heir -- a sadistic young fire-mage who has decided he wants Emmeralda of the Sylph's Embrace, and who carries a stolen ritual knife marked with the sigil of Asmodeus because he cannot imagine being told no.",
+  "narrative": "Santo di Teufel is Baron Hanzo's cruel, entitled heir, trained in his father's\ndark arts and trusted with none of them. A junior fire-mage with a taste for cruelty\n(Lust 80, Arrogance & Entitlement 75), charming and predatory in equal measure\n(Seduction 81, Deceit 66).\n\nHe arrives in Purewater with the column, spends one evening on the Pearl, and sees\n**Emmeralda** dance. That is the whole of his plot. He wants her -- not for a night,\nwhich he can buy, but *kept*: on the barge, his, pleased to be there. He is nineteen\nand he has never in his life been refused something he could point at.\n\nHe is not building anything and he is not hunting anyone else. There is one girl and\nthere is a stolen barbed knife bearing the sigil of Asmodeus that his father does not\nknow he has taken.\n\n**GM:** his agenda is *Have her*. He tries to buy her contract first, because that is\nwhat a di Teufel does; when the house refuses him he decides to make her willing\ninstead, which is a thing he has watched his father do and has never once been taught.\nLeft alone he botches it, opens her the length of her body, and runs leaving the knife\nbehind -- the evidence that ties the di Teufels to the possession scheme. Everything\nafter that depends on who was in the house, and on the fact that **he still wants her**\nand now needs her off the Pearl before she can say his name.\n\n**What he can actually do (rules).** Almost nothing. Santo taught himself by *tracing*\nout of a locked case: he has **Open the Channel** and **Spirit Sight** and that is the\nwhole of his binding capability. He cannot **Seat the Bound**. He has no **Anchor** and\nno **Draw Forth** and cannot **Speak with the Bound** -- he has never once heard the\nvoice of the thing he is trying to move.\n\nWhat he has is **one scroll**, lifted from his father's case: a single use of Seat the\nBound, and a scroll is consumed on use whatever the result. One attempt, on one girl,\nand no second chance -- which is exactly why the night at the Sylph's Embrace goes the\nway it goes, and why afterwards he is frantic rather than methodical. He has spent the\nonly real thing he had and he still does not have her.\n\n**His father does not know the scroll is gone.**",
+  "characteristics": {
+    "STR": 10,
+    "CON": 13,
+    "SIZ": 11,
+    "DEX": 15,
+    "INT": 15,
+    "POW": 16,
+    "CHA": 16
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 15,
+    "luck_points": 5,
+    "magic_points": 16,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 31,
+    "Endurance": 51,
+    "Evade": 30,
+    "Willpower": 69,
+    "Athletics": 45,
+    "Boating": 23,
+    "Conceal": 31,
+    "Customs": 30,
+    "Dance": 31,
+    "Deceit": 66,
+    "Drive": 31,
+    "First Aid": 30,
+    "Influence": 62,
+    "Insight": 55,
+    "Locale": 30,
+    "Native Tongue": 71,
+    "Perception": 61,
+    "Ride": 51,
+    "Sing": 52,
+    "Stealth": 50,
+    "Swim": 23,
+    "Unarmed": 55,
+    "Seduction": 81,
+    "Courtesy": 81,
+    "Literacy": 70,
+    "Lore (Demonology)": 50,
+    "Arcane Casting": 55,
+    "Arcane Knowledge": 50
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Rapier",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Impale (damage not filled on sheet; CFI standard used)"
+    },
+    {
+      "name": "Ritual knife (soul-knife, symbol of Asmodeus)",
+      "size": "S",
+      "damage": "1d4",
+      "reach": "S",
+      "notes": "Demonologist's binding knife, stolen from his father's effects. He carries it on his belt. If a binding goes wrong he is likely to leave it behind -- it is the key evidence tying the di Teufels to the possession scheme."
+    },
+    {
+      "name": "Scroll of Seat the Bound (one use)",
+      "type": "document",
+      "notes": "Stolen from the third shelf of his father's study, behind the border rolls, out of a case that locks and that Hanzo has never once thought to check. ONE USE, consumed whatever the result. He spends it on Emmeralda at the Sylph's Embrace and wastes it. The spent sheet is still legible, still in the Baron's own hand, and therefore evidence linking Hanzo di Teufel personally to demonology -- wherever it ends up after that night.",
+      "enc": 0
+    }
+  ],
+  "passions": {
+    "Have Emmeralda": 80,
+    "Lust": 80,
+    "Arrogance + Entitlement": 75,
+    "Terror of his father finding out": 60
+  },
+  "combat_styles": {
+    "Magic User": 25
+  },
+  "spells": {
+    "arcane": [
+      "Burning Hands",
+      "Ignite",
+      "Magic Missile"
+    ]
+  },
+  "powers": [
+    {
+      "name": "The Binding",
+      "rule": "magic/powers/the-binding",
+      "boosts": [
+        "Open the Channel (2 PP)"
+      ],
+      "limits": [
+        "Limited Power -- spirits only"
+      ],
+      "note": "An apprentice. He has cut a channel and does not know what came through it."
+    }
+  ],
+  "extras": {
+    "gender": "male",
+    "culture": "Human (Civilized)",
+    "class": "Magic-User",
+    "class_note": "Junior arcane fire-mage / demonology dabbler, Rank 1; far weaker than his father Hanzo. Defining skills: Lore (Demonology) 50, 8 arcane spells (fire-focused).",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character (antagonist)",
+    "role": "Baron Hanzo's cruel heir; sadistic predator; attempted Emmeralda's spirit-binding ritual (dropped the ritual knife = key evidence).",
+    "magic_tradition": "Arcane Magic",
+    "magic_theme": "Fire and lightning (Flaming Hands, Affect Normal Fires, Fireball, Lightning Bolt, Shocking Touch) + utility (Magic Missile, Levitate, Web).",
+    "family": "Son and heir of Baron Hanzo di Teufel; half-brother/double of the twins Randall & Conall (all three uncannily identical, all Hanzo's sons)",
+    "sheet_cleanup_note": "On the Roll20 sheet Arcane Casting & Arcane Knowledge were a broken -75 -- supplied working values (Casting 55, Knowledge 50) for a junior mage; GM adjust as desired. Rapier damage was blank on the sheet (CFI standard 1d8 used).",
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
+    "pronouns": "he/him"
+  },
+  "actor_notes": "Santo di Teufel\nLOOKS: Nineteen, dressed beautifully and always slightly too warm for it. Rings. A good sword he cannot really use.\nCORE: A boy who has never had to wait, and who therefore experiences ordinary refusal the way other people experience being robbed. He is not wicked in his own account of himself; he is wronged, constantly, by everyone.\nNATURE: Loud, generous, funny when things are going his way, and enormous fun for about an hour. He spends money on people to watch their faces. He genuinely likes being adored and is confused and hurt when adoration does not arrive.\nWOUND: His father is the only person alive who can make him feel small, does it without raising his voice, and has never once had to explain the consequences. Everything Santo does too loudly is done at that distance.\nWANTS: The thing he has pointed at. Now. Without the intervening steps.\nPRESSURE: The vagueness burns off and he becomes horribly precise -- an itemised account of exactly what will happen to your house, your girls, your boat, with the details getting smaller as the panic gets bigger.\nKEY: \"Do you know, I have never once had to ask for anything twice. Not once. It is a very strange feeling.\"",
+  "fatigue": "Fresh",
+  "luck_current": 5,
+  "magic_current": 16,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T22:56:04"
+}

@@ -1,0 +1,149 @@
+{
+  "id": "myth-char-b348522179d7",
+  "name": "Alderic Vantt",
+  "type": "npc",
+  "status": "active",
+  "description": "Merchant prince and councillor, fifty-two: borderland transit, grain and timber. The Baron's host -- the Dragon Knights are camped on his water-meadow -- and the man who drafted the standing order and put it in front of the Prince.",
+  "narrative": "**He is bought, and he is not a cultist.** Two winters ago Alderic Vantt lost\nthree hulls and a bonded warehouse in the same month and was four thousand short\nof ruin. Baron Hanzo covered it privately, took no interest, asked for nothing,\nand mentioned it never. Vantt has been waiting two years to find out what it cost\nhim, and this is the week he is finding out.\n\nWhat has been asked of him so far is small, which is the point. Host the company\n-- an honour. Draft a sensible instruction about the watch and the Baron's people\n-- prudent, during a festival. Support the temple's alarm being stood down --\ntechnical, and the Watercrafters agreed it was a false reading. Each one alone is\ndefensible. He has not been asked to do anything a decent man could not explain.\n\nHe also has twenty-five armed men on his grass and no way to ask them to leave.\n\n**In a room** he is warm, funny, and extremely good company, and he steers a\nconversation the way a man closes a door -- so smoothly you do not notice you are\nnow in the corridor. He does not lie well under direct pressure and never has to,\nbecause nobody has ever put him under any.\n\n**How to break him.** Not with the debt -- he will call that a private matter\nbetween gentlemen and he will be technically right. Break him with **fear of the\nBaron**, which is real and which he has never once admitted out loud, or with the\nprospect of the camp being blamed on him. Show him a Knight's crime that will\nhave *his* name attached and he will move faster than any honest man in the city.\n\n**He does not know about Cailan.** He does not know what the Baron wants with the\nPrince. He has never heard of Thuban Eta. If the party tells him, he will be\nsick, and then he will be useful.",
+  "characteristics": {
+    "STR": 10,
+    "CON": 11,
+    "SIZ": 13,
+    "DEX": 10,
+    "INT": 15,
+    "POW": 10,
+    "CHA": 15
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 2,
+    "magic_points": 10,
+    "movement": "6m"
+  },
+  "skills": {
+    "Commerce": 85,
+    "Influence": 78,
+    "Insight": 62,
+    "Locale": 70,
+    "Customs": 72,
+    "Native Tongue": 74,
+    "Bureaucracy": 74,
+    "Oratory": 66,
+    "Deceit": 58,
+    "Willpower": 45,
+    "Perception": 48,
+    "Boating": 40,
+    "Ride": 45,
+    "Evade": 25,
+    "Endurance": 22,
+    "Athletics": 20
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Good clothes and a councillor's chain"
+    },
+    {
+      "name": "The Baron's private note of discharge",
+      "type": "document",
+      "notes": "Two winters old, four thousand, no terms and no interest stated. Kept in a locked drawer in the house on High Isle rather than at the estate. It is not a crime. It is the whole explanation."
+    }
+  ],
+  "passions": {
+    "The Vantt name, solvent and respectable": 80,
+    "Debt of gratitude to Baron Hanzo (which he calls friendship)": 65,
+    "Fear of the man he owes": 60,
+    "Love of his daughter Ilse": 70
+  },
+  "combat_styles": {},
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "gender": "male",
+    "pronouns": "he/him"
+  },
+  "actor_notes": "Alderic Vantt\nLOOKS: Fifty-two, warm-faced, well fed, beautifully turned out without being showy.\nCORE: A man of real charm and no spine, who has spent his life making rooms comfortable and has now been comfortable in the wrong room for two years.\nNATURE: Genuinely excellent company. Generous, funny, a good host, remembers names, remembers your wife's name. He likes people and people like him and he has never once had to find out whether that was enough.\nWOUND: He owes the Baron money he cannot repay and has not said so aloud, not to his council, not to his wife. Everything pleasant about him is now also a way of not having that conversation.\nWANTS: To reach the end of the week with the Vantt name unattached to any of it.\nPRESSURE: He turns the joke on himself. Self-deprecation is his whole defensive repertoire and he deploys it in bursts, and two in a row means you have found the thing.\nKEY: \"I have a very good cellar and no idea any more which of it I paid for.\"",
+  "fatigue": "Fresh",
+  "luck_current": 2,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-09-09T00:00:00"
+}

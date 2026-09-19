@@ -2,10 +2,21 @@
 id: "myth-lore-a32f052f760c"
 title: "The Four Companions"
 category: "character-creation"
-visibility: "player"
+visibility: "gm"
 summary: "How the player characters meet: tracked Dragon Knights, a death-goddess's vision, a framed thief, and an investigator twin -- bound into an alliance over a soul-knife."
 created_at: "2026-06-24T23:31:07"
 ---
+
+> **GM ONLY. This was marked player-visible and should never have been.** It
+> gives away, in four bullet points: that Conall and Randall are identical twins,
+> that Conall is the Baron's son, that Randall gets framed for the carving, and
+> the fact that there is a carving at all. That is most of the first two acts.
+>
+> It is a useful summary of how the original adventure binds the party together,
+> so keep it — for the GM. A player choosing a character should be given
+> `lore/player-briefing/choosing-a-character.md` instead, which describes the same
+> four people with none of this in it.
+
 
 The campaign opens by drawing four (with Temerach, five) strangers together in the days before the tourney:
 

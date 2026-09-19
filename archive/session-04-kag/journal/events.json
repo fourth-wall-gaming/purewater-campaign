@@ -1,0 +1,117 @@
+[
+  {
+    "id": "myth-event-0c6e859a8ad0",
+    "type": "gm-note",
+    "summary": "Campaign seeded: Purewater, living-world build. 12 agendas, 14 beats, four playable entry points. World clock starts at d-3/dawn; the Tourney is d0.",
+    "narrative": "Nothing has happened yet. Run `tick` to start the world moving.",
+    "session": 0,
+    "involves": [],
+    "at": "2026-09-05T12:00:00"
+  },
+  {
+    "id": "myth-event-707fd6010c26",
+    "type": "session-start",
+    "summary": "SESSION 1 -- Purewater, living-world build. Play opens on the Anminster road an hour out from the city, d-3/dawn, three days before the Lake Lady's Tourney. Gully plays Conall Bjornlasch, riding in beside his patron Temerach Nebulo as the di Teufel column overtakes them. Magda, Gardwen and Randall are GM-run.",
+    "narrative": "Four strangers reach Purewater in the same week and none of them knows about the others. Conall is the one with a patron, a borrowed face and a licence to ask questions -- and the least idea of what he is.",
+    "session": 1,
+    "involves": [
+      "myth-char-4074534baf31"
+    ],
+    "at": "2026-09-06T05:30:05"
+  },
+  {
+    "id": "myth-event-dce04c7b7dba",
+    "type": "gm-note",
+    "summary": "Santo threatened to burn the Sylph's Embrace with the girls inside it, in the open on Pearl Quay, in front of thirty witnesses including Kag. Blau walked him off the stones into a boat inside a minute.",
+    "narrative": null,
+    "session": null,
+    "involves": [],
+    "at": "2026-09-14T20:13:37"
+  },
+  {
+    "id": "myth-event-45f239e012f4",
+    "type": "gm-note",
+    "summary": "BOOKKEEPING: the ford bound Magda and Gardwen at d-3/dawn and they came into the city together and took work at the Sylph's Embrace for Tourney week -- Magda on the door, Gardwen on the water-stair, exactly as the location file records. Magda was on the front door the night Santo came in as a late client; he went out of a first-floor window rather than past her. Gardwen went up when the screaming started and is what is holding Emmeralda together. Both had been left at The Ford in the save while the fiction ran two days ahead of them.",
+    "narrative": null,
+    "session": null,
+    "involves": [],
+    "at": "2026-09-14T22:06:59"
+  },
+  {
+    "id": "myth-event-adfa9c076af7",
+    "type": "gm-note",
+    "summary": "THE PLAN, fixed d-1/dusk. Emmeralda writes a note in her own hand saying she is frightened of Constantine, that the house is keeping her, and that she can get out for an hour on d0 night -- tell him he was right. Santo's own silver hair-comb goes with it as proof she kept it. Carried by an out-of-work Pearl girl for a day's wage, because he has had notes off that island before. Ground: the Lily Garden's back water-stair, four feet wide, gate at the top, dead end in the canal. Hesper at the BOTTOM of the steps, one casting, Sleep -- so he must be comfortable coming down. TWO on the stone, not four, and the rest on the water out of sight: Blau is not hunting the boy, he is scanning for a thing going wrong, so it must look like a lad going to meet a girl. Blau's runner is NOT taken -- he is left to run all night reporting quiet. Santo goes to Marisette, alive, no war, and Gardwen does not get a hostage. Randall then wears the coat and leaves the city loudly as Santo with a stand-in for Emmeralda -- seen at night, at distance -- and stays away months. Blau is left alive and puzzled on purpose: he is the one who will tell the Baron the boy ran off with a girl, because it is the version that makes sense of everything he has watched for a fortnight.",
+    "narrative": null,
+    "session": null,
+    "involves": [],
+    "at": "2026-09-14T23:38:30"
+  },
+  {
+    "id": "myth-event-e22b79c46c76",
+    "type": "session-end",
+    "summary": "SESSION 1 -- Purewater, run 4. Gully plays KAG: half-orc, Rogue (Thief) Rank 2, Crowbill's. Rolled Dice-High, STR 18 CON 15 SIZ 20 DEX 13 INT 16 POW 7 CHA 5 -- four Action Points, +1d6, Willpower 35, Influence 20, and Insight 70 next to Commerce 65, which made her muscle who does the sums rather than muscle. Passions: Hate (being taken for dumb muscle) 75, Loyalty (Crowbill) 60, Ambition (to run these streets as he does) 55.\n\nd-3: collections on the Shoals came up short in three places on one bridge -- not skimming, ASKING, because the Knights take what they like and nobody bills them. Costed it for Crowbill, who gave the job to her instead of to the two men everybody pictures. Offered to supply the Dragon Knights and was laughed at: there is no quartermaster and nine weeks of nobody presenting a bill. Called it stealing to their faces on the Fishmarket bridge and walked off; forty people heard it.\n\nd-2: the carving happened overnight at the Sylph's Embrace. Kag sent Pell for the right question -- not who cut her, who MENDED her -- and got Gardwen. Went east to the Vantt estate under a water butt and counted TWENTY-FIVE TENTS, eleven cold, forty-one horses. Not four hundred. The whole occupation is a bluff. Found Tam and another Purewater boatman taken off the Guild landing at four that morning, an hour after a soaked man poled east past them in the dark. Took it to Marisette at dusk, asked for nothing, and got an innocent Sword of the Lake out of a cellar; lied to her about Crowbill's instruction and was seen through on a critical. Got the burnt scroll out of the grate at the Sylph's.\n\nd-1: Orsk & Daughter in the Forge Quarter cut that pommel-mark to a stranger's drawing on the FOURTH OF JUNE -- four months before the column -- for a Purewater man in his fifties with a quill callus who had taken the buttons off his coat. The Pearl closed: eleven houses, 411 people, ten times the bridges in one morning, and Kag refused the arithmetic that said settle with the Baron. Crowbill opened everything to her and set one price: the twenty-five stays in the yard. At the presentation Gardwen saw her brother walked out as the Baron's champion, stolen at seven, and wants Santo as a hostage; Kag refused and offered to take the brother to Crowbill instead. Blau is a NET, not a leash -- he watches the crowd for the thing that will need cleaning, and runs a fifteen-year-old to the ship six times a day.\n\nTHE PLAN, fixed: Emmeralda writes in her own hand that she is frightened of Constantine and can get out for an hour on d0 night, with Santo's own silver comb as proof she kept it. Lily Garden's back stair. Hesper at the bottom, one Sleep. TWO on the stone, the rest on the water -- be BORING, because Blau is scanning for a thing going wrong. Runner left alone to report quiet. Santo to Marisette alive, no war. Randall wears the coat out of the city with Tess as Emmeralda; Blau left alive and puzzled on purpose, because he is the one who will believe the boy ran off with a girl.\n\nAnd Kag took nothing off a nineteen-year-old novice who offered, and gave her a boat fare instead.",
+    "narrative": null,
+    "session": null,
+    "involves": [
+      "myth-char-af1fa86db355"
+    ],
+    "at": "2026-09-15T01:21:10"
+  },
+  {
+    "id": "myth-event-fc59b63e0f7d",
+    "type": "scene",
+    "summary": "d0 day-to-night into d1/dawn. ARCHERY: Temerach Nebulo won the open butts at two hundred paces into a crosswind and then HELD it -- took the wreath, said the eleven words, walked. No public accusation. Kag critted Customs on the slope and got close enough to the black box to hear Blau tell a knight 'He doesn't leave the ship tonight. Tell the boatmen it comes from his father.'\n\nDELIVERY: Ila (13) carried Emmeralda's letter and Santo's silver comb to him directly, in the crush at the Long Butts landing. She made the handoff clean but BLAU SAW IT (Ila Stealth 95/60 fail vs Blau Perception 39/72) and took her by the arm. Kag drove the crowd -- failed, spent a Luck Point, succeeded -- a woman went in the water and Blau let go to haul her out. Ila got clear. BLAU HAS HER FACE AND HAD HER FOR EIGHT SECONDS.\n\nTHE SNATCH: Santo hired two Purewater boatmen to get off the barge -- TAM and PAV, the two lifted off the Guild landing on d-2. Hesper's Sleep from the boat at the foot of the stair took Tess and Santo RESISTED (Willpower 61/69). He ran downhill at the water and Kag took him on the gunwale. Deri and Fen tied him. Marisette received him in the linen room at the Mother of Pearl.\n\nEMMERALDA came the four doors herself, asked to see him, and Kag opened the door for her. Santo thought the letter had worked -- 'I got your letter', then 'I can still take you out of here'. She opened the coat and made him look at the cut, closed it, and said on the way out: 'He's about five foot nine.'\n\nCROWBILL'S PRICE, relayed whole: the Baron on a boat and gone inside the week, and NOT ONE WORD said out loud about anybody's face. Marisette took it: 'Eleven houses are going to ask me why we opened and nothing was said. And I shall have to let them think what they think.'\n\nKAG THEN REWROTE IT. She judged Hanzo would not trade for his son and would only take revenge once he had him back, and proposed instead: interrogate, kill, and use the escape story Randall and Tess had already built in public. Crowbill accepted -- named the eel pots off the Lost Isle, and set one condition: ONE PAIR OF HANDS, HERS. She agreed. 'Thirty years I've been doing this and I've had one person say that to me. He was an idiot. You're not.'\n\nCITY-WIDE NON-COOPERATION begins at first light: nobody poles for them, no ice, no bread, no rope, no runner. Outsiders cannot crew, so the household cannot move, resupply, or get the champion to the sand.\n\nNUS: Kag gave him the word for the chain at the Lady's blessing -- into HER hand, then a boat north the same hour, a month away, nobody told. She leaned on him (Intimidation 50 vs Willpower fail) and he repeated it back exactly. She bought his compliance with deferred bragging rights: 'When you come back in a month you get full bragging rights.' He asked one thing: 'When it's done, will you tell him it was me?'\n\nINTERROGATION (Hesper): ten years of nightly quarter-hours; the chain is what makes the thing in the champion OBEY; Hanzo has never removed it in front of anyone; Santo tried the working on Emmeralda because he had watched it a hundred times and thought watching was knowing; he did not know what removing the chain would do, only that his father is frightened of it.\n\nSANTO DI TEUFEL IS DEAD. Killed by Kag on the boat at first light, butchered on the pot-men's board on the Lost Isle, fed to the eel pots on the deep string, blue cloak weighted separately. Twelve people know. Kag took a new passion out of it: KILLING IS THE LAST RESORT 50. Luck spent to 0.",
+    "narrative": null,
+    "session": null,
+    "involves": [
+      "myth-char-1d17728fc0ed",
+      "myth-char-2357f0fb2f3c",
+      "myth-char-27691473e570",
+      "myth-char-535c193a7d97",
+      "myth-char-6ed423cbc351",
+      "myth-char-7af8076fff25",
+      "myth-char-85b7a393679b",
+      "myth-char-af01a2536d03",
+      "myth-char-af1fa86db355",
+      "myth-char-b73546ad8c81"
+    ],
+    "at": "2026-09-17T06:37:35"
+  },
+  {
+    "id": "myth-event-2ec0e27097f6",
+    "type": "gm-note",
+    "summary": "Same class of bug as Magda and Gardwen at the Ford in run 3. Conall Bjornlasch and Temerach Nebulo were left at d-3/dawn coordinates while the fiction ran four days ahead of them -- Temerach shot and WON the open butts on the Long Butts on d0 in front of four thousand people, and held her accusation rather than spending it. Both moved to The Moist Oyster, which is where a plain-travelling King's officer and her household lodge. 'Temerach tells Conall whose son he is' fired as narrated: it was due d-2/night and has been sitting pending. Conall therefore knows he is Hanzo di Teufel's bastard and that he has a twin. Kag has never met either of them and there is no reason in the fiction why she would have.",
+    "narrative": null,
+    "session": null,
+    "involves": [],
+    "at": "2026-09-17T14:26:59"
+  },
+  {
+    "id": "myth-event-03f2345b4e1f",
+    "type": "session-end",
+    "summary": "SESSION 2, run 4. Gully plays KAG. Clock d0/dawn to d1/night. Act III through Act IV, and Act IV's climax came a day early because the closing was run on the evening of the single combat -- d1/night, not d2. Story.md needs its last two acts rewritten around that.\n\nD0. Kag put Pell on Blau's fifteen-year-old runner (bamboozle, not capture -- the boy can't pole, so his route is fixed). Scouted the Long Butts at dawn. Took Emmeralda's letter -- written on the eleventh sheet after ten spoiled, with Kag's line 'it'll be numbers of people crossing bridges' being what finally unlocked it -- plus Santo's silver comb out of Marisette's dish. ILA volunteered and Kag let her carry it: the child had taken two notes to Santo before and 'he never looked at me once'. Temerach won the open butts at 200 paces into a crosswind and HELD her accusation. Kag critted Customs on the slope and overheard Blau: 'He doesn't leave the ship tonight.' Ila made the handoff clean at the landing and BLAU SAW IT and took her arm; Kag drove the crowd (failed, spent a Luck Point, succeeded), a woman went in the water, Ila got clear -- but Blau has had her name since that evening and did not use it for a day.\n\nD0 NIGHT. The Lily Garden stair. Hesper in a boat at the foot with a line to Kag's hand; Tess on the fourth step in Emmeralda's grey; Deri and Fen on the stone; Nus watching from a shut house above. Santo came up the canal poled by TAM -- the Purewater boatman pressed off the Guild landing on d-2. Hesper's Sleep took Tess and Santo RESISTED. He ran at the water and Kag took him on the gunwale. Marisette received him in the linen room. Emmeralda walked four doors and asked to see him; Kag opened the door for her. He thought the letter had worked. She opened the coat, made him look at the cut, and said on her way out: 'He's about five foot nine.'\n\nCROWBILL'S PRICE, relayed whole to Marisette and Emmeralda: the Baron on a boat inside the week, and not one word said out loud about anybody's face. Marisette took it: 'Eleven houses are going to ask me why we opened and nothing was said.'\n\nKAG THEN REWROTE IT. She judged Hanzo would not trade for a son and would only take revenge, and proposed instead: interrogate, kill, and run the escape story Randall and Tess had already built in public. Crowbill accepted -- eel pots off the Lost Isle -- and set one price: ONE PAIR OF HANDS, HERS. Hesper's interrogation got the campaign's centre out of Santo: ten years of nightly quarter-hours, and the chain is what makes the thing in the champion obey.\n\nD1 DAWN. Kag killed Santo on the boat and fed him to the deep string, and took a new passion out of it: KILLING IS THE LAST RESORT 50. The city-wide non-cooperation started at first light -- no pole, no ice, no bread, no rope -- and the Dragon Knights rowed themselves to the sand and one fell in.\n\nAt the Lady's blessing NUS FAILED the lift, and the failure was the discovery: THE CHAIN HAS NO CLASP. Kag called him off across the water. The purge of the canals therefore never fired.\n\nD1 DAY. GARDWEN swam to the barge alone, hung on the stern chains six hours, heard the reinforcement through two inches of oak -- 'He begs' -- and came out of the sea half dead with the name Thuban and the fact that Cailan is awake inside it the whole time. Blau came ashore asking the Pearl house to house for a thirteen-year-old elf girl; Kag turned DESS the rope-seller (one of eight watchers Blau hired off one bridge out of his own purse) and Crowbill bought the other seven by seven o'clock. Blau also had every dredger on the water on ten sovereigns to find A KNIFE, any canal, any depth. OSSA KYNE gave Kag the drawing and the brief for nothing, and told her the Dredgers won't put a grab north of the Forge Quarter since Candlemas because two of theirs came up white to the elbow.\n\nTHE CASE. Kag had never lifted the soul-knife -- she took a charcoal rubbing of the pommel in situ on d-2 -- so it was still on the floor of the Sylph's third floor four nights on, in a house Blau walked through. She took it, and with Constantine's contemporaneous house ledger and Hild's four-generation chained book she built a case and handed it to TEMERACH NEBULO at the Moist Oyster for nothing. Temerach caught her lying about Santo on a critical and set it aside on purpose. Hild refused to overstate -- 'a Baron didn't buy it, a Purewater man of about fifty-five did' -- and then identified him out of her own instrument book: IVO CALDER, Tide Master of the Watercrafters Guild, who signed off the Lady's fouling as a false reading in the spring. The knife was cut on the FOURTH OF JUNE, four months before the column.\n\nTHE PIER. Blau hired six boats off Crowbill to take twenty-two east on the night tide -- then corrected the line to TWENTY-ONE and moved the box to first aboard, which told them he was taking the boy and leaving his lord. Kag priced it as an itemised invoice with every head at four shillings including his lordship, specifically so the correction would come back. MARIARTA copied it in her own hand and took it to TAT ATARER on the north terrace at the closing, with a true cover story about fourteen nights of unpaid credit. Hanzo ran a mile out of a royal ceremony, arrived with one shoe, and called THUBAN out of the chest. Kag got behind him, got the tongue under the ring, and the three turns did not part it. He cast HOLD PERSON and she FUMBLED her resist and stood frozen with her fist in his collar. Hesper's Sleep bounced off Willpower 94. Crowbill's four crossbows fired on the standing order and put two bolts in his head. Hesper stood up in a skiff in front of everyone and dispelled her free. She cut the ring off a dead man on her knees. Thuban breathed out and left: 'Hold him. He'll not know how to stand.'\n\nKag held Blau's life over him and got FOUR MORNINGS for a boat, a poler and the sea. The twenty-one went east in Crowbill's boats holding Crowbill's poles. The Baron went on the ice. And on that pier, in front of twenty-six people, Kag said THIS IS CROWBILL'S TOWN, and five of the people who heard it were his.\n\nOPEN: Cailan's open seat, four mornings, Thursday. Blau in a cellar. A dead nobleman of the realm on the ice with a Prince still on the island. Temerach's case is now against a corpse and she was never told. Ivo Calder unpicked up. Emmeralda and Ila still to be moved. Nus never went north. Tat Atarer and twenty-five tents at the Vantt with no employer and no pay. Ossa Kyne is owed a favour. Hild wants both cutters back.",
+    "narrative": null,
+    "session": null,
+    "involves": [
+      "myth-char-0d9f630b6182",
+      "myth-char-1d17728fc0ed",
+      "myth-char-2357f0fb2f3c",
+      "myth-char-27691473e570",
+      "myth-char-37b728d02cbd",
+      "myth-char-4074534baf31",
+      "myth-char-535c193a7d97",
+      "myth-char-65e70a6489b1",
+      "myth-char-6ed423cbc351",
+      "myth-char-7af8076fff25",
+      "myth-char-7ba27e566acc",
+      "myth-char-85b7a393679b",
+      "myth-char-9a77a4db0663",
+      "myth-char-af01a2536d03",
+      "myth-char-af1fa86db355",
+      "myth-char-b73546ad8c81",
+      "myth-char-ce2c5475d725",
+      "myth-char-f1bad9d5757b"
+    ],
+    "at": "2026-09-18T08:48:09"
+  }
+]

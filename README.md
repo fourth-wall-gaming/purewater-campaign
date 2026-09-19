@@ -1,15 +1,20 @@
 # And Then the Dragons Came: Purewater
 
-> **Current playthrough:** session 1 as **Conall Bjornlasch**, database campaign
-> `myth-campaign-cdd876ebe965`. The package at the repository root is the
-> pristine seed state — world clock `d-3/dawn`, 12 agendas on their starting
-> clocks, 17 facts none of them yet true.
+> **Install it and play:**
+> ```
+> /plugin marketplace add fourth-wall-gaming/mythras-gm
+> /plugin install purewater@fourth-wall-gaming
+> /mythras-gm:setup      # once per machine
+> /purewater:start
+> ```
+> That brings the [mythras-gm](https://github.com/fourth-wall-gaming/mythras-gm)
+> engine with it, imports this package, briefs you on Mythras, and walks you
+> through choosing or rolling a character.
 >
-> The previous playthrough (as **Magda**, complete) is archived in
-> `archive/session-01-magda/`, at the git tag `session-01-magda`, and left live
-> in the database as `myth-campaign-8327f8687a98` — *"ARCHIVE — Purewater S1
-> (Magda, complete)"*. Its transcripts are in `session-logs/` and its two
-> novelizations in `novels/`.
+> **This repository is a scenario seed, not a save.** The root is the pristine
+> starting state — world clock `d-3/dawn`, 43 beats all pending, an empty journal,
+> four pregens offered and none chosen. Four previous playthroughs are archived in
+> `archive/`, and they are spoilers.
 
 A Classic Fantasy Imperative port of 'And then the Dragons Came', relocated to Purewater -- a Venice-like canal city where the sacred waters of the Lake Lady meet the sea. Baron Hanzo di Teufel arrives with his Dragon Knights for the Lake Lady's Tourney, his possessed champion concealed among them. Four strangers arrive the same week. Built as a living world: every NPC and faction runs its own agenda on a clock, and what the party does not witness happens anyway.
 
@@ -19,17 +24,15 @@ campaign format (v1.1).
 
 | Contents | Count |
 |---|---|
-| Lore entries | 22 |
-| Characters | 40 (PCs: Conall Bjornlasch, Gardwen, Magda, Randall) |
+| Lore entries | 25 |
+| Characters | 42 (playable: Conall Bjornlasch, Gardwen, Magda, Randall) |
 | Creature templates | 4 |
-| Locations | 19 |
+| Locations | 22 |
 | Factions | 14 |
-| Encounters | 0 |
-| Journal events | 2 |
-| Agendas | 14 |
-| Beats | 21 |
+| Journal events | 1 |
+| Agendas | 15 |
+| Beats | 43 |
 | Facts | 17 |
-| Knowledge edges | 13 |
 
 ## Repository layout
 
@@ -40,7 +43,6 @@ campaign format (v1.1).
 | `templates/` | Reusable creature/NPC stat blocks (JSON) |
 | `locations/` | Places (markdown + frontmatter) |
 | `factions/` | Factions and organizations (markdown + frontmatter) |
-| `encounters/` | Combat encounter state (JSON) |
 | `journal/` | The campaign event log (JSON) |
 | `agendas/` | What each NPC and faction wants, on a progress clock |
 | `beats/` | What happens next if nobody interferes, scheduled in world time |
@@ -184,14 +186,29 @@ concrete things those goals produce, scheduled against the world clock. Run
 
 ## Loading this campaign
 
-```bash
-python skills/mythras-gm/mythras_gm.py import-campaign --path <this-directory> --new-ids
+You do not have to. `/purewater:start` does it:
+
+```
+/plugin install purewater@fourth-wall-gaming
+/purewater:start
 ```
 
-Then resume play with `get-context --campaign <new-id>`.
+By hand, from a clone, with the engine checked out next door:
+
+```bash
+GM=~/mythras-gm/skills/mythras-gm
+uv run -q --project "$GM" python "$GM/mythras_gm.py" init-db
+uv run -q --project "$GM" python "$GM/mythras_gm.py" import-campaign --path .
+```
+
+The campaign id is fixed — **`myth-campaign-purewater-s1`** — so a second import
+of the same package fails rather than forking your save. Pass `--new-ids` only if
+you deliberately want a second, parallel playthrough.
+
+Then `get-context --campaign myth-campaign-purewater-s1 --compact`.
 
 > Lore files marked `visibility: "gm"` contain spoilers. Players: browse
-> `lore/` but skip anything GM-marked, and stay out of `encounters/` and
+> `lore/` but skip anything GM-marked, and stay out of
 > `journal/` if you want to avoid table history.
 
 Based on Mythras Imperative, Written by Pete Nash and Lawrence Whitaker,

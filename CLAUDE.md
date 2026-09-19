@@ -1,92 +1,98 @@
-# Running this campaign (mythras-gm)
+# Working in this repository
 
-This directory is a **published snapshot** of a `mythras-gm` campaign — a Mythras
-Imperative (Classic Fantasy port) RPG whose **live, authoritative state lives in
-TypeDB**, not in these files. The file tree is an export for reading, diffing,
-and version control. It is **not the save game**, and editing it does not change
-the game.
+**This file is for contributors editing this repo in a git clone. It is not read
+when the plugin is installed** — everything a player or a GM needs is in
+`skills/purewater/SKILL.md` and `commands/`, which do ship. Do not put anything
+load-bearing here.
 
-> **AI assistants: if the user asks to play, continue, or GM this campaign,
-> invoke the `mythras-gm` skill and run through its CLI. Do NOT game-master
-> directly off these files.** GMing from the file tree bypasses the dice engine
-> and the persistent database: your rolls aren't auditable, and any state you
-> change here is silently discarded the next time the campaign is exported.
+## What this repository is
 
-## Where the save actually is
+A **campaign package** for the [mythras-gm](https://github.com/fourth-wall-gaming/mythras-gm)
+engine, shipped as a Claude Code plugin. The file tree is the *source*: beats,
+characters, agendas, locations, lore and the worldbook, in the publishable
+campaign format (v1.1).
 
-**Database `mythras`, on `localhost:1730`, in the Docker container
-`mythras-typedb` (image `typedb/typedb:3.8.0`).** These are the CLI defaults, so
-you do not need to export anything. If the container is not running, bring it up
-with `docker compose up -d` from the `mythras-gm` repo.
+**It is not a save game.** A save lives in TypeDB. `/purewater:start` imports this
+package once, and from then on the database is the game and these files are the
+thing it was built from. Editing them does not change a running campaign.
 
-> This is the game's own TypeDB, not the Alhazen stack on 1729. It was created
-> by hand with `restart: no` and no compose file, so it did not survive a
-> reboot — and while it was down the save was moved onto the Alhazen server and
-> this note was deleted as describing something that did not exist. It does
-> exist. There is now a compose file with `restart: unless-stopped`.
->
-> Migrated back on 11 Sep 2026. The legacy database predated the alh-collection
-> rebase and had to be mapped across with GLAV rules rather than dumped and
-> reloaded — see `migrations/legacy-mythras/` in the engine repo. Older copies
-> remain on 1729 in `alhazen_notebook` and `alh_mythras`, and there are file
-> exports plus a native database export under `~/mythras-backups/`.
->
-> **If a command returns nothing, check which database and port you are pointed
-> at before importing anything.**
+## The seed
 
-The live game is:
+```
+myth-campaign-purewater-s1        d-3/dawn, time_index 52, session_number 0
+```
 
-- **Purewater — Gardwen** — `myth-campaign-44abede1efbf`
+That id is fixed, shipped in `campaign.yaml`, and identical on every install. It
+is deliberate: `id` is a key in the schema, so importing the same package twice
+**fails loudly** instead of quietly forking somebody's save. Nothing in this
+package's documentation should ever name a different id as the campaign to play.
 
-Other Purewater rows in the same database, none of which you should write to:
+The root is a clean starting point — 43 beats all pending, an empty journal, four
+pregens offered and none chosen. If you change that, you have broken a new
+player's first session; there is a test.
 
-| id | what it is |
+## Previous playthroughs
+
+These are **this developer's database**, not anybody's install. They are renamed
+in the DB so they cannot be mistaken for a startable game.
+
+| id | run |
 |---|---|
-| `myth-campaign-66a98ba4a70e` | v1, **finished** — session 2, ends at CH.25 |
-| `myth-campaign-8327f8687a98` | archive of the Magda playthrough |
-| `myth-campaign-476ed76d90b8` | the Magda v2 run, superseded |
-| `myth-campaign-cdd876ebe965` | the Conall run, archived under `archive/session-02-conall/` |
+| `myth-campaign-f7af4bb667ac` | run 4 — Kag, `d1/night`, session 2 · `archive/session-04-kag/` |
+| `myth-campaign-44abede1efbf` | S2 — Gardwen, CH.1–13 · `archive/session-03-gardwen/` |
+| `myth-campaign-7883760b82ef` | run 3 — Gardwen, `d-3` to `d-2` |
+| `myth-campaign-66a98ba4a70e` | v1, finished at CH.25 |
 
-> **If `list-campaigns` does not show `myth-campaign-44abede1efbf`, STOP.**
-> Do not run `import-campaign` to "fix" it — you will fork the save and play on
-> a copy while the real one rots. Check the container is up
-> (`docker start alhazen-typedb`) and ask.
+Kag from run 4 is canon and ships in the seed as an NPC — `characters/npcs/kag.json`,
+`agendas/the-one-who-works-it-out.md`, `setting/kag-as-an-npc.md`, and seven
+`beats/kag-*.md`. Leave them alone; they are already written for a fresh run.
 
-Because the campaign is already loaded, skip the import and go straight to
-`get-context`.
+## Running it locally
 
-## How to run
+```bash
+claude --plugin-dir ~/mythras-gm --plugin-dir ~/purewater-campaign-v2
+```
 
-1. **Invoke the `mythras-gm` skill** (triggers: "play", "continue campaign",
-   "run mythras", "gamesmaster"). Read its `SKILL.md`, then `USAGE.md`.
-2. Confirm it's loaded: `list-campaigns` — you should see
-   `myth-campaign-44abede1efbf`. If you do not, read the warning above and stop.
-3. `get-context --campaign myth-campaign-44abede1efbf --compact` — **this is the
-   save file**: current scene, PC combat cards and where each one is standing,
-   factions, recent events.
-4. Recap the scene in a few sentences, then play.
+Local copies satisfy the `dependencies` entry, so this exercises the real
+resolution path without publishing anything. The engine is found by
+`scripts/engine.sh`, which checks `$MYTHRAS_GM_ROOT`, then the pointer file the
+engine's `init-db` writes, then the plugin cache.
 
-## Operating rules (non-negotiable)
+**Never test against port 1730 with database `mythras`.** That is the live
+database and it holds four real campaigns. Use a scratch one:
 
-- **Every mechanical resolution goes through the CLI** — `roll-skill`,
-  `roll-opposed`, `resolve-attack`, `apply-damage`, `heal`. Never free-hand,
-  estimate, or narrate dice you didn't roll through the engine; it is the shared,
-  deterministic dice tower, and it looks skills up from the DB for you.
-- **The database is the save.** Persist anything worth remembering with
-  `log-event`, `set-scene`, `update-character`, `add-lore`, etc. Never hand-edit
-  the JSON/markdown here to change game state — those edits don't reach TypeDB and
-  are lost on the next export.
-- **Show the dice.** This table's house rule: surface every roll as
-  `action (target N) → rolled R = result`, including luck-point spends. The CLI's
-  JSON output gives you the numbers to quote.
-- **Load rules lazily** from the rules graph (`query-rules`, `get-rule`) — never
+```bash
+export TYPEDB_PORT=1730 TYPEDB_DATABASE=purewater_test
+gm init-db && gm import-campaign --path .
+```
+
+## Operating rules
+
+- **Every mechanical resolution goes through the engine CLI.** It is the shared,
+  deterministic dice tower and it looks skills up from the database.
+- **The database is the save.** Persist with `log-event`, `set-scene`,
+  `update-character`. Never hand-edit these files to change game state.
+- **`export-campaign`** when you want a fresh file snapshot for git — but not over
+  the root, which is the seed. Export archives to `archive/`.
+- **Load rules lazily** from the rules graph (`query-rules`, `get-rule`). Never
   read `rules/*.md` wholesale into context.
-- **Re-export** (`export-campaign`) when you want a fresh file snapshot for git.
 
-## GM secrets
+## Spoilers
 
-`lore/gm-secret/` and `lore/gm-guide/the-plot-timeline.md` hold the reveals
-(the possession scheme, the champion's identity). Keep them out of player-facing
+`lore/gm-secret/`, `lore/gm-guide/the-plot-timeline.md` and
+`lore/character-creation/the-four-companions.md` hold the reveals — the possession
+scheme, the champion's identity, the twins. Keep them out of player-facing
 narration until they land in play.
 
-Campaign id: `myth-campaign-44abede1efbf` (**Purewater — Gardwen**)
+And `session-logs/`, `novels/` and `archive/` are records of four finished
+playthroughs. They are the worst spoilers here and reading them during a session
+will make you run this one wrong. `skills/purewater/SKILL.md` says so where it
+reaches an installed GM.
+
+## A note on `claude plugin validate --strict`
+
+It warns that `CLAUDE.md` at the plugin root is not loaded as project context and
+that shipped context belongs in a skill. **That warning is correct and expected**
+— it is the reason the top of this file says what it says, and the reason
+everything load-bearing lives in `skills/purewater/SKILL.md`. Validate without
+`--strict`, or expect that one warning.
