@@ -34,7 +34,7 @@ which means a stranger in Purewater cannot move a sack of flour across it withou
 hiring somebody who was born here.
 
 **There are no horses.** The land stops at Caravan Square and does not resume. A
-column coming down the Anminster road gets to the gate and then has to be taken to
+column coming down the Ashwick road gets to the gate and then has to be taken to
 pieces and put into boats, in public, slowly, one crate at a time.
 
 ## The water is the goddess
@@ -86,11 +86,11 @@ All player-visible, all in `lore/`, none of it spoilers — offer, do not recite
 | `daily-life/the-dragonshits-in-the-streets.md` | what the occupation is actually like to live with |
 | `daily-life/the-lake-lady-s-tourney.md` | the events, the money, the week |
 | `religion/the-order-and-the-swords.md` | the Lady's church and her knights |
-| `religion/the-gods-of-mystamyr.md` | who else is worshipped |
+| `religion/the-gods-of-thornmere.md` | who else is worshipped |
 | `history/the-dragon-kings-and-the-lake-lady.md` | how the Dragon Kings ended |
 | `law/the-kings-justice.md` | what passes for law, and whose writ runs where |
 | `magic-system/magic-in-purewater-water-and-fire.md` | how magic is regarded here |
-| `cosmology/the-realm-of-mystamyr.md` | the wider world |
+| `cosmology/the-realm-of-thornmere.md` | the wider world |
 
 ## What not to say
 

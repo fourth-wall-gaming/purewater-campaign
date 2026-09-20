@@ -5,7 +5,7 @@ summary: "An austere knightly order sworn to the Lake Lady and the protection of
 created_at: "2026-06-24T23:31:07"
 ---
 
-A close-knit, austere order of knights sworn **to the Lake Lady herself and not to her priesthood** -- a code of honor beyond the city watch or the King's army, held to account by the goddess directly. They take no tithes and keep no temples. *[[The Order of the Lake Lady]] cannot command a Sword and never could*: see *[[The Order and the Swords: one goddess, two houses]]*, which is the reason Temerach can act in a week when the clergy may not. They hold battle honors from the ancient uprising against the Dragon Kings and live disciplined lives of service. They operate across Mystamyr to protect the realm and, above all, the old water magic.
+A close-knit, austere order of knights sworn **to the Lake Lady herself and not to her priesthood** -- a code of honor beyond the city watch or the King's army, held to account by the goddess directly. They take no tithes and keep no temples. *[[The Order of the Lake Lady]] cannot command a Sword and never could*: see *[[The Order and the Swords: one goddess, two houses]]*, which is the reason Temerach can act in a week when the clergy may not. They hold battle honors from the ancient uprising against the Dragon Kings and live disciplined lives of service. They operate across Thornmere to protect the realm and, above all, the old water magic.
 
 **Ranks** are earned and worn plainly; the white belt is the mark of a full Sword, and [[Corvin]] would tell you at length how much he wants one.
 

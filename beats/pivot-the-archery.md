@@ -26,7 +26,7 @@ silence and she puts them where nobody else in the field can.
 thousand people watching and a prize she has to be handed:
 
 - **She spends it.** Names, out loud, whose men stopped a King's officer on the
-  Anminster road and what has been done in this city this week. Thirty years of
+  Ashwick road and what has been done in this city this week. Thirty years of
   standing converted into one public accusation the Governor cannot pretend not
   to have heard. It buys a hearing. It makes her a marked woman four days early.
 - **She holds it.** Takes the prize, says the correct words, walks. Still a

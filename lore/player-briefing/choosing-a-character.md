@@ -89,7 +89,7 @@ him.
 
 ## Conall Bjornlasch — the warranted investigator
 
-A militiaman's son out of Anminster who should have died in a ditch at nineteen
+A militiaman's son out of Ashwick who should have died in a ditch at nineteen
 and was instead pulled out of it by a knight of the Swords of the Lake, taught to
 read, and then taught a good deal more. The **King's Assay** finished the job and
 gave him a warrant, a thumb-ring and a steel punch with his own mark on it. He
@@ -109,7 +109,7 @@ something to lose by using it wrongly.
 *Play him if you want to investigate, and to have the authority to make people
 answer.*
 
-**Starts:** on the Anminster road an hour out, as the di Teufel column overtakes
+**Starts:** on the Ashwick road an hour out, as the di Teufel column overtakes
 them.
 
 ---

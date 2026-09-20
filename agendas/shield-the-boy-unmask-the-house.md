@@ -17,7 +17,7 @@ di Teufels **called to answer** -- and she wants the boy to survive learning wha
 he is.
 
 **She is not building a case.** There is nobody to bring a case *to*. A baron
-answers to the King, and the King is at Sharna, far away and content, surrounded
+answers to the King, and the King is at Caldreth, far away and content, surrounded
 by men who have been Hanzo's friends for thirty years. She has petitioned twice.
 Both petitions were received courteously and died somewhere in that warmth. See
 *[[The King's justice, and how a lord is called to answer]]*.
@@ -47,7 +47,7 @@ nobody has seen fight. She has been holding the accusation because she does not
 know what is under that helm, and she is too good a soldier to open with a move
 whose answer she cannot predict.
 
-**She is probably the one blade in Mystamyr who could beat that champion**, and
+**She is probably the one blade in Thornmere who could beat that champion**, and
 she cannot enter the Single Combat, because the archery entry is what buys her the
 room. One or the other. Not both.
 

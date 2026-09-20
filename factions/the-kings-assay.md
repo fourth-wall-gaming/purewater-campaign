@@ -1,11 +1,11 @@
 ---
 id: "myth-faction-97541b57307e"
 name: "The King's Assay"
-summary: "The Crown's chartered body for licensing, inspecting and recording arcane practice in Mystamyr -- founded after the uprising to put magic on a register. Warrants, hallmarks, and a personal steel punch. Conall is one of theirs."
+summary: "The Crown's chartered body for licensing, inspecting and recording arcane practice in Thornmere -- founded after the uprising to put magic on a register. Warrants, hallmarks, and a personal steel punch. Conall is one of theirs."
 created_at: "2026-06-24T23:31:07"
 ---
 
-Formally *the Assay of Mystamyr*; universally **the Assay**. Not a college, not a
+Formally *the Assay of Thornmere*; universally **the Assay**. Not a college, not a
 cult, and emphatically not a guild of adventuring wizards -- a **chartered
 inspectorate**, established by the Crown in the years after the uprising for the
 plainest possible reason: the realm had just finished a war against men who ruled
@@ -20,7 +20,7 @@ They are, in consequence, about as popular as any body that can close your
 workshop.
 
 **Ranks:** Prentice, Marker, Assayer, Master Assayer, and a governing **Table** of
-seven Masters who keep the Register at Sharna.
+seven Masters who keep the Register at Caldreth.
 
 **The marks of the office** -- and there is nothing on the body, no sigil, no
 brand:
@@ -43,7 +43,7 @@ with a great family behind him can always be leaned on -- through the family. So
 the Assay recruits the people nobody can apply pressure to: foundlings, foreigners,
 the second sons of nobody, a militiaman's foster boy pulled out of a ditch at
 nineteen and taught to read. It is the most nakedly meritocratic institution in
-Mystamyr and it did not get that way out of principle. It got that way because a
+Thornmere and it did not get that way out of principle. It got that way because a
 Register kept by well-connected men is worth nothing.
 
 The result is a body of competent, unplaceable people with no natural constituency
@@ -77,7 +77,7 @@ precedence, and being the body that other bodies must consult.
 explained. He carries the training, the methods, the warrant and the authority by
 association, and nobody sent him.
 
-The Assay itself is *elsewhere* -- a Table at Sharna, a correspondence, and a
+The Assay itself is *elsewhere* -- a Table at Caldreth, a correspondence, and a
 distance measured in days. That is deliberate. It is a resource the party reaches
 for and cannot command, and the delay is the point: writing to the Assay is a real
 action with a real cost in time, and the answer arrives after the thing has
@@ -85,13 +85,13 @@ happened.
 
 **And this is squarely within their charter.** Seating a spirit in an unwilling
 person is a hanging matter, and a warranted assayer is one of the few people in
-Mystamyr with **standing to call a lord to answer for it** -- not to arrest him,
+Thornmere with **standing to call a lord to answer for it** -- not to arrest him,
 which nobody can do, but to lay a finding before the Crown and put his own name
 behind it. A borderland baron holding a spirit inside a living child for ten
 years, working from nine folded sheets in an unregistered hand, is the exact thing
 they were chartered to find.
 
-**And a warrant is only worth the man holding it.** The Table sits at Sharna among
+**And a warrant is only worth the man holding it.** The Table sits at Caldreth among
 courtiers and can be leaned on like anything else made of people. An assayer who
 lays a finding against a great lord and cannot make it stand answers for it
 himself.
@@ -99,7 +99,7 @@ himself.
 ## The door
 
 **Old Johz** -- the Master Assayer who recognised [[Conall]] as the Baron's son
-when he was a boy in Anminster, healed him years later in Sharna, trained him
+when he was a boy in Ashwick, healed him years later in Caldreth, trained him
 *"so that power didn't fall into the wrong hands"*, and then delivered him to
 Temerach and abruptly departed. Nobody has said where he went, and an assayer
 walking away from the Register without a word is itself irregular. His absence is

@@ -87,7 +87,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [The Four Companions](lore/character-creation/the-four-companions.md)
 
 **cosmology**
-- [The Realm of Mystamyr](lore/cosmology/the-realm-of-mystamyr.md)
+- [The Realm of Thornmere](lore/cosmology/the-realm-of-thornmere.md)
 
 **daily-life**
 - [The dragonshits in the streets](lore/daily-life/the-dragonshits-in-the-streets.md)
@@ -124,7 +124,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [Magic in Purewater: Water and Fire](lore/magic-system/magic-in-purewater-water-and-fire.md)
 
 **religion**
-- [The Gods of Mystamyr](lore/religion/the-gods-of-mystamyr.md)
+- [The Gods of Thornmere](lore/religion/the-gods-of-thornmere.md)
 - [The Order and the Swords: one goddess, two houses](lore/religion/the-order-and-the-swords.md)
 
 ## Dramatis personae
@@ -185,7 +185,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [The Dredgers](factions/the-dredgers.md) — Labor guild and mutual-aid society of Purewater's working poor -- canal-clearers, dockers, fishers. Black armbands, white wave. Led by Marda Blackwater, and three hundred strong in a week when the Baron's men are taking their boats.
 - [The Harbor Masters](factions/the-harbor-masters.md) — The regulatory guild of Purewater's docks and shipping -- tariffs, berths, maritime law. Dark blue uniforms, a harbor tower HQ, a publicly incorruptible Harbormaster, and increasingly corrupt upper ranks. They berthed the DragonBarge.
 - [The Mermaid's Court](factions/the-mermaid-s-court.md) — A secretive society of pure-water practitioners bound to merfolk, preserving water magic older than the city. Hidden under Lost Isle; led by the enigmatic 'Pearl'.
-- [The King's Assay](factions/the-kings-assay.md) — The Crown's chartered body for licensing, inspecting and recording arcane practice in Mystamyr -- founded after the uprising to put magic on a register. Warrants, hallmarks, and a personal steel punch. Conall is one of theirs.
+- [The King's Assay](factions/the-kings-assay.md) — The Crown's chartered body for licensing, inspecting and recording arcane practice in Thornmere -- founded after the uprising to put magic on a register. Warrants, hallmarks, and a personal steel punch. Conall is one of theirs.
 - [The Order of the Lake Lady](factions/the-order-of-the-lake-lady.md) — The water-faith of Purewater: priesthood of the lake goddess, guardians of pure water magic, and owners of the Tourney. Robed in blue-green with silver wave patterns. Their fouling alarm has been silenced by written instruction.
 - [The Pleasure Houses of the Pearl](factions/the-pleasure-houses-of-the-pearl.md) — The courtesan network of the Pearl, under the madame Marisette's near-absolute authority. Constantine's Sylph's Embrace and Ravella's Siren's Call among them. The richest information market in Purewater, and the campaign's front door.
 - [The Quiet Hand](factions/the-quiet-hand.md) — A secret, centuries-old fellowship that steers the world toward the good from the shadows -- by knowing first and acting unseen. Espionage as mercy. Hesper is their agent in Purewater. (GM: a benevolent hidden patron.)

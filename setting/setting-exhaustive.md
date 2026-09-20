@@ -165,7 +165,7 @@ The annual tournament is Purewater's most prestigious event, celebrating the Lak
 - His resemblance to Santo creates both opportunities and dangers
 
 **Conall** - The Magical Investigator
-- Adopted by a family in Anminster
+- Adopted by a family in Ashwick
 - Warranted by the King's Assay
 - Skilled in arcane magic and investigation
 - Fellow thief with Nus Rutas (who will steal the locket)

@@ -27,7 +27,7 @@ retirement tending pigs and crops — began to dream. One does not serve **Hel**
 the goddess of death, without paying in nightmares: a brother and sister torn
 apart by reptilian talons; two identical men, back to back, blades drawn, ringed
 by fire as dragons wheeled overhead; and always, every time, her own death and
-the same backdrop — Vacarus' Square. *"Save these children,"* the goddess rasped.
+the same backdrop — Kordath's Square. *"Save these children,"* the goddess rasped.
 *"Lay the dragon warrior to rest. Unleash your fury."* Magda woke screaming, her
 home in ruins around her, and shouted at the dark: *"Who are you even talking
 about?"*

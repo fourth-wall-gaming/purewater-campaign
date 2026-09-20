@@ -8,7 +8,7 @@ about: ["myth-char-06f87a379bbf", "myth-char-a34f0237a753"]
 created_at: "2026-09-05T12:00:00"
 ---
 
-**You are Conall Bjornlasch.** A militiaman's son from Anminster who
+**You are Conall Bjornlasch.** A militiaman's son from Ashwick who
 should have died in a ditch at nineteen and instead was pulled out of it by a
 knight of the Swords of the Lake, taught to read, and then taught rather more
 than that. The King's Assay finished the job, and gave you a warrant, a thumb-ring, and a steel punch with your own mark on it. You investigate things
@@ -32,4 +32,4 @@ when you need one. And that your patron is keeping something from you.
 **Opening move:** the column is passing. You can look at the litter, look at
 Temerach, or ask the question she has been avoiding.
 
-*Starting location: the Anminster road, an hour out. Game clock: d-3/dawn.*
+*Starting location: the Ashwick road, an hour out. Game clock: d-3/dawn.*

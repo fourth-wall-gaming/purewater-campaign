@@ -25,7 +25,7 @@
 
 ### Conall
 - **Role**: Magical investigator
-- **Background**: Adopted by a family in Anminster, warranted by the King's Assay
+- **Background**: Adopted by a family in Ashwick, warranted by the King's Assay
 - **Abilities**: Arcane magic, investigation skills
 - **Secret**: Twin brother of Randall, biological son of Baron Hanzo
 - **Connection to Plot**: Working with Temerach Nebulo to expose the Baron
@@ -34,7 +34,7 @@
 - **Role**: "The Lakelady's Javelin," elven knight
 - **Background**: Member of the Swords of the Lake, an elite knightly order
 - **Abilities**: Exceptional skill with bow and spear
-- **Motivation**: To expose and stop Baron Hanzo's threat to Mystamyr
+- **Motivation**: To expose and stop Baron Hanzo's threat to Thornmere
 - **Connection to Plot**: Has been tracking the Baron and has knowledge of his past crimes
 
 ## Primary Antagonists

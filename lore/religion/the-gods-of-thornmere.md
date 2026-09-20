@@ -1,6 +1,6 @@
 ---
 id: "myth-lore-5f0681b87e74"
-title: "The Gods of Mystamyr"
+title: "The Gods of Thornmere"
 category: "religion"
 visibility: "player"
 summary: "What is actually worshipped in Purewater and how: the Lake Lady's establishment water-faith, the older pre-human water beneath it, the woodland old ways, the soldier's god, the northern death-goddess, the trade and craft cults -- and where demonology sits, which is outside all of it and against the law."
@@ -22,7 +22,7 @@ Lady's Tourney is by far the largest.
 
 ---
 
-## The Lake Lady (Nimue) — the establishment faith
+## The Lake Lady — the establishment faith
 
 Purewater's patron: goddess of the sacred waters, of purification and abundance,
 healing and prophecy-in-reflection, and protection against corruption. Hers is the
@@ -70,9 +70,9 @@ because of what was done to it until somebody deals with the wrong first.
 
 The city regards it as peasant superstition. The city is wrong.
 
-## Vacarus — the soldier's god
+## Kordath — the soldier's god
 
-God of war, invoked constantly in oaths and exclamations (*"Vacarus knows"*) by
+God of war, invoked constantly in oaths and exclamations (*"Kordath knows"*) by
 people with no religious feeling whatsoever. He has a square in the old city and
 no great temple here. Soldiers, watchmen and duellists keep his day; so, nominally
 and without much sincerity, do the Dragon Knights, whose dragon heraldry is the
@@ -95,8 +95,8 @@ There is no temple to Hel in this city and Magda would not use one.
   observances whether or not bodies are ever found.
 - **Craft-gods of the Forge Quarter** -- the dwarven smiths' own, kept properly
   and privately, with a formality the rest of the city finds comic.
-- **Nilo Valis** -- patron spirit of thieves and quick improvisation, invoked with
-  affection and no ceremony at all. [[Nus]] would tell you Nilo Valis is real and
+- **Kestrin Marr** -- patron spirit of thieves and quick improvisation, invoked with
+  affection and no ceremony at all. [[Nus]] would tell you Kestrin Marr is real and
   has personally intervened on his behalf.
 
 ---
@@ -119,7 +119,7 @@ oversee. **Seating a spirit in an unwilling person is a hanging matter**, and ha
 been since the uprising, for the obvious historical reason.
 
 **Which does not mean anybody can arrest a baron for it.** A lord answers to the
-King and to nobody else, and the King is at Sharna. A spent scroll of *Seat the
+King and to nobody else, and the King is at Caldreth. A spent scroll of *Seat the
 Bound* in Baron Hanzo di Teufel's own hand convicts no one by itself -- what it
 does is give a person with **standing** something worth risking their name on: a
 sworn knight, a warranted assayer, the Lady's clergy speaking to what was done to

@@ -3,7 +3,7 @@ id: "myth-lore-c47b2e0af913"
 title: "The King's justice, and how a lord is called to answer"
 category: "law"
 visibility: "player"
-summary: "There is no arresting a baron. Justice in Mystamyr flows from the King through people, is claimed in old forms -- oath over still water, the Rite of Account, petition, and trial by arms -- and is corrupted the way people are corrupted."
+summary: "There is no arresting a baron. Justice in Thornmere flows from the King through people, is claimed in old forms -- oath over still water, the Rite of Account, petition, and trial by arms -- and is corrupted the way people are corrupted."
 created_at: "2026-09-09T00:00:00"
 ---
 
@@ -14,7 +14,7 @@ campaign that works and one that keeps reaching for a constable.
 
 ## Justice is a person
 
-It flows from **King Halvern** at Sharna, and nowhere else. In a city it flows
+It flows from **King Ostmar** at Caldreth, and nowhere else. In a city it flows
 through the King's representative -- here, **[[Prince Emeric]]**, who may act in
 the King's name today, in this city, on his own word.
 
@@ -67,7 +67,7 @@ knight of the Lake investigates** -- not by collecting depositions but by asking
 The answer comes as reflection and is seldom plain, and it is nonetheless an
 answer that a court of lords will hear.
 
-**Petition to the Crown.** Carried to Sharna by someone the King will receive.
+**Petition to the Crown.** Carried to Caldreth by someone the King will receive.
 Weeks of travel, and then it must survive the men around him.
 
 **The King's representative.** Emeric, here, now. He can hear a matter and act on
@@ -91,7 +91,7 @@ Because the channel is **people**, and people have debts, ambitions, and childre
 
 The King is far away and content to be. Baron Hanzo has spent thirty years making
 sure of that -- deniability in the borderlands, charm at court, and friends around
-Halvern who will see that a petition arrives at the wrong hour and is answered
+Ostmar who will see that a petition arrives at the wrong hour and is answered
 kindly and filed. He is magnificent at exactly this (Deceit 93, Influence, and
 spells that make men agreeable), and he has never once needed to bribe a judge,
 because there is no judge to bribe. He only needs to be *liked* by the right four

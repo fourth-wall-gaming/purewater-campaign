@@ -92,7 +92,7 @@ Twenty minutes of this is worth more than any amount of session-one improvisatio
 **`move-character` to a real location before you narrate a line.** A PC with no
 location is nowhere, every beat reads as offscreen, and the living world will
 quietly fail to include them. The four entry-point locations are the obvious
-choices — the Ford, the Anminster road, Caravan Square — but anywhere in the city
+choices — the Ford, the Ashwick road, Caravan Square — but anywhere in the city
 works if they have a reason to be there.
 
 Then `set-scene`, and open on the smallest concrete thing in front of them.

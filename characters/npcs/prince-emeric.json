@@ -4,7 +4,7 @@
   "type": "npc",
   "status": "active",
   "description": "The young Governor of Purewater -- the King's nephew, perhaps two-and-twenty: clever, idealistic, genuinely decent, and entirely unsuited to govern a city like this. He wants to reform Purewater; the factions humor him, manage him, and run rings around his good intentions.",
-  "narrative": "Prince Emeric was sent to Purewater by his uncle, King Halvern, to govern the city -- a prestigious first posting for a promising young royal, and (his relatives assumed) a safe one. It was a misjudgment. Emeric is bookish and high-minded, schooled in law, history, and the philosophy of just rule, and he arrived burning to clean up 'Pisswater': to curb the smuggling, protect the working poor, and restore the dignity of the Lake Lady's Tourney. But he has no instinct for the knife-in-the-dark politics of a city run by madames, brokers, crime lords, and corrupt guilds. He trusts the wrong people, signs the documents put in front of him, and mistakes flattery for agreement. The Harbor Masters and merchant princes steer him; Marisette and Ravella read him like a broadsheet; and Baron Hanzo cultivates him charmingly as a 'visiting dignitary,' the better to operate under royal cover. For the party, Emeric is opportunity and hazard both: an honest man at the top who could open real doors -- if they can reach him past his handlers, and if telling him the truth doesn't simply get him killed.",
+  "narrative": "Prince Emeric was sent to Purewater by his uncle, King Ostmar, to govern the city -- a prestigious first posting for a promising young royal, and (his relatives assumed) a safe one. It was a misjudgment. Emeric is bookish and high-minded, schooled in law, history, and the philosophy of just rule, and he arrived burning to clean up 'Pisswater': to curb the smuggling, protect the working poor, and restore the dignity of the Lake Lady's Tourney. But he has no instinct for the knife-in-the-dark politics of a city run by madames, brokers, crime lords, and corrupt guilds. He trusts the wrong people, signs the documents put in front of him, and mistakes flattery for agreement. The Harbor Masters and merchant princes steer him; Marisette and Ravella read him like a broadsheet; and Baron Hanzo cultivates him charmingly as a 'visiting dignitary,' the better to operate under royal cover. For the party, Emeric is opportunity and hazard both: an honest man at the top who could open real doors -- if they can reach him past his handlers, and if telling him the truth doesn't simply get him killed.",
   "characteristics": {
     "STR": 11,
     "CON": 12,
@@ -49,7 +49,7 @@
     "Streetwise": 20,
     "Unarmed": 50,
     "Lore (Statecraft & Law)": 80,
-    "Lore (History of Mystamyr)": 72,
+    "Lore (History of Thornmere)": 72,
     "Lore (Heraldry)": 60,
     "Language (Courtly/Old Tongue)": 60,
     "Courtesy": 75
@@ -166,7 +166,7 @@
     "age": "~22",
     "class": "Noble / Governor (would-be reformer)",
     "title": "Prince Emeric, Governor of Purewater",
-    "relationship": "Nephew of [[King Halvern]] of Mystamyr; sent to govern Purewater as his first royal posting.",
+    "relationship": "Nephew of [[King Ostmar]] of Thornmere; sent to govern Purewater as his first royal posting.",
     "game_system": "Classic Fantasy",
     "character_type": "Supporting Character (official authority / honest-but-naive)",
     "role": "The capital's appointed ruler of Purewater -- young, intelligent, idealistic, and entirely out of his depth. Steered by the Harbor Masters and merchant princes, read effortlessly by [[marisette]] and [[ravella]], and charmed by [[hanzo-di-teufel]], who exploits his royal cover. A genuine opportunity for the party if they can reach him -- and a liability, since the truth could get him killed.",
