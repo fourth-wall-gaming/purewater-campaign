@@ -15,7 +15,13 @@ set -uo pipefail
 unset VIRTUAL_ENV
 
 SEED_ID="myth-campaign-purewater-s1"
-PW="${CLAUDE_PLUGIN_ROOT}"
+
+# `set -u` is on, so a bare ${CLAUDE_PLUGIN_ROOT} does not degrade to empty --
+# it aborts this script with "unbound variable" and exit 1, which is precisely
+# the one thing the header above promises never happens. The variable is set
+# when Claude Code runs the hook, and unset whenever anyone runs this file by
+# hand to see what it says. Fall back to the directory this script lives in.
+PW="${CLAUDE_PLUGIN_ROOT:-$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)}"
 
 # shellcheck source=/dev/null
 . "${PW}/scripts/engine.sh"
