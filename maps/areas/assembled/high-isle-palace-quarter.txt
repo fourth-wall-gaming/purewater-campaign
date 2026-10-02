@@ -1,3 +1,22 @@
+TWO REFERENCE IMAGES ARE SUPPLIED.
+
+The FIRST is the master city map -- the authority for style and geography, described below.
+
+The SECOND is a PREVIOUS ATTEMPT AT THIS VERY SHEET. Keep what it gets right: its framing, its layout, the parts of its linework and lettering that already match the master. Redraw it with the faults below corrected. This is a revision of that drawing, not a fresh start from nothing.
+
+CORRECT THESE FAULTS IN THE PREVIOUS ATTEMPT:
+
+The Tournament Ground was drawn as an EMPTY WALLED RECTANGLE. It is the stage
+for the campaign's climax and there is a whole sheet devoted to it. Draw its
+contents here in outline so the two sheets agree: the roped rectangle of the
+lists with stands on three sides, the Governor's box at the lists' western
+end, and the long butts running toward the lake shore.
+
+The cartouche must read this sheet's own title, not "The City of Purewater".
+The legend box had a lettering fault ("Two-or-scores Storeys").
+
+----------------------------------------------------------------------
+
 THE FIRST REFERENCE IMAGE IS THE AUTHORITY. It is the master map of the city of
 Purewater, drawn in black pen-and-ink on aged parchment. The sheet you are
 drawing now is an ENLARGEMENT OF ONE PART OF THAT MAP — the same city, the same
@@ -73,3 +92,41 @@ flat ovals at their moorings, and narrow alleys between blocks.
 
 Monochrome: black, grey, parchment. Crisp, technical, archival pen-and-ink
 cartography.
+
+AREA BRIEF -- High Isle — the Palace Quarter
+
+THE TITLE CARTOUCHE ON THIS SHEET READS: High Isle — the Palace Quarter
+
+The north-east quarter of High Isle: the official and noble frontage facing
+across the Lake toward Temple Isle.
+
+PALACE SQUARE as a formal paved plaza drawn as open flagging. The GOVERNOR'S
+PALAZZO on its lake-facing side, built round interior courtyards. The HALL OF
+JUSTICE and the BARRACKS as larger formal blocks with their own yards. The
+houses of the nobility ringing the square as big double-lined palazzi with
+garden courts and private water-stairs.
+
+THE TOURNAMENT GROUND occupies the open ground between the square and the lake
+shore, drawn in outline: a roped rectangle of raked sand with tiered stands on
+three sides, the Governor's box at its western end, and the long archery butts
+running out toward the water.
+
+A broad branch of the Grand Canal cuts along the quarter's inner edge with
+substantial stone bridges over it. Along the lake frontage, a dressed-stone
+embankment with landing steps, mooring posts, barges and gondolas.
+
+This is the rich end of the island: larger blocks, wider and straighter
+streets than elsewhere, and real open ground. The contrast with the packed
+tenements of the Lullwater should be obvious at a glance -- but the blocks are
+still irregular, and a narrow service canal or two still threads in behind the
+grand frontages.
+
+LETTER EXACTLY THESE LABELS, spelled as written, and no other place names:
+  - High Isle
+  - Palace Square
+  - Governor's Palazzo
+  - Hall of Justice
+  - Barracks
+  - The Tournament Ground
+  - The Grand Canal
+  - The Sacred Lake

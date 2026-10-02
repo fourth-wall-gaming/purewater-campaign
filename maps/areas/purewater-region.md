@@ -4,12 +4,11 @@ title: "The Mouth — Purewater and its Hinterland"
 tier: "region"
 style: "cadastral"
 aspect_ratio: "16:9"
-seed: 20261012
+seed: 20261120
 labels:
   - "The Sacred Lake"
   - "The Mouth"
   - "The Open Sea"
-  - "Purewater"
   - "High Isle"
   - "The Shoals"
   - "Caravan Square"
@@ -26,28 +25,48 @@ do_not_label:
   - "the Quiet Hand"
   - "the Mermaid's Court"
   - "the Catacombs"
+revision: |
+  The previous attempt CONTRADICTED THE MASTER MAP'S GEOGRAPHY, which is the one
+  thing this sheet must get right. It drew the city as four or five separate
+  rounded blobs and moved the Shoals to a detached peninsula in the south-east.
+  
+  On the master map there is ONE great irregular TRIANGULAR island -- High Isle
+  -- wedged in the strait and split across by the branching Grand Canal. Copy
+  that island's outline from the first reference image exactly. The Shoals is
+  the north-eastern jaw, reaching in from the north-east; Caravan Square is at
+  the tip of a thin promontory reaching east from the western mainland. Get
+  these three relationships right and the sheet is correct.
+  
+  Previous lettering errors to avoid: "Caraxan Road", "The The Shoals",
+  "Saltmarsh" printed twice, "T VAnTT ESTATE".
 ---
 
-Pull back from the city to the whole region. North is the sacred Lake; south
-is the open Sea; west is the mainland. Purewater sits across the Mouth, the
-narrow choke-point where the Lake pours south into the sea.
+The whole region at a glance. North is the sacred Lake; south is the open Sea;
+west is the mainland. Purewater sits across the Mouth, the narrow choke-point
+where the Lake pours south into the sea.
 
-At this scale the city is drawn as a compact mass of block-hatching rather
-than house by house — the only sheet in the set where that is correct — with
-its islands, the Mouth and the two jaws still clearly readable in the same
-shapes as the master map.
+THE CITY, drawn at this scale as compact block-hatching rather than house by
+house -- the only sheet where that is correct -- but with its true shape:
 
-Around it, the country: the reedy lake-shore and low hills to the north; the
-Western Marshes and Redmarsh drawn with reed-tuft symbols; Farmer's Dykes and
-Southfield Farm as surveyed field systems with their ditches and dyke-lines;
-Saltmarsh and the Tideflats south-west, with the tide-line drawn as a dotted
-edge; the Eastern Causeway running out across the water to the east; and the
-Caravan Road coming in from the west through hedgerow and cart-ruts to the
-land gate.
+- HIGH ISLE: one large irregular triangular island in the strait, split across
+  by the broad branching Grand Canal. Its south-west point reaches toward
+  Caravan Square across the calmer landward channel; its east point toward the
+  Shoals across the seaward channel; its north-west point faces the open Lake.
+- CARAVAN SQUARE at the tip of a thin promontory reaching east from the
+  western mainland -- the southern jaw, and the only land approach.
+- THE SHOALS on a second peninsula reaching in from the NORTH-EAST to form the
+  seaward jaw.
+- The waters part around High Isle and rejoin to the south.
+- North across the lake, the scattered Northern Isles and, alone off the
+  north-east, little Temple Isle.
 
-Two miles east of the city, where the ground rises out of the marsh, mark the
-Vantt Estate as a walled stone house with stables, orchards in ruled rows, and
-water-meadow running down to the channel.
+THE COUNTRY around it: reedy lake-shore and low hills north; Western Marshes
+and Redmarsh in reed-tuft symbols; Farmer's Dykes and Southfield Farm as
+surveyed field systems with ditches and dyke-lines; Saltmarsh and the
+Tideflats to the south-west with the tide-line as a dotted edge; the Eastern
+Causeway running out across the water; the Caravan Road coming in from the
+west through hedgerow to the land gate; and two miles east of the walls, where
+the ground rises out of the marsh, the Vantt Estate as a walled stone house
+with stables, ruled orchard rows and water-meadow down to the channel.
 
-Distances should read truly: the city is small, and the country around it is
-wet. Scale bar in miles rather than feet on this sheet.
+Scale bar in MILES on this sheet, not feet.

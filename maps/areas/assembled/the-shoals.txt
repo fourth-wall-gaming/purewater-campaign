@@ -1,3 +1,26 @@
+TWO REFERENCE IMAGES ARE SUPPLIED.
+
+The FIRST is the master city map -- the authority for style and geography, described below.
+
+The SECOND is a PREVIOUS ATTEMPT AT THIS VERY SHEET. Keep what it gets right: its framing, its layout, the parts of its linework and lettering that already match the master. Redraw it with the faults below corrected. This is a revision of that drawing, not a fresh start from nothing.
+
+CORRECT THESE FAULTS IN THE PREVIOUS ATTEMPT:
+
+Two fixes.
+
+THE HARBOUR MASTER'S TOWER DOES NOT BELONG ON THIS SHEET. The previous attempt
+drew it here, and it also appears on the High Isle Seaward sheet, in a
+different place. The master map puts it on High Isle's seaward point. Remove
+it entirely from this sheet -- it is no longer in the label list.
+
+Add the sea defences the brief asked for and the previous attempt omitted:
+long timber groynes and breakwaters taking the weather on the seaward side.
+
+Also loosen the housing: the rows behind the quay were drawn uniform and
+regular. Make them irregular and crowded.
+
+----------------------------------------------------------------------
+
 THE FIRST REFERENCE IMAGE IS THE AUTHORITY. It is the master map of the city of
 Purewater, drawn in black pen-and-ink on aged parchment. The sheet you are
 drawing now is an ENLARGEMENT OF ONE PART OF THAT MAP — the same city, the same
@@ -73,3 +96,37 @@ flat ovals at their moorings, and narrow alleys between blocks.
 
 Monochrome: black, grey, parchment. Crisp, technical, archival pen-and-ink
 cartography.
+
+AREA BRIEF -- The Shoals
+
+THE TITLE CARTOUCHE ON THIS SHEET READS: The Shoals
+
+The seaward jaw of the Mouth: a peninsula reaching in from the north-east to
+form the eastern side of the strait, where the Lake's outflow meets the open
+sea.
+
+The working waterfront in full -- fish-markets as open halls with rows of
+stall footprints and drying-racks behind them; ship-chandlers and net-lofts;
+wharves standing on piles with fishing craft moored in ranks; slipways; and
+long timber groynes and breakwaters running out into the sea to take its
+weather.
+
+Inland of the quay line, the housing of the people who work it: small, plain,
+tightly packed and irregular, poorer than High Isle, with crooked lanes
+between. Toward the west, where the peninsula runs back toward the Lullwater,
+the channels narrow and the jetties become irregular and half-hidden, tucked
+behind warehouses and under buildings.
+
+Small shrine-niches to drowned sailors at the heads of the jetties, as tiny
+plan symbols.
+
+LETTER EXACTLY THESE LABELS, spelled as written, and no other place names:
+  - The Shoals
+  - Fishmarkets
+  - The Open Sea
+  - The Lullwater
+
+DO NOT name, letter or label any of the following anywhere on this sheet. They are secret and must not appear in the drawing or its legend:
+  - the Quiet Hand
+  - the Mermaid's Court
+  - the Catacombs

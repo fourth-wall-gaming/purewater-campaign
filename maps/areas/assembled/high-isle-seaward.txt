@@ -1,3 +1,24 @@
+TWO REFERENCE IMAGES ARE SUPPLIED.
+
+The FIRST is the master city map -- the authority for style and geography, described below.
+
+The SECOND is a PREVIOUS ATTEMPT AT THIS VERY SHEET. Keep what it gets right: its framing, its layout, the parts of its linework and lettering that already match the master. Redraw it with the faults below corrected. This is a revision of that drawing, not a fresh start from nothing.
+
+CORRECT THESE FAULTS IN THE PREVIOUS ATTEMPT:
+
+This sheet is the correct home of the Harbour Master's Tower -- keep it, and
+give it more: its own walled enclosure, a signal mast, and a landing of its
+own, so it is plainly the building that governs the lawful traffic.
+
+The warehouse rows behind the quay were drawn uniform and regular. Loosen
+them into irregular blocks with crooked lanes, and thread two or three narrow
+working canals in behind the quay line so goods can be moved by boat as well
+as by hand.
+
+The cartouche must read this sheet's own title.
+
+----------------------------------------------------------------------
+
 THE FIRST REFERENCE IMAGE IS THE AUTHORITY. It is the master map of the city of
 Purewater, drawn in black pen-and-ink on aged parchment. The sheet you are
 drawing now is an ENLARGEMENT OF ONE PART OF THAT MAP — the same city, the same
@@ -73,3 +94,30 @@ flat ovals at their moorings, and narrow alleys between blocks.
 
 Monochrome: black, grey, parchment. Crisp, technical, archival pen-and-ink
 cartography.
+
+AREA BRIEF -- High Isle — the Seaward Quarter
+
+THE TITLE CARTOUCHE ON THIS SHEET READS: High Isle — the Seaward Quarter
+
+The southern, seaward face of High Isle, where the island's quays front the
+channel running down to the open sea.
+
+A long run of timber and stone wharves standing out into the water on piles,
+finger-jetties between them, ships moored alongside as flat plan outlines.
+Warehouses and net-lofts packed immediately behind the quay line with their
+doors to the water; capstans, bollards, stacked timber and barrels in the
+yards. Narrow working canals cut in behind the quay so lighters can reach the
+rear of the warehouse blocks.
+
+The HARBOUR MASTER'S TOWER stands clear on the point where it can see down the
+channel: a distinct tower within its own walled enclosure, with a signal mast
+and its own landing steps.
+
+Seaward of the quays the water carries the open-sea shading of the master map
+rather than the stiller stipple of the inner canals.
+
+LETTER EXACTLY THESE LABELS, spelled as written, and no other place names:
+  - High Isle
+  - Docks and Wharves
+  - Harbour Master's Tower
+  - The Open Sea

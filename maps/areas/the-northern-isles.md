@@ -4,7 +4,7 @@ title: "The Northern Isles"
 tier: "district"
 style: "cadastral"
 aspect_ratio: "4:3"
-seed: 20261009
+seed: 20261123
 labels:
   - "The Northern Isles"
   - "The Pearl"
@@ -14,25 +14,37 @@ do_not_label:
   - "the Quiet Hand"
   - "the Mermaid's Court"
   - "the Catacombs"
+revision: |
+  Every island in the previous attempt was a SMOOTH OVAL, and they were arranged
+  in tidy rows. Both are wrong and the first is the most important fault in the
+  whole set.
+  
+  Redraw every island ragged and asymmetrical -- inlets, spits, notches, reedy
+  shallows, a drowned tail of rocks, one island nearly split in two by a
+  channel. If an outline could be drawn with one smooth curve, it is wrong.
+  Scatter them irregularly: some close enough to share a channel, others alone,
+  none in a row.
+  
+  KEEP the drowned bell-tower showing only its top above the water -- it is the
+  best detail on the sheet. Keep the Pearl's strung lamps and Lost Isle's
+  submerged wall-lines.
 ---
 
-North of High Isle, where the Lake widens into its calmer, cleaner reaches: a
-scatter of small irregular islands, the gentler and stranger half of
-Purewater. On the master map these are the islets across the top of the sheet.
+North of High Isle, where the Lake widens into its calmer reaches: a scatter
+of small irregular islands, the gentler and stranger half of Purewater.
 
-Draw a loose archipelago, each island distinct in character:
+- THE PEARL -- the bright one, built up along a single curving quay with lamps
+  strung between the houses as fine catenary lines. Ragged shoreline behind.
+- LOST ISLE -- ruins, half-drowned and weed-choked: broken wall-lines and
+  roofless rectangles, some continuing out under the water and drawn in a
+  lighter broken line where submerged.
+- COURT RETREATS -- three or four islets with a single walled villa apiece,
+  formal gardens in beds and walks, a private landing, and much empty ground.
+  Draw one shuttered and overgrown, its garden gone to meadow.
+- THE SHUNNED ISLES -- one bare and wooded with no landing; one showing only
+  the top of a drowned bell-tower above the water, with the rooftops of the
+  sunken village faint beneath the surface around it.
 
-- The Pearl — the bright one, its waterfront built up along a single quay with
-  lamps strung between the houses. Draw it compact and dense.
-- Lost Isle — ruins, half-drowned, weed-choked, deserted: broken wall-lines and
-  roofless rectangles, some of them continuing out under the water and drawn
-  with a lighter broken line where they are submerged.
-- Court retreats — several islets with a single walled villa apiece, formal
-  gardens laid out in beds and walks, a private landing, and a great deal of
-  empty ground. Some drawn shuttered and overgrown.
-- The shunned isles — two or three left bare: one with a drowned bell-tower
-  showing only its top above the water, one wooded and unbuilt.
-
-Between them the open lake, drawn with the calmer, cleaner water-shading of
-the master map's northern reaches, and the channels that boats actually use
-marked by small moored ovals.
+Between them the open lake in the calmer shading of the master's northern
+reaches, with the channels boatmen actually use marked by moored ovals -- and
+one channel conspicuously empty of them.
