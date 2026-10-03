@@ -8,6 +8,14 @@
 >
 > **Kept (4+ in all three):** caravan-square · temple-isle · the-forge-quarter ·
 > the-moist-oyster · the-siren-s-call
+>
+> **Follow-up.** Scoring 4+ did not mean faultless: each keeper still had one
+> listed fault. Two of the five are answered by the style-block fixes (the
+> cartouche title, and unlabelled rooms). The remaining three --
+> `caravan-square`'s misplaced Land Gate, `the-forge-quarter`'s forges that look
+> like houses, and `the-moist-oyster`'s undrawn cellar -- are specific to their
+> briefs, and those three specs have now been corrected and given revision notes
+> too. Their existing images remain usable; re-rolling them is optional.
 
 Nineteen sheets, scored out of 5 for **(A) playability** — can you run a scene
 off it; **(B) fidelity** — is it true to the setting and consistent with

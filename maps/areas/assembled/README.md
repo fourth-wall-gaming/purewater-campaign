@@ -7,14 +7,17 @@ Regenerate after editing any spec or style block (see the parent README).
 
 ## Which reference images to attach
 
-**Five sheets are finished** and their prompts are plain, for reference only.
-They scored 4+ on playability, fidelity and creativity in the first pass and
-should not be re-rolled:
+**Two sheets are finished** and their prompts are plain, for reference only --
+`temple-isle` and `the-siren-s-call`. Both scored 4+ across the board, and the
+one fault each had (a wrong cartouche title, and unlabelled rooms) is now fixed
+in the shared style blocks rather than in their own briefs.
 
-    caravan-square · temple-isle · the-forge-quarter
-    the-moist-oyster · the-siren-s-call
-
-**The other fourteen are revisions.** Their prompts open with "TWO REFERENCE
+**The other seventeen are revisions.** Fourteen scored below the bar. The other
+three -- `caravan-square`, `the-forge-quarter` and `the-moist-oyster` -- were
+kept, but each had one specific fault their spec had to answer for: a Land Gate
+labelled on the wrong side of the water, forges indistinguishable from houses,
+and a cellar that was never drawn. Their images are usable as they stand; the
+re-roll is optional. Their prompts open with "TWO REFERENCE
 IMAGES ARE SUPPLIED" and then list the faults to correct, so they need **both**
 images attached, in this order:
 
