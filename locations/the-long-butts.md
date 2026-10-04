@@ -2,7 +2,7 @@
 id: "myth-loc-95b0d058ff45"
 name: "The Long Butts"
 type: "ground"
-summary: "Two hundred paces of marked grass on the north shore between the water and the stands, where the open archery is shot. No house colours required, no fee, anyone may enter."
+summary: "Two hundred paces of marked grass on the North Quarter's north shore, inside the Tournament Ground, between the water and the stands, where the open archery is shot. No house colours required, no fee, anyone may enter."
 created_at: "2026-09-13T00:00:00"
 ---
 

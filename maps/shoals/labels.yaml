@@ -1,0 +1,35 @@
+# The Shoals sheet: where it is cut from, and what is lettered on it.
+# Format as maps/lullwater/labels.yaml. Run with maps/sheet.py shoals ...
+#
+# master_crop is in pixels of maps/purewater-map.png; `request` cuts it for the
+# text-free redraw, which comes back as `source`. Positions are fractions of the
+# frame; check them against the redraw when it lands.
+
+master_crop: {x: 2100, y: 1280, w: 1100, h: 619}
+source: unlabelled.png
+crop: {x: 0, y: 0, w: 5456, h: 3072}
+
+title: {text: "The Shoals", subtitle: "Purewater", x: 0.715, y: 0.022, size: 0.029}
+key: {x: 0.012, bottom: 0.012, size: 0.0095}
+
+sites:
+  # canon: beats/the-stairs-stop.md, the-purge-of-the-canals.md, and Kag's run
+  # (playthroughs: novels/purewater-kag-run-4)
+  - {text: "The Fishmarket Bridge", x: 0.535, y: 0.395, num: ne}
+  - {text: "The Fishmarket Stair", x: 0.585, y: 0.465, num: se}
+  - {text: "Marn's Ice-House", x: 0.715, y: 0.600, num: ne}
+  - {text: "Deller's Net-Loft", x: 0.655, y: 0.520, num: ne}
+  - {text: "The Middle Jetty", x: 0.525, y: 0.930, num: ne}
+  - {text: "The Smugglers' Jetties", x: 0.260, y: 0.860, num: nw}
+  - {text: "The DragonBarge Pier", x: 0.175, y: 0.535, num: ne}
+  # the bridges east (lore/geography/the-city-and-its-islands.md)
+  - {text: "The Causeway Bridge", x: 0.765, y: 0.495, num: ne}
+  - {text: "The Tideflats Bridge", x: 0.830, y: 0.835, num: se}
+
+areas:
+  - {text: "The Fishmarket", x: 0.610, y: 0.640, size: 0.016}
+  - {text: "The Low Canals", x: 0.345, y: 0.700, size: 0.013}
+  - {text: "The Forges", x: 0.150, y: 0.150, size: 0.016}
+  - {text: "Eastern Causeway", x: 0.880, y: 0.270, size: 0.013}
+
+do_not_label: ["the Quiet Hand", "the Mermaid's Court", "the Catacombs"]

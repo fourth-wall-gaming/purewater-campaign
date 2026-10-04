@@ -11,11 +11,13 @@ cast: []
 created_at: "2026-09-13T00:00:00"
 ---
 
-**Tourney day three, and the only event that leaves the island.**
+**Tourney day three, and the only event that leaves the Tournament Ground.**
 
-The Run goes from the Lists out through the water-gate, across Caravan Square,
-down the length of the Merchant's Quarter, over the Lullwater by whatever means
-a competitor can find, and back along the Shoals to the temple steps. On foot
+The Run goes from the Lists out through the water-gate and the length of the North
+Quarter, over the Triumph Bridge to Caravan Square and back, down the Merchant's
+Quarter, along the Seaward docks and over the Fishmarket Bridge into the Shoals,
+across to the bridgeless Lullwater by whatever means a competitor can find, and
+back over open water to the temple steps. On foot
 and by boat. No route is laid down and no help is forbidden, which is the whole
 character of it: half the city is a course and the other half is a crowd.
 

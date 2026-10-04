@@ -1,0 +1,18 @@
+Edit this image. Do not generate a new one.
+
+It is a crop of a black pen-and-ink city map on aged parchment, showing the Shoals, the fish-market and wharf district at the south-east corner of a canal city. Redraw it at high resolution, 16:9, keeping the drawing exactly as it is: every coastline, island outline, canal, bridge, pier, street, block and building stays where it is, the same shape and the same size, as if traced, and the four edges of the frame stay where they are. Do not crop, zoom, rotate or reframe. Do not add or remove any land, water, piers or bridges.
+
+What is in the frame, so nothing gets lost:
+- Top left: the dense industrial quarter of foundries and yards, its south shore a row of small jetties.
+- Centre: the Shoals, a low ragged island with a large open market ground in the middle, ringed by sheds and warehouses, its south shore a comb of short piers and slips, and a long arm of wharves reaching south-west with piers off it.
+- Two bridges from the industrial quarter to the Shoals' north-west: a short one at the top, and a long diagonal one lower down.
+- Two bridges from the Shoals' east side across a narrow inlet to the eastern shore: a long one in the north-east and a lower one in the south-east.
+- Top centre: the southern tip of another island across the water.
+- Right: the eastern shore, open marshy ground with reeds, crossed by a winding road with a fork.
+- Open sea along the bottom and left, with a few small boats.
+
+Make it sharp and finely detailed. Every building a separate footprint seen from directly above: one-storey a plain outline, two-or-more storeys a double-lined box. On the Shoals: long fish-sheds and ice-houses, market stalls in rows across the open ground, drying racks for nets and fish, stacked barrels and crates, water-stairs and landing steps down to the water, mooring posts, small boats tied along the piers. Reeds as tufts on the eastern shore. Water in grey wash with fine stippling and contour hatching.
+
+Same style throughout: fine technical black and grey pen-work on the same parchment, strict top-down plan view like a surveyor's map. No 3D, no perspective, no roofs, no shadows, no colour, no sepia or brown.
+
+REMOVE ALL LETTERING. The image must contain no text, letters, labels, arrows or leader lines anywhere. Where the original has a label or a leader line, draw the water, ground or buildings that lie underneath it.

@@ -7,7 +7,9 @@ created_at: "2026-06-24T23:31:07"
 ---
 
 A rough tavern deep in [[The Lullwater]], its suggestive sign a half-open oyster
-shell. Cheap drink, loose tongues, and the occasional knife fight; an underground
+shell. It is four buildings round a yard on the north-western edge of the Still, the
+quarter's round pool. The back room sits right on the water, and things go in and
+out of it by boat that never cross the bar. Cheap drink, loose tongues, and the occasional knife fight; an underground
 market of rumour and whispered deals. (It echoes the old Zorastor "Vulgar Unicorn,"
 down to its bawdy sign.)
 

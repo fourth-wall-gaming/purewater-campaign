@@ -18,4 +18,17 @@ the city's powerful come to be indiscreet -- which makes it, after the [[The Cur
 crime that opens the campaign: [[Santo di Teufel]]'s botched binding ritual on the
 courtesan [[Emmeralda]] at the Sylph's Embrace, three nights before the tourney.
 
+**The lie of it.** The Pearl is a long island off the North Quarter's north-west,
+with a lobe at each end. Its sheltered south shore faces a quiet basin and High Isle,
+and that shore is **Pearl Quay**. The **Mother of Pearl** is in the middle of the
+Quay, with a plain water-stair. The **Sylph's Embrace** is east of it, and the
+**Siren's Call** is at the foot of the **Lantern Bridge**, the island's front door.
+At the poorer south-western end, by the **Old Span** and the **Hush Bridge**, is the
+**Promise of Heaven**. Out on the garden lobe to the west, among the trees, is the
+**Lily Garden**, with its own water-stair. To the east the **Widow's Bridge** crosses
+to a small walled islet of gardens and the **Widow's House**, gated at its end of the
+bridge and shuttered for two hundred years. The Widow founded the Pearl as a
+pleasure district; see [[The Widow of the Pearl]]. These are
+marked on the Pearl sheet, `maps/pearl/`.
+
 *(Formerly "the Street of Red Lanterns" / "the Pearl Quarter"; now its own island.)*

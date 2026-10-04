@@ -25,7 +25,7 @@ Lady's water before the sand. Nerissa's people run it, in the Order's order of
 precedence, on the Order's ground. The Baron cannot decline it and cannot
 arrange it. Forty-odd people pressed onto a narrow wet stair for the better part
 of an hour, stripped above the waist for the water, with the whole city watching
-from the bridges.
+from the Tournament Ground stands across the water.
 
 That is the one hour in the week Hanzo di Teufel stands in a crowd he does not
 control.

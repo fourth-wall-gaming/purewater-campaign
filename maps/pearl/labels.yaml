@@ -1,0 +1,36 @@
+# The Pearl sheet: where it is cut from, and what is lettered on it.
+# Format as maps/lullwater/labels.yaml. Run with maps/sheet.py pearl ...
+#
+# master_crop is in pixels of maps/purewater-map.png; `request` cuts it for the
+# text-free redraw, which comes back as `source`. Until it does, label
+# request.png to preview. Positions are fractions of the frame, so they carry
+# over to the redraw as long as it keeps the frame; check them when it lands.
+
+master_crop: {x: 600, y: 110, w: 1100, h: 619}
+source: unlabelled.png
+crop: {x: 0, y: 0, w: 5456, h: 3072}
+
+title: {text: "The Pearl", subtitle: "Purewater", x: 0.752, y: 0.022, size: 0.029}
+key: {x: 0.012, bottom: 0.012, size: 0.0095}
+
+sites:
+  # the houses (locations/the-pearl.md and the house files)
+  - {text: "The Mother of Pearl", x: 0.420, y: 0.640, num: sw}
+  - {text: "The Sylph's Embrace", x: 0.465, y: 0.588, num: ne}
+  - {text: "The Siren's Call", x: 0.505, y: 0.520, num: ne}
+  - {text: "The Lily Garden", x: 0.315, y: 0.400, num: nw}
+  - {text: "The Promise of Heaven", x: 0.355, y: 0.730, num: ne}
+  # the bridges (lore/geography/the-city-and-its-islands.md)
+  - {text: "The Lantern Bridge", x: 0.535, y: 0.575, num: se}
+  - {text: "The Hush Bridge", x: 0.262, y: 0.690, num: nw}
+  - {text: "The Old Span", x: 0.372, y: 0.835, num: se}
+  - {text: "The Widow's Bridge", x: 0.606, y: 0.370, num: ne}
+  # the walled islet the Widow's Bridge reaches (named here)
+  - {text: "The Widow's House", x: 0.670, y: 0.230, num: ne}
+
+areas:
+  - {text: "Pearl Quay", x: 0.475, y: 0.668, size: 0.011}
+  - {text: "The Singer's Rest", x: 0.245, y: 0.205, size: 0.016}
+  - {text: "High Isle (North Quarter)", x: 0.790, y: 0.700, size: 0.016}
+
+do_not_label: ["the Quiet Hand", "the Mermaid's Court", "the Catacombs"]

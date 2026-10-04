@@ -1,0 +1,31 @@
+# The Tournament Ground and Temple Isle sheet. Format as maps/lullwater/labels.yaml.
+# Run with maps/sheet.py tournament ...  4:3, unlike the 16:9 Pearl and Shoals.
+
+master_crop: {x: 1760, y: 110, w: 1100, h: 825}
+source: unlabeled.png
+# the redraw came back 16:9 with the 4:3 drawing in the middle; this is the drawing
+crop: {x: 522, y: 0, w: 4272, h: 3072}
+
+title: {text: "The Lists and Temple Isle", subtitle: "Purewater", x: 0.020, y: 0.190, size: 0.019}
+key: {x: 0.700, bottom: 0.012, size: 0.0105}
+
+sites:
+  # the Tourney (locations/the-lists.md, the-long-butts.md, beats/the-run-across-the-town.md)
+  - {text: "The Lists", x: 0.505, y: 0.805, num: ne}
+  - {text: "The Governor's Box", x: 0.428, y: 0.805, num: nw}
+  - {text: "The Long Butts", x: 0.500, y: 0.640, num: ne}
+  - {text: "The Water-Gate", x: 0.605, y: 0.760, num: ne}
+  # Temple Isle (locations/temple-isle.md, beats/nus-lifts-the-binding-locket.md)
+  - {text: "The Temple of the Lake Lady", x: 0.550, y: 0.120, num: ne}
+  - {text: "The Sacred Confluence", x: 0.550, y: 0.262, num: ne}
+  - {text: "The Temple Steps", x: 0.550, y: 0.372, num: se}
+  # the official quarter (locations/high-isle.md)
+  - {text: "The Governor's Palazzo", x: 0.160, y: 0.600, num: ne}
+  - {text: "Palace Square", x: 0.180, y: 0.760, num: ne}
+  - {text: "The Hall of Justice", x: 0.075, y: 0.780, num: ne}
+  - {text: "The Barracks", x: 0.305, y: 0.790, num: ne}
+
+areas:
+  - {text: "Lost Isle", x: 0.800, y: 0.270, size: 0.016}
+
+do_not_label: ["the Quiet Hand", "the Mermaid's Court", "the Catacombs"]

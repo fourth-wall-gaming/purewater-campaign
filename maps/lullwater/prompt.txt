@@ -1,0 +1,13 @@
+Edit this image. Do not generate a new one.
+
+It is an enlarged crop of a black pen-and-ink map on aged parchment, and it is blurry because it has been enlarged. Redraw it sharp and finely detailed, keeping the drawing exactly as it is: every coastline, island outline, street, block, jetty, the small round pool near the middle, and the four edges of the frame stay where they are, the same shape and the same size, as if traced. Do not move, straighten, smooth, add or remove any land or water. Do not crop, zoom, rotate or reframe.
+
+Add detail only inside the shapes that are already there:
+- Resolve every block into individual house footprints seen from directly above: one-storey as a plain outline, two-or-more storeys as a double-lined box, packed tight with small courtyards, light-wells and narrow alleys between them.
+- Where a street already runs, a few of them may become narrow canals of grey water, crooked and ending in small blind basins, crossed by plank footbridges.
+- At the shoreline: water-stairs, landing steps, mooring posts and short plank jetties. Small boats as simple flat ovals.
+- Water: grey wash with fine stippling and contour hatching, as in the original.
+
+Style: the same fine, technical black and grey pen-work on the same parchment. Strict top-down plan view like a surveyor's map. No 3D, no perspective, no isometric, no little house icons, no roofs, no shadows, no colour, no sepia or brown.
+
+REMOVE ALL LETTERING. The image must contain no text, letters or labels anywhere. Where the original has a label, draw the houses or water that lie underneath it.

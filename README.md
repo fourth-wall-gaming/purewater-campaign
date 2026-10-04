@@ -32,7 +32,7 @@ campaign format (v1.1).
 
 | Contents | Count |
 |---|---|
-| Lore entries | 25 |
+| Lore entries | 26 |
 | Characters | 42 (playable: Conall Bjornlasch, Gardwen, Magda, Randall) |
 | Creature templates | 4 |
 | Locations | 22 |
@@ -116,6 +116,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 
 **history**
 - [The Dragon Kings and the Lake Lady](lore/history/the-dragon-kings-and-the-lake-lady.md)
+- [The Widow of the Pearl](lore/history/the-widow-of-the-pearl.md)
 
 **law**
 - [The King's justice, and how a lord is called to answer](lore/law/the-kings-justice.md)

@@ -11,12 +11,14 @@ created_at: "2026-09-11T00:00:00"
 what she is to the island. Where [[The Sylph's Embrace]] and [[The Siren's Call]]
 hang their lamps out over the water, the Mother of Pearl has a plain water-stair,
 a doorman who already knows who you are, and no sign of any kind. It is the
-oldest house on the Quay and the only one that has never needed to advertise.
+oldest house on the Quay and the only one that has never needed to advertise. The
+Widow founded it (see [[The Widow of the Pearl]]), and every dusk its doorman lights
+the Quay's lamps from her flame.
 
 You do not go there until you are worth meeting. She receives; she does not
 travel.
 
-**The rule was made here.** A night is for sale; a person is not. It predates
+**The rule was made here,** by the Widow. A night is for sale; a person is not. It predates
 every proprietor now working, every house on the Quay enforces it, and no amount
 of money has ever moved it — which is the reason there is anyone left working on
 the Pearl at all.

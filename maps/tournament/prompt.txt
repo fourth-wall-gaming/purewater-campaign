@@ -1,0 +1,22 @@
+Edit this image. Do not generate a new one.
+
+It is a crop of a black pen-and-ink city map on aged parchment, showing the official quarter of a canal city, its walled tournament ground, and the temple island across the water. Redraw it at high resolution, 4:3, keeping the drawing exactly as it is: every coastline, island outline, wall, canal, street, block and building stays where it is, the same shape and the same size, as if traced, and the four edges of the frame stay where they are. Do not crop, zoom, rotate or reframe. Do not add or remove any land, islands or bridges.
+
+What is in the frame, so nothing gets lost:
+- Top centre: Temple Isle, a small square island entirely filled by one walled sacred precinct. It is formal, symmetrical, planned architecture, not houses: a temple building at the north end, cloister ranges down both long sides, and in the middle a large round pool.
+- Bottom centre: a walled tournament ground on the shore, with a six-sided list inside the walls.
+- Left and bottom left: a walled palace with a great courtyard, a colonnaded square below it, a hall of justice and barracks, and dense streets of houses.
+- A tiny rocky islet just off the shore above the tournament ground.
+- Top left: a small garden isle. Top right: a broken, half-drowned island of ruins. Right and bottom right: the edge of a crowded island district across a channel, with a jetty.
+- Open lake water between them, with a few small boats.
+
+Make it sharp and finely detailed. Every building a separate footprint seen from directly above: one-storey a plain outline, two-or-more storeys a double-lined box.
+- The temple precinct in deliberate architectural plan: columns as rows of small dots along the cloister walks, a straight channel of water running from the north wall through the temple to the round pool, and from the pool on to the south wall, where broad water-steps go down into the lake facing the tournament ground. Small shrines in a ring around the pool. Paving drawn as fine lines.
+- The tournament ground: tiered timber stands drawn as rows of narrow parallel benches on three sides of the six-sided list, a box at the list's western end, raked sand inside the list as fine stipple, a strip of open grass between the stands and the water along the north side, and a water-gate in the eastern wall.
+- The palace: its great courtyard paved, with formal garden beds.
+- The ruined island: roofless walls and broken footprints half under water.
+- Water in grey wash with fine stippling and contour hatching.
+
+Same style throughout: fine technical black and grey pen-work on the same parchment, strict top-down plan view like a surveyor's map. No 3D, no perspective, no roofs, no shadows, no colour, no sepia or brown.
+
+REMOVE ALL LETTERING. The image must contain no text, letters, labels, arrows or leader lines anywhere. Where the original has a label, draw the water, ground or buildings that lie underneath it.

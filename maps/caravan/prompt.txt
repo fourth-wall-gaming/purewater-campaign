@@ -1,0 +1,21 @@
+Edit this image. Do not generate a new one.
+
+It is a crop of a black pen-and-ink city map on aged parchment, showing Caravan Square, the land gate of a canal city, where the caravan road from the west meets the water. Redraw it at high resolution, 16:9, keeping the drawing exactly as it is: every coastline, channel, road, bridge, street, block and building stays where it is, the same shape and the same size, as if traced, and the four edges of the frame stay where they are. Do not crop, zoom, rotate or reframe. Do not add or remove any land, water or bridges.
+
+What is in the frame, so nothing gets lost:
+- Left: open marshy ground with reeds, crossed by a winding road that forks; one branch runs east to the square.
+- Centre left: Caravan Square, a large open ground on the western shore, with a strip of waterfront buildings along its eastern edge from top to bottom.
+- Centre: a channel of water running north to south, crossed by one stone bridge from the square to the island on the right. A short jetty at the top of the channel; a landing stage near the bottom.
+- Right: the edge of a dense island district of streets and houses, its north shore on a broad canal that runs across the top right.
+
+Make it sharp and finely detailed. Every building a separate footprint seen from directly above: one-storey a plain outline, two-or-more storeys a double-lined box.
+- Where the road meets the waterfront, a formal gatehouse astride the road, with a gate passage through it and a short stretch of wall on either side.
+- The square itself paved, laid out as a caravan staging ground: rows of parked wagons drawn as small rectangles with shafts, fenced beast-pens and horse-lines along its edges, a well and a long drinking trough, stacked crates and bales. A low wall around the square's landward side.
+- The waterfront buildings resolved into warehouses and yards with loading doors and water-stairs down to the channel; small cargo boats tied alongside.
+- At the island end of the bridge, a customs house with a small yard.
+- At the landing stage near the bottom, a ferry stage with steps and moored ferry boats.
+- Reeds as tufts in the marsh. Water in grey wash with fine stippling and contour hatching.
+
+Same style throughout: fine technical black and grey pen-work on the same parchment, strict top-down plan view like a surveyor's map. No 3D, no perspective, no roofs, no shadows, no colour, no sepia or brown.
+
+REMOVE ALL LETTERING. The image must contain no text, letters, labels, arrows or leader lines anywhere. Where the original has a label, draw the ground, water or buildings that lie underneath it.
