@@ -1,0 +1,81 @@
+THE FIRST REFERENCE IMAGE IS THE AUTHORITY FOR STYLE. It is the master map of
+the city of Purewater, drawn in black pen-and-ink on aged parchment. The sheet
+you are drawing now belongs to the same atlas and must be drawn by the same hand
+— the same parchment, the same COOL BLACK AND GREY ink (no sepia, no brown, no
+warm tan), the same lettering, the same compass rose, scale bar, title cartouche
+and ruled border.
+
+THE CARTOUCHE CARRIES THIS SHEET'S OWN TITLE — the name of this building or
+site, given in the brief below. Never write "THE CITY OF PUREWATER" on this
+sheet. Do not include the master's legend box: bridges and canal symbols mean
+nothing on a building plan.
+
+What differs from the master is the CONVENTION, not the style. The master
+surveys a whole city. This sheet is an ARCHITECTURAL GROUND PLAN of one building
+or site, so it uses the drawing language of a floor plan:
+
+- Walls as solid double lines, thick for external walls, thinner for internal
+  partitions. Walls are FLAT BLACK LINES — no bevel, no emboss, no drop-shadow,
+  no three-dimensional thickness, no shading to suggest height.
+- Doorways as gaps in the wall with a thin quarter-circle arc showing the swing.
+- Windows as a thin break in the wall line.
+- Stairs as a run of parallel treads with an arrow for the direction of ascent;
+  a stair going down drawn with a break line.
+- Fixed furniture only where it tells you what a room is for: hearths and
+  chimney breasts, bars and counters, beds, tables, baths and basins, wells,
+  pillars, cisterns, and the water-stairs where the building meets a canal.
+
+EVERY ROOM IS NAMED. This is not optional and it is the single most useful thing
+on the sheet. Hand-letter a short name inside each room — in the same
+small-capital serif as the master map — saying what the room is FOR. A plan with
+unlabelled rooms cannot be used at a table. Label every enclosed space,
+including passages, courts, cellars and service rooms.
+
+Where a plan shows more than one storey or level, draw each as a separate plan
+on the same sheet, titled, and ALIGN THEM: the external wall outline must be
+drawn identically and in the same position on every level, so a reader can see
+what lies above and below what.
+
+STRICT TOP-DOWN ORTHOGRAPHIC PROJECTION. The camera is straight overhead at
+ninety degrees. Drawn FLAT, as a measured plan. NOT a cutaway, NOT perspective,
+NOT isometric, NOT oblique, NOT a three-dimensional rendering, NOT a video-game
+battlemap. NO cast shadows, NO ambient occlusion, NO dramatic lighting, NO glow,
+NO vignette, NO painterly texture, NO people or creatures.
+
+Where the building stands on the water — which here is most of them — show the
+water in the same grey wash and stippling as the master map, and show how the
+building is entered from it: the water-stair, the mooring, the jetty, the
+covered landing.
+
+Monochrome: black ink, grey wash, aged parchment. Crisp, technical, archival. It
+should read as a surveyor's plan bound into the same volume as the city map, not
+as an illustration of a building.
+
+AREA BRIEF -- Beneath the City
+
+THE TITLE CARTOUCHE ON THIS SHEET READS: Beneath the City
+
+A subterranean plan of the tunnels, caverns and centuries-old water-pools
+beneath the city, older than anything above.
+
+Vaulted passages as double wall-lines with hatched arcs, running irregularly
+and ON MORE THAN ONE LEVEL -- mark every level change with a stair and a break
+line, and show at least one passage passing over another.
+
+Water everywhere and drawn as water: still pools in the low chambers with a
+clear waterline against the stonework, channels running between them wide
+enough for a small boat, mooring rings and cut landing ledges beside them, and
+vaults flooded nearly to the springing where only a swimmer could pass. A few
+large pillared caverns where the roof is held up.
+
+Collapsed stretches in rubble hatch; dead ends; older rough-cut sections where
+the tunnel predates the masonry around it.
+
+Stair-mouths coming down from above at the sheet's edges, drawn as entry
+symbols without naming what they come down from.
+
+No place names, no surface references, no indication of which buildings stand
+above. It is a plan of a dark place and should give nothing away.
+
+LETTER EXACTLY THESE LABELS, spelled as written, and no other place names:
+  - Beneath the City

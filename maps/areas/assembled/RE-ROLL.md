@@ -1,15 +1,16 @@
 # The re-roll: 17 sheets at 4K
 
-Every sheet below is a **revision**. Its prompt opens with "TWO REFERENCE IMAGES
-ARE SUPPLIED" and then lists the faults to correct, so both images must be
-attached, **in this order**:
+Seventeen sheets to redo. Two forms of each prompt — see `README.md` — and for
+doing this by hand the simpler one is usually right:
 
-1. `maps/purewater-map.png` — the master city map, the authority for style and
-   geography.
-2. `maps/areas/<slug>.png` — the previous render of that same sheet.
+**`assembled/single-reference/<slug>.txt`** — attach only
+`maps/purewater-map.png`. All the corrections are written in as positive
+instructions.
 
-Attach them the other way round and every instruction points at the wrong
-picture.
+**`assembled/<slug>.txt`** — attach `maps/purewater-map.png` **first** and
+`maps/areas/<slug>.png` **second**. Names the faults to fix and keeps what the
+previous render got right. Better, when the tool takes two references and you
+get the order right.
 
 Render at **4K**, quality **max**. The first pass came back at 1024x768 — the
 same size as the master — which is the single biggest reason the fine detail did
@@ -19,7 +20,7 @@ not survive.
 
 ## By hand
 
-| sheet | prompt | 2nd reference | aspect |
+| sheet | prompt file (either folder) | 2nd ref, revision form only | aspect |
 |---|---|---|:-:|
 | Caravan Square and the Gate of Triumph | `assembled/caravan-square.txt` | `caravan-square.png` | 4:3 |
 | High Isle — the Palace Quarter | `assembled/high-isle-palace-quarter.txt` | `high-isle-palace-quarter.png` | 4:3 |

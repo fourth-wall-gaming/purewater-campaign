@@ -1,0 +1,82 @@
+THE FIRST REFERENCE IMAGE IS THE AUTHORITY FOR STYLE. It is the master map of
+the city of Purewater, drawn in black pen-and-ink on aged parchment. The sheet
+you are drawing now belongs to the same atlas and must be drawn by the same hand
+— the same parchment, the same COOL BLACK AND GREY ink (no sepia, no brown, no
+warm tan), the same lettering, the same compass rose, scale bar, title cartouche
+and ruled border.
+
+THE CARTOUCHE CARRIES THIS SHEET'S OWN TITLE — the name of this building or
+site, given in the brief below. Never write "THE CITY OF PUREWATER" on this
+sheet. Do not include the master's legend box: bridges and canal symbols mean
+nothing on a building plan.
+
+What differs from the master is the CONVENTION, not the style. The master
+surveys a whole city. This sheet is an ARCHITECTURAL GROUND PLAN of one building
+or site, so it uses the drawing language of a floor plan:
+
+- Walls as solid double lines, thick for external walls, thinner for internal
+  partitions. Walls are FLAT BLACK LINES — no bevel, no emboss, no drop-shadow,
+  no three-dimensional thickness, no shading to suggest height.
+- Doorways as gaps in the wall with a thin quarter-circle arc showing the swing.
+- Windows as a thin break in the wall line.
+- Stairs as a run of parallel treads with an arrow for the direction of ascent;
+  a stair going down drawn with a break line.
+- Fixed furniture only where it tells you what a room is for: hearths and
+  chimney breasts, bars and counters, beds, tables, baths and basins, wells,
+  pillars, cisterns, and the water-stairs where the building meets a canal.
+
+EVERY ROOM IS NAMED. This is not optional and it is the single most useful thing
+on the sheet. Hand-letter a short name inside each room — in the same
+small-capital serif as the master map — saying what the room is FOR. A plan with
+unlabelled rooms cannot be used at a table. Label every enclosed space,
+including passages, courts, cellars and service rooms.
+
+Where a plan shows more than one storey or level, draw each as a separate plan
+on the same sheet, titled, and ALIGN THEM: the external wall outline must be
+drawn identically and in the same position on every level, so a reader can see
+what lies above and below what.
+
+STRICT TOP-DOWN ORTHOGRAPHIC PROJECTION. The camera is straight overhead at
+ninety degrees. Drawn FLAT, as a measured plan. NOT a cutaway, NOT perspective,
+NOT isometric, NOT oblique, NOT a three-dimensional rendering, NOT a video-game
+battlemap. NO cast shadows, NO ambient occlusion, NO dramatic lighting, NO glow,
+NO vignette, NO painterly texture, NO people or creatures.
+
+Where the building stands on the water — which here is most of them — show the
+water in the same grey wash and stippling as the master map, and show how the
+building is entered from it: the water-stair, the mooring, the jetty, the
+covered landing.
+
+Monochrome: black ink, grey wash, aged parchment. Crisp, technical, archival. It
+should read as a surveyor's plan bound into the same volume as the city map, not
+as an illustration of a building.
+
+AREA BRIEF -- The Sylph's Embrace
+
+THE TITLE CARTOUCHE ON THIS SHEET READS: The Sylph's Embrace
+
+An elegant, high-end pleasure house on Pearl Quay, its walls thick enough to
+muffle the night's business -- draw external and party walls noticeably
+heavier than internal partitions.
+
+GROUND FLOOR: the water-stair and covered landing from Pearl Quay; an entrance
+hall; a receiving salon with hearth; a small office near the entrance where
+the house's business is done; and a service range to the rear -- kitchen,
+scullery, laundry -- opening onto a small back court with a well.
+
+FIRST FLOOR: a central passage with six private chambers opening off it, each
+with a bed, a washstand and a window to the quay or the court. One chamber
+larger and better appointed than the rest. The proprietor's room at the head
+of the stair. An armoire drawn against the wall of one chamber as a fixed
+piece of furniture.
+
+GARRET: where the house's own people live -- individual rooms for the
+courtesans, a shared sitting room, a bathing room, and a back stair down to
+the service range so they need never use the front of the house.
+
+Three aligned plans on one sheet, every room named. Label rooms by function
+only; do not mark any event or crime scene.
+
+LETTER EXACTLY THESE LABELS, spelled as written, and no other place names:
+  - The Sylph's Embrace
+  - Pearl Quay

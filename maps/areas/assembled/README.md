@@ -1,37 +1,46 @@
 # Ready-to-paste prompts
 
-Generated from the specs in the parent directory — do NOT edit these by hand.
-Each file is the complete prompt for one sheet, already assembled.
+Generated from the specs in the parent directory — do NOT edit these by hand;
+edit the spec or the style block and regenerate (see `../README.md`).
 
-Regenerate after editing any spec or style block (see the parent README).
+Every correction from `../REVIEW.md` is already in these files.
 
-## Which reference images to attach
+## Two forms. Pick one.
 
-**Two sheets are finished** and their prompts are plain, for reference only --
-`temple-isle` and `the-siren-s-call`. Both scored 4+ across the board, and the
-one fault each had (a wrong cartouche title, and unlabelled rooms) is now fixed
-in the shared style blocks rather than in their own briefs.
+**`single-reference/*.txt` — the simpler one, and the place to start.**
+Attach ONE image: `../../purewater-map.png`, the master city map. Every fix from
+the review is written into these as a positive instruction, so they describe the
+sheet you want without referring to anything else. Seventeen files, one per
+sheet that is being redone.
 
-**The other seventeen are revisions.** Fourteen scored below the bar. The other
-three -- `caravan-square`, `the-forge-quarter` and `the-moist-oyster` -- were
-kept, but each had one specific fault their spec had to answer for: a Land Gate
-labelled on the wrong side of the water, forges indistinguishable from houses,
-and a cellar that was never drawn. Their images are usable as they stand; the
-re-roll is optional. Their prompts open with "TWO REFERENCE
-IMAGES ARE SUPPLIED" and then list the faults to correct, so they need **both**
-images attached, in this order:
+**`*.txt` (this directory) — the revision form.**
+Attach TWO images, **in this order**:
 
-1. `../../purewater-map.png` — the master city map, the authority for style and
-   geography.
-2. `../<slug>.png` — the previous render of that same sheet, which the prompt
-   refers to as "the previous attempt".
+1. `../../purewater-map.png` — the master city map
+2. `../<slug>.png` — the previous render of that same sheet
 
-Attach them the other way round and the prompt's instructions point at the wrong
-picture.
+These open with "TWO REFERENCE IMAGES ARE SUPPLIED" and name the faults to
+correct, so the model keeps the framing and linework that already worked and
+changes only what was wrong. Better results when the tool supports two
+references and you attach them the right way round; **reversed, every
+instruction points at the wrong picture.**
 
-Set the aspect ratio per the spec's front matter (4:3 for districts, 16:9 for
-the two regional sheets, 3:2 for set-pieces), and **render at 4K** — the first
-pass came back at 1024×768, the same as the master, which is why so much of the
-fine detail did not survive.
+`temple-isle.txt` and `the-siren-s-call.txt` exist only here and are already
+single-reference: those two sheets are finished and are included for reference,
+not for re-rolling.
 
-There is no negative-prompt field to fill in: every exclusion is inside the text.
+## Settings
+
+Render at **4K**. The first pass came back at 1024×768 — the same as the master
+— which is the single biggest reason the fine detail did not survive. Aspect
+ratio per sheet is in `RE-ROLL.md`; it is 4:3 for districts, 16:9 for the two
+regional sheets, 3:2 for set-pieces.
+
+There is no negative prompt to fill in. Every exclusion is inside the text,
+because the API these were written against has no such field.
+
+## Expect to iterate
+
+Lettering is the weak point — the first pass produced "PRŎHĬSE OF E HEAVEN" and
+"The Carravan Road". Each spec keeps a `labels:` list so a mangled sheet can be
+re-typeset or re-rolled without working out what it should have said.
