@@ -19,7 +19,7 @@
 > resolves by itself.
 >
 > **This repository is a scenario seed, not a save.** The root is the pristine
-> starting state — world clock `d-3/dawn`, 43 beats all pending, an empty journal,
+> starting state — world clock `d-3/dawn`, 35 beats all pending, an empty journal,
 > four pregens offered and none chosen. Nothing here spoils it: the records of
 > four previous playthroughs live on the `playthroughs` branch and are not part
 > of a release.
@@ -32,14 +32,14 @@ campaign format (v1.1).
 
 | Contents | Count |
 |---|---|
-| Lore entries | 25 |
+| Lore entries | 28 |
 | Characters | 42 (playable: Conall Bjornlasch, Gardwen, Magda, Randall) |
 | Creature templates | 4 |
 | Locations | 22 |
 | Factions | 14 |
 | Journal events | 1 |
 | Agendas | 15 |
-| Beats | 43 |
+| Beats | 35 |
 | Facts | 17 |
 
 ## Repository layout
@@ -56,6 +56,7 @@ campaign format (v1.1).
 | `beats/` | What happens next if nobody interferes, scheduled in world time |
 | `facts/` | Situational truth: one proposition per file, with when it became true |
 | `knowledge.json` | Who knows which fact, how, and since when |
+| `maps/` | The city map (canon) and eight lettered district sheets; see `maps/README.md` |
 
 The canonical full-prose worldbook sources live in [`setting/`](setting/) — see its README for the book list and audience guide. The `lore/` files below are the same material sliced into database-ready entries.
 
@@ -101,6 +102,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 
 **geography**
 - [The City and Its Islands](lore/geography/the-city-and-its-islands.md)
+- [The Lands of Thornmere](lore/geography/the-lands-of-thornmere.md)
 
 **gm-guide**
 - [GM Guide: Conflicting agendas, and resolving them offscreen](lore/gm-guide/gm-guide-conflicting-agendas.md) *(GM only)*
@@ -109,6 +111,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [GM Guide: Supporting and Offscreen Cast](lore/gm-guide/gm-guide-supporting-and-offscreen-cast.md) *(GM only)*
 - [The DragonBarge: deck plan](lore/gm-guide/gm-guide-the-dragonbarge-deck-plan.md) *(GM only)*
 - [The Governor's council](lore/gm-guide/gm-guide-the-governor-s-council.md) *(GM only)*
+- [The Catacombs: where they run](lore/gm-guide/gm-guide-the-catacombs.md) *(GM only)*
 
 **gm-secret**
 - [GM Secrets: The Possession Scheme](lore/gm-secret/gm-secrets-the-possession-scheme.md) *(GM only)*
@@ -116,6 +119,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 
 **history**
 - [The Dragon Kings and the Lake Lady](lore/history/the-dragon-kings-and-the-lake-lady.md)
+- [The Widow of the Pearl](lore/history/the-widow-of-the-pearl.md)
 
 **law**
 - [The King's justice, and how a lord is called to answer](lore/law/the-kings-justice.md)

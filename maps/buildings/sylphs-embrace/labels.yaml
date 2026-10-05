@@ -1,0 +1,42 @@
+# The Sylph's Embrace, floor plans. Format as maps/districts/lullwater/labels.yaml.
+# Run with maps/sheet.py buildings/sylphs-embrace ...  Canon: locations/the-sylph-s-embrace.md
+# Panels left to right: ground, first, second, attic. Street at the top, the basin at the bottom.
+
+source: unlabeled.png
+crop: {x: 0, y: 0, w: 3264, h: 2448}
+
+title: {text: "The Sylph's Embrace", subtitle: "Pearl Quay -- floor plans", x: 0.752, y: 0.875, size: 0.0125}
+key: {x: 0.355, top: 0.795, size: 0.0068, columns: 2}
+
+sites:
+  # ground floor
+  - {text: "Front hall", x: 0.103, y: 0.240, num: ne}
+  - {text: "Constantine's office", x: 0.188, y: 0.237, num: ne}
+  - {text: "Kitchen", x: 0.093, y: 0.393, num: ne}
+  - {text: "Scullery and laundry", x: 0.160, y: 0.400, num: ne}
+  - {text: "The salon", x: 0.115, y: 0.560, num: ne}
+  - {text: "The water-stair", x: 0.2025, y: 0.590, num: nw}
+  - {text: "The back stair", x: 0.2025, y: 0.373, num: nw}
+  # first floor
+  - {text: "Sitting room and balcony", x: 0.3675, y: 0.233, num: ne}
+  - {text: "Best chamber", x: 0.4375, y: 0.240, num: nw}
+  - {text: "Best chamber", x: 0.4125, y: 0.373, num: ne}
+  - {text: "Constantine's chamber", x: 0.3725, y: 0.547, num: ne}
+  # second floor
+  - {text: "Rooms let by the night", x: 0.615, y: 0.333, num: ne}
+  - {text: "Emmeralda's room", x: 0.6125, y: 0.567, num: ne}
+  # attic
+  - {text: "The girls' dormitory", x: 0.8575, y: 0.220, num: ne}
+  - {text: "The maids' room", x: 0.900, y: 0.347, num: ne}
+  - {text: "Box room", x: 0.900, y: 0.440, num: ne}
+  - {text: "The top back room", x: 0.885, y: 0.567, num: ne}
+
+areas:
+  - {text: "Ground floor", x: 0.130, y: 0.740, size: 0.012}
+  - {text: "First floor", x: 0.375, y: 0.740, size: 0.012}
+  - {text: "Second floor", x: 0.620, y: 0.740, size: 0.012}
+  - {text: "Attic", x: 0.867, y: 0.740, size: 0.012}
+  - {text: "Pearl Quay", x: 0.500, y: 0.035, size: 0.012}
+  - {text: "The basin", x: 0.500, y: 0.695, size: 0.010}
+
+do_not_label: []

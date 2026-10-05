@@ -18,7 +18,7 @@ The champion comes out of the litter at last -- in full harness with the helm do
 
 He wins. He is meant to win. Everything depends on it.
 
-**The recognition is the hinge.** Gardwen -- or whoever has been hunting a stolen brother for ten years -- gets one look at him without the mask, and when that happens the whole board turns over.
+**And the Baron sees victory in his grasp.** For the first time all week he lets it show: a hand on the champion's shoulder, a bow to the Governor's box, the warm, easy man going home to sleep well. Tomorrow at the closing he walks into the room. **That ease is what makes tonight possible** -- he takes the chain off to sleep, and *Nus and Randall lift the binding locket* fires after the reinforcement.
 
 **What happens next depends entirely on the state of the board:** whether the locket is in the Baron's hand or the party's, whether Thuban has been contacted, whether Nerissa has cause to stop the match, whether Santo is alive and talking, and whether Hanzo knows he has another son in the crowd.
 

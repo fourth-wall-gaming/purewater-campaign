@@ -1,0 +1,16 @@
+Edit this image. Do not generate a new one.
+
+It is a crop of a black pen-and-ink city map on aged parchment, showing a pleasure-island called the Pearl off the north-west corner of a canal city. Redraw it at high resolution, 16:9, keeping the drawing exactly as it is: every coastline, island outline, canal, bridge, street, block and building stays where it is, the same shape and the same size, as if traced, and the four edges of the frame stay where they are. Do not crop, zoom, rotate or reframe. Do not add or remove any land, water or bridges.
+
+What is in the frame, so nothing gets lost:
+- The Pearl: a long island lying south-west to north-east, with a garden lobe of round trees at its west end, a small lobe at its south-west tip with a jetty, and houses along its sheltered south shore facing a quiet basin.
+- A small walled islet of gardens to the north-east of the Pearl, bridged to it, with a short jetty on its east side.
+- Four bridges: the long one from the islet down to the big island; the stepped one from the Pearl's south shore across to the big island; the low one at the Pearl's south-west tip; the jetty off the Pearl's west tip.
+- The big island along the right and bottom: dense streets of houses.
+- A garden isle at the top left, and reedy marsh at the far left and bottom left.
+
+Make it sharp and finely detailed. Every building a separate footprint seen from directly above: one-storey a plain outline, two-or-more storeys a double-lined box. On the Pearl's south shore, the bigger houses of the quay: courtyards, garden walls, private water-stairs down to the basin, lamp-posts along the waterfront. Round trees as simple circles in the garden lobes. Mooring posts, landing steps and small boats as flat ovals. Water in grey wash with fine stippling and contour hatching.
+
+Same style throughout: fine technical black and grey pen-work on the same parchment, strict top-down plan view like a surveyor's map. No 3D, no perspective, no roofs, no shadows, no colour, no sepia or brown.
+
+REMOVE ALL LETTERING. The image must contain no text, letters, labels, arrows or leader lines anywhere. Where the original has a label or a leader line, draw the water, trees or houses that lie underneath it.

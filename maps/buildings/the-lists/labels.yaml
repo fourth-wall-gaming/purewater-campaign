@@ -1,0 +1,45 @@
+# The Lists, site plan with two insets. Format as maps/districts/lullwater/labels.yaml.
+# Run with maps/sheet.py buildings/the-lists ...  Canon: locations/the-lists.md
+# Keyed by what each place is, not by what happens there.
+
+source: unlabeled.png
+crop: {x: 0, y: 0, w: 3264, h: 2448}
+
+title: {text: "The Lists", subtitle: "The Tournament Ground, High Isle", x: 0.738, y: 0.888, size: 0.014}
+key: {x: 0.012, bottom: 0.012, size: 0.0060, columns: 3}
+
+sites:
+  # the site plan
+  - {text: "The lists", x: 0.350, y: 0.430, num: ne}
+  - {text: "The stands", x: 0.440, y: 0.560, num: ne}
+  - {text: "The Governor's box", x: 0.172, y: 0.415, num: ne}
+  - {text: "The presentation room", x: 0.133, y: 0.410, num: nw}
+  - {text: "The combatants' gate", x: 0.492, y: 0.452, num: ne}
+  - {text: "The shooting line", x: 0.215, y: 0.190, num: ne}
+  - {text: "The butts", x: 0.470, y: 0.238, num: ne}
+  - {text: "Competitors' enclosure", x: 0.215, y: 0.680, num: ne}
+  - {text: "Horse-lines and stalls", x: 0.400, y: 0.765, num: ne}
+  - {text: "The heralds' house", x: 0.108, y: 0.255, num: ne}
+  - {text: "The infirmary", x: 0.560, y: 0.600, num: ne}
+  - {text: "The well", x: 0.530, y: 0.728, num: ne}
+  - {text: "The west gate", x: 0.087, y: 0.420, num: nw}
+  - {text: "The north gate", x: 0.396, y: 0.142, num: ne}
+  - {text: "The south-west gates", x: 0.172, y: 0.712, num: sw}
+  - {text: "The south-east gate", x: 0.545, y: 0.800, num: se}
+  - {text: "The water-gate", x: 0.582, y: 0.430, num: nw}
+  # inset: the box and the presentation room
+  - {text: "Presentation room", x: 0.850, y: 0.135, num: ne}
+  - {text: "The box", x: 0.850, y: 0.300, num: ne}
+  - {text: "The box stair", x: 0.770, y: 0.430, num: ne}
+  # inset: the water-gate
+  - {text: "Guard-room", x: 0.778, y: 0.610, num: ne}
+  - {text: "The gate arch", x: 0.850, y: 0.610, num: ne}
+  - {text: "The water-steps", x: 0.850, y: 0.735, num: ne}
+
+areas:
+  - {text: "The Long Butts", x: 0.300, y: 0.150, size: 0.010}
+  - {text: "The Sacred Lake", x: 0.660, y: 0.560, size: 0.010}
+  - {text: "The Governor's box and the presentation room", x: 0.850, y: 0.027, size: 0.0068}
+  - {text: "The water-gate", x: 0.850, y: 0.515, size: 0.0075}
+
+do_not_label: []

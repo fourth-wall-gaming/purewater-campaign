@@ -1,0 +1,45 @@
+# Temple Isle, the precinct, with two insets. Format as maps/districts/lullwater/labels.yaml.
+# Run with maps/sheet.py buildings/temple-isle ...  Canon: locations/temple-isle.md
+# Player-facing: the temple's deep stair (GM catacombs guide) is not keyed.
+
+source: unlabeled.png
+crop: {x: 0, y: 0, w: 3840, h: 2160}
+
+title: {text: "Temple Isle", subtitle: "The Precinct of the Lake Lady", x: 0.853, y: 0.878, size: 0.0115}
+key: {x: 0.512, top: 0.105, size: 0.0047}
+
+sites:
+  # the precinct
+  - {text: "The temple", x: 0.322, y: 0.215, num: nw}
+  - {text: "The altar", x: 0.345, y: 0.150, num: ne}
+  - {text: "The water-gate", x: 0.345, y: 0.075, num: ne}
+  - {text: "The channel", x: 0.345, y: 0.320, num: ne}
+  - {text: "The Sacred Confluence", x: 0.345, y: 0.465, num: se}
+  - {text: "The shrines", x: 0.305, y: 0.358, num: nw}
+  - {text: "The water-steps", x: 0.345, y: 0.725, num: ne}
+  - {text: "Kitchen and stores", x: 0.252, y: 0.150, num: ne}
+  - {text: "Sacristy and vestry", x: 0.440, y: 0.150, num: ne}
+  - {text: "The pilgrims' cells", x: 0.235, y: 0.310, num: ne}
+  - {text: "The refectory", x: 0.235, y: 0.440, num: ne}
+  - {text: "The novices' cells", x: 0.235, y: 0.570, num: ne}
+  - {text: "The High Priestess's rooms", x: 0.458, y: 0.247, num: nw}
+  - {text: "The chapter house", x: 0.458, y: 0.400, num: nw}
+  - {text: "The library", x: 0.458, y: 0.485, num: nw}
+  - {text: "The infirmary", x: 0.458, y: 0.580, num: nw}
+  - {text: "The ferry landing", x: 0.160, y: 0.400, num: nw}
+  # inset: the temple
+  - {text: "The hall", x: 0.760, y: 0.240, num: ne}
+  - {text: "The altar dais", x: 0.825, y: 0.115, num: ne}
+  - {text: "The portico", x: 0.770, y: 0.375, num: ne}
+  # inset: the water-steps
+  - {text: "The towers", x: 0.732, y: 0.560, num: ne}
+  - {text: "The steps", x: 0.775, y: 0.620, num: ne}
+  - {text: "The runnel", x: 0.822, y: 0.660, num: ne}
+
+areas:
+  - {text: "The Sacred Lake", x: 0.090, y: 0.620, size: 0.0085}
+  - {text: "The Tournament Ground", x: 0.420, y: 0.865, size: 0.0075}
+  - {text: "The temple", x: 0.828, y: 0.024, size: 0.0060}
+  - {text: "The water-steps", x: 0.828, y: 0.460, size: 0.0060}
+
+do_not_label: ["the Quiet Hand", "the Mermaid's Court", "the Catacombs"]

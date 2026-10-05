@@ -21,3 +21,7 @@ torment of that betrayal -- and a possible ally, if the party can reach him
 rather than the boy.
 
 Getting inside for this is the natural use of Crowbill's canal routes.
+
+**On `d1/night` it matters twice over:** when it is done, the Baron takes the
+chain off and lays the locket by his bed, and that is the hour Nus and Randall
+go in over the stern.

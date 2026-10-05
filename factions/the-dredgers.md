@@ -19,7 +19,7 @@ Born as an association of canal dredgers who clear silt and refuse from the wate
 
 Marda has petitioned the Harbor Masters and got sympathy and a referral. She has petitioned the council in writing and been ignored. She does not want a riot and she is going to get one anyway, because she has three hundred angry people, a watch under written orders not to help, and the whole city's Tourney provisioning passing through her members' hands.
 
-**If nobody helps her get redress the lawful way, the stairs stop on `d-1/dawn`** -- no cartage, no fish, no ice, no lamp oil, and no competitors' gear moved to Temple Isle. A stopped port during a sacred festival is a crisis, and it is the pressure point at which even the Baron has to give something up.
+**If nobody helps her get redress the lawful way, the stairs stop on `d-1/dawn`** -- no cartage, no fish, no ice, no lamp oil, and no competitors' gear moved to the Tournament Ground. A stopped port during a sacred festival is a crisis, and it is the pressure point at which even the Baron has to give something up.
 
 ## The door
 

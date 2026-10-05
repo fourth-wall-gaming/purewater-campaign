@@ -1,0 +1,41 @@
+Draw the FLOOR PLANS of THE SYLPH'S EMBRACE, an elegant, high-end pleasure house on a small island of pleasure-houses in a canal city, as one survey sheet, landscape 16:9. Attach the Purewater city map as the reference for style only.
+
+WHERE IT STANDS -- this must agree with the city map:
+- The house stands on the island's sheltered shore, ON THE WATER'S EDGE. Its landward side faces a wide paved street, PEARL QUAY, which runs along the shore lined with lamp-posts. Its water side rises straight out of a quiet BASIN of open water, with no quay or path between the house and the water.
+- It is a compact, nearly square house, about 45 feet along the street and 40 feet deep, four storeys high, with a small walled yard to one side. It is NOT part of a terrace: narrow alleys, five or six feet wide, separate it from its neighbours on both sides. The alley on the right runs from the street right down to the water and ends in a few public steps into the basin.
+- Draw every plan with the STREET at the TOP and the BASIN at the BOTTOM. On the real map the street lies to the north-west and the basin to the south-east, so the small compass rose must point NORTH TO THE UPPER LEFT, at forty-five degrees.
+- On every plan, show a strip of the street along the top with two lamp-posts, the cut-off corners of the neighbouring houses at left and right beyond the alleys, and a band of the basin along the bottom in grey wash with contour hatching and one or two moored boats.
+
+Draw FOUR plans side by side, left to right, ground floor to attic, all to the same scale and all aligned so the street is at the top and the water at the bottom of each.
+
+GROUND FLOOR:
+- From the street, a grand entrance: three broad steps, double doors, a lamp either side. Inside, a FRONT HALL, flagstoned, with a doorkeeper's bench and a great fireplace, and a sweeping stair rising along one side.
+- Beyond it, the largest room in the house, across the water side: the SALON, a long reception room with a small raised dancing floor of polished boards at one end, low couches, little tables, a musicians' corner, and tall windows over the basin.
+- Beside the hall, CONSTANTINE'S OFFICE: a desk, a strongbox, a ledger shelf, one window onto the street so she can see who comes.
+- To one side, the working house, flagstoned: a KITCHEN with a range and a long table, a SCULLERY with a stone sink, a LAUNDRY with coppers, opening onto the small walled yard with drying lines; and a narrow back stair for the servants running from here all the way to the attic.
+- Under one corner of the house on the water side, the PRIVATE WATER-STAIR: a low arched, covered boat-slip open to the basin, with steps running down into the water, a skiff moored in it, and a barred water-gate across its mouth. A passage leads to it from the back stair and the kitchen.
+
+FIRST FLOOR (the best rooms):
+- Three or four large, richly furnished chambers off a central landing, each with a wide bed, a dressing screen, a wardrobe or armoire, a washstand, rugs and chairs. The finest of them, on the water side over the basin, is EMMERALDA'S ROOM: a wide bed, a tall ARMOIRE standing a little out from the wall in one corner, a large rug in the middle of the floor, a dressing table, a chair by the bed, and two windows onto the water.
+- A small sitting room on the street side, over the hall, with a balcony onto the street.
+
+SECOND FLOOR (rooms let by the night):
+- A corridor with five or six smaller chambers off it, each with a bed, a chair and a washstand. One of them opens off the back-stair landing, close above Emmeralda's room.
+- The grand stair stops here; the narrow back stair carries on up.
+
+ATTIC (the house's own people):
+- Under the roof slopes, shown by dashed lines: a DORMITORY for the younger girls with a row of narrow beds and chests, a smaller room for the maids, a box room of trunks and old furniture.
+- THE TOP BACK ROOM, on the water side: small, cold, a bed, a brazier, one shuttered window over the basin, and a rug by the door where a dog -- or a wolf -- could sleep.
+
+Doors, windows and both stairs must line up from floor to floor. The back stair must connect the attic, the second floor, the first floor near Emmeralda's room, the ground-floor working rooms and the water-stair -- it is the quiet way through the whole house.
+
+STYLE -- the same cartographer as the attached map of Purewater, now drawing one building at the scale of an architect's survey:
+- Black and cool grey pen-and-ink on aged off-white parchment with soft mottled staining. No colour: no sepia, no brown, no warm tan. Black on bone.
+- Strict top-down orthographic FLOOR PLAN, as if the roof and upper floors were lifted off: a horizontal cut through each storey about four feet above its floor. NOT isometric, NOT perspective, NOT a cutaway, NOT a bird's-eye view. No cast shadows, no 3D, no glow, no vignette.
+- Walls as solid black poché, thick for outer and party walls, thinner for partitions. Doors as a gap with a thin quarter-circle swing; windows as three fine lines across the wall; stairs as rows of parallel treads with an arrow line; fireplaces and chimney breasts drawn into the walls.
+- Furniture in plan, fine and specific: beds, chairs, tables, chests, wardrobes, screens, rugs as ruled rectangles with fringes, barrels, crates, lamps as small circles.
+- Floors shown by material: floorboards as fine parallel lines, flagstones as an irregular stone grid, tiles as a small square grid.
+- Water exactly as the city map draws it: grey wash with stipple and contour hatching along the edges; boats as simple flat ovals; water-stairs as treads running down into the water.
+- A faint grid of five-foot squares over the whole interior, for play, fine enough not to fight the drawing. A scale bar in FEET. A small compass rose with north up.
+- A thin ruled double border round the sheet, and an empty plain title panel in one corner.
+- NO LETTERING ANYWHERE. No room names, no numbers, no labels, no text of any kind, not even on the scale bar or title panel. They will be added afterwards.

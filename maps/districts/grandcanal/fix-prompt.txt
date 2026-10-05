@@ -1,0 +1,15 @@
+Edit this image. Do not generate a new one.
+
+This black pen-and-ink map is nearly finished. Keep everything in it exactly as it is -- every coastline, canal, bridge, street, wall, block and building, and the four edges of the frame -- and correct only these four faults:
+
+1. THE BLANK PATCH. Left of centre, in the upper half of the big island, there is an empty oval of bare parchment with half-faded buildings round its edge. Fill it with dense streets and individual house footprints that join up with the streets and blocks around it, in the same hand, so that no trace of the gap remains.
+
+2. THE PALACE COURTYARD IS DRY LAND. The large walled rectangle right of centre, near the top, is a palace courtyard, not water. Replace the grey water inside its walls with pale paved ground: fine paving lines, formal garden beds with low hedges, a few small trees drawn as circles, and a fountain at the centre. Keep its walls and gatehouses exactly as they are.
+
+3. THE HALL OF JUSTICE IS A BUILDING. The walled rectangle below the palace, on the left, is also drawn as water. Replace the grey water inside its walls with a large public building seen from above: a double-lined outer range around a paved inner court with a colonnade of small dots.
+
+4. THE SQUARE BETWEEN THEM IS NOT A DOCK. The narrow walled space to the right of the hall, between the palace and the barracks, is drawn with two ships in it. Remove the ships and the water. Make it a paved public square with colonnades of small dots down both long sides and a raised platform at its north end.
+
+Also remove the stray letters at the very bottom edge, inside the walled courtyard on the southern island, and draw plain paving there.
+
+Same style throughout: fine technical black and grey pen-work on the same parchment, strict top-down plan view. No 3D, no shadows, no colour. No text, letters or labels anywhere.

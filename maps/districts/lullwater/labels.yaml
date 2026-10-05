@@ -1,0 +1,54 @@
+# The Lullwater sheet: where it is cut from, and what is lettered on it.
+#
+# source is the text-free redraw of the Lullwater and its surroundings
+# (5456 x 3072); crop is in its pixels. Label x, y are fractions of the crop,
+# 0..1 from its top-left, so they hold on any edit of the crop that keeps its
+# frame -- which is the whole point.
+#
+#   title  the sheet's name, in a ruled panel; x, y is the panel's top-left, off the island
+#   key    the key panel; x is its left edge, bottom its gap from the foot of the sheet
+#   sites  marked on the map by a numbered cross and named in the key, numbered
+#          in the order listed. x, y is the cross; num is where its number sits
+#          (ne | nw | se | sw)
+#   areas  lettered where they lie; x, y is the centre of the name
+
+source: lullwater_no_text.png
+crop: {x: 1100, y: 0, w: 3300, h: 3072}
+
+title: {text: "The Lullwater", subtitle: "Purewater", x: 0.020, y: 0.018}
+key: {x: 0.012, bottom: 0.012}
+
+sites:
+  # canon (locations/the-moist-oyster.md, factions/the-dredgers.md)
+  - {text: "The Moist Oyster", x: 0.427, y: 0.6025, num: nw}
+  # from Kag's run (playthroughs: novels/purewater-kag-run-4): "the flat lead roof
+  # over the cookshop ovens", Crowbill's for thirty years; Kag's "room over a
+  # chandler's on the Lullwater, up an outside stair, one window on the water"
+  - {text: "Crowbill's Roof", x: 0.462, y: 0.458, num: ne}
+  # Hessa "kept the tallies for the whole of that water out of a back room behind
+  # a chandlery"; from the Oyster she walks "forty yards along the fondamenta ...
+  # nothing but black water on the left" -- south down the Gutter's west bank
+  - {text: "Hessa's Chandlery", x: 0.505, y: 0.725, num: sw}
+  - {text: "Kag's Place", x: 0.648, y: 0.733, num: ne}
+  # Conall's "serviceable inn that wouldn't attract attention" (run 2), placed here
+  - {text: "Conall's Digs", x: 0.226, y: 0.330, num: ne}
+  - {text: "The Dredgers' Hall", x: 0.470, y: 0.872, num: ne}
+  # named from the shapes the map draws (recorded in locations/the-lullwater.md)
+  - {text: "Shilling Stairs", x: 0.135, y: 0.310, num: nw}
+  - {text: "The Still", x: 0.447, y: 0.651, num: se}
+  - {text: "The Gutter", x: 0.383, y: 0.245, num: ne}
+  # taverns, amenities and the watch (canon in the matching location file)
+  - {type: amenity, text: "The Lucky Bones", x: 0.56, y: 0.38, note: "Crowbill's dice den, up a back stair; the house never cheats, because it never needs to"}
+  - {type: amenity, text: "The Lamprey", x: 0.2, y: 0.405, note: "boatmen's alehouse at the head of Shilling Stairs; whoever rowed you over is drinking here by the time you leave"}
+  - {type: amenity, text: "Mother Grell's", x: 0.33, y: 0.5, note: "pawnbroker; buys anything, asks nothing, remembers everything"}
+  - {type: amenity, text: "Tamsin the Bone-Setter", x: 0.59, y: 0.56, note: "the only physician who will come to the Lullwater, and she lives in it"}
+  - {type: amenity, text: "The Rag Shrine", x: 0.405, y: 0.3, note: "a Dredgers' shrine under the Gutter's north bridge, hung with strips of cloth for the drowned"}
+  - {type: watch, text: "The Shut Post", x: 0.15, y: 0.255, num: nw, note: "a watch post with its door nailed shut; the watch comes over only to fish out the dead"}
+
+areas:
+  - {text: "The Hook", x: 0.780, y: 0.165}
+  - {text: "Eel Bay", x: 0.750, y: 0.805}
+
+# Never lettered. The Catacombs have stair-mouths in the Lullwater; draw nothing
+# that marks them.
+do_not_label: ["the Quiet Hand", "the Mermaid's Court", "the Catacombs"]

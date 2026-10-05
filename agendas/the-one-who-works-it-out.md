@@ -1,42 +1,45 @@
 ---
 id: "myth-agenda-kag-works-it-out"
 title: "The one who works it out"
-goal: "Be the person in this city who knew first, and be seen to be"
+goal: "Keep Crowbill's business on the streets running through an occupation, and come out of the week ahead"
 status: "active"
-clock_size: 6
+clock_size: 4
 clock_filled: 0
-priority: 3
+priority: 1
 holder: "myth-char-npc-kag"
-targets: []
+targets: ["myth-char-e303e68fea08"]
 created_at: "2026-09-18T00:00:00"
 ---
 
-**Kag's own track, running under the whole scenario whether or not anybody
-looks at it.**
+**Kag's own track, and it does not touch the plot.** She is not chasing the
+Baron, the girl, the knife or the boy. She is running errands for Crowbill and
+managing his business on the streets -- collections, cartage, who owes what on
+which bridge -- in a week when twenty-five armed men are making that harder
+than it has ever been.
 
-She is not chasing the Baron, the girl, the knife or the boy. She is chasing a
-**discrepancy**, and the discrepancy happens to be the occupation seen from
-underneath — three short accounts on one bridge, which is what four hundred
-armed men look like to a ledger before anybody has said the word *occupation*
-out loud.
+**What she is doing.** Walking the collections round on the Shoals and the
+Fishmarket bridges. Moving goods for Crowbill. Settling small disputes before
+they become Crowbill's problem. Pricing everything, out loud, because she
+cannot help it.
 
-**Advance it** one segment every time she gets a number nobody else has:
-the short accounts; no quartermaster and nine weeks of no bills; twenty-five
-tents and eleven of them cold; the Pearl's four hundred and eleven; a mark cut
-on the fourth of June. Advance it two if a PC asks her to work something out
-and then acts on what she says.
+**A hustle or two.** She is running a couple of her own on the side -- small,
+clever, and strictly nobody's business: buying up lamp oil before the stairs
+stop, laying odds on the Archery against the city's prejudice about elves,
+selling the Knights' own stolen barrels back to the Vantt camp's cook. Use one
+when a scene wants colour. None of them leads anywhere.
+
+**Advance it** one segment when one of her hustles pays, or when she keeps a
+piece of Crowbill's business running that the occupation should have broken.
 
 | clock | what surfaces |
 |---|---|
-| **2** | She says it out loud somewhere public and it starts getting repeated |
-| **4** | Crowbill stops giving her jobs and starts giving her questions. The whole outfit is open to her, and so, through her, is it open to anybody she rates |
-| **6** | She is the person the city's bad half asks, and she can make a thing true by saying it on a bridge |
+| **2** | Crowbill starts sending her the jobs that need reading rather than breaking |
+| **4** | She is the person on the Shoals people bring their arithmetic to |
 
-**Thwart it** by treating her as the arm. Every time somebody with standing
-talks past her, orders her about, or is visibly surprised she can read, the
-clock does not move and she does not tell them the thing she was about to.
+**Thwart it** by treating her as the arm. She does not sulk; she just answers
+the question she was asked and stops.
 
-**This agenda never threatens the party.** It has no violence in it anywhere.
-What it has is *access* — and if it fills without the party ever having asked
-her a question, they will spend the last act discovering that the answer they
-needed has been walking around the Shoals since Monday.
+**This agenda never threatens the party and never carries the plot.** She is
+the city's working underside, seen up close: a door to Crowbill, a number when
+the party needs one, and a very large half-orc who is better at sums than
+anybody in the room.

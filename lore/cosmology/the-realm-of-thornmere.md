@@ -14,3 +14,5 @@ Beyond the settled heart of the kingdom lie the **borderlands**, a lawless march
 Purewater itself sits at the kingdom's watery edge, the gate between inland lake and open sea. It is governed in the King's name by his young nephew, **[[Prince Emeric]]** -- clever, idealistic, and hopelessly unsuited to a city like this one, where every faction runs circles around his good intentions. The smaller towns of the march -- **Ashwick**, where [[Conall]] was raised by a militiaman's family; the woodland grove where [[Gardwen]]'s people were massacred -- feed travelers and tragedy alike toward the city and its tournament.
 
 *(Setting note: this is the Purewater conversion of the original campaign, which set the same story in the southern city of Zorastor in the world of Greymoor. Names, gods, and a few institutions were relocated; the plot, characters, and themes are preserved.)*
+
+*Where all of this lies -- the Lake, Caldreth, the March, Emberhold, Drakesfall and the Wildwood of the deep elves -- is in [[The Lands of Thornmere]].*

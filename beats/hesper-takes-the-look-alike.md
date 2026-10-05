@@ -1,31 +1,35 @@
 ---
 id: "myth-beat-08d9b0252b45"
-title: "Hesper takes the look-alike"
-summary: "Marisette's arcane enforcer abducts the man matching the description and puts him in a chair in the catacombs"
+title: "Hesper takes the look-alikes"
+summary: "Marisette's arcane enforcer takes both men in the city wearing the face of the man who went upstairs with Emmeralda, and puts them in chairs in the catacombs"
 status: "pending"
 when: "d-2/dawn"
 trigger: "time"
-onscreen_if: "Fires on whoever in the city is wearing Santo's face -- Randall, Conall, or both"
+onscreen_if: "Fires on Randall and Conall, PC or not -- and on anybody with them"
 agenda: "myth-agenda-c447b43512d4"
 place: "myth-loc-3e03305b5abb"
-cast: ["myth-char-156265245397", "myth-char-28320448049e"]
+cast: ["myth-char-156265245397", "myth-char-28320448049e", "myth-char-5aa2aad55f3b", "myth-char-06f87a379bbf"]
 created_at: "2026-09-05T12:00:00"
 ---
 
-Marisette does not wait for the Watch. Hesper walks up to whoever
-matches the description of the man seen leaving the Sylph's Embrace, puts them
-down without a fight worth the name, and they wake bound to a chair underground
-with a madame asking questions.
+Marisette does not wait for the Watch. By midnight the house has given her a
+description, and by the small hours her people have found the face -- **twice.**
+A thief fencing a morning's take in Caravan Square who answers to it, and a
+young man-at-arms lodged near the Swords' chapter house who answers to it as
+well.
 
-**This is the scene that assembles the party** in the original telling -- and it
-should stay available however the players arrive at it. The interrogation clears
-them only on evidence: Randall's account of being mistaken for "Lord Santo" at
-the gate, and any eyewitness who can say the attacker was younger, richer, and
-not this man.
+She does not know which. She takes both.
 
-**If neither twin is exposed,** Hesper takes the nearest plausible suspect
-instead and the party may have to break someone innocent out -- or let Marisette
-hang the wrong person, which is its own kind of campaign.
+Hesper walks up to each of them in turn, before dawn, and puts them down
+without a fight worth the name. They wake **bound to chairs, side by side**, in
+the dark under the Hill quarter, looking at each other.
 
-**Marisette names Baron Hanzo** at the end of it, once she is satisfied. That is
-the handoff from mystery to adventure.
+**Run the two takings as two short scenes** if both twins are PCs; one if only
+one is, with the other already in his chair when the PC wakes. Nobody gets away
+from Hesper -- that is not what this beat is for. A PC who fights is put down
+harder and wakes with a worse headache.
+
+**If neither twin is a PC,** this still fires: both are taken, and the party
+hears of it from Magda or Gardwen, who are about to be sent for as witnesses.
+
+*Two men with one face* follows immediately.

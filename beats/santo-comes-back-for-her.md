@@ -1,7 +1,7 @@
 ---
 id: "myth-beat-d28b64a8ae06"
 title: "Santo comes back for her"
-summary: "A boat, two hired men, and an attempt to take Emmeralda off the Pearl before she can say his name"
+summary: "The spirit took but he was stopped on the stair; a boat, two hired men, and a second try at getting a willing girl off the Pearl"
 status: "pending"
 when: "d-2/day"
 trigger: "time"
@@ -12,41 +12,34 @@ cast: ["myth-char-1ebc75c92e6a", "myth-char-49ee20e7a554", "myth-char-b713577f61
 created_at: "2026-09-05T12:00:00"
 ---
 
-He is not sorry and he has not changed his mind. He has a problem instead: there
-is a girl on the Pearl who can name him, and he wants her anyway.
+**Only fires if the working took and he failed to get her out of the house on
+the night.** If he already has her, she is on the barge and this is cancelled.
+If the working failed, he does not want a girl with a wound the length of her
+body -- cancel this and go straight to the tantrum.
 
-So he solves both at once. A boatman hired off the Shoals, two men who do not ask
-questions, and a covered skiff at the water-stair behind Constantine's house
-between the noon rest and the evening trade. Take her to the barge. Once she is on
-the barge she is a di Teufel problem and no longer a Purewater one.
+She is still in Constantine's house, and she still wants to go with him. That
+is the horror of it: the house has to keep her *in*, and she is trying to get
+*out*, and the thing inside her is patient and charming and keeps asking for
+the window to be opened.
 
-**He also wants everything he left in that room** -- the knife, the burnt scroll,
-his own coat off the chair -- and will search it if the house is quiet enough to
-allow it. Those are errands he could explain to his father if he had to. She is the
-errand he cannot.
+So he comes back by water. A boatman hired off the Shoals, two men who do not
+ask questions, and a covered skiff at the water-stair behind the house between
+the noon rest and the evening trade. He does not have to carry her. He only has
+to be there when she gets to the door.
 
-**Whatever the party did not take, he takes.** Run the room honestly: if they
-searched it properly on the night they hold the evidence and he finds bare boards,
-which enrages him and sends him at the people who have it. If they searched it
-badly, he recovers his own crime and the case against the di Teufels goes with him.
-A half-searched room is the interesting middle -- he gets the coat and they keep
-the knife, and neither side knows what the other has.
+**He also wants his coat and the scroll** and will send one of the men up for
+them if the house is quiet enough. Whatever the party did not take, he takes.
+If they searched the room on the night, the man finds bare boards and Santo
+goes after whoever has them.
 
-**Onscreen** -- this is a fight, a chase over water, or a negotiation the party
-can win by simply being present and awake. Emmeralda cannot walk unaided and is
-in no condition to resist anything.
+**Onscreen** -- a fight, a chase over water, or a negotiation the party wins by
+being present and awake. The hard part is Emmeralda, who is on his side.
 
-**Offscreen** -- if nobody is watching that stair, **he gets her**, and the
-campaign has a hostage on the DragonBarge from `d-2/dusk` onward. She is alive;
-she is aboard; and everything the party learns about that ship from then on has a
-name attached to it. Do not soften this. It is the cost of not being there.
+**Offscreen** -- if nobody is watching that stair, **he gets her**, and from
+`d-2/dusk` she is aboard the DragonBarge, willing, and nobody's prisoner but
+her own. Gardwen will find her there on `d0/night`.
 
-**If the party has already moved her** -- to the temple, to Marisette, anywhere
--- the beat retargets to wherever she is and gets uglier, because now he has to
-explain to hirelings why they are walking into a temple.
-
-**If she is dead**, this beat becomes the knife alone, and he is a great deal
-harder to catch afterwards.
+**If he fails,** the tantrum follows by dusk.
 
 Advance *Have her* by 2 if he takes her; advance *Clean up after the young
 master* by 2 if it goes loudly wrong in public.

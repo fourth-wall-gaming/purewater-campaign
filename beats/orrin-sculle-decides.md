@@ -16,7 +16,9 @@ cast: ["myth-char-6ecea7177538", "myth-char-cac22cc2cbf6"]
 created_at: "2026-09-13T00:00:00"
 ---
 
-**This beat has no time and never fires on its own.** It is an opportunity, not
+**This beat has no time and never fires on its own** -- though in the natural
+course it is reached on `d0/night`, when Gardwen goes aboard to find her
+brother (*Gardwen goes aboard*). It is an opportunity, not
 an event: it happens the first time a PC gets aboard the ship, or gets near the
 boy by any other route — a delivery, an invitation, a disguise, the Washing,
 somebody else's errand.

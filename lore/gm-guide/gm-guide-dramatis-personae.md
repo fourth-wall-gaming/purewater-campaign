@@ -9,7 +9,7 @@ created_at: "2026-06-24T23:31:07"
 
 **GM reference -- the cast at a glance.** (Full sheets in `characters/`.)
 
-**The companions:** [[Gardwen]] (druid/Cleric, seeking her brother; wolf [[Ruhi]]) - [[Magda]] (old warrior of Hel, sent by visions) - [[Randall]] (street-thief, framed, secret son of Hanzo) - [[Conall]] (arcane investigator, Randall's twin, secret son of Hanzo) - [[Temerach Nebulo]] (elven knight of the Swords of the Lake, the party's patron and Conall's protector).
+**The companions:** [[Gardwen]] (druid/Cleric, seeking her brother; wolf [[Ruhi]]) - [[Magda]] (old warrior of Hel, sent by visions) - [[Randall]] (street-thief, framed, secret son of Hanzo) - [[Conall]] (arcane investigator, Randall's twin, secret son of Hanzo) - [[Temerach Nebulo]] (elven knight of the Swords of the Lake and their implacable spymaster in Purewater; Conall's handler, and nobody's ally -- she runs people, she is not recruited by them).
 
 **The di Teufel faction:** [[Baron Hanzo di Teufel]] (fire-demonologist, father of the twins, the great threat) - [[Santo di Teufel]] (his cruel legitimate heir; carved Emmeralda) - [[Tat Atarer]] (mercenary captain of the Dragon Knights) - [[Blau]]/Commander Vask (albino enforcer-lieutenant) - [[Cailan]] (the possessed champion, Gardwen's brother) - [[Thuban Eta]] (the bound spirit within him).
 

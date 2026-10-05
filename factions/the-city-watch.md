@@ -49,3 +49,16 @@ of them has done that sum. What the watch can do is keep an unimpeachable record
 and act the moment somebody hands them a jurisdiction the standing order does not
 cover -- the King's Assay, maritime law, the Order's sacred ground. They are not
 waiting for proof. They are waiting for cover. See *[[The King's justice, and how a lord is called to answer]]*.
+
+## The posts
+
+Every post keeps its own book.
+
+- **The Shut Post** -- a watch post with its door nailed shut; the watch comes over only to fish out the dead.
+- **The Lantern Box** -- a watch box at the North Quarter end of the Lantern Bridge, unmanned after dark; the Pearl keeps its own order.
+- **The Fishmarket Post** -- the watch post on the market; it records, refers, and keeps its shutters half-closed toward the bridge.
+- **The Seaward Post** -- the busiest post in the city, which has quietly stopped sending patrols anywhere near the barge pier.
+- **The Gate Post** -- the watch post at the customs end of the Triumph Bridge, whose watchman does nothing about the three Knights in the middle of it.
+- **The Lists Post** -- the Tourney watch post, whose yard the Knights have taken for horse-lines; the watch now works from a hired room.
+- **The Isle Post** -- the watch-house of High Isle, where Captain Sarn commands and Sergeant Abel Weir keeps the four-inch referral book.
+- **The Market Post** -- the watch post on the square, whose patrols now route round the quarter rather than be seen not acting.

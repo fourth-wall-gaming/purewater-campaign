@@ -1,0 +1,35 @@
+Draw the FLOOR PLANS of THE MOIST OYSTER, a rough, crowded waterside tavern in the poorest quarter of a canal city, as one survey sheet, landscape 16:9. Attach the Purewater city map as the reference for style only.
+
+WHERE IT STANDS -- this must agree with the city map:
+- The tavern is FOUR BUILDINGS ROUND A SMALL YARD, together about 90 feet by 80, on the north-western edge of THE STILL: a small, ragged, roughly round pool of dead water about 150 feet across, ringed by tenements, in the middle of a dense slum.
+- North is up. The Still lies to the SOUTH-EAST of the tavern: show its north-western quarter in the bottom-right of each plan, in grey wash with contour hatching, its edge ragged with bits of broken quay, steps and posts.
+- A narrow crooked STREET, about twelve feet wide, runs along the north side; a narrower ALLEY runs down the west side to the water. Across both, the cut-off walls and doorways of crowded tenements, packed tight, so the tavern clearly sits in a tangle of slum.
+- The whole complex is low, irregular and patched together over years: walls not quite square, rooms of odd sizes, timber lean-tos, a crooked outside stair. Not grand, not symmetrical.
+
+Draw TWO plans side by side, to the same scale and aligned: GROUND FLOOR on the left, UPPER FLOOR on the right.
+
+GROUND FLOOR -- the four buildings, clockwise from the street:
+- NORTH, on the street: THE TAPROOM, the biggest room, about 45 by 30 feet. A street door with a step and a hanging sign-bracket over it, a long bar counter along one side with barrels racked behind it, a big open hearth, and the floor packed with small rough tables, benches and stools, more crowded than tidy. In the far corner by the hearth, a raised wooden bench and a high-backed chair with a small table: THE STORYTELLER'S CORNER. A door from the taproom into the yard.
+- WEST, along the alley: the KITCHEN and BREWHOUSE: a hearth, a copper on a firebox, mash tubs, a long work table, a scullery sink, and a side door onto the alley. A lean-to woodstore against the outside.
+- EAST: the CELLAR STAIR and STOREROOM: barrels, crates, a hatch and a stair going down, and a small office with a strongbox and a stool for the keeper.
+- SOUTH-EAST, built out over the edge of the Still on timber piles: THE BACK ROOM: a private room about 20 by 25 feet with one long table, a few chairs, shutters on all its water sides, and a WATER-DOOR in its south wall opening straight onto a short plank landing and steps down into the pool, with a small flat boat tied there. Its only other door opens from the yard. A small trapdoor in its floor.
+- THE YARD in the middle: beaten earth and broken flagstones, a well, stacked empty barrels, a privy in one corner, a crooked OUTSIDE STAIR climbing to a gallery on the upper floor, and a narrow gate onto the alley.
+
+UPPER FLOOR:
+- Over the taproom, a long low room of LODGING: a row of cheap cots and pallets, a few curtained-off corners.
+- A timber GALLERY on posts round two sides of the yard, reached by the outside stair, with doors off it.
+- Off the gallery, four or five small hired ROOMS, each just a bed, a stool and a shuttered window.
+- Over the kitchen, the KEEPER'S ROOMS: a bed, a chest, a table.
+- The back room has no upper floor: show its roof as a dashed outline, and the Still beyond.
+
+Doors, windows and stairs must line up from floor to floor.
+STYLE -- the same cartographer as the attached map of Purewater, now drawing one building at the scale of an architect's survey:
+- Black and cool grey pen-and-ink on aged off-white parchment with soft mottled staining. No colour: no sepia, no brown, no warm tan. Black on bone.
+- Strict top-down orthographic FLOOR PLAN, as if the roof and upper floors were lifted off: a horizontal cut through each storey about four feet above its floor. NOT isometric, NOT perspective, NOT a cutaway, NOT a bird's-eye view. No cast shadows, no 3D, no glow, no vignette.
+- Walls as solid black poché, thick for outer and party walls, thinner for partitions. Doors as a gap with a thin quarter-circle swing; windows as three fine lines across the wall; stairs as rows of parallel treads with an arrow line; fireplaces and chimney breasts drawn into the walls.
+- Furniture in plan, fine and specific: beds, chairs, tables, chests, wardrobes, screens, rugs as ruled rectangles with fringes, barrels, crates, lamps as small circles.
+- Floors shown by material: floorboards as fine parallel lines, flagstones as an irregular stone grid, tiles as a small square grid.
+- Water exactly as the city map draws it: grey wash with stipple and contour hatching along the edges; boats as simple flat ovals; water-stairs as treads running down into the water.
+- A faint grid of five-foot squares over the whole interior, for play, fine enough not to fight the drawing. A scale bar in FEET. A small compass rose with north up.
+- A thin ruled double border round the sheet, and an empty plain title panel in one corner.
+- NO LETTERING ANYWHERE. No room names, no numbers, no labels, no text of any kind, not even on the scale bar or title panel. They will be added afterwards.

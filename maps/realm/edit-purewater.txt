@@ -1,0 +1,12 @@
+Edit this image. Keep everything exactly as it is -- every coastline, the lake, the forests, mountains, fields, roads, towns, ships, the sea creatures, the border, the compass rose, the legend, the cartouche and every word of lettering -- and change only Purewater.
+
+THE FAULT: Purewater is drawn as a large island city sitting out in the open sea, south of the coast, much too big and in the wrong place.
+
+THE FIX:
+1. Remove the island city in the sea below "THE MOUTH", with its walls, bridges and the "PUREWATER" lettering under it. Replace it with open sea: the same grey wash, the same contour hatching fading out from the coast, matching the water around it, so that no trace of the island remains.
+2. Redraw Purewater AT the Mouth itself: the short narrow strait where the lake's southern end meets the sea, just where the lake channel reaches the coastline. The city sits across that strait, on both of its banks and on a few tiny islands in the channel between them, joined by bridges.
+3. Draw it SMALL, at the true scale of this map. It is a city about a mile across, so on this sheet it should be no bigger than the town of Hythe -- a compact cluster of tiny buildings and a few bridges hugging the strait, not a walled island. Smaller than Caldreth.
+4. Letter it "PUREWATER" in the same hand-set small-capital serif as the other place names, beside the city on the land to its right. Keep "THE MOUTH" lettered beside the strait, moved slightly if it would touch the city.
+5. The King's Road from the west and the road from the east both end at the city.
+
+Same style throughout: fine black and grey pen-work on the same aged parchment, strict top-down map view, no colour.

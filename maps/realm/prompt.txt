@@ -1,0 +1,27 @@
+A hand-drawn antique map of an entire kingdom, THE REALM OF THORNMERE, drawn by the same cartographer as the attached city map of Purewater, and meant to hang beside it in the same atlas.
+
+STYLE -- match the attached city map exactly:
+- Black and cool grey pen-and-ink on aged off-white parchment with soft mottled staining. Grey wash for water. No colour at all: no blue, no green, no sepia, no brown, no warm tan. Black on bone.
+- Fine, confident, technical pen-work. Water shown with stippling and contour hatching that follows every shoreline in rings fading out from the coast, exactly as the city map draws its canals and lake.
+- Strict top-down plan view, flat and archival, like a survey. No perspective, no 3D, no cast shadows, no glow, no vignette, no painterly fantasy-atlas styling.
+- The same furniture as the city map: a thin ruled double border round the sheet, an ornate compass rose with north at the top, a decorative title cartouche, a scale bar in MILES, and a small legend box. Hand-set, letter-spaced, small-capital serif lettering in black.
+
+THE SHAPE OF THE LAND:
+- The kingdom fills the sheet: a broad landmass with the open sea along its whole southern edge. The southern coast is long and ragged, with bays, headlands and two wide gulfs, and in the south-east a long narrow peninsula reaching down into the sea.
+- Up the middle of the kingdom runs THE SACRED LAKE: a very long, very narrow, winding inland water, like a crooked blade or a long fjord, about two-thirds the height of the sheet and seldom wider than a finger. It snakes north from the coast in irregular bends, with bays, side-arms and narrows all along its length: one arm reaching west in its lower third, one long arm reaching east about halfway up, and at its northern head it forks into two fingers that run up into the great forest. A handful of small islands are strung along it, one larger island in the middle reaches. The lake meets the sea at a short strait on the south coast. That strait is THE MOUTH, and the city of Purewater sits across it, drawn as a tiny cluster of islands and bridges -- a miniature of the attached city map.
+- Every coastline and lake shore is ragged, irregular and natural at every scale. Nothing smooth, nothing round, no symmetry.
+
+THE COUNTRY:
+- West of the lake, in the south: settled FARMLANDS, drawn as faint patchwork field strips and hedgerows, with small market towns. A road, THE KING'S ROAD, runs west along the coast to THE CAPITAL, CALDRETH, at the mouth of a river in the far south-west: a large walled city with towers, the biggest settlement on the map.
+- West of the lake, in the north: THE MARCH, wild borderland of scattered woods and few villages. In its west, THE KRITCH: swamp and standing water, reed tufts and broken pools. A road, THE NORTH ROAD, runs from Purewater up the lake's west shore, crosses a river at a ford, passes the town of ASHWICK on that river, and climbs into bare, burned HILLS in the north-west to EMBERHOLD, a lord's keep: a small black stone castle with one very tall tower.
+- On the lake's north-west shore, near where the March meets the great forest: DRAKESFALL, broken ruins with a fused causeway running out into the water, the site of an ancient battle.
+- North of everything, across the whole top of the sheet: THE WILDWOOD, an immense ancient forest of massed tree-crowns drawn densely in fine pen-work, darkest and thickest at its heart. Deep in it, a small range of crags, and beside them THE DEEP GLADES, the hidden heart of the deep elves, drawn as a ring of giant trees round a clearing. On its south-western edge, a smaller ring of trees: THE REMADE GROVE.
+- East of the lake: THE DOWNS, rolling sheep country drawn as soft hachured hills and dry-stone walls, with a wool town, and a lake town, HYTHE, at the end of the lake's east arm. A port, SALTREACH, at the tip of the south-eastern peninsula.
+- Mountains: THE HOARFELLS, a long range across the far north above the forest, and THE GREYSPINE, a range down the whole eastern edge, drawn as rows of small hatched peaks in the old style, packed tight, with softer foothills below them. Lower hill country scattered elsewhere as smaller hachured mounds.
+- Rivers as fine wavering lines thickening toward their mouths: one from the March into the lake's west arm, two out of the Wildwood into the lake's head, one through the Downs to the sea, one to Caldreth.
+- Roads as fine double lines. Towns as tiny clusters of buildings, villages as a few dots. A faint dashed line for the kingdom's border, fading out in the north-west.
+- The sea in grey wash with contour hatching, a few small ships under sail, and a sea creature or two drawn in the margins in the old manner.
+
+LETTERING, in the city map's hand: the title cartouche reads "THE REALM OF THORNMERE". Letter these names and no others: The Sacred Lake, The Open Sea, Purewater, Caldreth, The King's Road, The North Road, Ashwick, Emberhold, Drakesfall, The March, The Kritch, The Wildwood, The Deep Glades, The Downs, Hythe, Saltreach, The Hoarfells, The Greyspine.
+
+Landscape, 4:3.

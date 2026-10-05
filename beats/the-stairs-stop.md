@@ -19,7 +19,7 @@ somebody who outranks the council, cancel this and let her hold her people.
 
 At dawn on the eve of the Tourney the water-stairs are empty. No cartage, no
 provisioning, no boats for hire, no ice, no fish, no lamp oil -- and no
-competitors' gear moved to Temple Isle, which is the part that turns a labour
+competitors' gear moved to the Tournament Ground, which is the part that turns a labour
 dispute into a sacred crisis.
 
 [[Marda Blackwater]] stands at the head of the Shoals stair and is entirely
@@ -38,8 +38,8 @@ something in front of a magistrate. Any of the three and the stairs move again.
   orders of the men who wrote the standing order. [[Abel Weir]] will not.
 - **The Order of the Lake Lady** cares because the Tourney is sacred and the
   festival is being strangled.
-- **The party** can broker this, break it, or arm it. A crowd of three hundred on
-  Temple Isle the next day is a thing the Baron's plan does not survive -- and
+- **The party** can broker this, break it, or arm it. A crowd of three hundred at
+  the Tournament Ground the next day is a thing the Baron's plan does not survive -- and
   neither, possibly, does anyone standing in front of it.
 
 Do not resolve it for them. Put the empty stair in front of the players and stop.

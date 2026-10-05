@@ -1,0 +1,38 @@
+# The Moist Oyster, floor plans. Format as maps/districts/lullwater/labels.yaml.
+# Run with maps/sheet.py buildings/moist-oyster ...  Canon: locations/the-moist-oyster.md
+# Square sheet: ground floor left, upper floor right; the Still to the south.
+
+source: unlabeled.png
+crop: {x: 0, y: 0, w: 2880, h: 2880}
+
+title: {text: "The Moist Oyster", subtitle: "The Lullwater -- floor plans", x: 0.027, y: 0.862, size: 0.021}
+key: {x: 0.012, top: 0.600, size: 0.0058}
+
+sites:
+  # ground floor
+  - {text: "The taproom", x: 0.260, y: 0.280, num: ne}
+  - {text: "The bar", x: 0.200, y: 0.205, num: ne}
+  - {text: "The hearth", x: 0.420, y: 0.255, num: nw}
+  - {text: "The storyteller's corner", x: 0.415, y: 0.165, num: nw}
+  - {text: "Kitchen and brewhouse", x: 0.140, y: 0.380, num: ne}
+  - {text: "The yard", x: 0.290, y: 0.500, num: ne}
+  - {text: "The well", x: 0.275, y: 0.450, num: ne}
+  - {text: "Storeroom and cellar stair", x: 0.400, y: 0.390, num: ne}
+  - {text: "The keeper's office", x: 0.415, y: 0.505, num: ne}
+  - {text: "The back room", x: 0.350, y: 0.640, num: ne}
+  - {text: "The water-door", x: 0.360, y: 0.738, num: ne}
+  - {text: "The alley door", x: 0.085, y: 0.320, num: nw}
+  # upper floor
+  - {text: "The lodging", x: 0.760, y: 0.215, num: ne}
+  - {text: "The keeper's rooms", x: 0.620, y: 0.420, num: ne}
+  - {text: "The outside stair", x: 0.700, y: 0.390, num: ne}
+  - {text: "The gallery", x: 0.800, y: 0.450, num: ne}
+  - {text: "Hired rooms", x: 0.880, y: 0.420, num: nw}
+
+areas:
+  - {text: "Ground floor", x: 0.250, y: 0.032, size: 0.014}
+  - {text: "Upper floor", x: 0.740, y: 0.032, size: 0.014}
+  - {text: "The Still", x: 0.300, y: 0.845, size: 0.012}
+  - {text: "The Still", x: 0.790, y: 0.845, size: 0.012}
+
+do_not_label: ["the Quiet Hand", "the Mermaid's Court", "the Catacombs"]

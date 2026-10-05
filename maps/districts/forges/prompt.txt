@@ -1,0 +1,24 @@
+Edit this image. Do not generate a new one.
+
+It is a crop of a black pen-and-ink city map on aged parchment, showing the industrial quarter and the docks of a canal city. Redraw it at high resolution, 16:9, keeping the drawing exactly as it is: every coastline, canal, bridge, pier, mole, street, block and building stays where it is, the same shape and the same size, as if traced, and the four edges of the frame stay where they are. Do not crop, zoom, rotate or reframe. Do not add or remove any land, water, piers or bridges.
+
+What is in the frame, so nothing gets lost:
+- Top left: the edge of a merchant quarter with three walled guildhall courtyards and a market square.
+- Top centre and right: the industrial quarter, its own island, dense with long yard buildings, its south shore a row of small jetties with one larger private pier near the middle.
+- A narrow cut running west to east across the left half, crossed by small bridges.
+- Bottom left: the docks quarter, a long strip whose south shore is a comb of long piers and moles reaching into the sea; at the tip of the longest mole, near the bottom, a round tower.
+- A heavy bridge crossing from the docks quarter north-east to the industrial island.
+- Far right: the western end of a fish-market island, with wharves and piers.
+- Open sea along the bottom and centre, with a few small boats.
+- Bottom right corner: the corner of a decorative title cartouche. Replace it with open sea, continuing the water and the wharves around it.
+
+Make it sharp and finely detailed. Every building a separate footprint seen from directly above: one-storey a plain outline, two-or-more storeys a double-lined box.
+- The industrial island as forges and foundries: long casting sheds, yards with heaps of ore and coal drawn as stippled mounds, round furnace footprints, chimney bases as small filled squares, slipways and boatyards on its shore with hulls on the stocks. A tall square tower near its south shore.
+- The private pier on its south shore: long and strong, with a gate at its landward end and a guard-house; leave the berth beside it empty water.
+- The docks quarter: warehouses with loading doors, cranes as small circles with a jib line, stacked barrels and crates on the quays, ships and lighters moored along the piers as simple hull outlines.
+- The round tower at the end of the mole: a stout circular footprint with a stair turret, the mole walled on both sides.
+- Water in grey wash with fine stippling and contour hatching.
+
+Same style throughout: fine technical black and grey pen-work on the same parchment, strict top-down plan view like a surveyor's map. No 3D, no perspective, no roofs, no shadows, no colour, no sepia or brown.
+
+REMOVE ALL LETTERING. The image must contain no text, letters, labels, arrows or leader lines anywhere. Where the original has a label, draw the water, ground or buildings that lie underneath it.

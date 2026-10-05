@@ -22,16 +22,19 @@ anyone who mattered.
 
 **How he pursues it.** In the order a spoiled man does these things.
 
-1. **He offers.** Money first, to Constantine, and then more money, and then
-   the name di Teufel said slowly. The house does not sell women off the Pearl
-   to visiting nobles, and Constantine tells him so in her own hall.
-2. **He decides to make her willing.** He has watched his father seat a spirit
-   in a living body and be obeyed by it ever since. He has one stolen scroll,
-   a barbed knife, and no training whatsoever. What he means to put in her is
-   something small and pleasant that will make her want what he wants.
-3. **He botches it**, opens her the length of her body, and runs.
-4. **He still wants her** -- and now he needs her off the Pearl before she can
-   say his name in front of anyone. A boat, two men, and whatever it costs.
+1. **He buys her evening**, anonymously, like anyone. He does not say his
+   name; nobody on the Pearl knows the heir's face, and he likes it that way.
+2. **He makes her willing.** He has watched his father seat a spirit in a
+   living body and be obeyed by it ever since. He has one stolen scroll, a
+   barbed knife, and no training whatsoever. What he means to put in her is a
+   lust spirit -- something small and hungry that will make her want what he
+   wants.
+3. **The dice decide.** If the working takes *and* he gets her out of the
+   house, **he keeps her**: she is on the barge by midnight, willing. If it
+   takes and he is stopped on the stair, he comes back by boat on `d-2`. If it
+   fails, he opens her the length of her body with the knife and runs.
+4. **Thwarted, he loses his temper in public** -- fire on the Pearl street --
+   and the city learns his name.
 
 **What changes his mind.** Nothing his father would recognise as reason. Fear
 works: exposure, a blade at his own throat, or Hanzo learning what he has done

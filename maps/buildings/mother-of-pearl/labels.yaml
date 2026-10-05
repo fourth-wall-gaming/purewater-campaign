@@ -1,0 +1,44 @@
+# The Mother of Pearl, floor plans. Format as maps/districts/lullwater/labels.yaml.
+# Run with maps/sheet.py buildings/mother-of-pearl ...  Canon: locations/the-mother-of-pearl.md
+# Cellar, ground, first, second, left to right. Street at the top, the basin below.
+# The bricked arch at the cellar's street end (the Pearl Passage, GM catacombs guide) is not keyed.
+
+source: unlabeled.png
+crop: {x: 0, y: 0, w: 3840, h: 2160}
+
+title: {text: "The Mother of Pearl", subtitle: "Pearl Quay -- floor plans", box: [0.802, 0.032, 0.980, 0.098]}
+key: {x: 0.012, bottom: 0.020, size: 0.0056, columns: 4}
+
+sites:
+  # cellar
+  - {text: "Coal store", x: 0.068, y: 0.265, num: ne}
+  - {text: "Wine and stores", x: 0.180, y: 0.430, num: ne}
+  - {text: "The well-head", x: 0.115, y: 0.410, num: ne}
+  - {text: "The lock-up", x: 0.075, y: 0.580, num: ne}
+  # ground floor
+  - {text: "The doorman's lodge", x: 0.303, y: 0.255, num: ne}
+  - {text: "The hall", x: 0.370, y: 0.300, num: ne}
+  - {text: "Reception room", x: 0.325, y: 0.500, num: ne}
+  - {text: "Reception room", x: 0.420, y: 0.470, num: ne}
+  - {text: "The kitchen", x: 0.355, y: 0.640, num: ne}
+  - {text: "Pantry and back stair", x: 0.443, y: 0.650, num: nw}
+  - {text: "The water-stair", x: 0.375, y: 0.800, num: ne}
+  # first floor
+  - {text: "The audience room", x: 0.590, y: 0.280, num: ne}
+  - {text: "Marisette's bedchamber", x: 0.565, y: 0.490, num: ne}
+  - {text: "The enforcer's room", x: 0.690, y: 0.500, num: nw}
+  - {text: "Her sitting room", x: 0.590, y: 0.630, num: ne}
+  - {text: "The counting room", x: 0.675, y: 0.640, num: ne}
+  # second floor
+  - {text: "The women's rooms", x: 0.810, y: 0.440, num: ne}
+  - {text: "The sitting room", x: 0.820, y: 0.640, num: ne}
+  - {text: "The linen room", x: 0.925, y: 0.640, num: ne}
+
+areas:
+  - {text: "Cellar", x: 0.125, y: 0.115, size: 0.0085}
+  - {text: "Ground floor", x: 0.375, y: 0.115, size: 0.0085}
+  - {text: "First floor", x: 0.625, y: 0.115, size: 0.0085}
+  - {text: "Second floor", x: 0.875, y: 0.115, size: 0.0085}
+  - {text: "Pearl Quay", x: 0.500, y: 0.170, size: 0.0075}
+
+do_not_label: ["the Quiet Hand", "the Mermaid's Court", "the Catacombs"]

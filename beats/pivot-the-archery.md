@@ -28,7 +28,7 @@ thousand people watching and a prize she has to be handed:
 - **She spends it.** Names, out loud, whose men stopped a King's officer on the
   Ashwick road and what has been done in this city this week. Thirty years of
   standing converted into one public accusation the Governor cannot pretend not
-  to have heard. It buys a hearing. It makes her a marked woman four days early.
+  to have heard. It buys a hearing. It makes her a marked woman two days early.
 - **She holds it.** Takes the prize, says the correct words, walks. Still a
   King's officer with a clean record and a door she can open once. Colder, and
   far more useful later.
@@ -36,4 +36,4 @@ thousand people watching and a prize she has to be handed:
   the wreath, and the scene becomes the party watching the one person with
   standing lose her chance to use it.
 
-**This is the scene the standoff answers.**
+**This is the scene the impossible shot answers.**

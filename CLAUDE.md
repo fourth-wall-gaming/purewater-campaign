@@ -27,7 +27,7 @@ is deliberate: `id` is a key in the schema, so importing the same package twice
 **fails loudly** instead of quietly forking somebody's save. Nothing in this
 package's documentation should ever name a different id as the campaign to play.
 
-The root is a clean starting point — 43 beats all pending, an empty journal, four
+The root is a clean starting point — 35 beats all pending, an empty journal, four
 pregens offered and none chosen. If you change that, you have broken a new
 player's first session; there is a test.
 
@@ -44,8 +44,9 @@ in the DB so they cannot be mistaken for a startable game.
 | `myth-campaign-66a98ba4a70e` | v1, finished at CH.25 |
 
 Kag from run 4 is canon and ships in the seed as an NPC — `characters/npcs/kag.json`,
-`agendas/the-one-who-works-it-out.md`, `setting/kag-as-an-npc.md`, and seven
-`beats/kag-*.md`. Leave them alone; they are already written for a fresh run.
+`agendas/the-one-who-works-it-out.md` and `setting/kag-as-an-npc.md`. She has
+**no bearing on the plot** and no beats: she runs Crowbill's errands and his
+business on the streets, and a hustle or two of her own.
 
 ## Running it locally
 

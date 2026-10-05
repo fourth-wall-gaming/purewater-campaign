@@ -1,0 +1,23 @@
+Edit this image. Do not generate a new one.
+
+It is a crop of a black pen-and-ink city map on aged parchment, showing the heart of a canal city: the long northern island of its central district and the broad Grand Canal along its south side. Redraw it at high resolution, 16:9, keeping the drawing exactly as it is: every coastline, canal, bridge, wall, street, block and building stays where it is, the same shape and the same size, as if traced, and the four edges of the frame stay where they are. Do not crop, zoom, rotate or reframe. Do not add or remove any land, water or bridges.
+
+What is in the frame, so nothing gets lost:
+- Most of the frame: the northern island, densely built. A long curving avenue sweeps through it from the north-west down to the south-east, and further east a set of curved streets ring a small round square.
+- In the middle of the island, a short canal runs in from the Grand Canal and ends in a blind basin, crossed by two small bridges: one near its mouth and one near its head.
+- Centre right: a walled palace with a great courtyard; below it a hall of justice and a colonnaded square; to its right the barracks.
+- Far right: the corner of a walled tournament ground. Top right: the corner of a walled temple island.
+- Top left: the edge of a pleasure island, joined to the big island by a long bridge across a narrow water. Left edge: a low bridge across the same water.
+- Bottom: the Grand Canal, broad and open, running the full width of the frame, with boats on it. Across it, along the bottom edge, the north shore of the southern island with a walled guildhall courtyard.
+- There is NO bridge across the Grand Canal. Do not add one.
+
+Make it sharp and finely detailed. Every building a separate footprint seen from directly above: one-storey a plain outline, two-or-more storeys a double-lined box.
+- The western half of the island is the rich end: bigger houses with courtyards, private gardens with small trees drawn as circles, and private water-stairs down to the canals. Eastward the houses get smaller and closer.
+- The long curving avenue wide and paved, lined with larger houses. The small round square paved, with a fountain or well at its centre.
+- The palace courtyard paved, with formal garden beds.
+- Along both banks of the Grand Canal: ferry stairs, drawn as broad water-steps going down into the canal, in pairs facing each other across the water, each with mooring posts and two or three ferry boats tied up. Put one such pair opposite the palace and another near the mouth of the short canal. Elsewhere along the banks, smaller private water-stairs and landing steps.
+- Water in grey wash with fine stippling and contour hatching.
+
+Same style throughout: fine technical black and grey pen-work on the same parchment, strict top-down plan view like a surveyor's map. No 3D, no perspective, no roofs, no shadows, no colour, no sepia or brown.
+
+REMOVE ALL LETTERING. The image must contain no text, letters, labels, arrows or leader lines anywhere. Where the original has a label, draw the buildings, streets or water that lie underneath it.
