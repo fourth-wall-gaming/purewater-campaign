@@ -152,7 +152,8 @@
       "range": "10/150/300",
       "notes": "Stun",
       "ap_hp": "1/2",
-      "effects": "Stun Location"
+      "effects": "Stun Location",
+      "force": "L"
     },
     {
       "name": "Leather jerkin (all locations)",

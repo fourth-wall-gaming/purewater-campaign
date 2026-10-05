@@ -136,7 +136,8 @@
       "range": "15/90/180",
       "notes": "Impale; unnatural precision",
       "ap_hp": "4/8",
-      "effects": "Impale"
+      "effects": "Impale",
+      "force": "H"
     },
     {
       "name": "Long Sword",

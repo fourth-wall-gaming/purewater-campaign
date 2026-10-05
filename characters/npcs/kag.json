@@ -139,21 +139,24 @@
       "damage": "1d6",
       "size": "M",
       "effects": "Bleed, Impale",
-      "ap_hp": "6/8"
+      "ap_hp": "6/8",
+      "reach": "S"
     },
     {
       "name": "Dagger (x3, thrown 15/30/60)",
       "damage": "1d4+1",
       "size": "S",
       "effects": "Bleed, Impale",
-      "ap_hp": "6/8"
+      "ap_hp": "6/8",
+      "reach": "S"
     },
     {
       "name": "Club -- the one she actually reaches for",
       "damage": "1d6",
       "size": "M",
       "effects": "Bash, Stun Location",
-      "ap_hp": "4/4"
+      "ap_hp": "4/4",
+      "reach": "S"
     },
     {
       "name": "Leather armour, full set (AP 2, all locations)",

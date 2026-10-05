@@ -146,7 +146,8 @@
       "range": "5/40/80",
       "notes": "Impale",
       "ap_hp": "4/4",
-      "effects": "Impale"
+      "effects": "Impale",
+      "force": "L"
     },
     {
       "name": "Round Shield",

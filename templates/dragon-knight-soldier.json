@@ -150,7 +150,8 @@
       "range": "15/80/160",
       "notes": "Impale",
       "ap_hp": "4/5",
-      "effects": "Impale"
+      "effects": "Impale",
+      "force": "L"
     },
     {
       "name": "Dragon-marked mail (all locations)",
