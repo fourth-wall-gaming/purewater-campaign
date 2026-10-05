@@ -3,8 +3,8 @@
   "name": "Sinnit",
   "type": "npc",
   "status": "active",
-  "description": "A brutish Purewater canal-rat and rival thief who nurses a hard grudge against Randall -- a brawling enforcer-type with a long memory and a short temper.",
-  "narrative": "Sinnit works the same Purewater underworld as Randall, but where Randall is quick and charming, Sinnit is heavy-handed and mean. A canal-rat brawler and small-time crew muscle, he blames Randall for an old double-cross -- a job gone wrong, a cut he never got, a humiliation he never forgot -- and he has been looking to settle the score ever since. He hits hard, fights dirty, and holds a grudge like a creditor.",
+  "description": "A brutish Lullwater canal-rat and rival thief who has hated Randall for seven years over a purse handed back with a bow -- and who, in the one week Randall's face is worth money, sells what he sees to the men who can hurt him worst.",
+  "narrative": "Sinnit works the same Purewater underworld as Randall, but where Randall is quick and charming, Sinnit is heavy-handed and mean -- a Lullwater canal-rat brawler with two lads and a boat. Seven years ago on the Pearl Quay, in front of the Promise of Heaven, Randall lifted his purse and handed it back to him with a bow while the house's girls laughed. Everybody who saw it has forgotten. Sinnit has built his life on it.\n\n**This week he is an antagonist, and a real one** -- not because he is clever but because he sees things on the street and has a grievance that wants feeding. His agenda is *Make Randall say it*:\n\n- On `d-3/dusk` he corners **Conall** in the Lullwater, sure he has finally caught Randall alone, and demands the apology from the wrong man.\n- On `d-2` he sees the real Randall walking free and works out there are two of that face -- then tells the whole Pearl it was Randall who carved the girl.\n- On `d-1/night`, once Santo's tantrum has shown him a third, he **sells the faces to Blau** -- which wakes the Baron's hunt for the sons he did not know he had.\n- On `d2/dawn`, with the Lullwater burning, he **sells Nus** to Blau.\n\n**What turns him** is the one thing he wants: Randall's apology, out loud, in front of witnesses. Then he is a loud, unreliable, genuinely brave ally, and the next time somebody in dragon colours comes for the Lullwater's own, he is in the door -- *\"Nobody does that to our people.\"*\n\nHe hits hard, fights dirty, and announces what he is going to do before he does it.",
   "characteristics": {
     "STR": 14,
     "CON": 13,
@@ -177,13 +177,13 @@
     "game_system": "Classic Fantasy",
     "character_type": "Supporting NPC (antagonist)",
     "role": "Purewater canal-rat / rival crew muscle; a recurring local enemy of Randall.",
-    "relationship": "Local enemy of Randall -- holds a grudge over an old double-cross / unpaid cut; spoiling for payback.",
+    "relationship": "Randall's enemy for seven years over a purse handed back with a bow on the Pearl Quay. Mistakes Conall for him. Turned only by an apology made in public.",
     "abilities": [
       "Backstab (use 'Kill Silently' with surprise)",
       "Hide in Shadows (Perception to spot is 1 grade harder)"
     ],
     "magic_tradition": null,
-    "authored_note": "New NPC -- no Roll20 sheet. GM-authored from the brief ('a local enemy of Randall: Sinnit'). The grudge hook (old double-cross) is a suggestion -- adjust the cause to taste. Tune freely.",
+    "authored_note": "New NPC -- no Roll20 sheet. GM-authored from the brief ('a local enemy of Randall: Sinnit'), developed as the week's street-level antagonist: agenda 'Make Randall say it' and four beats (sinnit-*.md).",
     "source": "Authored for the And then the Dragons Came campaign (enemy of Randall)",
     "pronouns": "he/him"
   },
@@ -191,7 +191,7 @@
   "luck_current": 2,
   "magic_current": 10,
   "experience_rolls": 0,
-  "location": null,
+  "location": "myth-loc-d09bf7a910cb",
   "factions": [],
   "from_template": null,
   "created_at": "2026-06-24T23:07:54",

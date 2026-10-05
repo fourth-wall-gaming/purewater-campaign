@@ -31,9 +31,10 @@ wants to know where they were at the turn of the night and who the girl was to
 them. She does not say what happened to the girl.
 
 Somewhere in it somebody says the word **brother** out loud. Let the twins get
-there themselves if they can. Conall arrives already carrying a guard who
-called him *my lord*; Randall has a lifetime of being told he looks like
-somebody.
+there themselves if they can. Randall arrives already carrying a guard who
+called him *my lord*; Conall arrives carrying a canal-rat in the Lullwater who
+called him *Randall* and wanted an apology for something he never did -- and here
+is Randall.
 
 ## The witnesses
 

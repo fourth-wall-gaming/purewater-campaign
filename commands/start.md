@@ -50,7 +50,7 @@ gm get-campaign --campaign myth-campaign-purewater-s1
 gm import-campaign --path "${CLAUDE_PLUGIN_ROOT}"
 ```
 
-A few hundred rows — 35 beats, 15 agendas, 42 characters, 22 locations, the lore
+A few hundred rows — 39 beats, 16 agendas, 42 characters, 22 locations, the lore
 graph. Say it will take a moment. The seed id is fixed on purpose: importing the
 same package twice fails loudly rather than quietly forking the save.
 

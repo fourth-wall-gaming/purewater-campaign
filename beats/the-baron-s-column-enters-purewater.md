@@ -20,12 +20,9 @@ rides uncovered and unhurried, letting Purewater look at him.
 is screened. A Perception check notices that the guards face *inward* as much as
 out.
 
-**Conall is in the crowd on the bridge,** and a guard at the Baron's stirrup
-mistakes him for Santo: see *A guard calls Conall 'my lord'*, which fires in the
-same minute.
-
-**Randall is working the carts in Caravan Square** while every eye is on the
-column, which is the best quarter-hour of thieving he will get all year.
+**Randall is working the carts in Caravan Square,** and a guard at the Baron's
+stirrup mistakes him for Santo: see *A knight calls Randall 'my lord'*, which
+fires in the same minute.
 
 **If no PC is present:** the column arrives anyway and the city talks about the
 litter for a day.

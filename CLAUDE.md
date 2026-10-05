@@ -27,7 +27,7 @@ is deliberate: `id` is a key in the schema, so importing the same package twice
 **fails loudly** instead of quietly forking somebody's save. Nothing in this
 package's documentation should ever name a different id as the campaign to play.
 
-The root is a clean starting point — 35 beats all pending, an empty journal, four
+The root is a clean starting point — 39 beats all pending, an empty journal, four
 pregens offered and none chosen. If you change that, you have broken a new
 player's first session; there is a test.
 
@@ -81,7 +81,7 @@ gm init-db && gm import-campaign --path .
 
 ## Spoilers
 
-`lore/gm-secret/`, `lore/gm-guide/the-plot-timeline.md` and
+`lore/gm-secret/`, `setting/the-story.md` and
 `lore/character-creation/the-four-companions.md` hold the reveals — the possession
 scheme, the champion's identity, the twins. Keep them out of player-facing
 narration until they land in play.

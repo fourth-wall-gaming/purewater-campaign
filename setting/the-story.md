@@ -60,8 +60,9 @@ And the assumption that the law applies to everyone.
 | `d-3/dawn` | [The old woman at the ford](../beats/the-old-woman-at-the-ford.md) | binds Magda and Gardwen together in the first five minutes, and sends them to the Sylph's Embrace for beds |
 | `d-3/day` | [Four knights and a King's officer](../beats/four-knights-and-a-kings-officer.md) | teaches what a warrant is worth here, and buys the Archery and the shot |
 | `d-3/day` | [The Baron's column enters Purewater](../beats/the-baron-s-column-enters-purewater.md) | the litter nobody may walk beside — an image, never explained |
-| `d-3/day` | [A guard calls Conall 'my lord'](../beats/a-guard-calls-conall-my-lord.md) | a terrified stranger hands Conall a question he cannot put down |
+| `d-3/day` | [A knight calls Randall 'my lord'](../beats/a-knight-calls-randall-my-lord.md) | a terrified guard hands Randall a face that opens doors, and a question he cannot put down |
 | `d-3/day` | [Three of them on the gate bridge](../beats/three-of-them-on-the-gate-bridge.md) | the first lesson, in public, at no risk to life |
+| `d-3/dusk` | [Sinnit corners the wrong man](../beats/sinnit-corners-the-wrong-man.md) | Randall's old enemy calls Conall *Randall* and wants an apology he cannot give — Conall's first thread of the twins |
 | `d-3/dusk` | [Santo buys her evening](../beats/santo-buys-her-evening.md) | one rich young face in the crowd, no name — which is what makes the next day possible |
 | `d-3/night` | [Santo's working](../beats/santo-s-working.md) | THE INCITING EVENT. Roll it: the spirit takes and he walks her out, or it fails and he opens her and runs. Either way Magda and Gardwen see the man and his burnt hand |
 
@@ -82,6 +83,7 @@ anything.
 | `d-2/dawn` | [Two men with one face](../beats/the-catacombs-two-men-one-face.md) | PIVOTAL. Interviewed side by side; somebody says *brother*; Magda and Gardwen clear them. **The party is made here** |
 | `d-2/day` | [A boat taken off the water-stair](../beats/a-boat-taken-off-the-water-stair.md) | the occupation, on the water |
 | `d-2/day` | [Santo comes back for her](../beats/santo-comes-back-for-her.md) | only if the spirit took and he was stopped: a second try, by boat |
+| `d-2/day` | [Sinnit tells the Pearl it was Randall](../beats/sinnit-tells-the-pearl-it-was-randall.md) | cleared in a cellar, accused on every stair: Randall's home ground cools under him |
 | `d-2/dusk` | [Santo's tantrum on the Pearl street](../beats/santo-s-tantrum-on-the-pearl-street.md) | thwarted, he puts fire into the house front; Blau drags him off and **the face gets a name** |
 | `d-2/night` | [The Pearl closes to the Dragon Knights](../beats/the-houses-close-to-the-di-teufels.md) | Constantine to Marisette; every house shut to the retinue, and only to them |
 | `d-2/night` | [Temerach tells Conall whose son he is](../beats/temerach-tells-conall-whose-son-he-is.md) | Conall's floor drops out |
@@ -89,6 +91,7 @@ anything.
 | `d-1/day` | [Maro Quist reads it to the end](../beats/quist-reads-it-to-the-end.md) | THE WALL. Not corruption — a decent man who is right |
 | `d-1/day` | [The presentation of the entrants](../beats/the-presentation-of-the-entrants.md) | MIDPOINT. The helm comes off and it is her brother — and Blau sees her see him |
 | `d-1/dusk` | [Alderic Vantt jokes about his cellar](../beats/alderic-vantt-jokes-about-his-cellar.md) | the money's seam: two self-deprecating jokes in a row |
+| `d-1/night` | [Sinnit sells the face](../beats/sinnit-sells-the-face.md) | if nobody has turned him: two faces sold to Blau, and the Baron starts hunting the sons he did not know he had |
 | `d-1/night` | [A courier from the Movement](../beats/a-courier-from-the-movement.md) | someone is paying, and he is not in this city |
 
 ---
@@ -147,6 +150,7 @@ estate, and that is the next adventure.
 | when | beat | what it is for |
 |---|---|---|
 | `d2/dawn` | [The Lullwater burns](../beats/the-lullwater-burns.md) | B and C. The Baron berserk; the quarter fights back; fire; Blau and Nus |
+| `d2/dawn` | [Sinnit sells Nus](../beats/sinnit-sells-nus.md) | B and C. How Blau finds Nus — or, if Randall apologised, the man standing in the door |
 | `d2/day` | [The Run across the town](../beats/the-run-across-the-town.md) | A only. Two hours with no crowd control — the last window before the room |
 | `d2/dusk` | [The private audience](../beats/the-private-audience.md) | A and B. By the old rite, or summoned to answer for the smoke. Thuban into Emeric |
 | `d2/dusk` | [The impossible shot](../beats/the-impossible-shot.md) | B. She names him, hits him, does not kill him, and runs with the party |

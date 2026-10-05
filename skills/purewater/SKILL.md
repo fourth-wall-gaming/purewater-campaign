@@ -44,7 +44,7 @@ save, and edits to them never reach the game.
 | do not read | what is in it |
 |---|---|
 | `setting/adventure.md`, `setting/the-story-so-far.md` | the original adventure's full plot |
-| `lore/gm-secret/`, `lore/gm-guide/the-plot-timeline.md` | the reveals |
+| `lore/gm-secret/` | the reveals |
 | `lore/character-creation/the-four-companions.md` | GM-only; gives away the twins and the parentage |
 
 These are yours to use. The reveals in them land **in play** and never in
@@ -63,17 +63,31 @@ tell this one wrong.
 
 ## 4. This campaign's own conventions
 
-- **The clock is day-keyed.** `d-3` through `d0` (the Tourney) to `d2`. Time is an
+- **The clock is day-keyed.** `d-3` is arrival, `d-1` the presentation, and the
+  Tourney runs `d0` (the Archery), `d1` (the Single Combat) and `d2` (the Run and
+  the closing). Time is an
   index; `d-3/dawn` is 52. `tick` between scenes — the living world runs whether
   anybody watches or not.
-- **Fifteen agendas on clocks and 35 beats.** `forecast` between scenes, and
+- **Sixteen agendas on clocks and 39 beats.** `forecast` between scenes, and
   `brief --id <beat>` **before narrating toward any beat**. Never narrate toward a
   beat you have not opened; the file is nearly always better than the mechanism you
   are about to invent.
 - **Brief a place every time the party moves.** `brief --id <location>` carries
   the world constraints, and they are load-bearing: no roads, no horses,
   everything by boat, and outsiders cannot crew one.
-- **Kag is an NPC and there is one rule for her.** How you talk to her decides
+- **The last day has three endings, and the engine cannot pick between them.**
+  They turn on the locket (`nus-lifts-the-binding-locket`, `d1/night`): never
+  stolen, stolen and recovered by Blau, or stolen and kept with Nus alive. Beat
+  `needs` cannot express "still in the party's hands", so read the state of the
+  board at `d2/dawn` and cancel the beats that no longer apply.
+  `setting/the-story.md` has the table.
+- **Temerach is an implacable spymaster, not a patron.** In earlier runs she was
+  far too approachable. She cannot be found, only reached through Murgeroch; she
+  always knows more than the party; she gives tasks and never asks for help; and
+  persuasion does not move her -- only proof she can check. The rules are in her
+  agenda, *Shield the boy, unmask the house*.
+- **Kag is an NPC with no bearing on the plot**, and there is one rule for her.
+  She runs Crowbill's errands and a hustle or two. How you talk to her decides
   what she is. Address the muscle and she is exactly as much use as she was paid to
   be; ask her what a thing *costs* and you have the best analyst in Purewater for
   nothing. It is not an Influence roll.
@@ -89,6 +103,10 @@ covers, and every location file ends with a **Map:** line naming its sheet.
 - **Show the sheet when the party arrives somewhere new**, and use it to answer
   "how do we get there": which bridge, which stair, which ferry. No bridge
   crosses the Grand Canal, and none reaches the Lullwater or Temple Isle.
+- **More than districts.** `maps/buildings/` has floor plans of key buildings,
+  `maps/realm/` the kingdom, and `maps/encounters/` encounter maps (the
+  DragonBarge). `maps/secrets/` is **GM only** -- the Catacombs -- and is never
+  shown.
 - **The sheets are player-safe.** Nothing secret is lettered on them. Their keys
   name places, taverns and amenities (●) and watch posts (■); the one-line notes
   behind those are in the location files' "Taverns, amenities and the watch"

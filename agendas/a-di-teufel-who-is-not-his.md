@@ -29,10 +29,12 @@ to the city; he will take one off a street at night.
 single most dangerous thing the party can trigger, and it is triggered by
 *being seen* -- which makes every public scene a real decision.
 
-**Note.** The guard who calls Conall *my lord* on `d-3/day` does not trigger
+**Note.** The guard who calls Randall *my lord* on `d-3/day` does not trigger
 this: he thinks he has seen Santo in the wrong place, not a second face, and he
 tells nobody. It wakes when somebody in the Baron's service sees **two** of them,
-or one of them beside Santo.
+or one of them beside Santo -- or when somebody **sells** them the fact. In the
+natural course of things that is Sinnit, on `d-1/night` (*Sinnit sells the
+face*), unless Randall has made his peace with him.
 
 **GM note.** If Santo dies while this is dormant, activate it as soon as anyone
 connects the twins' face to the dead heir: with Santo gone the twins are the only
