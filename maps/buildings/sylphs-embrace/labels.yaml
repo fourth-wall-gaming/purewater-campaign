@@ -1,4 +1,4 @@
-# The Sylph's Embrace, floor plans. Format as maps/lullwater/labels.yaml.
+# The Sylph's Embrace, floor plans. Format as maps/districts/lullwater/labels.yaml.
 # Run with maps/sheet.py buildings/sylphs-embrace ...  Canon: locations/the-sylph-s-embrace.md
 # Panels left to right: ground, first, second, attic. Street at the top, the basin at the bottom.
 

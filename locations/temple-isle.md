@@ -39,11 +39,11 @@ east. The **west cloister** holds the pilgrims' cells, the refectory and the
 novices' cells; the **east cloister** holds the High Priestess's rooms, the chapter
 house, the library and the infirmary. The temple's ferries tie up at the water-steps
 and at a small **ferry landing** on the west shore, with a postern gate. These are
-marked on the Lists and Temple Isle sheet, `maps/tournament/`, and on the precinct
+marked on the Lists and Temple Isle sheet, `maps/districts/tournament/`, and on the precinct
 plan, `maps/buildings/temple-isle/temple-isle.jpg`.
 
 ## Amenities
 
 - **The Pilgrims' Hostel** -- cells and a refectory in the temple's west cloister for pilgrims who have walked a long way.
 
-**Map:** `maps/tournament/the-lists-and-temple-isle.jpg`.
+**Map:** `maps/districts/tournament/the-lists-and-temple-isle.jpg`.

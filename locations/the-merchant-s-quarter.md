@@ -30,7 +30,7 @@ Three of them belong to the councillors who carry the Governor's instructions:
 oldest, further east. Four bridges cross the cut to the Seaward Quarter: the
 **Cooper's Bridge** at the west, an unnamed footbridge, the **Dyers' Bridge** below
 the Guildhall of Dyers, and the **Tidegate Bridge** at the east. These are marked
-on the Merchant's Quarter sheet, `maps/merchants/`.
+on the Merchant's Quarter sheet, `maps/districts/merchants/`.
 
 ## Taverns, amenities and the watch
 
@@ -41,6 +41,6 @@ on the Merchant's Quarter sheet, `maps/merchants/`.
 - **The Cistern Baths** -- bathhouse for the clerks and apprentices.
 - **The Market Post** (watch) -- the watch post on the square, whose patrols now route round the quarter rather than be seen not acting.
 
-Marked on the sheet in `maps/merchants/`.
+Marked on the sheet in `maps/districts/merchants/`.
 
-**Map:** `maps/merchants/the-merchants-quarter.jpg`.
+**Map:** `maps/districts/merchants/the-merchants-quarter.jpg`.

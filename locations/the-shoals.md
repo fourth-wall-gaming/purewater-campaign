@@ -39,7 +39,7 @@ back with a lamp at two in the morning. Kag's weekly round, eleven calls, runs f
 the ice-house to the smugglers' jetties. To the east the **Causeway Bridge** and the
 **Tideflats Bridge** cross the inlet to the Eastern Causeway. Across the water to the
 west, under the Forge Tower, is the private pier where the DragonBarge lies. All of
-these are marked on the Shoals sheet, `maps/shoals/`.
+these are marked on the Shoals sheet, `maps/districts/shoals/`.
 
 ## Taverns, amenities and the watch
 
@@ -50,6 +50,6 @@ these are marked on the Shoals sheet, `maps/shoals/`.
 - **The Stilt Chapel** -- a chapel of the Lady on stilts in the Low Canals, reached by rope bridge.
 - **The Fishmarket Post** (watch) -- the watch post on the market; it records, refers, and keeps its shutters half-closed toward the bridge.
 
-Marked on the sheet in `maps/shoals/`.
+Marked on the sheet in `maps/districts/shoals/`.
 
-**Map:** `maps/shoals/the-shoals.jpg`.
+**Map:** `maps/districts/shoals/the-shoals.jpg`.

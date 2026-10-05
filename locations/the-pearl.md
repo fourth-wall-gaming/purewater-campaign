@@ -29,7 +29,7 @@ At the poorer south-western end, by the **Old Span** and the **Hush Bridge**, is
 to a small walled islet of gardens and the **Widow's House**, gated at its end of the
 bridge and shuttered for two hundred years. The Widow founded the Pearl as a
 pleasure district; see [[The Widow of the Pearl]]. These are
-marked on the Pearl sheet, `maps/pearl/`.
+marked on the Pearl sheet, `maps/districts/pearl/`.
 
 *(Formerly "the Street of Red Lanterns" / "the Pearl Quarter"; now its own island.)*
 
@@ -42,6 +42,6 @@ marked on the Pearl sheet, `maps/pearl/`.
 - **Old Nan's Pies** -- an eel-pie stall on the Quay; Nan knows the name of every person who passes and says all of them.
 - **The Lantern Box** (watch) -- a watch box at the North Quarter end of the Lantern Bridge, unmanned after dark; the Pearl keeps its own order.
 
-Marked on the sheet in `maps/pearl/`.
+Marked on the sheet in `maps/districts/pearl/`.
 
-**Map:** `maps/pearl/the-pearl.jpg`.
+**Map:** `maps/districts/pearl/the-pearl.jpg`.

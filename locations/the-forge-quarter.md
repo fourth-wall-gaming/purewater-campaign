@@ -26,7 +26,7 @@ gated private pier where the DragonBarge lies. **Orsk & Daughter**, Hild's
 goldsmithing shop, which cut the pommel mark on Santo's soul-knife, is a few streets
 west of the Foundries. The **Cinder Bridge** crosses from the island's south-west
 corner to the Seaward Quarter wharves. These are marked on the Forges and the Docks
-sheet, `maps/forges/`.
+sheet, `maps/districts/forges/`.
 
 ## Taverns, amenities and the watch
 
@@ -38,6 +38,6 @@ sheet, `maps/forges/`.
 - **The Harbourmen's Office** -- the Harbor Masters' dockside office, where a berth registration is a public record.
 - **The Seaward Post** (watch) -- the busiest post in the city, which has quietly stopped sending patrols anywhere near the barge pier.
 
-Marked on the sheet in `maps/forges/`.
+Marked on the sheet in `maps/districts/forges/`.
 
-**Map:** `maps/forges/the-forges-and-the-docks.jpg`.
+**Map:** `maps/districts/forges/the-forges-and-the-docks.jpg`.

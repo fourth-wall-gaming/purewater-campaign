@@ -37,7 +37,7 @@ ferry -- so the city's two halves meet only by boat.
   shore behind the cut, crossed to the Merchant's Quarter by the Cooper's, Dyers'
   and Tidegate Bridges and to the Forges by the Cinder Bridge. Its waterfront is a
   comb of piers and slips, with the round **Harbour Master's Tower** at the tip of
-  the longest mole. (See the Forges and the Docks sheet, `maps/forges/`.)
+  the longest mole. (See the Forges and the Docks sheet, `maps/districts/forges/`.)
 
 **Across the North Quarter.** **The Processional**, a wide paved avenue lined with
 the bigger houses, sweeps through the island from the Pearl's bridges down toward
@@ -48,7 +48,7 @@ well, where the North Quarter's middling streets meet the official quarter. No
 bridge crosses the Grand Canal. Two ferries do: **the Palazzo Ferry**, between the
 stairs below the Palazzo and the Forges shore, and **the Guild Ferry**, from the
 North Quarter's south bank to the Merchant's Quarter by the guildhalls. These are
-marked on the North Quarter sheet, `maps/grandcanal/`.
+marked on the North Quarter sheet, `maps/districts/grandcanal/`.
 
 The Baron's **[[The DragonBarge]]** lies at a private pier on the Forges' seaward
 side, steam rising where its hull meets the water.
@@ -62,6 +62,6 @@ side, steam rising where its hull meets the water.
 - **Scriveners' Row** -- clerks, notaries and copyists under the Hall of Justice's walls.
 - **The Isle Post** (watch) -- the watch-house of High Isle, where Captain Sarn commands and Sergeant Abel Weir keeps the four-inch referral book.
 
-Marked on the sheet in `maps/grandcanal/`.
+Marked on the sheet in `maps/districts/grandcanal/`.
 
-**Map:** `maps/grandcanal/the-north-quarter.jpg`, `maps/merchants/the-merchants-quarter.jpg`, `maps/forges/the-forges-and-the-docks.jpg`, `maps/tournament/the-lists-and-temple-isle.jpg`.
+**Map:** `maps/districts/grandcanal/the-north-quarter.jpg`, `maps/districts/merchants/the-merchants-quarter.jpg`, `maps/districts/forges/the-forges-and-the-docks.jpg`, `maps/districts/tournament/the-lists-and-temple-isle.jpg`.

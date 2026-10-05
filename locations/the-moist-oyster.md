@@ -40,4 +40,4 @@ side and an alley down its west side to the water.
   round it on posts. Upstairs are cheap lodging over the taproom,
   a few small hired rooms off the gallery, and the keeper's rooms over the kitchen.
 
-**Map:** `maps/lullwater/the-lullwater.jpg`; floor plans `maps/buildings/moist-oyster/the-moist-oyster.jpg`.
+**Map:** `maps/districts/lullwater/the-lullwater.jpg`; floor plans `maps/buildings/moist-oyster/the-moist-oyster.jpg`.

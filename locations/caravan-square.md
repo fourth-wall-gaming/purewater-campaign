@@ -32,7 +32,7 @@ crosses to the **customs house** on the Merchant's Quarter shore. The Knights st
 on that bridge in *Three of them on the gate bridge*. At the square's southern end,
 a hall on a short pier is the **Ferry Stage**, for everything and everyone that
 goes by water instead. These are marked on the Caravan Square sheet,
-`maps/caravan/`.
+`maps/districts/caravan/`.
 
 ## Taverns, amenities and the watch
 
@@ -42,6 +42,6 @@ goes by water instead. These are marked on the Caravan Square sheet,
 - **Ansel's Exchange** -- moneychanger by the customs house; every coin of the borderland at a rate that changes when he sees you.
 - **The Gate Post** (watch) -- the watch post at the customs end of the Triumph Bridge, whose watchman does nothing about the three Knights in the middle of it.
 
-Marked on the sheet in `maps/caravan/`.
+Marked on the sheet in `maps/districts/caravan/`.
 
-**Map:** `maps/caravan/caravan-square.jpg`.
+**Map:** `maps/districts/caravan/caravan-square.jpg`.

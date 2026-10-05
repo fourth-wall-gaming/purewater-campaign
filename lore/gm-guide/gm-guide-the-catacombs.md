@@ -3,16 +3,16 @@ id: "myth-lore-1a6f50f1f1fa"
 title: "The Catacombs: where they run"
 category: "gm-guide"
 visibility: "gm"
-summary: "GM only. The three parts of the city's underneath -- the dry Ossuary under the Hill, the flooded Old Water from the Sacred Confluence to the DragonBarge's pier, and Crowbill's smugglers' runs -- with their entrances and what each is for in play. Drawn over the city map in maps/catacombs/."
+summary: "GM only. The three parts of the city's underneath -- the dry Ossuary under the Hill, the flooded Old Water from the Sacred Confluence to the DragonBarge's pier, and Crowbill's smugglers' runs -- with their entrances and what each is for in play. Drawn over the city map in maps/secrets/catacombs/."
 created_at: "2026-10-04T18:00:00"
 ---
 
 Nobody in Purewater could draw this. Everyone knows a piece of it: the houses know
 the galleries, the smugglers know their runs, and the Order knows its deep stair
 and keeps quiet. **This is the whole of it, for the GM.** It is drawn over the city
-map in `maps/catacombs/catacombs-overlay.jpg`, the plan is in
-`maps/catacombs/plan.yaml`, and the two drawn sheets are
-`maps/catacombs/the-ossuary.jpg` and `maps/catacombs/the-oldwater.jpg`. Never letter any of it on a player map.
+map in `maps/secrets/catacombs/catacombs-overlay.jpg`, the plan is in
+`maps/secrets/catacombs/plan.yaml`, and the two drawn sheets are
+`maps/secrets/catacombs/the-ossuary.jpg` and `maps/secrets/catacombs/the-oldwater.jpg`. Never letter any of it on a player map.
 
 ## The Ossuary -- the dry galleries under the Hill
 

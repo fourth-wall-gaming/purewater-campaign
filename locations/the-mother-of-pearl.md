@@ -23,4 +23,25 @@ every proprietor now working, every house on the Quay enforces it, and no amount
 of money has ever moved it — which is the reason there is anyone left working on
 the Pearl at all.
 
-**Map:** `maps/pearl/the-pearl.jpg`.
+## The house
+
+An old, square-built house of thick walls in the middle of the Quay, on the water's
+edge, with a small wing on one side. Four floors:
+
+- **The cellar.** Stone-vaulted storerooms, a well-head, and a small **lock-up** with a
+  ring in the wall, where the house keeps someone it has taken until it has decided
+  what they are. At the far end, toward the island's interior, an old bricked arch
+  with a heavy door in it.
+- **The ground floor.** A plain door under a deep arch, and beside it the **doorman's
+  lodge**, where the Widow's lamp burns in a niche and is never put out. A quiet
+  flagstoned hall, two reception rooms, and at the back the kitchen, which is where
+  the house's people gather. On the water side, the **plain water-stair**.
+- **The first floor** is Marisette's. Her **audience room** is small, comfortable and
+  on the street side, with one good chair by the fire for her and the others set
+  back against the walls, and one shutter onto the Quay. She sits; everyone else
+  stands. Also on this floor are her private apartment over the basin, the
+  **counting room** where the ledgers of eleven houses are kept, and the small bare
+  room of her enforcer, [[Hesper]].
+- **The second floor** belongs to the women of the house.
+
+**Map:** `maps/districts/pearl/the-pearl.jpg`; floor plans `maps/buildings/mother-of-pearl/`.

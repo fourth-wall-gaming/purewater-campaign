@@ -54,7 +54,7 @@ outside stair, with one window on the water and a door that opens outward. When
 kind that wouldn't attract attention, and he was cornered within an hour of walking
 out of it.
 
-These names are lettered on the Lullwater sheet, `maps/lullwater/`.
+These names are lettered on the Lullwater sheet, `maps/districts/lullwater/`.
 
 > *(This district collapses the older "Maze" and "Warren" into one: the criminal
 > tangle and the labouring slum are the same drowned quarter. The lovely name is a
@@ -69,6 +69,6 @@ These names are lettered on the Lullwater sheet, `maps/lullwater/`.
 - **The Rag Shrine** -- a Dredgers' shrine under the Gutter's north bridge, hung with strips of cloth for the drowned.
 - **The Shut Post** (watch) -- a watch post with its door nailed shut; the watch comes over only to fish out the dead.
 
-Marked on the sheet in `maps/lullwater/`.
+Marked on the sheet in `maps/districts/lullwater/`.
 
-**Map:** `maps/lullwater/the-lullwater.jpg`.
+**Map:** `maps/districts/lullwater/the-lullwater.jpg`.

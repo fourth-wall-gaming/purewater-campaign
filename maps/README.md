@@ -12,18 +12,24 @@ Mermaid's Court and the Catacombs never are).
 
 | Sheet | Folder | Covers | Location files |
 |---|---|---|---|
-| [The Lullwater](lullwater/the-lullwater.jpg) | `lullwater/` | the whole island, the Still, the Gutter, Crowbill's haunts, Kag's place | `the-lullwater.md`, `the-moist-oyster.md` |
-| [The Pearl](pearl/the-pearl.jpg) | `pearl/` | the Quay and its five houses, the Widow's House, the four Pearl bridges | `the-pearl.md`, the house files |
-| [The Shoals](shoals/the-shoals.jpg) | `shoals/` | the Fishmarket, the Low Canals, the jetties, Kag's round, the eastern bridges | `the-shoals.md` |
-| [The Lists and Temple Isle](tournament/the-lists-and-temple-isle.jpg) | `tournament/` | the Tournament Ground, Temple Isle, the official quarter's east end | `the-lists.md`, `the-long-butts.md`, `temple-isle.md` |
-| [Caravan Square](caravan/caravan-square.jpg) | `caravan/` | the land gate, the Triumph Bridge, the staging grounds | `caravan-square.md` |
-| [The Forges and the Docks](forges/the-forges-and-the-docks.jpg) | `forges/` | the Forges, the Seaward Quarter, the DragonBarge pier, the Harbour Master's Tower | `the-forge-quarter.md`, `high-isle.md` |
-| [The North Quarter](grandcanal/the-north-quarter.jpg) | `grandcanal/` | the North Quarter, the Palazzo, the Grand Canal and its ferries | `high-isle.md` |
-| [The Merchant's Quarter](merchants/the-merchants-quarter.jpg) | `merchants/` | Market Square, the guildhalls, the councillors' palazzi, the cut and its bridges | `the-merchant-s-quarter.md` |
+| [The Lullwater](districts/lullwater/the-lullwater.jpg) | `districts/lullwater/` | the whole island, the Still, the Gutter, Crowbill's haunts, Kag's place | `the-lullwater.md`, `the-moist-oyster.md` |
+| [The Pearl](districts/pearl/the-pearl.jpg) | `districts/pearl/` | the Quay and its five houses, the Widow's House, the four Pearl bridges | `the-pearl.md`, the house files |
+| [The Shoals](districts/shoals/the-shoals.jpg) | `districts/shoals/` | the Fishmarket, the Low Canals, the jetties, Kag's round, the eastern bridges | `the-shoals.md` |
+| [The Lists and Temple Isle](districts/tournament/the-lists-and-temple-isle.jpg) | `districts/tournament/` | the Tournament Ground, Temple Isle, the official quarter's east end | `the-lists.md`, `the-long-butts.md`, `temple-isle.md` |
+| [Caravan Square](districts/caravan/caravan-square.jpg) | `districts/caravan/` | the land gate, the Triumph Bridge, the staging grounds | `caravan-square.md` |
+| [The Forges and the Docks](districts/forges/the-forges-and-the-docks.jpg) | `districts/forges/` | the Forges, the Seaward Quarter, the DragonBarge pier, the Harbour Master's Tower | `the-forge-quarter.md`, `high-isle.md` |
+| [The North Quarter](districts/grandcanal/the-north-quarter.jpg) | `districts/grandcanal/` | the North Quarter, the Palazzo, the Grand Canal and its ferries | `high-isle.md` |
+| [The Merchant's Quarter](districts/merchants/the-merchants-quarter.jpg) | `districts/merchants/` | Market Square, the guildhalls, the councillors' palazzi, the cut and its bridges | `the-merchant-s-quarter.md` |
 
-**GM only:** `catacombs/` holds the plan of what runs underneath the city: an
+**GM only:** `secrets/catacombs/` holds the plan of what runs underneath the city: an
 overlay on this map and the requests for redrawing it. It is never shown to
-players; see `catacombs/README.md`.
+players; see `secrets/catacombs/README.md`.
+
+**Layout.** `districts/` holds the eight district sheets, `buildings/` the floor
+plans of key buildings (one folder each, with a shared `_style-plan.txt`),
+`realm/` the map of the kingdom, `secrets/` the GM-only sheets (the Catacombs), and
+`encounters/` encounter maps (the DragonBarge). `sheet.py SHEET ...` takes the
+folder relative to `maps/`, e.g. `districts/lullwater` or `buildings/the-lists`.
 
 Not yet drawn: the outlying isles (Lost Isle, the Singer's Rest, Northlight) and
 the country beyond the city (the Vantt Estate, the Ford and the Ashwick Road).
@@ -52,7 +58,7 @@ The shape of the city must never drift, so no model is ever asked to draw it.
    sheet's `prompt.txt`. The prompt says to trace everything, keep the frame, add
    house-level detail, and remove every label. The result is saved in the folder
    as `unlabeled.png`. If the redraw has faults, a short fix prompt (see
-   `grandcanal/fix-prompt.txt`) asks for those corrections only; small faults can
+   `districts/grandcanal/fix-prompt.txt`) asks for those corrections only; small faults can
    be patched by hand.
 3. **Crop the drawing.** `sheet.py SHEET prep` cuts `crop` out of the redraw as
    `crop.png` (the whole image, unless the model padded it).

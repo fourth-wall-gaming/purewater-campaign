@@ -8,7 +8,7 @@
     uv run maps/sheet.py SHEET prep             # crop.png, edit-me.jpg, lines.png
     uv run maps/sheet.py SHEET label [IMAGE]    # IMAGE-labelled.png (default crop.png)
 
-SHEET is a directory under maps/ holding a labels.yaml (maps/lullwater, maps/pearl).
+SHEET is a directory under maps/ holding a labels.yaml (districts/lullwater, buildings/the-lists).
 
 The generator never letters anything. It edits edit-me.jpg, sharpening and adding
 house-level detail inside a frame it is not allowed to move. The names are set
@@ -181,12 +181,36 @@ def cmd_label(render):
     t = s["title"]
     tf, sf = f(t.get("size", 0.034)), f(t.get("size", 0.034) * 0.38)
     tw = sum(tf.getlength(c) for c in t["text"].upper()) + tf.size * 0.16 * (len(t["text"]) - 1)
-    pw, ph = tw + U * 0.05, tf.size * 2.6
-    x0, y0 = t["x"] * W, t["y"] * H
-    panel(d, [x0, y0, x0 + pw, y0 + ph], U)
-    tracked(d, (x0 + pw / 2, y0 + ph * 0.40), t["text"], tf, "mm", 0)
-    if t.get("subtitle"):
-        tracked(d, (x0 + pw / 2, y0 + ph * 0.76), t["subtitle"], sf, "mm", 0)
+    # `box`: the drawing already has a cartouche; letter inside it, no panel
+    if "box" in t:
+        bx0, by0, bx1, by1 = t["box"][0] * W, t["box"][1] * H, t["box"][2] * W, t["box"][3] * H
+        sub = t.get("subtitle")
+        size = (by1 - by0) * (0.42 if sub else 0.55)
+        while True:
+            tf, sf = ImageFont.truetype(FONT, round(size)), ImageFont.truetype(FONT, round(size * 0.38))
+            tw = sum(tf.getlength(c) for c in t["text"].upper()) + tf.size * 0.16 * (len(t["text"]) - 1)
+            if tw <= (bx1 - bx0) * 0.86 or size < 8:
+                break
+            size *= 0.95
+        cx, cy = (bx0 + bx1) / 2, (by0 + by1) / 2
+        if sub:
+            tracked(d, (cx, cy - sf.size * 0.75), t["text"], tf, "mm", 0)
+            tracked(d, (cx, cy + tf.size * 0.62), sub, sf, "mm", 0)
+        else:
+            tracked(d, (cx, cy), t["text"], tf, "mm", 0)
+        t = None
+    # laid out from the border inward, so a small title never runs into it
+    if t:
+        g = U * 0.004 + max(2, round(U * 0.0012))
+        sub = t.get("subtitle")
+        ph = 2 * g + tf.size * 1.5 + (sf.size * 1.9 if sub else 0) + tf.size * 0.3
+        sw = (sum(sf.getlength(c) for c in sub.upper()) + sf.size * 0.16 * (len(sub) - 1)) if sub else 0
+        pw = max(tw, sw) + U * 0.05
+        x0, y0 = t["x"] * W, t["y"] * H
+        panel(d, [x0, y0, x0 + pw, y0 + ph], U)
+        tracked(d, (x0 + pw / 2, y0 + g + tf.size * 0.9), t["text"], tf, "mm", 0)
+        if sub:
+            tracked(d, (x0 + pw / 2, y0 + g + tf.size * 1.65 + sf.size * 0.75), sub, sf, "mm", 0)
 
     # the key, in its own panel off the island; sectioned when there is more
     # than one kind of mark, and split into columns when it would be too tall

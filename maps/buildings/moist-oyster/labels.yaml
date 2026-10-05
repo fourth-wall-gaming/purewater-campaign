@@ -1,4 +1,4 @@
-# The Moist Oyster, floor plans. Format as maps/lullwater/labels.yaml.
+# The Moist Oyster, floor plans. Format as maps/districts/lullwater/labels.yaml.
 # Run with maps/sheet.py buildings/moist-oyster ...  Canon: locations/the-moist-oyster.md
 # Square sheet: ground floor left, upper floor right; the Still to the south.
 

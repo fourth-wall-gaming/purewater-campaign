@@ -41,4 +41,4 @@ floor. The narrow **back stair** runs from the attic to the water-stair, passing
 Emmeralda's floor. It is the quiet way through the whole house, and the one Santo
 runs down.
 
-**Map:** `maps/pearl/the-pearl.jpg`; floor plans `maps/buildings/sylphs-embrace/the-sylphs-embrace.jpg`.
+**Map:** `maps/districts/pearl/the-pearl.jpg`; floor plans `maps/buildings/sylphs-embrace/the-sylphs-embrace.jpg`.

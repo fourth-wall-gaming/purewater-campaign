@@ -1,4 +1,4 @@
-# Temple Isle, the precinct, with two insets. Format as maps/lullwater/labels.yaml.
+# Temple Isle, the precinct, with two insets. Format as maps/districts/lullwater/labels.yaml.
 # Run with maps/sheet.py buildings/temple-isle ...  Canon: locations/temple-isle.md
 # Player-facing: the temple's deep stair (GM catacombs guide) is not keyed.
 

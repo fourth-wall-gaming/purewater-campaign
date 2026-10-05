@@ -1,0 +1,43 @@
+Draw the FLOOR PLANS of THE MOTHER OF PEARL, the oldest and grandest house on an island of pleasure-houses in a canal city, and the seat of the madame who governs them all, as one survey sheet, landscape 16:9. Attach the Purewater city map as the reference for style only.
+
+WHERE IT STANDS -- this must agree with the city map:
+- The house stands in the middle of the island's sheltered shore, ON THE WATER'S EDGE. Its landward side faces a wide paved street, PEARL QUAY, lined with lamp-posts. Its water side rises straight out of a quiet BASIN of open water.
+- It is an old, solid, square-built house of about 50 by 50 feet, with a smaller wing on one side and a narrow alley on the other, standing a little apart from its neighbours. Older and plainer outside than the houses around it: thick walls, no sign, no ornament, no lamps of its own hung over the water.
+- Draw every plan with the STREET at the TOP and the BASIN at the BOTTOM. On the real map the street lies to the north-west and the basin to the south-east, so the small compass rose must point NORTH TO THE UPPER LEFT, at forty-five degrees.
+- On every plan, show a strip of the street along the top with its lamp-posts, the cut-off corners of the neighbouring houses at left and right, and a band of the basin along the bottom in grey wash with contour hatching.
+
+Draw FOUR plans side by side, left to right: CELLAR, GROUND FLOOR, FIRST FLOOR, SECOND FLOOR, all to the same scale and aligned.
+
+CELLAR (stone vaulted, below the street, its far side below the water line):
+- Vaulted STOREROOMS of wine racks, barrels and crates, a well-head, and a coal store under the street.
+- A small stone room with a heavy door, a bench, a ring in the wall and a bucket: a LOCK-UP.
+- At the far end, toward the island's interior, a low old bricked arch in the wall with a heavy plank door in it, its threshold worn.
+- A stair up to the kitchen.
+
+GROUND FLOOR:
+- From the street, a plain heavy door under a deep arch, with a DOORMAN'S LODGE beside it: a small room with a stool, a little window onto the street, and a shelf with a lamp in a wall-niche -- an old lamp that is never put out.
+- An ENTRANCE HALL, flagstoned and quiet, with benches along the walls and a broad stair going up.
+- Two RECEPTION ROOMS off the hall: rich but restrained, deep chairs, low tables, a harp in one, heavy curtains, fireplaces.
+- At the back, the working house: a large KITCHEN with a long table, a range and a door to the cellar stair; a pantry and a scullery; and a back stair for the house's own people.
+- On the water side, the PLAIN WATER-STAIR: a short covered passage to a door in the outer wall and plain stone steps straight down into the basin, with two mooring posts and a boat.
+
+FIRST FLOOR (Marisette's floor):
+- A small, comfortable AUDIENCE ROOM on the street side: one good chair by the fire with a small table and a lamp beside it, a few other chairs set back against the walls, a thick rug, and one shuttered window onto the Quay.
+- Her PRIVATE APARTMENT: a bedchamber with a great bed, a dressing room, and a small sitting room overlooking the basin.
+- A COUNTING ROOM: a desk, an iron-bound chest, a wall of ledgers and pigeon-holes.
+- A plain small room off the landing with a single cot and nothing else: the room of her enforcer.
+
+SECOND FLOOR (the house's women):
+- A corridor with eight or ten private rooms, each with a bed, a chair, a washstand and a chest, some larger than others; a shared sitting room at the end with a window on the basin; a linen room.
+
+Doors, windows and both stairs must line up from floor to floor.
+STYLE -- the same cartographer as the attached map of Purewater, now drawing one building at the scale of an architect's survey:
+- Black and cool grey pen-and-ink on aged off-white parchment with soft mottled staining. No colour: no sepia, no brown, no warm tan. Black on bone.
+- Strict top-down orthographic FLOOR PLAN, as if the roof and upper floors were lifted off: a horizontal cut through each storey about four feet above its floor. NOT isometric, NOT perspective, NOT a cutaway, NOT a bird's-eye view. No cast shadows, no 3D, no glow, no vignette.
+- Walls as solid black poché, thick for outer and party walls, thinner for partitions. Doors as a gap with a thin quarter-circle swing; windows as three fine lines across the wall; stairs as rows of parallel treads with an arrow line; fireplaces and chimney breasts drawn into the walls.
+- Furniture in plan, fine and specific: beds, chairs, tables, chests, wardrobes, screens, rugs as ruled rectangles with fringes, barrels, crates, lamps as small circles.
+- Floors shown by material: floorboards as fine parallel lines, flagstones as an irregular stone grid, tiles as a small square grid.
+- Water exactly as the city map draws it: grey wash with stipple and contour hatching along the edges; boats as simple flat ovals; water-stairs as treads running down into the water.
+- A faint grid of five-foot squares over the whole interior, for play, fine enough not to fight the drawing. A scale bar in FEET. A small compass rose with north up.
+- A thin ruled double border round the sheet, and an empty plain title panel in one corner.
+- NO LETTERING ANYWHERE. No room names, no numbers, no labels, no text of any kind, not even on the scale bar or title panel. They will be added afterwards.

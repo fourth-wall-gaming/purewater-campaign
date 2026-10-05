@@ -38,7 +38,7 @@ broad steps down into the Lake. Between the stands and the north wall is the str
 archery is shot, [[The Long Butts]]. The **water-gate** in the east wall is where the
 Harbor Run goes out. The Governor's Palazzo, Palace Square, the Hall of Justice and
 the Barracks are a few streets to the west. These are marked on the Lists and Temple
-Isle sheet, `maps/tournament/`.
+Isle sheet, `maps/districts/tournament/`.
 
 ## Taverns, amenities and the watch
 
@@ -48,6 +48,6 @@ Isle sheet, `maps/tournament/`.
 - **The Heralds' Office** -- the entries, the colours and the order of precedence, argued over in whispers.
 - **The Lists Post** (watch) -- the Tourney watch post, whose yard the Knights have taken for horse-lines; the watch now works from a hired room.
 
-Marked on the sheet in `maps/tournament/`.
+Marked on the sheet in `maps/districts/tournament/`.
 
-**Map:** `maps/tournament/the-lists-and-temple-isle.jpg`; site plan `maps/buildings/the-lists/the-lists.jpg`.
+**Map:** `maps/districts/tournament/the-lists-and-temple-isle.jpg`; site plan `maps/buildings/the-lists/the-lists.jpg`.

@@ -52,4 +52,4 @@ kitchen, hired local labour, and men who talk. See [[The Vantt Estate]].
 
 **Deck by deck:** [[The DragonBarge: deck plan]].
 
-**Map:** `maps/forges/the-forges-and-the-docks.jpg`.
+**Map:** `maps/districts/forges/the-forges-and-the-docks.jpg`.
