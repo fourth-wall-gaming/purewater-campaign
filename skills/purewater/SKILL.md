@@ -66,7 +66,7 @@ tell this one wrong.
 - **The clock is day-keyed.** `d-3` through `d0` (the Tourney) to `d2`. Time is an
   index; `d-3/dawn` is 52. `tick` between scenes — the living world runs whether
   anybody watches or not.
-- **Fifteen agendas on clocks and 43 beats.** `forecast` between scenes, and
+- **Fifteen agendas on clocks and 35 beats.** `forecast` between scenes, and
   `brief --id <beat>` **before narrating toward any beat**. Never narrate toward a
   beat you have not opened; the file is nearly always better than the mechanism you
   are about to invent.

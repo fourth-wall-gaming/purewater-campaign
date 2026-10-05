@@ -22,5 +22,11 @@ He does not help people. He trades, and he wants something they will not enjoy
 giving.
 
 What he can do that nobody else can: **the Baron wears a chain**, and on it a
-locket, and he has never been seen without it. There is exactly one hour in the
-week when that man is reachable in a crowd.
+locket, and he has never been seen in daylight without it. Crowbill has a
+lamp-man on the Forge Quarter wharf who looks at that ship for a living, and
+what the lamp-man has seen is that **it comes off at night.** The Baron sleeps
+aft with the locket on the table beside his bed -- a chain with a clasp, not a
+collar -- and Blau sleeps across the door.
+
+He does not say *steal it*. He says what it is, and where it lies, and that he
+knows a boy who would. Nus is in the next room, and has heard every word.

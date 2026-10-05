@@ -23,6 +23,10 @@ Anyone who asks after the champion is remembered.
 party gets close, he would rather move Cailan somewhere worse than let the
 questions continue.
 
+**Blau's eye.** At the presentation Blau sees a woman in the crowd see the
+champion's face, and from that night the watch on the DragonBarge is doubled and
+changes on no fixed glass. Advance this clock by 1 when it happens.
+
 **This agenda is why the city gossips.** Crowbill's people, the Pearl's
 courtesans and the dockhands all know the Baron has a champion nobody has laid
 eyes on. That absence is the most visible thing about him.

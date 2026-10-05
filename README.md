@@ -19,7 +19,7 @@
 > resolves by itself.
 >
 > **This repository is a scenario seed, not a save.** The root is the pristine
-> starting state — world clock `d-3/dawn`, 43 beats all pending, an empty journal,
+> starting state — world clock `d-3/dawn`, 35 beats all pending, an empty journal,
 > four pregens offered and none chosen. Nothing here spoils it: the records of
 > four previous playthroughs live on the `playthroughs` branch and are not part
 > of a release.
@@ -39,7 +39,7 @@ campaign format (v1.1).
 | Factions | 14 |
 | Journal events | 1 |
 | Agendas | 15 |
-| Beats | 43 |
+| Beats | 35 |
 | Facts | 17 |
 
 ## Repository layout

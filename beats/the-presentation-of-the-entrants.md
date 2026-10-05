@@ -8,7 +8,7 @@ trigger: "time"
 onscreen_if: "Any PC on the competitors' ground or in the Governor's enclosure -- and GARDWEN especially"
 agenda: "myth-agenda-e0469a5c2863"
 place: "myth-loc-6f1056d77024"
-cast: ["myth-char-cac22cc2cbf6", "myth-char-cee57a7f5de2", "myth-char-eb79260a2a9b"]
+cast: ["myth-char-cac22cc2cbf6", "myth-char-cee57a7f5de2", "myth-char-eb79260a2a9b", "myth-char-dbb5fdad535d", "myth-char-5c39daf64e36"]
 created_at: "2026-09-09T00:00:00"
 ---
 
@@ -22,8 +22,10 @@ So the champion is walked out in harness with the rest of them, and for perhaps 
 
 **If Gardwen is on that ground she sees her brother.** Ten years, and he is thirty yards away in somebody else's colours.
 
-**And if she is not, somebody else may recognise him anyway** -- from Sana's account, from the ship, from the shape of a boy who is too thin for the armour he is in.
+**And Blau sees her see him.** He is standing behind the champion where he always stands, watching the crowd rather than the Prince, because watching the crowd is his whole job this week -- and one woman in it has stopped breathing. He does not know who she is. He knows what that face means on anybody looking at this boy. By dusk he has a description of her, and from then on the watch on the DragonBarge is doubled and changes on no fixed glass (*Keep the champion unseen* +1). Gardwen's break-in on `d0/night` is harder for it, and should feel it.
+
+**If she is not there, somebody else may recognise him anyway** -- from Sana's account, from the ship, from the shape of a boy who is too thin for the armour he is in.
 
 This is the last moment before the bout when anything can be arranged calmly. After this there are hours; after the final there are minutes.
 
-Play the recognition. Do not resolve what she does about it -- hand it back.
+Play the recognition. Do not resolve what she does about it -- hand it back. What she will do, if nobody stops her, is go aboard that ship to talk to him.

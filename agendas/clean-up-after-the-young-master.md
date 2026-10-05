@@ -26,5 +26,9 @@ party can show him his young master has been dealing with Hell in a way that
 endangers the Baron's own plans, Blau's loyalty tilts toward the father and away
 from the son -- he is a servant of the house, not of the boy.
 
+**When the locket goes,** this is the agenda that gets it back: Blau tracks the
+thief through the burning Lullwater, kills him, and returns the locket to the
+Baron. He is good at this and he does not enjoy it.
+
 **If Santo dies,** this agenda converts to vengeance and Blau becomes the party's
 most persistent pursuer.

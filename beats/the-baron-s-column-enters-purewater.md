@@ -20,11 +20,12 @@ rides uncovered and unhurried, letting Purewater look at him.
 is screened. A Perception check notices that the guards face *inward* as much as
 out.
 
-**If Randall is on scene:** a guard at the Baron's stirrup gets a clear look at
-his face and goes white -- he has just seen Lord Santo standing in a thief's
-clothes in the crowd. This is the trigger for *A di Teufel who is not his*;
-activate that agenda if the recognition reaches the Baron or Blau.
+**Conall is in the crowd on the bridge,** and a guard at the Baron's stirrup
+mistakes him for Santo: see *A guard calls Conall 'my lord'*, which fires in the
+same minute.
 
-**If no PC is present:** the column arrives anyway, the city talks about the
-litter for a day, and the recognition never happens -- worth remembering, because
-it is the players' own visibility that starts the hunt.
+**Randall is working the carts in Caravan Square** while every eye is on the
+column, which is the best quarter-hour of thieving he will get all year.
+
+**If no PC is present:** the column arrives anyway and the city talks about the
+litter for a day.

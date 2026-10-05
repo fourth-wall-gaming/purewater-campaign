@@ -26,13 +26,20 @@ and a tournament entry, keeps the champion behind his own walls, and reinforces
 the binding by ritual every night. He does not brawl in the street; he has Blau
 and Tat Atarer for that.
 
-**What changes his mind.** Nothing short of the binding failing in public. He is
-not deterred by cost or by scandal -- both are survivable. He is deterred by
-losing the locket, because without it the daily reinforcement gets harder and
-Thuban gets louder.
+**What changes his mind.** Nothing. He is not deterred by cost or by scandal --
+both are survivable. **Losing the locket does not deter him; it unhinges him.**
+The warm, reasonable man disappears and the demonologist comes out, in daylight,
+with fire.
+
+**The room.** By the old rite the champion is presented at the closing on `d2`.
+If the locket goes missing first, Hanzo will burn a quarter of the city to get it
+back -- and the Prince, summoning him to answer for it, opens the same door from
+the other side.
 
 **Pressure points.** Four, and the party only needs one:
-- the **locket** he carries (a working Anchor -- lose it and Reinforce the Seat gets hard);
+- the **locket** he carries (a working Anchor and the leash -- without it he
+  cannot command Thuban or move him; on his neck by day, **on the table by his
+  bed at night**; destroying it takes a powerful Dispel Magic);
 - the **bones** in his border tower (the primary Anchor, out of reach this adventure);
 - **Thuban's own reluctance** -- reachable with Speak with the Bound, and held by a torment rather
   than by iron;

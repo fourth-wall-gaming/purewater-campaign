@@ -20,8 +20,13 @@ genuinely good, which is the tragedy.
 
 **What changes his mind.** Very little. Warning him off makes him keener.
 
-**GM note -- the cost.** If Nus lifts the Baron's binding locket, Hanzo will turn
-the city inside out to get it back, and Nus is the one who pays: taken, killed,
-and displayed as a warning. That death should land as a consequence of a choice
-the players made, not as a scheduled tragedy -- if they protect him, let the
-protection matter and move the purge onto whoever else is exposed.
+**The score.** Crowbill names the locket on `d0/dawn` with Nus in earshot. On
+`d1/night`, after the champion wins and the Baron goes to bed easy, Nus and
+Randall go aboard the DragonBarge over the stern and take it off the table by
+his bed.
+
+**GM note -- the cost.** If Nus gets the locket, Hanzo burns the Lullwater to
+get it back, and Blau finds Nus, kills him, and returns it. That death should
+land as a consequence of a choice the players made, not as a scheduled tragedy
+-- if they protect him and keep the locket out of Blau's reach, let the
+protection matter: that is the only road to *Thuban breaks out*.
