@@ -1,0 +1,34 @@
+Draw the plan of TEMPLE ISLE, the walled sacred precinct of the Lake Lady on its own small island in a canal city, as one survey sheet, landscape 16:9. Attach the Purewater city map as the reference for style only.
+
+WHERE IT STANDS -- this must agree with the city map:
+- A small island, nearly square, about 400 feet across, standing alone in the open lake. No bridge reaches it. Its shore is a narrow ragged rim of rock and stone embankment round the outside of the precinct wall, with the lake right up against it on every side.
+- To the SOUTH, across about two hundred feet of open water, the north wall of the city's walled tournament ground: show its edge, cut off, along the bottom of the sheet. North is up.
+- The lake in grey wash with contour hatching all round, and a few boats: two of the temple's ferries tied up at the water-steps.
+
+THE SHEET: the whole island as a PLAN filling the left two-thirds, with a faint grid of ten-foot squares. In the right third, two INSET PLANS at a larger scale, each in its own ruled frame with a faint five-foot grid: the temple with the head of the channel, and the water-steps.
+
+THE PRECINCT -- formal, symmetrical, planned sacred architecture, not a tangle of houses; everything on one north-south axis:
+- An outer precinct wall round the whole island, with corner towers.
+- THE TEMPLE, at the north end on the axis: a rectangular building, about 100 by 120 feet, with thick walls, a colonnade of columns (drawn as rows of small black dots) round a central hall, an altar at its north end, and a portico on its south face opening onto the court.
+- THE CHANNEL: a straight stone-lined channel of water, about ten feet wide, that comes in through the north wall under an arched water-gate, runs through the middle of the temple's hall, out under its portico, and down the axis to the pool. Water in it shown as grey wash with fine flow lines.
+- THE SACRED CONFLUENCE: in the middle of the great court, a large ROUND POOL about sixty feet across, with a stone rim and a ring of low steps going down into it all the way round. A line of small stepping-stones or posts runs across it east to west. Around it, a ring of eight small round SHRINES on the paving.
+- From the south side of the pool, the channel runs on, widening, straight down the axis to the south wall.
+- THE WATER-STEPS: at the south end of the axis, where the channel leaves the precinct through the south wall, a monumental flight of broad stone steps runs down into the lake, flanked by two square towers, wide enough for forty people to stand on, the lowest steps under the water. The open water beyond faces the tournament ground.
+- THE CLOISTERS: two long ranges down the east and west sides of the court, each a covered walk with a colonnade on the court side and a row of small cells behind. The WEST range holds the pilgrims' hostel: a refectory with long tables and a row of small cells with cots. The EAST range holds the Order's house: a chapter house with benches round its walls, a library with shelves and reading desks, the High Priestess's rooms, and a small infirmary.
+- Along the north wall, either side of the temple: a SACRISTY and VESTRY with chests and robe-racks, and a kitchen and storerooms.
+- A small ferry landing on the west shore, outside the precinct wall, with a postern gate.
+- The court paved in large flagstones drawn as a fine stone grid; small trees in square planters along the cloisters.
+
+INSET 1 -- THE TEMPLE, at about three times the scale: the columns of the hall, the altar, the channel running through the floor in its stone bed with a low rail on each side, the portico, the doors.
+
+INSET 2 -- THE WATER-STEPS, at about three times the scale: the flight of broad steps running down into the lake between the two towers, the channel pouring out down the middle of the steps in a stone runnel, the lowest steps under the water in grey wash, mooring rings on the towers, and two ferries tied up.
+STYLE -- the same cartographer as the attached map of Purewater, now drawing one building at the scale of an architect's survey:
+- Black and cool grey pen-and-ink on aged off-white parchment with soft mottled staining. No colour: no sepia, no brown, no warm tan. Black on bone.
+- Strict top-down orthographic FLOOR PLAN, as if the roof and upper floors were lifted off: a horizontal cut through each storey about four feet above its floor. NOT isometric, NOT perspective, NOT a cutaway, NOT a bird's-eye view. No cast shadows, no 3D, no glow, no vignette.
+- Walls as solid black poché, thick for outer and party walls, thinner for partitions. Doors as a gap with a thin quarter-circle swing; windows as three fine lines across the wall; stairs as rows of parallel treads with an arrow line; fireplaces and chimney breasts drawn into the walls.
+- Furniture in plan, fine and specific: beds, chairs, tables, chests, wardrobes, screens, rugs as ruled rectangles with fringes, barrels, crates, lamps as small circles.
+- Floors shown by material: floorboards as fine parallel lines, flagstones as an irregular stone grid, tiles as a small square grid.
+- Water exactly as the city map draws it: grey wash with stipple and contour hatching along the edges; boats as simple flat ovals; water-stairs as treads running down into the water.
+- A faint square grid for play (ten-foot squares on the main plan, five-foot on the insets), fine enough not to fight the drawing. A scale bar in FEET. A small compass rose with north up.
+- A thin ruled double border round the sheet, and an empty plain title panel in one corner.
+- NO LETTERING ANYWHERE. No room names, no numbers, no labels, no text of any kind, not even on the scale bar or title panel. They will be added afterwards.

@@ -207,7 +207,7 @@ def cmd_label(render):
     colw = max(kf.getlength(f"{len(sites)}.  " + r_[3].upper()) * 1.17 + U * 0.06
                for r_ in rows if r_[0] == "item")
     kw = colw * ncol + U * 0.01 * (ncol - 1)
-    kh = line * (per + 1.6)
+    kh = line * (per + 1.9)
     # anchored at the bottom: the key grows upward as sites are added
     x0 = k["x"] * W
     y0 = k["top"] * H if "top" in k else H * (1 - k["bottom"]) - kh

@@ -7,8 +7,8 @@ created_at: "2026-09-13T00:00:00"
 ---
 
 The walled **Tournament Ground** at the east end of [[High Isle]]'s North Quarter,
-facing the Lake. Raked sand inside a rope, tiered timber going up on three sides, and the
-Governor's box at the western end hung with lake-green cloth. Four thousand
+facing the Lake. Raked sand inside a rope, tiered timber stands going up all round it, and the
+Governor's box built into the western stand, hung with lake-green cloth. Four thousand
 people fit in the stands and on the slope behind them, and on the day of the
 Tourney every one of those places is taken.
 
@@ -23,9 +23,18 @@ presented to the Crown's representative, alone and unarmed, by a form older than
 the office itself.
 
 **The lie of it.** The Lists stand inside the walled Tournament Ground at the east
-end of the North Quarter: a six-sided list of raked sand, ringed by tiered timber
-stands, with the Governor's box at its western end and the presentation room behind
-the box. Between the stands and the north wall is the strip of grass where the
+end of the North Quarter: a six-sided list of raked sand inside a rope, ringed on all
+six sides by tiered timber stands, with two gated gaps for the combatants, east and
+west. The Governor's box is built into the western stand, and the presentation room
+is a small stone room behind it, with one door from the box stair and one to the
+outside. The competitors' enclosure of pavilion tents is in the south-west of the
+ground, with the horse-lines along the south wall, the heralds' house by the west
+gate, and an infirmary near the east gap. Along the north side, the shooting line is at the
+west end of the Long Butts and the butts at the east, under a low earth bank. The
+ground's walls have a gatehouse on the west side onto the city, a double gate at the
+south-west and another gate at the south-east, a small north gate, and the
+water-gate on the lake shore to the east, with a guard-room beside its arch and
+broad steps down into the Lake. Between the stands and the north wall is the strip of grass where the
 archery is shot, [[The Long Butts]]. The **water-gate** in the east wall is where the
 Harbor Run goes out. The Governor's Palazzo, Palace Square, the Hall of Justice and
 the Barracks are a few streets to the west. These are marked on the Lists and Temple
@@ -41,4 +50,4 @@ Isle sheet, `maps/tournament/`.
 
 Marked on the sheet in `maps/tournament/`.
 
-**Map:** `maps/tournament/the-lists-and-temple-isle.jpg`.
+**Map:** `maps/tournament/the-lists-and-temple-isle.jpg`; site plan `maps/buildings/the-lists/the-lists.jpg`.
