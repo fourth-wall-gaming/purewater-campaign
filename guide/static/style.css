@@ -68,13 +68,11 @@ figure img, main img { display: block; max-width: 100%; height: auto; border: 1p
 figcaption { color: var(--muted); font-style: italic; text-align: center; margin-top: .3rem; }
 
 /* Tables: named, ruled, header shaded; wide ones scroll on their own. */
-main table { border-collapse: collapse; width: 100%; display: block; overflow-x: auto; max-width: 100%; margin: .4rem 0 1.2rem; font-size: .9rem; background: var(--panel); }
+main table { border-collapse: collapse; width: 100%; margin: .4rem 0 1.2rem; font-size: .9rem; background: var(--panel); }
 main th, main td { border: 1px solid var(--rule); padding: .3rem .45rem; vertical-align: top; text-align: left; }
 main thead th, .sb-head th { background: var(--head); }
 main tbody tr:nth-child(even) { background: var(--band); }
-main p > strong:only-child { color: var(--red); }
 .sb-wrap { overflow-x: auto; max-width: 100%; }
-main table > tbody, main table > thead { display: table; width: 100%; }
 main { overflow-wrap: break-word; }
 .masthead .sub { flex-basis: 100%; order: 3; font-size: .9rem; }
 @media (min-width: 52rem) { .masthead .sub { flex-basis: auto; order: 0; } }
@@ -102,3 +100,66 @@ nav.pager span { flex: 1; }
 
 footer { max-width: 78rem; margin: 0 auto; padding: 1rem 1.25rem 2rem; color: var(--muted); font-size: .85rem;
   border-top: 1px solid var(--rule); }
+
+/* ---- two books ---- */
+.masthead .sub { color: inherit; text-decoration: none; }
+.masthead .other { margin-left: auto; font-size: .9rem; opacity: .85; }
+.masthead .other + .pdf { margin-left: .6rem; }
+nav.chapters li.part { margin: 1rem 0 .4rem; list-style: none; }
+nav.chapters li.part > span { display: block; margin-left: -1.2rem; font-family: Cinzel, serif; font-size: .78rem;
+  letter-spacing: .08em; text-transform: uppercase; color: var(--red); }
+nav.chapters li.part ol { padding-left: 1.2rem; position: static; columns: auto; }
+nav.chapters > ol { list-style: none; }
+.part-label { font-family: Cinzel, serif; font-size: .8rem; letter-spacing: .1em; text-transform: uppercase;
+  color: var(--muted); margin: 0 0 .5rem; }
+.book-players { --red: #1f4f5c; }
+@media (prefers-color-scheme: dark) { .book-players { --red: #7fb6c4; } }
+
+/* the opening paragraph of a chapter gets a drop capital */
+main h1 + p::first-letter { float: left; font-family: Cinzel, serif; font-size: 3.4em; line-height: .85;
+  padding: .08em .08em 0 0; color: var(--red); }
+
+/* voices: a Non-Player Character's own words */
+main blockquote { margin: 1rem 0 1rem 1.5rem; padding: .2rem 0 .2rem 1rem; border-left: 2px solid var(--red);
+  font-style: italic; color: var(--ink); }
+main blockquote p { margin: .3rem 0; }
+
+/* ---- landing ---- */
+body.landing { background: var(--paper); }
+.hero { position: relative; overflow: hidden; background: #1d1914; color: #f6ecd8; }
+.hero-map { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: .22;
+  border: 0; max-width: none; }
+.hero-text { position: relative; max-width: 46rem; margin: 0 auto; padding: 4.5rem 1.25rem 3.5rem; text-align: center; }
+.hero .kicker { font-style: italic; opacity: .85; margin: 0; }
+.hero h1 { font-family: Cinzel, serif; color: #f6ecd8; font-size: clamp(2rem, 6vw, 3.4rem); margin: .3rem 0 0;
+  border: 0; line-height: 1.1; }
+.hero .subtitle { font-family: Cinzel, serif; font-size: clamp(1.2rem, 3.5vw, 1.8rem); letter-spacing: .2em;
+  margin: .2rem 0 1.4rem; color: #e0a493; }
+.hero .pitch { font-size: 1.15rem; line-height: 1.55; margin: 0 auto; max-width: 38rem; }
+main.choose { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: 1.25rem;
+  max-width: 62rem; margin: -1.8rem auto 1rem; padding: 0 1.25rem; position: relative; }
+a.door { display: flex; flex-direction: column; gap: .5rem; padding: 1.4rem 1.5rem; text-decoration: none;
+  color: var(--ink); background: var(--panel); border: 1px solid var(--rule); border-top: 5px solid #7a1c12;
+  box-shadow: 0 6px 18px #0002; }
+a.door.players { border-top-color: #1f4f5c; }
+a.door:hover { transform: translateY(-2px); box-shadow: 0 10px 24px #0003; }
+.door-kicker { font-style: italic; color: var(--muted); }
+.door-title { font-family: Cinzel, serif; font-size: 1.45rem; color: #7a1c12; }
+a.door.players .door-title { color: #1f4f5c; }
+.door-go { margin-top: auto; font-weight: 600; }
+@media (prefers-color-scheme: dark) { .door-title, a.door.players .door-title { color: var(--red); } }
+.pdfs { text-align: center; color: var(--muted); }
+
+/* on a phone the text comes first and the chapter list follows it */
+.masthead .jump { display: none; }
+@media (max-width: 52rem) {
+  .layout { display: flex; flex-direction: column; }
+  nav.chapters { order: 2; border-bottom: 0; border-top: 1px solid var(--rule); }
+  main { order: 1; }
+  .masthead .jump { display: inline; margin-left: auto; font-size: .9rem; }
+  .masthead .jump + .other { margin-left: .6rem; }
+}
+
+.table-scroll { overflow-x: auto; max-width: 100%; margin: .4rem 0 1.2rem; }
+.table-scroll > table { margin: 0; }
+main table caption { caption-side: top; text-align: left; font-weight: 600; color: var(--red); padding: .2rem 0; }

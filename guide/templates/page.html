@@ -6,19 +6,22 @@
 <title>$pagetitle$ · $book$</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Cinzel:wght@600;700&display=swap">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="../style.css">
 </head>
-<body>
+<body class="book-$bookkey$">
 <header class="masthead">
-  <a class="book" href="index.html">$book$</a>
-  <span class="sub">A Games Master's Guide for <i>Classic Fantasy Imperative</i></span>
+  <a class="book" href="../index.html">$book$</a>
+  <a class="sub" href="index.html">$booktitle$</a>
+  <a class="jump" href="#chapters">Contents</a>
+  <a class="other" href="../$otherkey$/index.html">$other$</a>
   <a class="pdf" href="$pdf$">PDF</a>
 </header>
 <div class="layout">
-<nav class="chapters" aria-label="Chapters">
+<nav class="chapters" id="chapters" aria-label="Chapters">
   <ol>$nav$</ol>
 </nav>
 <main>
+$if(part)$<p class="part-label">$part$</p>$endif$
 $if(toc)$
 <details class="toc"><summary>On this page</summary>
 $table-of-contents$

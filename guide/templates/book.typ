@@ -50,12 +50,30 @@
     #v(0.4em)
     #line(length: 60%, stroke: 1.2pt + tdmred)
     #v(0.6em)
-    #text(size: 13pt, style: "italic")[A Games Master's Guide for _Classic Fantasy Imperative_]
+    #text(size: 16pt)[$booktitle$]
+    #v(0.3em)
+    #text(size: 12pt, style: "italic")[A scenario for _Classic Fantasy Imperative_]
     #v(3in)
     #text(size: 9pt, fill: sbrule)[Fourth Wall Gaming]
   ]
 ]
 
-#outline(title: [Contents], depth: 2, indent: auto)
+#let parttitle(name) = {
+  pagebreak(weak: true)
+  page(fill: rgb("#f1e7d4"))[
+    #v(3in)
+    #align(center)[
+      #text(size: 11pt, fill: sbrule, tracking: 0.2em)[#upper[Part]]
+      #v(0.4em)
+      #text(size: 28pt, fill: tdmred)[#smallcaps(name)]
+      #v(0.4em)
+      #line(length: 40%, stroke: 1pt + tdmred)
+    ]
+  ]
+}
+
+#show quote: it => pad(left: 1.5em)[#text(style: "italic")[#it.body]]
+
+#outline(title: [Contents], depth: 1, indent: auto)
 
 $body$

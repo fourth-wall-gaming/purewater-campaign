@@ -1,24 +1,26 @@
-"""Build the Games Master's guide: a static site and a PDF, from this repository.
+"""Build Purewater's two books -- the Games Master's Guide and the Players' Guide --
+as one static site with a PDF of each.
 
     uv run --with pyyaml --with pillow python guide/build.py [--no-pdf]
 
-Writes `_site/` (the Pages artefact) and `_site/purewater-games-master-guide.pdf`.
+Writes `_site/` (the Pages artefact): a landing page, `gm/` and `players/`, and
+`purewater-gm-guide.pdf` and `purewater-players-guide.pdf`.
 
-The chapters in guide/chapters/ are hand-written, in the Design Mechanism's house
-style. Everything with a number in it comes from the campaign files through a
-directive on a line of its own, so that a fix to a sheet or a beat reaches the
-book without anybody retyping it:
+Each book is a folder of hand-written chapters, guide/gm/ and guide/players/, in
+file-name order. A chapter opens with its part, `<!-- part: Background -->`, and its
+title as the first `#` heading. Everything with a number in it comes from the
+campaign files through a directive on a line of its own:
 
-    <!-- statblock: blau -->                   one Non-Player Character, TDM layout
+    <!-- statblock: blau -->        a Non-Player Character, TDM layout, with heading and description
+    <!-- sheet: randall -->         the stat tables alone (for the Players' Guide)
     <!-- statblocks: major|minor|pcs|creatures|templates -->
-    <!-- beat: santo-s-working -->              the scene card: when, where, who, trigger
-    <!-- map: districts/pearl -->               the sheet, downsized, with its key
-    <!-- timeline -->                           every beat in world-clock order
-    <!-- agendas -->                            every agenda and its clock
-    <!-- roster -->                             every Non-Player Character in one line
-    <!-- areas -->                              every location in one line
-    <!-- lore: lore/player-briefing/welcome-to-purewater.md -->   included as a handout
-    <!-- box --> ... <!-- endbox -->            boxed text
+    <!-- map: districts/pearl -->   the sheet, downsized, with its key
+    <!-- timeline -->, <!-- agendas -->, <!-- roster -->, <!-- areas -->
+    <!-- lore: lore/...md -->       a lore entry, boxed
+    <!-- box --> ... <!-- endbox -->
+    <!-- covers: beat-a, beat-b --> renders nothing: records which beats the prose
+                                    around it tells, so a test can prove every beat
+                                    is in the book exactly once
 """
 import argparse
 import html
@@ -40,7 +42,10 @@ ROOT = Path(__file__).resolve().parent.parent
 GUIDE = ROOT / "guide"
 OUT = ROOT / "_site"
 TITLE = "And Then the Dragons Came: Purewater"
-PDF_NAME = "purewater-games-master-guide.pdf"
+BOOKS = [
+    {"key": "gm", "title": "The Games Master's Guide", "pdf": "purewater-gm-guide.pdf"},
+    {"key": "players", "title": "The Players' Guide", "pdf": "purewater-players-guide.pdf"},
+]
 MAP_WIDTH = 2400
 
 WATCH = {"dawn": 0, "day": 1, "dusk": 2, "night": 3}
@@ -161,29 +166,6 @@ def d_statblocks(data, arg):
     return "\n".join(d_statblock(data, p) for p in picked)
 
 
-def d_beat(data, arg):
-    b = data["beats"].get(arg)
-    if not b:
-        raise SystemExit(f"beat: no beat '{arg}'")
-    when = b.get("when") or "No fixed time: an opportunity"
-    trig = b.get("trigger") or "time"
-    needs = b.get("needs")
-    if isinstance(needs, dict) and "any" in needs:
-        needs = "any of: " + "; ".join(_need(data, n) for n in needs["any"])
-    elif isinstance(needs, list):
-        needs = "; ".join(_need(data, n) for n in needs)
-    cast = ", ".join(name_of(data, c) for c in b.get("cast") or []) or "-"
-    rows = [
-        ("When", when), ("Where", name_of(data, b.get("place"))), ("Who", cast),
-        ("Trigger", trig), ("Needs", needs or "-"), ("Agenda", name_of(data, b.get("agenda"))),
-        ("Onscreen if", b.get("onscreen_if") or "-"),
-    ]
-    h = "<table class='scene-card'>" + "".join(
-        f"<tr><th>{k}</th><td>{html.escape(house(str(v)))}</td></tr>" for k, v in rows) + "</table>"
-    t = "#scenecard(" + ", ".join(f'("{k}", "{esc_t(house(str(v)))}")' for k, v in rows) + ")"
-    return raw(h, t)
-
-
 def _need(data, n):
     if isinstance(n, dict):
         (k, v), = n.items()
@@ -282,6 +264,21 @@ class Images:
         return rel
 
 
+def d_sheet(data, arg):
+    s = data["sheets"].get(arg)
+    if not s:
+        raise SystemExit(f"sheet: no sheet '{arg}'")
+    lay = layout_of(s)
+    return raw(statblock.to_html(s, lay), statblock.to_typst(s, lay))
+
+
+def d_covers(data, arg):
+    for slug in [a.strip() for a in arg.split(",") if a.strip()]:
+        if slug not in data["beats"]:
+            raise SystemExit(f"covers: no beat '{slug}'")
+    return ""
+
+
 def expand(data, text, images):
     text = re.sub(r"<!--\s*box\s*-->(.*?)<!--\s*endbox\s*-->", lambda m: box(m.group(1)), text, flags=re.S)
 
@@ -289,7 +286,9 @@ def expand(data, text, images):
         name, arg = m.group(1).strip(), (m.group(2) or "").strip()
         if name == "map":
             return d_map(data, arg, images)
-        fn = {"statblock": d_statblock, "statblocks": d_statblocks, "beat": d_beat,
+        if name == "part":
+            return ""
+        fn = {"statblock": d_statblock, "statblocks": d_statblocks, "sheet": d_sheet, "covers": d_covers,
               "timeline": d_timeline, "agendas": d_agendas, "roster": d_roster,
               "areas": d_areas, "lore": d_lore}.get(name)
         if not fn:
@@ -301,13 +300,14 @@ def expand(data, text, images):
 
 # ---------------------------------------------------------------- build
 
-def chapters():
+def chapters(book):
     out = []
-    for f in sorted((GUIDE / "chapters").glob("*.md")):
+    for f in sorted((GUIDE / book).glob("*.md")):
         text = f.read_text()
         m = re.search(r"^#\s+(.+)$", text, re.M)
+        part = re.search(r"^<!--\s*part:\s*(.+?)\s*-->", text, re.M)
         out.append({"src": f, "slug": re.sub(r"^\d+-", "", f.stem), "title": m.group(1).strip() if m else f.stem,
-                    "text": text})
+                    "part": part.group(1) if part else "", "text": text})
     return out
 
 
@@ -318,43 +318,74 @@ def pandoc(args, text):
     return r.stdout
 
 
-def build(pdf=True):
-    if OUT.exists():
-        shutil.rmtree(OUT)
-    OUT.mkdir()
-    shutil.copy(GUIDE / "static" / "style.css", OUT / "style.css")
-    (OUT / ".nojekyll").write_text("")
-    data = load()
-    images = Images()
-    chs = chapters()
+def nav_html(chs):
+    out, part = [], None
     for c in chs:
-        c["md"] = expand(data, c["text"], images)
+        if c["part"] != part:
+            if part is not None:
+                out.append("</ol></li>")
+            part = c["part"]
+            out.append(f"<li class='part'><span>{html.escape(part)}</span><ol>")
+        out.append(f"<li><a href='{c['page']}'>{html.escape(c['title'])}</a></li>")
+    out.append("</ol></li>")
+    return "".join(out)
 
+
+def build_book(book, data, images, pdf):
+    key = book["key"]
+    other = [b for b in BOOKS if b["key"] != key][0]
+    dest = OUT / key
+    dest.mkdir()
+    chs = chapters(key)
     for i, c in enumerate(chs):
-        page = "index.html" if i == 0 else f"{c['slug']}.html"
-        c["page"] = page
-    nav = "".join(f"<li><a href='{c['page']}'>{html.escape(c['title'])}</a></li>" for c in chs)
+        c["md"] = expand(data, c["text"], images)
+        c["page"] = "index.html" if i == 0 else f"{c['slug']}.html"
+    nav = nav_html(chs)
     for i, c in enumerate(chs):
         prev_l = f"<a href='{chs[i - 1]['page']}'>&larr; {html.escape(chs[i - 1]['title'])}</a>" if i else ""
         next_l = (f"<a href='{chs[i + 1]['page']}'>{html.escape(chs[i + 1]['title'])} &rarr;</a>"
                   if i + 1 < len(chs) else "")
         out = pandoc(["-f", "markdown", "-t", "html5", "--template", str(GUIDE / "templates" / "page.html"),
                       "--toc", "--toc-depth=3", "-M", f"pagetitle={c['title']}", "-V", f"book={TITLE}",
-                      "-V", f"nav={nav}", "-V", f"prev={prev_l}", "-V", f"next={next_l}",
-                      "-V", f"pdf={PDF_NAME}"], c["md"])
-        (OUT / c["page"]).write_text(out)
+                      "-V", f"booktitle={book['title']}", "-V", f"bookkey={key}",
+                      "-V", f"other={other['title']}", "-V", f"otherkey={other['key']}",
+                      "-V", f"part={c['part']}", "-V", f"nav={nav}", "-V", f"prev={prev_l}",
+                      "-V", f"next={next_l}", "-V", f"pdf=../{book['pdf']}"], c["md"])
+        out = out.replace('src="maps/', 'src="../maps/')
+        out = re.sub(r"<table(?! class='scene-card')", "<div class=\"table-scroll\"><table", out)
+        out = out.replace("</table>", "</table></div>")
+        (dest / c["page"]).write_text(out)
 
     if pdf:
-        book = "\n\n".join(c["md"] for c in chs)
+        parts, prev = [], None
+        for c in chs:
+            if c["part"] != prev:
+                prev = c["part"]
+                parts.append(raw("", f'#parttitle("{esc_t(prev)}")'))
+            parts.append(c["md"])
         typ = pandoc(["-f", "markdown", "-t", "typst", "--template", str(GUIDE / "templates" / "book.typ"),
-                      "-V", f"book={TITLE}"], book)
-        (OUT / "book.typ").write_text(typ)
-        r = subprocess.run(["typst", "compile", "--root", str(OUT), str(OUT / "book.typ"), str(OUT / PDF_NAME)],
+                      "-V", f"book={TITLE}", "-V", f"booktitle={book['title']}"], "\n\n".join(parts))
+        tmp = OUT / f"{key}.typ"
+        tmp.write_text(typ)
+        r = subprocess.run(["typst", "compile", "--root", str(OUT), str(tmp), str(OUT / book["pdf"])],
                            capture_output=True, text=True)
         if r.returncode:
             raise SystemExit(f"typst failed: {r.stderr}")
-        (OUT / "book.typ").unlink()
-    print(f"built {len(chs)} chapters, {len(images.done)} maps -> {OUT}")
+        tmp.unlink()
+    return len(chs)
+
+
+def build(pdf=True):
+    if OUT.exists():
+        shutil.rmtree(OUT)
+    OUT.mkdir()
+    shutil.copy(GUIDE / "static" / "style.css", OUT / "style.css")
+    shutil.copy(GUIDE / "templates" / "landing.html", OUT / "index.html")
+    (OUT / ".nojekyll").write_text("")
+    data = load()
+    images = Images()
+    counts = {b["key"]: build_book(b, data, images, pdf) for b in BOOKS}
+    print(f"built {counts}, {len(images.done)} maps -> {OUT}")
 
 
 if __name__ == "__main__":

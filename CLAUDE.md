@@ -81,10 +81,13 @@ gm init-db && gm import-campaign --path .
 
 ## The Games Master's guide
 
-`guide/` builds the human-readable book published on Pages (see README §7).
-The chapters are prose in the Design Mechanism's house style; numbers come from
-the data through directives. **A beat added, renamed or removed needs its scene
-changed in `guide/chapters/` too** — `tests/test_guide.py` fails until it is.
+`guide/` builds the two books published on Pages (see README §7): the Games
+Master's Guide (`guide/gm/`) and the Players' Guide (`guide/players/`). The
+chapters are prose in the Design Mechanism's house style; numbers come from the
+data through directives. **A beat added, renamed or removed needs its telling
+changed in `guide/gm/` too** — prose plus a `<!-- covers: slug -->` marker —
+and `tests/test_guide.py` fails until it is. Nothing that spoils the scenario
+may go in `guide/players/`; the test checks that as well.
 
 ## Spoilers
 

@@ -6,8 +6,8 @@ shipped as a Claude Code plugin. This README is the technical account: what the
 package is, how the engine loads and runs it, and how to work on it.
 
 **If you want to run Purewater yourself, at a table, without the engine**, you
-want the Games Master's guide instead — the plot, every scene, the maps and a full
-stat block for every Non-Player Character — published from this repository at
+want the Games Master's Guide instead — and your players want the Players' Guide —
+both published from this repository at
 **https://fourth-wall-gaming.github.io/purewater-campaign/**.
 
 ```
@@ -73,7 +73,7 @@ which is correct.
 | `skills/` | `skills/purewater/SKILL.md` — what the engine needs to know about this campaign |
 | `hooks/` | The SessionStart hook that reports the state of the save |
 | `scripts/` | `engine.sh` (finds the engine) and `session-start.sh` |
-| `guide/` | The Games Master's guide: hand-written chapters, the build script, templates and stylesheet |
+| `guide/` | The two books: `gm/` and `players/` chapters, the build script, templates and stylesheet |
 | `tests/` | `test_seed.py` — the seed stays a seed, and the docs stay true; `test_guide.py` — the guide stays complete |
 
 `knowledge.json` at the root holds who knows which fact, how, and since when.
@@ -263,53 +263,62 @@ to telling the truth: the counts in the table above match the disk, every
 documented directory exists, only one campaign id is ever offered, and the player
 briefing keeps its secrets.
 
-`test_guide.py` holds the guide to the data: every chapter in the Design
+`test_guide.py` holds both books to the data: every chapter in the Design
 Mechanism's house style (Games Master, Non-Player Character, characters — never
 GM, NPC, PC or "etc"), headings no deeper than four, every directive resolving,
-every beat a scene exactly once, a stat block for every character sheet and
-template, and every district and building map in the book.
+every beat told exactly once, a stat block for every sheet and template, every
+district and building map in the Games Master's Guide — and the Players' Guide
+free of spoilers and of the Games Master's maps.
 
-### The Games Master's guide
+### The two books
 
-The human-readable book at
-https://fourth-wall-gaming.github.io/purewater-campaign/ is built from this
-repository by `guide/build.py`, into `_site/` (ignored by git):
+The human-readable site at
+https://fourth-wall-gaming.github.io/purewater-campaign/ holds two books, built
+from this repository by `guide/build.py` into `_site/` (ignored by git):
+
+- **The Games Master's Guide** (`guide/gm/`) in three parts, *Background*,
+  *People and Places in Purewater* and *Events and Story Structure*, with
+  appendices for the week at a glance and full statistics. It is written as prose
+  for a person to read and run from, in the Design Mechanism's house style.
+- **The Players' Guide** (`guide/players/`): the city as its people know it, the
+  four characters with their sheets, making your own, and a *Mythras* primer.
+  It is held spoiler-free by test.
 
 ```bash
-uv run --with pyyaml --with pillow python guide/build.py            # site + PDF
+uv run --with pyyaml --with pillow python guide/build.py            # site + both PDFs
 uv run --with pyyaml --with pillow python guide/build.py --no-pdf   # site only, faster
 ```
 
-It needs **pandoc** (3.10) and **Typst** (0.14). The chapters in
-`guide/chapters/` are written by hand, in house style and in the structure of a
-Design Mechanism scenario: Overview, Non-Player Characters, Key Points/Timeline,
-Areas to be Covered, Background and Introduction, Events and Locations,
-Conclusion, Non-Player Character Statistics. **Anything with a number in it
+It needs **pandoc** (3.10) and **Typst** (0.14). Each chapter opens with its
+part, `<!-- part: Background -->`, and its title. **Anything with a number in it
 comes from the campaign files**, through a directive on a line of its own, so a
 fix to a sheet or a beat reaches the book without being retyped:
 
 | Directive | Renders |
 |---|---|
-| `<!-- statblock: blau -->` | One sheet as a TDM stat block: major, minor, or monster for creatures and templates |
+| `<!-- statblock: blau -->` | One sheet as a TDM stat block, with heading and description: major, minor, or monster for creatures and templates |
+| `<!-- sheet: randall -->` | The stat tables alone, for the Players' Guide |
 | `<!-- statblocks: major\|minor\|pcs\|creatures\|templates -->` | Every sheet of that kind |
-| `<!-- beat: santo-s-working -->` | The scene card: when, where, who, trigger, needs, agenda |
 | `<!-- map: districts/pearl -->` | The finished sheet, downsized for the web, with its numbered key from `labels.yaml` |
 | `<!-- timeline -->`, `<!-- agendas -->`, `<!-- roster -->`, `<!-- areas -->` | Tables and lists from the beats, agendas, sheets and locations |
-| `<!-- lore: lore/...md -->` | A lore entry, boxed, as a handout |
+| `<!-- lore: lore/...md -->` | A lore entry, boxed |
 | `<!-- box -->` … `<!-- endbox -->` | Boxed text |
+| `<!-- covers: beat-a, beat-b -->` | Nothing visible: records which beats the prose beside it tells |
 
-Text from the data was written for the engine and says GM, PC and NPC;
-`guide/house.py` normalises it on the way in. `.github/workflows/guide.yml`
-runs the tests and builds the guide on every pull request, and publishes it to
-Pages on every push to `main`.
+The Games Master's Guide does not use beats as sections; it tells them as
+prose. The `covers` markers let `test_guide.py` prove that every beat in the
+catalogue is told somewhere, exactly once. Text from the data was written for the
+engine and says GM, PC and NPC; `guide/house.py` normalises it on the way in.
+`.github/workflows/guide.yml` runs the tests and builds the site on every pull
+request, and publishes it to Pages on every push to `main`.
 
 ### Editing the plot
 
 The beats are the catalogue and `setting/the-story.md` is the plan. **Every beat
 appears in `the-story.md` exactly once.** A new beat needs a frontmatter `id` of
 the form `myth-beat-<12 hex>`, a `when` (opportunity beats still need a backstop
-time, because `add-beat` will not take one without), a row in the plan, and a scene in the guide (`<!-- beat: slug -->` in the
-right chapter of `guide/chapters/`).
+time, because `add-beat` will not take one without), a row in the plan, and its telling in the Games Master's Guide: prose in the
+right chapter of `guide/gm/` with a `<!-- covers: slug -->` marker beside it.
 Agendas take `myth-agenda-<12 hex>`. Update the counts above and in
 `commands/start.md`, `skills/purewater/SKILL.md`, `.claude-plugin/plugin.json`
 and the seed note in `journal/events.json`.
