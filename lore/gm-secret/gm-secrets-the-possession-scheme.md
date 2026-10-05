@@ -27,16 +27,17 @@ a barony.
 
 **The binding, in rules.** Everything above is castable and on his sheet (`magic/binding-school`).
 He holds **two anchors** for Thuban: the bones in the border tower (primary) and the locket he
-wears (working), and he performs **Reinforce the Seat** every morning at first light -- the cut,
-the bleeding, the grey residue the laundress cannot boil out. **Every step is a separate point of
+wears (working), and he performs **Reinforce the Seat** every night behind sealed doors aboard
+the DragonBarge -- the cut, the bleeding, the grey residue the laundress cannot boil out -- and
+then takes the locket off to sleep. **Every step is a separate point of
 failure.** Take the locket and the rite gets hard; take both anchors and the binding fails on its
 own; sweep a seat and an unfinished channel closes.
 
 **Santo cannot do any of it, and is not trying to.** He has Open the Channel and Spirit Sight,
 self-taught by tracing, and exactly **one scroll** of Seat the Bound stolen from his father's locked
 case. He is not building anything and he is not part of the scheme -- he wants one girl off the
-Pearl and thinks a seated spirit will make her want it too. He spends the scroll on Emmeralda and
-botches the roll, and a scroll is consumed whatever the result. Hanzo does not know it is gone. The
+Pearl and thinks a seated lust spirit will make her want it too. He spends the scroll on Emmeralda;
+the dice decide whether it takes, and a scroll is consumed whatever the result. Hanzo does not know it is gone. The
 spent sheet is in the Baron's own hand and is therefore evidence, which is the entire reason this
 squalid little crime opens the door onto the real one.
 

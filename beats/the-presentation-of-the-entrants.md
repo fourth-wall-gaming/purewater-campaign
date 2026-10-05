@@ -7,7 +7,7 @@ when: "d-1/day"
 trigger: "time"
 onscreen_if: "Any PC on the competitors' ground or in the Governor's enclosure -- and GARDWEN especially"
 agenda: "myth-agenda-e0469a5c2863"
-place: "myth-loc-6f1056d77024"
+place: "myth-loc-eb0e6fbaed52"
 cast: ["myth-char-cac22cc2cbf6", "myth-char-cee57a7f5de2", "myth-char-eb79260a2a9b", "myth-char-dbb5fdad535d", "myth-char-5c39daf64e36"]
 created_at: "2026-09-09T00:00:00"
 ---

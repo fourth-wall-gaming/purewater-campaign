@@ -79,6 +79,13 @@ gm init-db && gm import-campaign --path .
 - **Load rules lazily** from the rules graph (`query-rules`, `get-rule`). Never
   read `rules/*.md` wholesale into context.
 
+## The Games Master's guide
+
+`guide/` builds the human-readable book published on Pages (see README §7).
+The chapters are prose in the Design Mechanism's house style; numbers come from
+the data through directives. **A beat added, renamed or removed needs its scene
+changed in `guide/chapters/` too** — `tests/test_guide.py` fails until it is.
+
 ## Spoilers
 
 `lore/gm-secret/`, `setting/the-story.md` and
