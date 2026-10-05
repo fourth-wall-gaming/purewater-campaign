@@ -30,8 +30,8 @@ roll-opposed --id-a <actor> --skill-a <skill> \
 ```
 
 Pick the skills honestly and out loud, the same way you would in front of a
-player. Santo trying to have Emmeralda carried out of a house is *Deceit* or
-*Influence* against Constantine's *Insight* or *Willpower*; men taking a boat off
+player. Santo walking a willing Emmeralda down the back stair of a house is
+*Stealth* against the house's *Perception*; men taking a boat off
 a stair is *Intimidate* against a boatman's *Willpower*; a courier moving unseen
 is *Stealth* against *Perception*.
 
@@ -96,7 +96,10 @@ changed. That is what priority is for; it is not importance, it is **initiative*
 |---|---|---|
 | Santo — *Have her* | Constantine — *Protect my house* | one girl, one house |
 | The Dragon Knights — *Hold the streets* | Marda — *Make them pay for one of ours* | every unanswered incident feeds both |
-| Hanzo — *Keep the champion unseen* | Temerach — *Shield the boy, unmask the house* | the presentation of entrants is where these two touch |
+| Hanzo — *Keep the champion unseen* | Temerach — *Shield the boy, unmask the house* | the presentation of entrants is where these two touch -- and where Blau sees Gardwen |
+| Hanzo — *Field the champion* | Nus — *One big score, and a name* | the locket on the table by his bed, `d1/night` |
+| Sinnit — *Make Randall say it* | Randall — whatever the player wants | the apology, and what it costs to make it on his own ground |
+| Blau — *Clean up after the young master* | Nus — *One big score, and a name* | the burning Lullwater, `d2`: Blau finds him or does not |
 | Hanzo — *Field the champion* | Nerissa — *Keep the Lady's water clean* | the fouling alarm, and who is allowed to say so |
 | Crowbill — *Keep the table level* | The Dragon Knights — *Hold the streets* | he cannot enforce a code against armoured men |
 

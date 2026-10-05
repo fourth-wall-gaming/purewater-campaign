@@ -59,15 +59,17 @@ north-east that the Prince can see from the Governor's box.
 
 ## Nus
 
-**Blau tracks him down.** Blau does not panic and is not fooled by much; he
-follows the fence, the boat, the safe house, and he finds Nus. He kills him --
+**Blau tracks him down.** Blau does not panic and is not fooled by much -- and
+he has help: Sinnit, who knows every hole Nus sleeps in, finds him in the smoke
+at Shilling Stairs (*Sinnit sells Nus*). Blau goes straight there, and he finds
+Nus. He kills him --
 quickly, and he does not appear to have enjoyed it -- and **brings the Baron
 his locket back.**
 
 ## Honour what the players did
 
 **This is a consequence, not a scheduled tragedy.** If the party hid Nus, got
-him out of the city, drew the hunt onto themselves, or are holding the locket
+him out of the city, turned Sinnit or got between him and Blau, drew the hunt onto themselves, or are holding the locket
 somewhere Blau cannot follow, honour it: the burning still happens, but Blau
 comes back empty-handed, and the Baron goes into the evening **without his
 leash.** That is the road to *Thuban breaks out*. If Blau gets the locket back,

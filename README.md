@@ -19,7 +19,7 @@
 > resolves by itself.
 >
 > **This repository is a scenario seed, not a save.** The root is the pristine
-> starting state — world clock `d-3/dawn`, 35 beats all pending, an empty journal,
+> starting state — world clock `d-3/dawn`, 39 beats all pending, an empty journal,
 > four pregens offered and none chosen. Nothing here spoils it: the records of
 > four previous playthroughs live on the `playthroughs` branch and are not part
 > of a release.
@@ -38,8 +38,8 @@ campaign format (v1.1).
 | Locations | 22 |
 | Factions | 14 |
 | Journal events | 1 |
-| Agendas | 15 |
-| Beats | 35 |
+| Agendas | 16 |
+| Beats | 39 |
 | Facts | 17 |
 
 ## Repository layout
@@ -56,7 +56,40 @@ campaign format (v1.1).
 | `beats/` | What happens next if nobody interferes, scheduled in world time |
 | `facts/` | Situational truth: one proposition per file, with when it became true |
 | `knowledge.json` | Who knows which fact, how, and since when |
-| `maps/` | The city map (canon) and eight lettered district sheets; see `maps/README.md` |
+| `maps/` | The city map (canon), eight lettered district sheets, building plans, the realm, encounter maps and GM-only secrets; see `maps/README.md` |
+
+## The story, for the GM
+
+*Spoilers from here down.* The plan is [`setting/the-story.md`](setting/the-story.md),
+act by act; every beat appears in it once.
+
+- **`d-3`, the column.** The Baron rides in with a litter nobody may approach. A
+  guard at his stirrup calls Randall *my lord*; at dusk Randall's old enemy Sinnit
+  corners Conall in the Lullwater and calls him *Randall*. That night a nameless young man --
+  Santo -- tries to seat a lust spirit in Emmeralda at the Sylph's Embrace. The
+  dice decide whether he walks her out willing or opens her with a knife and runs,
+  and either way Magda and Gardwen see a man with a burnt hand on the stair.
+- **`d-2` to `d-1`, the city closes.** Hesper takes both twins; Magda and Gardwen
+  clear them in the catacombs, and the four become a party. Sinnit tells the
+  Pearl it was Randall anyway, and -- unless Randall apologises to him in public --
+  sells the two faces to Blau, which sets the Baron hunting his unknown sons. Santo's tantrum puts
+  fire into the house front and the Pearl closes to the Dragon Knights. At the
+  presentation the champion's helm comes off and Gardwen sees her brother.
+- **`d0`, what is in him.** Temerach wins the Archery. Gardwen boards the
+  DragonBarge by night and learns what holds Thuban: the bones, and the locket the
+  Baron takes off to sleep.
+- **`d1`, the sand and the theft.** The champion wins. That night Nus and Randall
+  take the locket from beside the sleeping Baron.
+- **`d2`, three endings.** No theft: the Baron moves Thuban into Prince Emeric by
+  the old rite and turns toward the throne. Theft, Nus unprotected: the Baron
+  burns the Lullwater, Sinnit sells Nus's hiding place, Blau kills Nus and returns the locket, the Prince is taken
+  in the room he summoned the Baron to, and Temerach's impossible shot only
+  wounds. Theft, Nus saved: with no leash on him, Thuban breaks out with the party
+  and Temerach. Every road leads to the bones in the Baron's border tower, which
+  is the next adventure.
+
+Kag ships as an NPC with **no bearing on the plot** -- Crowbill's errands and a
+hustle or two; see [`setting/kag-as-an-npc.md`](setting/kag-as-an-npc.md).
 
 The canonical full-prose worldbook sources live in [`setting/`](setting/) — see its README for the book list and audience guide. The `lore/` files below are the same material sliced into database-ready entries.
 
@@ -77,15 +110,18 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [Keep the Lady's water clean](agendas/keep-the-lady-s-water-clean.md) -- *High Priestess Nerissa* (0/6)
 - [Keep the champion unseen](agendas/keep-the-champion-unseen.md) -- *Hanzo di Teufel* (1/4)
 - [Keep the table level](agendas/keep-the-table-level.md) -- *Crowbill* (0/6)
+- [Make Randall say it](agendas/make-randall-say-it.md) -- *Sinnit* (0/6)
 - [Make them pay for one of ours](agendas/make-them-pay-for-one-of-ours.md) -- *Marda Blackwater* (1/4)
 - [One big score, and a name](agendas/one-big-score-and-a-name.md) -- *Nus* (0/4)
 - [Shield the boy, unmask the house](agendas/shield-the-boy-unmask-the-house.md) -- *Temerach Nebulo* (1/6)
+- [The one who works it out](agendas/the-one-who-works-it-out.md) -- *Kag* (0/4)
 - [Wake a Dragon King](agendas/wake-a-dragon-king.md) -- *The Awake the Dragon Movement* (3/10)
 
 ## The worldbook (lore index)
 
 **character-creation**
-- [The Four Companions](lore/character-creation/the-four-companions.md)
+- [Rolling your own](lore/character-creation/rolling-your-own.md)
+- [The Four Companions](lore/character-creation/the-four-companions.md) *(GM only)*
 
 **cosmology**
 - [The Realm of Thornmere](lore/cosmology/the-realm-of-thornmere.md)
@@ -127,6 +163,10 @@ concrete things those goals produce, scheduled against the world clock. Run
 **magic-system**
 - [Magic in Purewater: Water and Fire](lore/magic-system/magic-in-purewater-water-and-fire.md)
 
+**player-briefing**
+- [Choosing a character](lore/player-briefing/choosing-a-character.md)
+- [Welcome to Purewater](lore/player-briefing/welcome-to-purewater.md)
+
 **religion**
 - [The Gods of Thornmere](lore/religion/the-gods-of-thornmere.md)
 - [The Order and the Swords: one goddess, two houses](lore/religion/the-order-and-the-swords.md)
@@ -159,6 +199,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [Ila](characters/npcs/ila.json) — A young elven girl (about thirteen) at the Sylph's Embrace, devoted to Emmeralda. An innocent of the Pearl, and a thread on the party's conscience.
 - [Kerrin (brown coat)](characters/npcs/kerrin-brown-coat.json) — One of Crowbill's watchers: dockside, unremarkable, professional. Eleven years of reading faces across a room, and he follows rather than closes.
 - [Ivo Calder](characters/npcs/ivo-calder.json) — Tide Master of the Watercrafters and the city's appointed assessor, fifty. Signed the Lake Lady's fouling alarm off as a **false reading** six weeks ago, at one polite request from a man he respects, and kept his original notes proving it was real. A confession waiting for a competent interviewer -- and his recantation reopens the alarm and puts the Order officially onto the Baron three days before the Tourney.
+- [Kag](characters/npcs/kag.json) — Half-orc, thirties, seven feet of her: Crowbill's muscle and the only person in his outfit who can read a ledger. Runs his errands and his business on the streets, and a hustle or two of her own. Canon from run 4; **no bearing on the plot.**
 - [Lilura Deepcurrent](characters/npcs/lilura-deepcurrent.json) — Elderly head of the Order of the Lake Lady for three decades -- piercing blue eyes, rumored merfolk ancestry (she holds her breath unnaturally long). The city's most powerful divine caster (Piety 95, Willpower 92), guiding the Order's water-faith against the Baron's fire demonologists.
 - [Marda Blackwater](characters/npcs/marda-blackwater.json) — Broad-shouldered leader of The Dredgers, risen from the dredge-boats during a labor dispute five years ago. A powerful working-class champion (Brawn 75, Oratory 78, Influence 75) who rallies dock labor against the merchant princes and -- above all -- against the Baron's Dragon Knights.
 - [Mariarta](characters/npcs/mariarta.json) — An older, canny courtesan of the Promise of Heaven with 'the calm intelligence of someone who can survive almost any situation involving men.' Sent up to entertain the Baron's soldiers, she brings back the hard intelligence on his guarded quarters -- Randall's most valuable inside source on the Dragon Knights' manor.
@@ -166,13 +207,14 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [Marisette](characters/npcs/marisette.json) — The madame with overall authority over Purewater's Pearl -- the proprietors, Constantine among them, answer to her. A consummate social power broker (Influence 85, Insight 82, Commerce 82) who keeps the pleasure district running and resents the disorder the Baron and Santo have brought to it.
 - [Murgeroch](characters/npcs/murgeroch.json) — Temerach Nebulo's squire and go-between -- the steady, competent young fighter who carries the knight's messages, screens her meetings, and tends her gear. Usually the first of Temerach's people the party deals with.
 - [Nus](characters/npcs/nus.json) — A quick-fingered Purewater street thief and loyal friend of Randall -- lookout, fence, and second pair of hands for a job; nimble, streetwise, and easy to underestimate.
+- [Orrin Sculle](characters/npcs/orrin-sculle.json) — The champion's keeper aboard the DragonBarge. Ten years feeding, dressing, washing and walking a boy who is not there, and talking to him every night while he does it. The only person who knows which hand Gabriel reaches with.
 - [Prince Emeric](characters/npcs/prince-emeric.json) — The young Governor of Purewater -- the King's nephew, perhaps two-and-twenty: clever, idealistic, genuinely decent, and entirely unsuited to govern a city like this. He wants to reform Purewater; the factions humor him, manage him, and run rings around his good intentions.
 - [Ravella](characters/npcs/ravella.json) — Half-merfolk proprietor of The Siren's Call -- pleasure house and information market in one. Subtle waterfolk tells (webbed fingers, water-reflecting eyes, Swim 90). A master broker (Insight 85, Streetwise 88, Commerce 80) with light innate water magic, secretly protecting the city's hidden waterfolk.
-- [Santo di Teufel](characters/npcs/santo-di-teufel.json) — Baron Hanzo's cruel son and heir -- a sadistic young fire-mage who taught himself demonology by tracing his father's work and can open a channel but **cannot seat a binding**. He is no part of his father's scheme and is not building anything: he wants **one girl** -- Emmeralda of the Sylph's Embrace -- kept on the barge and glad to be there, and he has exactly one stolen scroll with which to make her willing. He spends it, botches it, opens her the length of her body, and runs leaving the knife, the scroll and his own coat in the room.
+- [Santo di Teufel](characters/npcs/santo-di-teufel.json) — Baron Hanzo's cruel son and heir -- a spoiled young fire-mage who taught himself demonology by tracing his father's work. No part of his father's scheme: he wants **one girl** -- Emmeralda of the Sylph's Embrace -- kept on the barge and glad to be there, and he has one stolen scroll with which to make her willing. Nobody on the Pearl knows his face. He spends the scroll; the dice decide whether it takes or whether he opens her with the knife and runs.
 - [Sana](characters/npcs/sana.json) — Nineteen, dark red hair chopped ragged on the left side. High Priestess Nerissa's niece, six weeks at the temple, and the one who notices what nobody else notices.
-- [Sinnit](characters/npcs/sinnit.json) — A brutish Purewater canal-rat and rival thief who nurses a hard grudge against Randall -- a brawling enforcer-type with a long memory and a short temper.
+- [Sinnit](characters/npcs/sinnit.json) — A brutish Lullwater canal-rat who has hated Randall for seven years over a purse handed back with a bow. The week's street-level antagonist: mistakes Conall for Randall, tells the Pearl Randall carved the girl, sells the two faces to Blau and Nus to the fire. Turned only by Randall's apology, out loud, in front of witnesses.
 - [Tat Atarer](characters/npcs/tat-atarer.json) — Captain of the Dragon Knights -- a hardened, pragmatic mercenary commander who serves Baron Hanzo for pay, not ideology. Master fighter (combat 97%); 'the Baron pays for our swords, not our opinions.'
-- [Temerach Nebulo](characters/npcs/temerach-nebulo.json) — Elf knight of the Swords of the Lake, called 'the Lakelady's Javelin'; a deadly archer and peerless martial fighter. Has spent four years trying to get Baron Hanzo **called to answer** and has not yet dared make the accusation -- because a lord may answer an accusation with his champion's sword, and nobody has seen the Baron's champion fight.
+- [Temerach Nebulo](characters/npcs/temerach-nebulo.json) — Elf knight of the Swords of the Lake, 'the Lakelady's Javelin', and the order's implacable spymaster in Purewater. Four years of quiet network around Baron Hanzo; reached only through her squire Murgeroch; never surprised, never moved, never owed. Conall's handler. Nobody recruits her -- she runs people.
 - [Thorne](characters/npcs/thorne.json) — Elderly storyteller of The Moist Oyster -- frail-seeming but with penetrating blue eyes and a cane that hides a blade. Secretly a former Order of the Lake initiate and Dragon-Knight-raid survivor with peerless historical lore (Dragon Kings era 92) and knowledge of possession-ritual weaknesses.
 - [Thuban Eta](characters/npcs/thuban-eta.json) — The ancient dragon-knight spirit bound inside Cailan. A betrayed tactical genius from the Dragon Kings era, held in thrall by Baron Hanzo's ritual through his bones and the binding locket. Indomitable will (Willpower 95), peerless tactics, honors the old codes -- a potential ally if freed.
 

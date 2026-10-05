@@ -25,8 +25,9 @@ This version is built out of **agendas** and **beats** instead.
   interferes -- placed in world time (`d-3/night`) or gated on a clock
   (`clock>=4`), with a location and a cast.
 
-The tournament clock still runs from **d-3** (arrival) to **d0** (the Lake Lady's
-Tourney), four watches to the day: `dawn`, `day`, `dusk`, `night`.
+The clock runs from **d-3** (arrival) through **d-1** (the presentation) to the
+three days of the Lake Lady's Tourney, **d0** to **d2**, four watches to the day:
+`dawn`, `day`, `dusk`, `night`.
 
 ## The loop
 
@@ -67,8 +68,11 @@ encounter instead.
 
 ## The one that fires on being seen
 
-`agendas/hanzo-secures-the-bastard.md` starts **dormant** and activates the
-moment the Baron or his people get a clear look at Randall's or Conall's face.
+`agendas/a-di-teufel-who-is-not-his.md` starts **dormant** and activates the
+moment the Baron or his people see **two** of that face -- the twins together, or
+one of them beside Santo -- or until somebody sells them the fact, which in the
+natural course is Sinnit on `d-1/night`. A single sighting does not do it: the guard who calls
+Randall *my lord* in Caravan Square thinks he has seen Santo in the wrong place.
 Once active it never goes dormant again and it drives the back half of the
 campaign as a pursuit.
 
@@ -80,6 +84,6 @@ walk into it or avoid it, and mean it either way.
 
 The possession scheme, the twins' parentage, and Thuban's nature are in
 `lore/gm-secret/`. They come out through play. In particular, do not let Gardwen
-learn who the champion is before the reveal at `d0` -- and if the players work it
+learn who the champion is before the helm comes off at the presentation on `d-1` -- and if the players work it
 out early, that is a *better* story, so bring the reveal forward with
 `revise-beat` rather than stonewalling them.

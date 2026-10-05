@@ -15,9 +15,8 @@ created_at: "2026-09-05T12:00:00"
 She has not been waiting for courage. She has been waiting for the moment the
 truth becomes **more useful to her told than kept** -- the moment he would find
 it anyway, from somebody she does not control. He is already asking the right
-question, and today handed him two: a guard at the Baron's stirrup who called
-him *my lord* in terror, and a thief in the next chair in the catacombs wearing
-his face. His mother was an elven mage the Baron seduced and broke; she fled to
+question: today he woke in a chair in the catacombs next to a thief wearing his
+face, who had been called *my lord* by a guard at the Baron's stirrup. His mother was an elven mage the Baron seduced and broke; she fled to
 this city and died here; Temerach has known since before she recruited him.
 
 **If Conall is not a PC in this campaign,** this still fires -- and the party
