@@ -1,0 +1,44 @@
+# The North Quarter and the Grand Canal. Format as maps/lullwater/labels.yaml.
+# Run with maps/sheet.py grandcanal ...
+# unlabeled.png is the ElevenLabs redraw after a fix pass, with two hand patches
+# (the ships in Palace Square, stray letters at the foot); the untouched redraw
+# is kept as unlabeled-before-patch.png.
+
+master_crop: {x: 880, y: 360, w: 1480, h: 833}
+source: unlabeled.png
+crop: {x: 0, y: 0, w: 5456, h: 3072}
+
+title: {text: "The North Quarter", subtitle: "Purewater", x: 0.735, y: 0.022, size: 0.016}
+key: {x: 0.012, bottom: 0.012, size: 0.0092}
+
+sites:
+  # the official quarter (locations/high-isle.md)
+  - {text: "The Governor's Palazzo", x: 0.712, y: 0.300, num: ne}
+  - {text: "The Hall of Justice", x: 0.648, y: 0.470, num: nw}
+  - {text: "Palace Square", x: 0.728, y: 0.440, num: ne}
+  - {text: "The Barracks", x: 0.775, y: 0.520, num: ne}
+  # the bridges to the Pearl (lore/geography/the-city-and-its-islands.md)
+  - {text: "The Lantern Bridge", x: 0.205, y: 0.135, num: ne}
+  - {text: "The Old Span", x: 0.082, y: 0.335, num: ne}
+  # named on this sheet (recorded in locations/high-isle.md)
+  - {text: "The Crescent", x: 0.585, y: 0.610, num: ne}
+  - {text: "The Inner Basin", x: 0.355, y: 0.560, num: nw}
+  - {text: "The Palazzo Ferry", x: 0.690, y: 0.810, num: ne}
+  - {text: "The Guild Ferry", x: 0.285, y: 0.800, num: ne}
+  # taverns, amenities and the watch (canon in the matching location file)
+  - {type: amenity, text: "The Gilded Swan", x: 0.3, y: 0.3, note: "the respectable inn on the Processional, where competitors' families stay"}
+  - {type: amenity, text: "The Warm Baths", x: 0.46, y: 0.25, note: "a public bathhouse, the warmest place on the island, and the most indiscreet"}
+  - {type: amenity, text: "Doctor Amsel", x: 0.53, y: 0.64, note: "physician by the Crescent, sent for by minor lords for embarrassing things"}
+  - {type: amenity, text: "The Pear Tree", x: 0.170, y: 0.470, note: "a wine house at the rich west end, where the off-duty watch drink where the dragonshits do not go"}
+  - {type: amenity, text: "Scriveners' Row", x: 0.6, y: 0.4, note: "clerks, notaries and copyists under the Hall of Justice's walls"}
+  - {type: watch, text: "The Isle Post", x: 0.62, y: 0.56, num: nw, note: "the watch-house of High Isle, where Captain Sarn commands and Sergeant Abel Weir keeps the four-inch referral book"}
+
+areas:
+  - {text: "The Processional", x: 0.255, y: 0.395, size: 0.012}
+  - {text: "The Grand Canal", x: 0.500, y: 0.800, size: 0.016}
+  - {text: "Tournament Ground", x: 0.900, y: 0.430, size: 0.011}
+  - {text: "The Pearl", x: 0.055, y: 0.040, size: 0.012}
+  - {text: "The Merchant's Quarter", x: 0.400, y: 0.915, size: 0.013}
+  - {text: "The Forges", x: 0.820, y: 0.930, size: 0.013}
+
+do_not_label: ["the Quiet Hand", "the Mermaid's Court", "the Catacombs"]

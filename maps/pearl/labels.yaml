@@ -27,6 +27,13 @@ sites:
   - {text: "The Widow's Bridge", x: 0.606, y: 0.370, num: ne}
   # the walled islet the Widow's Bridge reaches (named here)
   - {text: "The Widow's House", x: 0.670, y: 0.230, num: ne}
+  # taverns, amenities and the watch (canon in the matching location file)
+  - {type: amenity, text: "The Lamplighters' House", x: 0.49, y: 0.47, note: "the men who carry the Widow's flame along the Quay and over the Lantern Bridge every dusk"}
+  - {type: amenity, text: "The Gilt Mirror", x: 0.385, y: 0.545, note: "perfumer and wig-maker to the houses; the best gossip on the island, all of it second-hand"}
+  - {type: amenity, text: "Doctor Vesk", x: 0.33, y: 0.48, note: "a discreet physician who treats the houses' women for free and their clients for a great deal"}
+  - {type: amenity, text: "The Steam Rooms", x: 0.565, y: 0.425, note: "a bathhouse, mixed, where nobody uses their real name"}
+  - {type: amenity, text: "Old Nan's Pies", x: 0.392, y: 0.612, num: nw, note: "an eel-pie stall on the Quay; Nan knows the name of every person who passes and says all of them"}
+  - {type: watch, text: "The Lantern Box", x: 0.6, y: 0.67, note: "a watch box at the North Quarter end of the Lantern Bridge, unmanned after dark; the Pearl keeps its own order"}
 
 areas:
   - {text: "Pearl Quay", x: 0.475, y: 0.668, size: 0.011}

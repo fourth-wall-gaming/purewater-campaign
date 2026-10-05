@@ -1,0 +1,21 @@
+Edit this image. Do not generate a new one.
+
+It is a crop of a black pen-and-ink city map on aged parchment, showing the merchant quarter of a canal city: a single rounded island of trade streets around a walled market square. Redraw it at high resolution, 16:9, keeping the drawing exactly as it is: every coastline, canal, bridge, wall, street, block and building stays where it is, the same shape and the same size, as if traced, and the four edges of the frame stay where they are. Do not crop, zoom, rotate or reframe. Do not add or remove any land, water or bridges.
+
+What is in the frame, so nothing gets lost:
+- Most of the frame: the merchant island, densely built, with a rounded shoreline on its west and north.
+- Centre right: a large open market square, walled, with three walled guildhall courtyards around it -- one to the north, one to the north-east, one to the south.
+- Top: a broad canal along the north shore. Left: a channel along the west shore, with a long stone bridge at the top left crossing to a walled waterfront on the far bank, and a landing stage below it.
+- Bottom: a narrow cut along the south shore, crossed by four bridges, with the edge of another quarter beyond it. Bottom right: the start of a bridge going off the frame.
+
+Make it sharp and finely detailed. Every building a separate footprint seen from directly above: one-storey a plain outline, two-or-more storeys a double-lined box.
+- The market square paved, filled with rows of market stalls drawn as small rectangles with aisles between them, a market cross or fountain at its centre, and handcarts.
+- Each guildhall a grand courtyard building: a double-lined range around a paved court, a gateway onto the square, a colonnade of small dots inside.
+- Along the north shore, facing the broad canal: the largest houses on the island -- merchant palazzi, each with an inner courtyard, a garden, and its own water-gate and stair down to the canal.
+- On the west shore by the bridge, a large guild building with its own covered boathouse and slipway onto the channel.
+- Elsewhere: counting-houses and warehouses with loading doors on the streets, narrow alleys, small courtyards, water-stairs where streets meet the water, boats moored along the banks.
+- Water in grey wash with fine stippling and contour hatching.
+
+Same style throughout: fine technical black and grey pen-work on the same parchment, strict top-down plan view like a surveyor's map. No 3D, no perspective, no roofs, no shadows, no colour, no sepia or brown.
+
+REMOVE ALL LETTERING. The image must contain no text, letters, labels, arrows or leader lines anywhere -- including at the edges of the frame. Where the original has a label, draw the buildings, streets or water that lie underneath it.

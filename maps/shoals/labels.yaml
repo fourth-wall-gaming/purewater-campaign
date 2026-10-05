@@ -25,6 +25,13 @@ sites:
   # the bridges east (lore/geography/the-city-and-its-islands.md)
   - {text: "The Causeway Bridge", x: 0.765, y: 0.495, num: ne}
   - {text: "The Tideflats Bridge", x: 0.830, y: 0.835, num: se}
+  # taverns, amenities and the watch (canon in the matching location file)
+  - {type: amenity, text: "The Salt Herring", x: 0.62, y: 0.75, note: "dockside alehouse for the fish-porters and the dredge crews; the Fishmarket sergeant drinks here and writes nothing down"}
+  - {type: amenity, text: "The Pie Stall", x: 0.6, y: 0.55, note: "eel pies off the market's first catch, hot from four in the morning"}
+  - {type: amenity, text: "The Wave Shrine", x: 0.55, y: 0.43, num: nw, note: "a Dredgers' shrine under the Fishmarket Bridge, chalked with the white wave"}
+  - {type: amenity, text: "Tolliver Brothers", x: 0.685, y: 0.69, note: "rope and tar, and the same joke since spring; on Kag's round"}
+  - {type: amenity, text: "The Stilt Chapel", x: 0.318, y: 0.772, note: "a chapel of the Lady on stilts in the Low Canals, reached by rope bridge"}
+  - {type: watch, text: "The Fishmarket Post", x: 0.622, y: 0.452, note: "the watch post on the market; it records, refers, and keeps its shutters half-closed toward the bridge"}
 
 areas:
   - {text: "The Fishmarket", x: 0.610, y: 0.640, size: 0.016}

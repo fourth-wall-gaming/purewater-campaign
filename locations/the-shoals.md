@@ -41,3 +41,13 @@ the ice-house to the smugglers' jetties. To the east the **Causeway Bridge** and
 west, under the Forge Tower, is the private pier where the DragonBarge lies. All of
 these are marked on the Shoals sheet, `maps/shoals/`.
 
+## Taverns, amenities and the watch
+
+- **The Salt Herring** -- dockside alehouse for the fish-porters and the dredge crews; the Fishmarket sergeant drinks here and writes nothing down.
+- **The Pie Stall** -- eel pies off the market's first catch, hot from four in the morning.
+- **The Wave Shrine** -- a Dredgers' shrine under the Fishmarket Bridge, chalked with the white wave.
+- **Tolliver Brothers** -- rope and tar, and the same joke since spring; on Kag's round.
+- **The Stilt Chapel** -- a chapel of the Lady on stilts in the Low Canals, reached by rope bridge.
+- **The Fishmarket Post** (watch) -- the watch post on the market; it records, refers, and keeps its shutters half-closed toward the bridge.
+
+Marked on the sheet in `maps/shoals/`.

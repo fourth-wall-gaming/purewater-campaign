@@ -59,3 +59,14 @@ These names are lettered on the Lullwater sheet, `maps/lullwater/`.
 > *(This district collapses the older "Maze" and "Warren" into one: the criminal
 > tangle and the labouring slum are the same drowned quarter. The lovely name is a
 > deliberate, ironic mask.)*
+
+## Taverns, amenities and the watch
+
+- **The Lucky Bones** -- Crowbill's dice den, up a back stair; the house never cheats, because it never needs to.
+- **The Lamprey** -- boatmen's alehouse at the head of Shilling Stairs; whoever rowed you over is drinking here by the time you leave.
+- **Mother Grell's** -- pawnbroker; buys anything, asks nothing, remembers everything.
+- **Tamsin the Bone-Setter** -- the only physician who will come to the Lullwater, and she lives in it.
+- **The Rag Shrine** -- a Dredgers' shrine under the Gutter's north bridge, hung with strips of cloth for the drowned.
+- **The Shut Post** (watch) -- a watch post with its door nailed shut; the watch comes over only to fish out the dead.
+
+Marked on the sheet in `maps/lullwater/`.

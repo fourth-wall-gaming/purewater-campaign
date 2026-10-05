@@ -106,6 +106,33 @@ def cross(d, x, y, r, halo):
     d.rectangle([x - 0.16 * r, y - 0.16 * r, x + 0.16 * r, y + 0.16 * r], fill=INK)
 
 
+TYPES = ("place", "amenity", "watch")
+HEADINGS = {"place": "Places", "amenity": "Taverns & amenities", "watch": "The watch"}
+
+
+def ordered(sites):
+    """Places first, then amenities, then the watch, each in listed order."""
+    return [lb for t in TYPES for lb in sites if lb.get("type", "place") == t]
+
+
+def mark(d, kind, x, y, r, halo):
+    if kind == "place":
+        cross(d, x, y, r, halo)
+    elif kind == "amenity":
+        # a black disc with a paper ring: a tavern, a shop, a stall
+        R = r * 0.72
+        d.ellipse([x - R - halo, y - R - halo, x + R + halo, y + R + halo], fill=PAPER)
+        d.ellipse([x - R, y - R, x + R, y + R], fill=INK)
+        d.ellipse([x - R * 0.38, y - R * 0.38, x + R * 0.38, y + R * 0.38], fill=PAPER)
+    else:
+        # a square within a square: a watch post
+        R = r * 0.7
+        d.rectangle([x - R - halo, y - R - halo, x + R + halo, y + R + halo], fill=PAPER)
+        d.rectangle([x - R, y - R, x + R, y + R], fill=INK)
+        d.rectangle([x - R * 0.45, y - R * 0.45, x + R * 0.45, y + R * 0.45], fill=PAPER)
+        d.rectangle([x - R * 0.2, y - R * 0.2, x + R * 0.2, y + R * 0.2], fill=INK)
+
+
 def panel(d, box, W):
     """A parchment panel with the master's double ruled border."""
     x0, y0, x1, y1 = box
@@ -127,12 +154,15 @@ def cmd_label(render):
     for lb in s.get("areas", []):
         tracked(d, (lb["x"] * W, lb["y"] * H), lb["text"], f(lb.get("size", 0.020)), "mm", halo)
 
-    # sites: a numbered cross on the map, the name in the key
+    # sites: a numbered mark on the map, the name in the key. Three kinds, each
+    # with its own mark: places (cross), taverns and amenities (disc), and the
+    # watch (square). Numbered in that order, so the key reads in sections.
+    sites = ordered(s["sites"])
     r = round(W * 0.0075)
     nf = ImageFont.truetype(DIGITS, round(W * 0.015))
-    for n, lb in enumerate(s["sites"], 1):
+    for n, lb in enumerate(sites, 1):
         x, y = lb["x"] * W, lb["y"] * H
-        cross(d, x, y, r, halo)
+        mark(d, lb.get("type", "place"), x, y, r, halo)
         dx, dy = {"ne": (1, -1), "nw": (-1, -1), "se": (1, 1), "sw": (-1, 1)}[lb.get("num", "ne")]
         pos = (x + dx * r * 1.1, y + dy * r * 1.1)
         anchor = ("l" if dx > 0 else "r") + ("d" if dy < 0 else "a")
@@ -149,22 +179,42 @@ def cmd_label(render):
     if t.get("subtitle"):
         tracked(d, (x0 + pw / 2, y0 + ph * 0.76), t["subtitle"], sf, "mm", 0)
 
-    # the key, in its own panel off the island
+    # the key, in its own panel off the island; sectioned when there is more
+    # than one kind of mark, and split into columns when it would be too tall
     k = s["key"]
     kf = f(k.get("size", 0.0112))
+    df = ImageFont.truetype(DIGITS, kf.size)
     line = kf.size * 1.75
-    rows = [lb["text"] for lb in s["sites"]]
-    kw = max(kf.getlength(f"{len(rows)}.  " + t2.upper()) * 1.17 for t2 in rows) + W * 0.06
-    kh = line * (len(rows) + 1.6)
+    kinds = [t for t in TYPES if any(lb.get("type", "place") == t for lb in sites)]
+    rows = []
+    for t in kinds:
+        if len(kinds) > 1:
+            rows.append(("head", HEADINGS[t]))
+        rows += [("item", n, t, lb["text"]) for n, lb in enumerate(sites, 1)
+                 if lb.get("type", "place") == t]
+    ncol = k.get("columns", 1)
+    per = -(-len(rows) // ncol)
+    cols = [rows[i * per:(i + 1) * per] for i in range(ncol)]
+    colw = max(kf.getlength(f"{len(sites)}.  " + r_[3].upper()) * 1.17 + W * 0.06
+               for r_ in rows if r_[0] == "item")
+    kw = colw * ncol + W * 0.01 * (ncol - 1)
+    kh = line * (per + 1.6)
     # anchored at the bottom: the key grows upward as sites are added
-    x0, y0 = k["x"] * W, H * (1 - k["bottom"]) - kh
+    x0 = k["x"] * W
+    y0 = k["top"] * H if "top" in k else H * (1 - k["bottom"]) - kh
     panel(d, [x0, y0, x0 + kw, y0 + kh], W)
     tracked(d, (x0 + kw / 2, y0 + line * 0.85), "Key", kf, "mm", 0, tracking=0.4)
-    for n, name in enumerate(rows, 1):
-        cy = y0 + line * (n + 0.9)
-        cross(d, x0 + W * 0.022, cy, kf.size * 0.42, 0)
-        d.text((x0 + W * 0.0455, cy), "%d." % n, font=ImageFont.truetype(DIGITS, kf.size), fill=INK, anchor="rm")
-        tracked(d, (x0 + W * 0.050, cy), name, kf, "lm", 0, tracking=0.12)
+    for c, col in enumerate(cols):
+        cx = x0 + c * (colw + W * 0.01)
+        for i, row in enumerate(col, 1):
+            cy = y0 + line * (i + 0.9)
+            if row[0] == "head":
+                tracked(d, (cx + W * 0.016, cy), row[1], f(k.get("size", 0.0112) * 0.82), "lm", 0, tracking=0.3)
+                continue
+            _, n, t, name = row
+            mark(d, t, cx + W * 0.022, cy, kf.size * 0.42, 0)
+            d.text((cx + W * 0.0455, cy), "%d." % n, font=df, fill=INK, anchor="rm")
+            tracked(d, (cx + W * 0.050, cy), name, kf, "lm", 0, tracking=0.12)
 
     root, _ = os.path.splitext(render)
     out = root + "-labelled.png"

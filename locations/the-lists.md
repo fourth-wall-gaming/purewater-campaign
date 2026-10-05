@@ -30,3 +30,13 @@ archery is shot, [[The Long Butts]]. The **water-gate** in the east wall is wher
 Harbor Run goes out. The Governor's Palazzo, Palace Square, the Hall of Justice and
 the Barracks are a few streets to the west. These are marked on the Lists and Temple
 Isle sheet, `maps/tournament/`.
+
+## Taverns, amenities and the watch
+
+- **The Pilgrims' Hostel** -- cells in the temple's west cloister for pilgrims who have walked a long way.
+- **The Pie Row** -- pie and ale stalls along the stands, packed on Tourney days.
+- **The Bookmakers** -- odds chalked on boards outside the east wall; the champion is odds-on and nobody likes it.
+- **The Heralds' Office** -- the entries, the colours and the order of precedence, argued over in whispers.
+- **The Lists Post** (watch) -- the Tourney watch post, whose yard the Knights have taken for horse-lines; the watch now works from a hired room.
+
+Marked on the sheet in `maps/tournament/`.

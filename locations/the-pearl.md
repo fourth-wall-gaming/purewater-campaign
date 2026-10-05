@@ -32,3 +32,14 @@ pleasure district; see [[The Widow of the Pearl]]. These are
 marked on the Pearl sheet, `maps/pearl/`.
 
 *(Formerly "the Street of Red Lanterns" / "the Pearl Quarter"; now its own island.)*
+
+## Taverns, amenities and the watch
+
+- **The Lamplighters' House** -- the men who carry the Widow's flame along the Quay and over the Lantern Bridge every dusk.
+- **The Gilt Mirror** -- perfumer and wig-maker to the houses; the best gossip on the island, all of it second-hand.
+- **Doctor Vesk** -- a discreet physician who treats the houses' women for free and their clients for a great deal.
+- **The Steam Rooms** -- a bathhouse, mixed, where nobody uses their real name.
+- **Old Nan's Pies** -- an eel-pie stall on the Quay; Nan knows the name of every person who passes and says all of them.
+- **The Lantern Box** (watch) -- a watch box at the North Quarter end of the Lantern Bridge, unmanned after dark; the Pearl keeps its own order.
+
+Marked on the sheet in `maps/pearl/`.

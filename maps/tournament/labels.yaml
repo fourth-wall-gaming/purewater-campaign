@@ -24,6 +24,12 @@ sites:
   - {text: "Palace Square", x: 0.180, y: 0.760, num: ne}
   - {text: "The Hall of Justice", x: 0.075, y: 0.780, num: ne}
   - {text: "The Barracks", x: 0.305, y: 0.790, num: ne}
+  # taverns, amenities and the watch (canon in the matching location file)
+  - {type: amenity, text: "The Pilgrims' Hostel", x: 0.47, y: 0.2, note: "cells in the temple's west cloister for pilgrims who have walked a long way"}
+  - {type: amenity, text: "The Pie Row", x: 0.4, y: 0.68, note: "pie and ale stalls along the stands, packed on Tourney days"}
+  - {type: amenity, text: "The Bookmakers", x: 0.600, y: 0.950, note: "odds chalked on boards outside the east wall; the champion is odds-on and nobody likes it"}
+  - {type: amenity, text: "The Heralds' Office", x: 0.36, y: 0.7, note: "the entries, the colours and the order of precedence, argued over in whispers"}
+  - {type: watch, text: "The Lists Post", x: 0.4, y: 0.92, note: "the Tourney watch post, whose yard the Knights have taken for horse-lines; the watch now works from a hired room"}
 
 areas:
   - {text: "Lost Isle", x: 0.800, y: 0.270, size: 0.016}

@@ -20,6 +20,14 @@ sites:
   - {text: "The Tidegate Bridge", x: 0.315, y: 0.420, num: ne}
   - {text: "The Dyers' Bridge", x: 0.135, y: 0.480, num: ne}
   - {text: "The Guildhall of Dyers", x: 0.135, y: 0.330, num: ne}
+  # taverns, amenities and the watch (canon in the matching location file)
+  - {type: amenity, text: "The Anvil and Ember", x: 0.6, y: 0.18, note: "the smiths' tavern, where the Forge Quarter decides which work it will refuse"}
+  - {type: amenity, text: "Mother Hask", x: 0.745, y: 0.33, note: "burns-healer to the yards, the nearest help for a burned apprentice"}
+  - {type: amenity, text: "Cobb's Book", x: 0.36, y: 0.56, note: "bookmaker taking odds on the Tourney, very short on the Baron's champion, and unhappy about it"}
+  - {type: amenity, text: "The Long Rope-Walk", x: 0.345, y: 0.47, note: "the ropemakers' sheds, a quarter-mile of walking backwards"}
+  - {type: amenity, text: "The Sea Chest", x: 0.395, y: 0.660, note: "sailors' lodging-house; the cheapest bed in the city with a lock on the door"}
+  - {type: amenity, text: "The Harbourmen's Office", x: 0.45, y: 0.7, note: "the Harbor Masters' dockside office, where a berth registration is a public record"}
+  - {type: watch, text: "The Seaward Post", x: 0.430, y: 0.530, note: "the busiest post in the city, which has quietly stopped sending patrols anywhere near the barge pier"}
 
 areas:
   - {text: "The Forges", x: 0.520, y: 0.110, size: 0.016}

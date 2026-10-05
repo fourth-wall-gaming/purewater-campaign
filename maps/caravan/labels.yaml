@@ -18,10 +18,15 @@ sites:
   - {text: "The Wagon Park", x: 0.300, y: 0.555, num: ne}
   - {text: "The Beast Yard", x: 0.300, y: 0.300, num: ne}
   - {text: "The Ferry Stage", x: 0.376, y: 0.845, num: ne}
+  # taverns, amenities and the watch (canon in the matching location file)
+  - {type: amenity, text: "The Last Mile", x: 0.412, y: 0.25, note: "carters' inn on the waterfront, the first and last drink of every caravan"}
+  - {type: amenity, text: "The Farrier", x: 0.25, y: 0.22, note: "shoes the caravan teams in the beast yard, and the Baron's horses too"}
+  - {type: amenity, text: "The Wainwrights", x: 0.412, y: 0.68, note: "wagon repair, and a buyer for any wagon that will not be going home"}
+  - {type: amenity, text: "Ansel's Exchange", x: 0.600, y: 0.560, note: "moneychanger by the customs house; every coin of the borderland at a rate that changes when he sees you"}
+  - {type: watch, text: "The Gate Post", x: 0.665, y: 0.480, note: "the watch post at the customs end of the Triumph Bridge, whose watchman does nothing about the three Knights in the middle of it"}
 
 areas:
   - {text: "The Caravan Road", x: 0.105, y: 0.300, size: 0.013}
   - {text: "The Grand Canal", x: 0.912, y: 0.300, size: 0.012}
-  - {text: "The Merchant's Quarter", x: 0.760, y: 0.560, size: 0.016}
 
 do_not_label: ["the Quiet Hand", "the Mermaid's Court", "the Catacombs"]

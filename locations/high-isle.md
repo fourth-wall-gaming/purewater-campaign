@@ -39,5 +39,27 @@ ferry -- so the city's two halves meet only by boat.
   comb of piers and slips, with the round **Harbour Master's Tower** at the tip of
   the longest mole. (See the Forges and the Docks sheet, `maps/forges/`.)
 
+**Across the North Quarter.** **The Processional**, a wide paved avenue lined with
+the bigger houses, sweeps through the island from the Pearl's bridges down toward
+the Grand Canal. Off the canal, a short cut called **the Inner Basin** runs in among
+the houses and stops dead, with a footbridge at its mouth and another at its head.
+East of it, curved streets ring **the Crescent**, a small round paved square with a
+well, where the North Quarter's middling streets meet the official quarter. No
+bridge crosses the Grand Canal. Two ferries do: **the Palazzo Ferry**, between the
+stairs below the Palazzo and the Forges shore, and **the Guild Ferry**, from the
+North Quarter's south bank to the Merchant's Quarter by the guildhalls. These are
+marked on the North Quarter sheet, `maps/grandcanal/`.
+
 The Baron's **[[The DragonBarge]]** lies at a private pier on the Forges' seaward
 side, steam rising where its hull meets the water.
+
+## Taverns, amenities and the watch
+
+- **The Gilded Swan** -- the respectable inn on the Processional, where competitors' families stay.
+- **The Warm Baths** -- a public bathhouse, the warmest place on the island, and the most indiscreet.
+- **Doctor Amsel** -- physician by the Crescent, sent for by minor lords for embarrassing things.
+- **The Pear Tree** -- a wine house at the rich west end, where the off-duty watch drink where the dragonshits do not go.
+- **Scriveners' Row** -- clerks, notaries and copyists under the Hall of Justice's walls.
+- **The Isle Post** (watch) -- the watch-house of High Isle, where Captain Sarn commands and Sergeant Abel Weir keeps the four-inch referral book.
+
+Marked on the sheet in `maps/grandcanal/`.

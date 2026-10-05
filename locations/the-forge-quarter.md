@@ -28,3 +28,14 @@ west of the Foundries. The **Cinder Bridge** crosses from the island's south-wes
 corner to the Seaward Quarter wharves. These are marked on the Forges and the Docks
 sheet, `maps/forges/`.
 
+## Taverns, amenities and the watch
+
+- **The Anvil and Ember** -- the smiths' tavern, where the Forge Quarter decides which work it will refuse.
+- **Mother Hask** -- burns-healer to the yards, the nearest help for a burned apprentice.
+- **Cobb's Book** -- bookmaker taking odds on the Tourney, very short on the Baron's champion, and unhappy about it.
+- **The Long Rope-Walk** -- the ropemakers' sheds, a quarter-mile of walking backwards.
+- **The Sea Chest** -- sailors' lodging-house; the cheapest bed in the city with a lock on the door.
+- **The Harbourmen's Office** -- the Harbor Masters' dockside office, where a berth registration is a public record.
+- **The Seaward Post** (watch) -- the busiest post in the city, which has quietly stopped sending patrols anywhere near the barge pier.
+
+Marked on the sheet in `maps/forges/`.

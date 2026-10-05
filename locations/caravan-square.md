@@ -34,3 +34,12 @@ a hall on a short pier is the **Ferry Stage**, for everything and everyone that
 goes by water instead. These are marked on the Caravan Square sheet,
 `maps/caravan/`.
 
+## Taverns, amenities and the watch
+
+- **The Last Mile** -- carters' inn on the waterfront, the first and last drink of every caravan.
+- **The Farrier** -- shoes the caravan teams in the beast yard, and the Baron's horses too.
+- **The Wainwrights** -- wagon repair, and a buyer for any wagon that will not be going home.
+- **Ansel's Exchange** -- moneychanger by the customs house; every coin of the borderland at a rate that changes when he sees you.
+- **The Gate Post** (watch) -- the watch post at the customs end of the Triumph Bridge, whose watchman does nothing about the three Knights in the middle of it.
+
+Marked on the sheet in `maps/caravan/`.

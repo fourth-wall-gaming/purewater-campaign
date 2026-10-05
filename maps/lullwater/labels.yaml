@@ -37,6 +37,13 @@ sites:
   - {text: "Shilling Stairs", x: 0.135, y: 0.310, num: nw}
   - {text: "The Still", x: 0.447, y: 0.651, num: se}
   - {text: "The Gutter", x: 0.383, y: 0.245, num: ne}
+  # taverns, amenities and the watch (canon in the matching location file)
+  - {type: amenity, text: "The Lucky Bones", x: 0.56, y: 0.38, note: "Crowbill's dice den, up a back stair; the house never cheats, because it never needs to"}
+  - {type: amenity, text: "The Lamprey", x: 0.2, y: 0.405, note: "boatmen's alehouse at the head of Shilling Stairs; whoever rowed you over is drinking here by the time you leave"}
+  - {type: amenity, text: "Mother Grell's", x: 0.33, y: 0.5, note: "pawnbroker; buys anything, asks nothing, remembers everything"}
+  - {type: amenity, text: "Tamsin the Bone-Setter", x: 0.59, y: 0.56, note: "the only physician who will come to the Lullwater, and she lives in it"}
+  - {type: amenity, text: "The Rag Shrine", x: 0.405, y: 0.3, note: "a Dredgers' shrine under the Gutter's north bridge, hung with strips of cloth for the drowned"}
+  - {type: watch, text: "The Shut Post", x: 0.15, y: 0.255, num: nw, note: "a watch post with its door nailed shut; the watch comes over only to fish out the dead"}
 
 areas:
   - {text: "The Hook", x: 0.780, y: 0.165}
