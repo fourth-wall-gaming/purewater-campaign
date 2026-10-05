@@ -1,0 +1,10 @@
+STYLE -- the same cartographer as the attached map of Purewater, now drawing one building at the scale of an architect's survey:
+- Black and cool grey pen-and-ink on aged off-white parchment with soft mottled staining. No colour: no sepia, no brown, no warm tan. Black on bone.
+- Strict top-down orthographic FLOOR PLAN, as if the roof and upper floors were lifted off: a horizontal cut through each storey about four feet above its floor. NOT isometric, NOT perspective, NOT a cutaway, NOT a bird's-eye view. No cast shadows, no 3D, no glow, no vignette.
+- Walls as solid black poché, thick for outer and party walls, thinner for partitions. Doors as a gap with a thin quarter-circle swing; windows as three fine lines across the wall; stairs as rows of parallel treads with an arrow line; fireplaces and chimney breasts drawn into the walls.
+- Furniture in plan, fine and specific: beds, chairs, tables, chests, wardrobes, screens, rugs as ruled rectangles with fringes, barrels, crates, lamps as small circles.
+- Floors shown by material: floorboards as fine parallel lines, flagstones as an irregular stone grid, tiles as a small square grid.
+- Water exactly as the city map draws it: grey wash with stipple and contour hatching along the edges; boats as simple flat ovals; water-stairs as treads running down into the water.
+- A faint grid of five-foot squares over the whole interior, for play, fine enough not to fight the drawing. A scale bar in FEET. A small compass rose with north up.
+- A thin ruled double border round the sheet, and an empty plain title panel in one corner.
+- NO LETTERING ANYWHERE. No room names, no numbers, no labels, no text of any kind, not even on the scale bar or title panel. They will be added afterwards.

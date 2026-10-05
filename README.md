@@ -32,7 +32,7 @@ campaign format (v1.1).
 
 | Contents | Count |
 |---|---|
-| Lore entries | 27 |
+| Lore entries | 28 |
 | Characters | 42 (playable: Conall Bjornlasch, Gardwen, Magda, Randall) |
 | Creature templates | 4 |
 | Locations | 22 |
@@ -102,6 +102,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 
 **geography**
 - [The City and Its Islands](lore/geography/the-city-and-its-islands.md)
+- [The Lands of Thornmere](lore/geography/the-lands-of-thornmere.md)
 
 **gm-guide**
 - [GM Guide: Conflicting agendas, and resolving them offscreen](lore/gm-guide/gm-guide-conflicting-agendas.md) *(GM only)*
