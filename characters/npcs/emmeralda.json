@@ -4,7 +4,7 @@
   "type": "npc",
   "status": "active",
   "description": "Elven courtesan of The Sylph's Embrace -- poised, magnetic, and the finest performer on the Pearl (CHA 18, Seduction 88, Dance 85).",
-  "narrative": "Emmeralda is an elven courtesan at The Sylph's Embrace and the most\nsought-after performer on the Pearl: a poised, magnetic presence (Dance 85, Sing 80,\nSeduction 88) with a following among people who can afford her.\n\nAt the campaign's opening she is entirely well, and has an evening booked with a\nyoung nobleman who has paid generously and asked for privacy.\n\n**GM -- what she becomes.** She is Santo's intended vessel. If the binding happens\nand she survives it, a lesser pleasure demon stays partly lodged in her: strange\nbehaviours, bestial voices, and asking after 'Lord Santo.' That makes her the\nclearest living proof of what he did -- and, if she recovers enough to stand and\nspeak, a witness who can **swear over still water**, which in this realm is worth\nmore than any quantity of parchment -- and -- because an interrupted binding is a\nunique case -- the one subject from which a counter-ritual might be devised. Whether\nshe lives at all depends on who reaches her in the first minutes. None of this is\ntrue yet.",
+  "narrative": "Emmeralda is an elven courtesan at The Sylph's Embrace and the most\nsought-after performer on the Pearl: a poised, magnetic presence (Dance 85, Sing 80,\nSeduction 88) with a following among people who can afford her.\n\nAt the campaign's opening she is entirely well, and has an evening booked with a\nyoung nobleman who has paid generously and asked for privacy.\n\n**GM -- what she becomes.** She is Santo's intended vessel, and the dice on the first night decide which of two women she is afterwards. If the working **fails**, he opens her the length of her body with a barbed knife and something tainted is left in the wound: she lives only if somebody reaches her in the first minutes, and then she is frightened of a face three men in the city wear. If the working **takes**, a lesser pleasure demon is seated in her: she is bright, pliant and wrong, she wants to go to the Baron's barge, and the thing inside her keeps asking for the window to be opened. Either way she is the clearest living proof of what he did, and -- if she is ever herself enough to stand and speak -- a witness who can **swear over still water**, which in this realm is worth more than any quantity of parchment. None of this is true yet.",
   "characteristics": {
     "STR": 9,
     "CON": 11,
@@ -136,7 +136,7 @@
   ],
   "passions": {
     "Cling to her own identity": 60,
-    "Terror of 'Lord Santo'": 55
+    "Count down to the year she gets to stop": 55
   },
   "combat_styles": {
     "Desperate struggle (dagger, claw)": 45
@@ -148,9 +148,9 @@
     "class": "Courtesan (noncombatant)",
     "game_system": "Classic Fantasy",
     "character_type": "Supporting Character (victim / potential ally)",
-    "role": "Elven courtesan at The Sylph's Embrace who survived Santo di Teufel's botched binding ritual and is partially possessed by a lesser pleasure demon.",
-    "possession": "Healing interrupted [[santo-di-teufel]]'s ritual before full possession. She suffers strange behaviors, speaks in bestial voices, and occasionally asks for 'Lord Santo.' The demon can surge: brief unnatural strength (treat as STR 16 for one action, claws 1d3) and frightening presence, then she collapses, distraught.",
-    "significance": "Living evidence of Santo's crime; her interrupted binding is the key to developing a counter-ritual. A potential ally if her possession can be reversed.",
+    "role": "Elven courtesan at The Sylph's Embrace, and the object of Santo di Teufel's stolen-scroll working on the first night: cut open and tainted if it fails, carrying a seated pleasure demon if it takes.",
+    "possession": "If the working takes, a lesser pleasure demon is seated in her: she is willing, bright and wrong, wants to go to the barge, and keeps asking for the window to be opened. If it fails, the wound is tainted by whatever answered the invitation. Either way the thing can surge: brief unnatural strength (treat as STR 16 for one action, claws 1d3) and frightening presence, then she collapses, distraught.",
+    "significance": "Living evidence of Santo's crime, and a witness who can swear over still water if she is ever herself. Drawing a seated spirit out of her needs the binding school or a powerful Dispel Magic.",
     "magic_tradition": "None of her own; the demon-taint is an affliction, not a learned tradition.",
     "source": "GM-authored from source lore (The Partially Possessed Courtesan)",
     "pronouns": "she/her"
