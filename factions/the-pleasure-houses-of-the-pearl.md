@@ -15,9 +15,9 @@ The entertainment trade of Purewater's pleasure district is no loose collection 
 
 Tourney week is the richest fortnight of the year and this one has gone wrong before it started. Twenty-five Dragon Knights are drinking on the Pearl at night with no watch worth the name, and the houses are absorbing it because complaining is bad for trade. Two girls have been hurt already in ways that got settled quietly with money.
 
-**Then a di Teufel offers to buy a woman outright**, is refused in Constantine's own hall, and comes back that night with a knife. See *An offer for the girl* and *Santo carves Emmeralda*.
+**Then a young man with no name buys Emmeralda's evening at the Sylph's Embrace** and works a stolen scroll on her in the night: he walks her out of the house with something seated in her, or he opens her with a knife and runs. He is a di Teufel, and the Pearl finds out which one when he loses his temper with fire on the quay. See *Santo buys her evening*, *Santo's working* and *Santo's tantrum on the Pearl street*.
 
-**When that happens** -- and it is a beat, not a certainty; the party may be standing in it -- Marisette's response is total and immediate: **all services rescinded for the entire di Teufel retinue, enforced city-wide**, and she will pay [[Crowbill]] a princely sum to guarantee it. That is a courtesan network declaring economic war on a baron in a city where his men outnumber the watch. It is also the single loudest thing that happens before the Tourney, and it puts the Pearl in the Baron's way for the rest of the campaign.
+**When that happens** -- and it is a beat, not a certainty; the party may be standing in it -- Marisette's response is total and immediate: **every house on the Pearl shut to the entire di Teufel retinue, and only to them**, and she will pay [[Crowbill]] a princely sum to guarantee it. That is a courtesan network declaring economic war on a baron in a city where his men outnumber the watch. It is also the single loudest thing that happens before the Tourney, and it puts the Pearl in the Baron's way for the rest of the campaign.
 
 ## The door
 

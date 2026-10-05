@@ -22,7 +22,7 @@ And there, in the queue, is the woman from the dream. Wolf and all.
 
 **What you know.** Purewater a little, from years ago -- enough to know which
 madames rent rooms to women travelling alone and which ones ask questions. The
-Sylph's Embrace on the Pearl is Constantine's house; he is decent, and he has
+Sylph's Embrace on the Pearl is Constantine's house; she is decent, and she has
 beds.
 
 **What you do not know.** Why Hel wants you here. The dream said "lay the dragon
