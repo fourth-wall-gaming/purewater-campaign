@@ -73,7 +73,8 @@ which is correct.
 | `skills/` | `skills/purewater/SKILL.md` — what the engine needs to know about this campaign |
 | `hooks/` | The SessionStart hook that reports the state of the save |
 | `scripts/` | `engine.sh` (finds the engine) and `session-start.sh` |
-| `tests/` | `test_seed.py` — the seed stays a seed, and the docs stay true |
+| `guide/` | The Games Master's guide: hand-written chapters, the build script, templates and stylesheet |
+| `tests/` | `test_seed.py` — the seed stays a seed, and the docs stay true; `test_guide.py` — the guide stays complete |
 
 `knowledge.json` at the root holds who knows which fact, how, and since when.
 
@@ -253,7 +254,7 @@ gm check-consistency
 ### Tests
 
 ```bash
-uv run --with pytest pytest -q tests/
+uv run --with pytest --with pyyaml --with pillow pytest -q tests/
 ```
 
 `test_seed.py` holds the seed to being a seed — clock 52, session 0, one journal
@@ -262,12 +263,53 @@ to telling the truth: the counts in the table above match the disk, every
 documented directory exists, only one campaign id is ever offered, and the player
 briefing keeps its secrets.
 
+`test_guide.py` holds the guide to the data: every chapter in the Design
+Mechanism's house style (Games Master, Non-Player Character, characters — never
+GM, NPC, PC or "etc"), headings no deeper than four, every directive resolving,
+every beat a scene exactly once, a stat block for every character sheet and
+template, and every district and building map in the book.
+
+### The Games Master's guide
+
+The human-readable book at
+https://fourth-wall-gaming.github.io/purewater-campaign/ is built from this
+repository by `guide/build.py`, into `_site/` (ignored by git):
+
+```bash
+uv run --with pyyaml --with pillow python guide/build.py            # site + PDF
+uv run --with pyyaml --with pillow python guide/build.py --no-pdf   # site only, faster
+```
+
+It needs **pandoc** (3.10) and **Typst** (0.14). The chapters in
+`guide/chapters/` are written by hand, in house style and in the structure of a
+Design Mechanism scenario: Overview, Non-Player Characters, Key Points/Timeline,
+Areas to be Covered, Background and Introduction, Events and Locations,
+Conclusion, Non-Player Character Statistics. **Anything with a number in it
+comes from the campaign files**, through a directive on a line of its own, so a
+fix to a sheet or a beat reaches the book without being retyped:
+
+| Directive | Renders |
+|---|---|
+| `<!-- statblock: blau -->` | One sheet as a TDM stat block: major, minor, or monster for creatures and templates |
+| `<!-- statblocks: major\|minor\|pcs\|creatures\|templates -->` | Every sheet of that kind |
+| `<!-- beat: santo-s-working -->` | The scene card: when, where, who, trigger, needs, agenda |
+| `<!-- map: districts/pearl -->` | The finished sheet, downsized for the web, with its numbered key from `labels.yaml` |
+| `<!-- timeline -->`, `<!-- agendas -->`, `<!-- roster -->`, `<!-- areas -->` | Tables and lists from the beats, agendas, sheets and locations |
+| `<!-- lore: lore/...md -->` | A lore entry, boxed, as a handout |
+| `<!-- box -->` … `<!-- endbox -->` | Boxed text |
+
+Text from the data was written for the engine and says GM, PC and NPC;
+`guide/house.py` normalises it on the way in. `.github/workflows/guide.yml`
+runs the tests and builds the guide on every pull request, and publishes it to
+Pages on every push to `main`.
+
 ### Editing the plot
 
 The beats are the catalogue and `setting/the-story.md` is the plan. **Every beat
 appears in `the-story.md` exactly once.** A new beat needs a frontmatter `id` of
 the form `myth-beat-<12 hex>`, a `when` (opportunity beats still need a backstop
-time, because `add-beat` will not take one without), and a row in the plan.
+time, because `add-beat` will not take one without), a row in the plan, and a scene in the guide (`<!-- beat: slug -->` in the
+right chapter of `guide/chapters/`).
 Agendas take `myth-agenda-<12 hex>`. Update the counts above and in
 `commands/start.md`, `skills/purewater/SKILL.md`, `.claude-plugin/plugin.json`
 and the seed note in `journal/events.json`.

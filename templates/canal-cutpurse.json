@@ -141,7 +141,8 @@
       "range": "10/40/80",
       "notes": "Stun Location",
       "ap_hp": "1/2",
-      "effects": "Stun Location"
+      "effects": "Stun Location",
+      "force": "L"
     }
   ],
   "combat_styles": {

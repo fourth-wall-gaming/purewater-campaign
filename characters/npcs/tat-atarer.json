@@ -161,7 +161,8 @@
       "range": "15/125/250",
       "notes": "Impale",
       "ap_hp": "4/5",
-      "effects": "Impale"
+      "effects": "Impale",
+      "force": "H"
     },
     {
       "name": "Han-kyu (short bow)",
@@ -170,7 +171,8 @@
       "range": "5/25/50",
       "notes": "Impale",
       "ap_hp": "4/4",
-      "effects": "Impale"
+      "effects": "Impale",
+      "force": "L"
     },
     {
       "name": "Light armor (all locations)",
