@@ -115,6 +115,24 @@
   "equipment": [
     {
       "name": "Councillor's chain, not often worn lately"
+    },
+    {
+      "name": "Walking stick (club)",
+      "damage": "1d6",
+      "size": "M",
+      "reach": "M",
+      "notes": "Bash, Stun Location",
+      "ap_hp": "4/4",
+      "effects": "Bash, Stun Location"
+    },
+    {
+      "name": "Knife",
+      "damage": "1d3",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed, Impale",
+      "ap_hp": "5/4",
+      "effects": "Bleed, Impale"
     }
   ],
   "passions": {
@@ -123,7 +141,9 @@
     "A good name, three generations old": 55,
     "Wine, lately": 45
   },
-  "combat_styles": {},
+  "combat_styles": {
+    "Old man's stick (walking stick, knife)": 24
+  },
   "spells": null,
   "extras": {
     "gender": "male",

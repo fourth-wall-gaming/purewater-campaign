@@ -132,14 +132,18 @@
       "damage": "1d8",
       "size": "M",
       "reach": "L",
-      "notes": "Bleed, Impale; courtly fencing"
+      "notes": "Bleed, Impale; courtly fencing",
+      "ap_hp": "5/8",
+      "effects": "Impale"
     },
     {
       "name": "Parrying dagger",
       "damage": "1d4+1",
       "size": "S",
       "reach": "S",
-      "notes": "Bleed, Impale"
+      "notes": "Bleed, Impale",
+      "ap_hp": "6/10",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Fine doublet (no real armor)",

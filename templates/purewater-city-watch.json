@@ -120,21 +120,27 @@
       "damage": "1d8+1",
       "size": "M",
       "reach": "L",
-      "notes": "Impale"
+      "notes": "Impale",
+      "ap_hp": "4/5",
+      "effects": "Impale"
     },
     {
       "name": "Cudgel",
       "damage": "1d6",
       "size": "M",
       "reach": "S",
-      "notes": "Stun Location"
+      "notes": "Stun Location",
+      "ap_hp": "4/4",
+      "effects": "Bash, Stun Location"
     },
     {
       "name": "Buckler",
       "damage": "1d3",
       "size": "S",
       "reach": "S",
-      "notes": "Passive Block"
+      "notes": "Passive Block",
+      "ap_hp": "6/9",
+      "effects": "Bash, Stun Location"
     },
     {
       "name": "Leather & helm (all locations)",

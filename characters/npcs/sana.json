@@ -120,13 +120,25 @@
       "current_hp": 5
     }
   ],
-  "equipment": [],
+  "equipment": [
+    {
+      "name": "Quarterstaff",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Stun Location",
+      "ap_hp": "4/8",
+      "effects": "Stun Location"
+    }
+  ],
   "passions": {
     "Love (my aunt Nerissa)": 75,
     "Notice what nobody else notices": 65,
     "Bettan did my hair and I said thank you": 60
   },
-  "combat_styles": {},
+  "combat_styles": {
+    "Temple acolyte (quarterstaff)": 30
+  },
   "spells": null,
   "extras": {
     "gender": "female",

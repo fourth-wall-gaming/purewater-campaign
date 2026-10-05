@@ -132,21 +132,26 @@
       "damage": "1d6",
       "size": "S",
       "reach": "S",
-      "notes": "Bleed, Impale"
+      "notes": "Bleed, Impale",
+      "ap_hp": "5/4",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Cudgel (club)",
       "damage": "1d6",
       "size": "M",
       "reach": "S",
-      "notes": "Stun Location; subdual"
+      "notes": "Stun Location; subdual",
+      "ap_hp": "4/4",
+      "effects": "Bash, Stun Location"
     },
     {
       "name": "Knuckledusters",
       "damage": "1d3+1d2",
       "size": "S",
       "reach": "S",
-      "notes": "Unarmed; Bash"
+      "notes": "Unarmed; Bash",
+      "ap_hp": "-"
     },
     {
       "name": "Leather jerkin (all locations)",

@@ -132,21 +132,27 @@
       "damage": "1d4+1",
       "size": "S",
       "reach": "S",
-      "notes": "Bleed, Impale; throwable"
+      "notes": "Bleed, Impale; throwable",
+      "ap_hp": "6/8",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Sap (cosh)",
       "damage": "1d6",
       "size": "S",
       "reach": "S",
-      "notes": "Stun Location; subdual"
+      "notes": "Stun Location; subdual",
+      "ap_hp": "4/4",
+      "effects": "Bash, Stun Location"
     },
     {
       "name": "Sling",
       "type": "ranged",
       "damage": "1d8",
       "range": "10/150/300",
-      "notes": "Stun"
+      "notes": "Stun",
+      "ap_hp": "1/2",
+      "effects": "Stun Location"
     },
     {
       "name": "Leather jerkin (all locations)",

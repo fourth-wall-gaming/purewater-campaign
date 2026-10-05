@@ -128,34 +128,60 @@
       "damage": "1d8",
       "size": "M",
       "reach": "L",
-      "notes": "Bleed, Impale"
+      "notes": "Bleed, Impale",
+      "ap_hp": "6/12",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Rapier",
       "damage": "1d8",
       "size": "M",
       "reach": "L",
-      "notes": "Impale"
+      "notes": "Impale",
+      "ap_hp": "5/8",
+      "effects": "Impale"
     },
     {
       "name": "Dagger",
       "damage": "1d4+1",
       "size": "S",
       "reach": "S",
-      "notes": "Bleed, Impale"
+      "notes": "Bleed, Impale",
+      "ap_hp": "6/8",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Kite Shield",
       "damage": "1d4",
       "size": "H",
       "reach": "S",
-      "notes": "Bash, Stun Location, Passive Block 4 locations"
+      "notes": "Bash, Stun Location, Passive Block 4 locations",
+      "ap_hp": "4/15",
+      "effects": "Bash, Stun Location"
     },
     {
       "name": "Full Plate (all locations)",
       "armor": true,
       "ap": 8,
       "notes": "AP 8 each location; armor penalty -10"
+    },
+    {
+      "name": "Composite longbow",
+      "damage": "1d8",
+      "size": "H",
+      "reach": "50/400/800",
+      "notes": "Impale; her signature weapon",
+      "ap_hp": "4/8",
+      "effects": "Impale"
+    },
+    {
+      "name": "Shortspear (javelin)",
+      "damage": "1d8+1",
+      "size": "M",
+      "reach": "L",
+      "notes": "Impale; thrown 30/45/90 -- the Lakelady's Javelin",
+      "ap_hp": "4/5",
+      "effects": "Impale"
     }
   ],
   "passions": {
@@ -179,7 +205,7 @@
     "magic_tradition": null,
     "armor": "Full Plate on all 7 locations (AP 8 each); armor penalty -10",
     "data_cleanup_note": "EXCLUDED as held-over template/download error (NOT Temerach's real data, per operator): all magic -- Folk Magic spells (Bladesharp, Fireblade, Disruption, etc.), Theism miracles (Turn Undead, Sever Spirit, Bind Ghost, Truesword, Consecrate, Excommunicate, etc.), Humakt Gifts, Allied Spirit (Humakt), Spirit Combat (Binding 81); the magic professional skills (Binding, Devotion, Exhort, Folk Magic); and the 'Detect Assassin' passions. She is a straight Fighter.",
-    "sheet_notes": "Roll20 sheet did not display Luck Points (luck_points 3 derived from POW 16); no bow appeared in the weapon list though lore/operator make her a signature archer -- bow stats not captured.",
+    "sheet_notes": "Bow and javelin added 2026-10-05 from the Classic Fantasy equipment tables; the Roll20 sheet never captured them.",
     "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
     "power_note": "Intentionally high-powered elite NPC knight; skills restored to the original sheet values per operator. The only removed material is magic (see data_cleanup_note).",
     "gender": "female",

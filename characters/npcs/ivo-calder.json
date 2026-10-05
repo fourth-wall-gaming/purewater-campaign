@@ -124,6 +124,15 @@
       "name": "The original reading",
       "type": "document",
       "notes": "His own working notes from six weeks ago, in his own hand, showing the fouling as real and its bearing as north-north-east from the Baron's pier. He did not destroy them. He has moved them twice."
+    },
+    {
+      "name": "Tool-knife",
+      "damage": "1d3",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed, Impale",
+      "ap_hp": "5/4",
+      "effects": "Bleed, Impale"
     }
   ],
   "passions": {
@@ -132,7 +141,9 @@
     "Awe of being let into the room": 60,
     "The guild, and his place in it": 55
   },
-  "combat_styles": {},
+  "combat_styles": {
+    "Guild instruments (tool-knife)": 30
+  },
   "spells": {
     "arcane": [
       "Detect Magic",

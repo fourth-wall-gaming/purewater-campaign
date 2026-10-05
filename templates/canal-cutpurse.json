@@ -121,21 +121,27 @@
       "damage": "1d4+1",
       "size": "S",
       "reach": "S",
-      "notes": "Bleed, Impale; throwable"
+      "notes": "Bleed, Impale; throwable",
+      "ap_hp": "6/8",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Sap",
       "damage": "1d6",
       "size": "S",
       "reach": "S",
-      "notes": "Stun Location"
+      "notes": "Stun Location",
+      "ap_hp": "4/4",
+      "effects": "Bash, Stun Location"
     },
     {
       "name": "Sling",
       "type": "ranged",
       "damage": "1d8",
       "range": "10/40/80",
-      "notes": "Stun Location"
+      "notes": "Stun Location",
+      "ap_hp": "1/2",
+      "effects": "Stun Location"
     }
   ],
   "combat_styles": {

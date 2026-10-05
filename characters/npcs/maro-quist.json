@@ -122,6 +122,15 @@
       "name": "Ember Society subscription card",
       "type": "document",
       "notes": "Eleven dinners a year. Third name on a list of sixty. He has attended three and found the wine poor. Damning-looking and almost meaningless -- which is the point."
+    },
+    {
+      "name": "Staff of office (quarterstaff)",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Stun Location",
+      "ap_hp": "4/8",
+      "effects": "Stun Location"
     }
   ],
   "passions": {
@@ -130,7 +139,9 @@
     "Contempt for men who are moved by money": 70,
     "A weakness for being told the age is in decline": 50
   },
-  "combat_styles": {},
+  "combat_styles": {
+    "Magistrate's staff (staff)": 20
+  },
   "spells": null,
   "extras": {
     "gender": "male",

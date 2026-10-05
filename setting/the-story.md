@@ -81,6 +81,7 @@ anything.
 |---|---|---|
 | `d-2/dawn` | [Hesper takes the look-alikes](../beats/hesper-takes-the-look-alike.md) | the city acts on the face before it acts on the truth — and takes both |
 | `d-2/dawn` | [Two men with one face](../beats/the-catacombs-two-men-one-face.md) | PIVOTAL. Interviewed side by side; somebody says *brother*; Magda and Gardwen clear them. **The party is made here** |
+| `d-2/day` | [Conall reads the room](../beats/conall-reads-the-room.md) | demon-craft is the Assay's business: he walks out of the cellar with a warrant, secures the evidence before Santo's men come for it, and writes the first lawful finding of the week |
 | `d-2/day` | [A boat taken off the water-stair](../beats/a-boat-taken-off-the-water-stair.md) | the occupation, on the water |
 | `d-2/day` | [Santo comes back for her](../beats/santo-comes-back-for-her.md) | only if the spirit took and he was stopped: a second try, by boat |
 | `d-2/day` | [Sinnit tells the Pearl it was Randall](../beats/sinnit-tells-the-pearl-it-was-randall.md) | cleared in a cellar, accused on every stair: Randall's home ground cools under him |

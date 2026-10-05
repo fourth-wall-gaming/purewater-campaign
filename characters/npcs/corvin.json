@@ -54,7 +54,7 @@
         1,
         3
       ],
-      "ap": 0,
+      "ap": 3,
       "hp": 6,
       "current_hp": 6
     },
@@ -64,7 +64,7 @@
         4,
         6
       ],
-      "ap": 0,
+      "ap": 3,
       "hp": 6,
       "current_hp": 6
     },
@@ -74,7 +74,7 @@
         7,
         9
       ],
-      "ap": 0,
+      "ap": 3,
       "hp": 7,
       "current_hp": 7
     },
@@ -84,7 +84,7 @@
         10,
         12
       ],
-      "ap": 0,
+      "ap": 3,
       "hp": 8,
       "current_hp": 8
     },
@@ -94,7 +94,7 @@
         13,
         15
       ],
-      "ap": 0,
+      "ap": 3,
       "hp": 5,
       "current_hp": 5
     },
@@ -104,7 +104,7 @@
         16,
         18
       ],
-      "ap": 0,
+      "ap": 3,
       "hp": 5,
       "current_hp": 5
     },
@@ -114,18 +114,62 @@
         19,
         20
       ],
-      "ap": 0,
+      "ap": 3,
       "hp": 6,
       "current_hp": 6
     }
   ],
-  "equipment": [],
+  "equipment": [
+    {
+      "name": "Longsword",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "M",
+      "notes": "Bleed, Impale",
+      "ap_hp": "6/12",
+      "effects": "Bleed, Impale"
+    },
+    {
+      "name": "Shortspear",
+      "damage": "1d8+1",
+      "size": "M",
+      "reach": "L",
+      "notes": "Impale; thrown",
+      "ap_hp": "4/5",
+      "effects": "Impale"
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L",
+      "reach": "S",
+      "notes": "Bash, Stun Location; Passive Block 4 locations",
+      "ap_hp": "4/12",
+      "effects": "Bash, Stun Location"
+    },
+    {
+      "name": "Longbow",
+      "damage": "1d8",
+      "size": "H",
+      "reach": "45/375/750",
+      "notes": "Impale",
+      "ap_hp": "4/7",
+      "effects": "Impale"
+    },
+    {
+      "name": "Mail and leather (all locations)",
+      "armor": true,
+      "ap": 3
+    }
+  ],
   "passions": {
     "Earn the white belt of the Swords of the Lake": 70,
     "Do what the Mother tells me, exactly": 65,
     "Do not be sick in front of anybody again": 40
   },
-  "combat_styles": {},
+  "combat_styles": {
+    "Sword of the Lake (longsword, shortspear, round shield, longbow)": 62
+  },
   "spells": null,
   "extras": {
     "gender": "male",

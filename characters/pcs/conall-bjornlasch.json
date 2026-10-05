@@ -137,7 +137,9 @@
       "notes": "Impale",
       "ap": 5,
       "hp": 8,
-      "enc": 1
+      "enc": 1,
+      "ap_hp": "5/8",
+      "effects": "Impale"
     },
     {
       "name": "Buckler",
@@ -147,7 +149,9 @@
       "notes": "Bash, Stun Location",
       "ap": 6,
       "hp": 9,
-      "enc": 1
+      "enc": 1,
+      "ap_hp": "6/9",
+      "effects": "Bash, Stun Location"
     },
     {
       "name": "Short bow",
@@ -160,7 +164,9 @@
       "notes": "Impale",
       "ap": 4,
       "hp": 4,
-      "enc": 1
+      "enc": 1,
+      "ap_hp": "4/4",
+      "effects": "Impale"
     },
     {
       "name": "Gambeson (all locations)",

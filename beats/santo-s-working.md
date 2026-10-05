@@ -75,7 +75,8 @@ He left in a panic either way and took nothing:
   the di Teufel crest under the collar.
 
 Whatever is not taken tonight is still there in the morning -- and so is the man
-who wants it back.
+who wants it back. The first person with the standing to search it properly is
+Conall, with the King's Assay's warrant (*Conall reads the room*).
 
 **Offscreen** (no PC in the house): Magda and Gardwen are still there as NPCs,
 and it goes the same way. Either way Marisette's clock starts, and the hunt for

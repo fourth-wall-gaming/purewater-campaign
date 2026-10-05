@@ -140,7 +140,9 @@
       "notes": "Stun Location",
       "ap": 2,
       "hp": 8,
-      "enc": 2
+      "enc": 2,
+      "ap_hp": "4/8",
+      "effects": "Stun Location"
     },
     {
       "name": "Dagger",
@@ -150,7 +152,9 @@
       "notes": "Bleed / Impale",
       "ap": 6,
       "hp": 8,
-      "enc": 0
+      "enc": 0,
+      "ap_hp": "6/8",
+      "effects": "Bleed, Impale"
     }
   ],
   "passions": {

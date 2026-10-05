@@ -77,7 +77,7 @@
         7,
         9
       ],
-      "ap": 0,
+      "ap": 4,
       "hp": 7,
       "current_hp": 7
     },
@@ -87,7 +87,7 @@
         10,
         12
       ],
-      "ap": 0,
+      "ap": 4,
       "hp": 8,
       "current_hp": 8
     },
@@ -128,14 +128,18 @@
       "damage": "1d8",
       "size": "M",
       "reach": "L",
-      "notes": "Bleed, Impale"
+      "notes": "Bleed, Impale",
+      "ap_hp": "6/10",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Dagger",
       "damage": "1d4+1",
       "size": "S",
       "reach": "S",
-      "notes": "Bleed, Impale"
+      "notes": "Bleed, Impale",
+      "ap_hp": "6/8",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Nobleman's cuirass (chest, abdomen)",
