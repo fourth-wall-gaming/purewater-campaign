@@ -106,8 +106,9 @@ def cross(d, x, y, r, halo):
     d.rectangle([x - 0.16 * r, y - 0.16 * r, x + 0.16 * r, y + 0.16 * r], fill=INK)
 
 
-TYPES = ("place", "amenity", "watch")
-HEADINGS = {"place": "Places", "amenity": "Taverns & amenities", "watch": "The watch"}
+TYPES = ("place", "amenity", "watch", "entrance")
+HEADINGS = {"place": "Places", "amenity": "Taverns & amenities", "watch": "The watch",
+            "entrance": "Ways in"}
 
 
 def ordered(sites):
@@ -124,6 +125,13 @@ def mark(d, kind, x, y, r, halo):
         d.ellipse([x - R - halo, y - R - halo, x + R + halo, y + R + halo], fill=PAPER)
         d.ellipse([x - R, y - R, x + R, y + R], fill=INK)
         d.ellipse([x - R * 0.38, y - R * 0.38, x + R * 0.38, y + R * 0.38], fill=PAPER)
+    elif kind == "entrance":
+        # a black triangle with a paper heart: a way down
+        R = r * 0.85
+        tri = lambda q: [(x, y - q), (x + q, y + q * 0.8), (x - q, y + q * 0.8)]
+        d.polygon(tri(R + halo * 1.4), fill=PAPER)
+        d.polygon(tri(R), fill=INK)
+        d.polygon(tri(R * 0.4), fill=PAPER)
     else:
         # a square within a square: a watch post
         R = r * 0.7
@@ -133,12 +141,12 @@ def mark(d, kind, x, y, r, halo):
         d.rectangle([x - R * 0.2, y - R * 0.2, x + R * 0.2, y + R * 0.2], fill=INK)
 
 
-def panel(d, box, W):
+def panel(d, box, U):
     """A parchment panel with the master's double ruled border."""
     x0, y0, x1, y1 = box
-    t = max(2, round(W * 0.0012))
+    t = max(2, round(U * 0.0012))
     d.rectangle(box, fill=PAPER, outline=INK, width=t * 2)
-    g = round(W * 0.004)
+    g = round(U * 0.004)
     d.rectangle([x0 + g, y0 + g, x1 - g, y1 - g], outline=INK, width=t)
 
 
@@ -146,9 +154,10 @@ def cmd_label(render):
     s = spec()
     img = Image.open(render).convert("RGB")
     W, H = img.size
+    U = max(W, H)  # sizes follow the long side, so a portrait sheet's marks are not tiny
     d = ImageDraw.Draw(img)
-    halo = max(2, round(W * 0.003))
-    f = lambda k: ImageFont.truetype(FONT, max(10, round(W * k)))
+    halo = max(2, round(U * 0.003))
+    f = lambda k: ImageFont.truetype(FONT, max(10, round(U * k)))
 
     # areas: lettered where they lie
     for lb in s.get("areas", []):
@@ -158,8 +167,8 @@ def cmd_label(render):
     # with its own mark: places (cross), taverns and amenities (disc), and the
     # watch (square). Numbered in that order, so the key reads in sections.
     sites = ordered(s["sites"])
-    r = round(W * 0.0075)
-    nf = ImageFont.truetype(DIGITS, round(W * 0.015))
+    r = round(U * 0.0075)
+    nf = ImageFont.truetype(DIGITS, round(U * 0.015))
     for n, lb in enumerate(sites, 1):
         x, y = lb["x"] * W, lb["y"] * H
         mark(d, lb.get("type", "place"), x, y, r, halo)
@@ -172,9 +181,9 @@ def cmd_label(render):
     t = s["title"]
     tf, sf = f(t.get("size", 0.034)), f(t.get("size", 0.034) * 0.38)
     tw = sum(tf.getlength(c) for c in t["text"].upper()) + tf.size * 0.16 * (len(t["text"]) - 1)
-    pw, ph = tw + W * 0.05, tf.size * 2.6
+    pw, ph = tw + U * 0.05, tf.size * 2.6
     x0, y0 = t["x"] * W, t["y"] * H
-    panel(d, [x0, y0, x0 + pw, y0 + ph], W)
+    panel(d, [x0, y0, x0 + pw, y0 + ph], U)
     tracked(d, (x0 + pw / 2, y0 + ph * 0.40), t["text"], tf, "mm", 0)
     if t.get("subtitle"):
         tracked(d, (x0 + pw / 2, y0 + ph * 0.76), t["subtitle"], sf, "mm", 0)
@@ -195,26 +204,26 @@ def cmd_label(render):
     ncol = k.get("columns", 1)
     per = -(-len(rows) // ncol)
     cols = [rows[i * per:(i + 1) * per] for i in range(ncol)]
-    colw = max(kf.getlength(f"{len(sites)}.  " + r_[3].upper()) * 1.17 + W * 0.06
+    colw = max(kf.getlength(f"{len(sites)}.  " + r_[3].upper()) * 1.17 + U * 0.06
                for r_ in rows if r_[0] == "item")
-    kw = colw * ncol + W * 0.01 * (ncol - 1)
+    kw = colw * ncol + U * 0.01 * (ncol - 1)
     kh = line * (per + 1.6)
     # anchored at the bottom: the key grows upward as sites are added
     x0 = k["x"] * W
     y0 = k["top"] * H if "top" in k else H * (1 - k["bottom"]) - kh
-    panel(d, [x0, y0, x0 + kw, y0 + kh], W)
+    panel(d, [x0, y0, x0 + kw, y0 + kh], U)
     tracked(d, (x0 + kw / 2, y0 + line * 0.85), "Key", kf, "mm", 0, tracking=0.4)
     for c, col in enumerate(cols):
-        cx = x0 + c * (colw + W * 0.01)
+        cx = x0 + c * (colw + U * 0.01)
         for i, row in enumerate(col, 1):
             cy = y0 + line * (i + 0.9)
             if row[0] == "head":
-                tracked(d, (cx + W * 0.016, cy), row[1], f(k.get("size", 0.0112) * 0.82), "lm", 0, tracking=0.3)
+                tracked(d, (cx + U * 0.016, cy), row[1], f(k.get("size", 0.0112) * 0.82), "lm", 0, tracking=0.3)
                 continue
             _, n, t, name = row
-            mark(d, t, cx + W * 0.022, cy, kf.size * 0.42, 0)
-            d.text((cx + W * 0.0455, cy), "%d." % n, font=df, fill=INK, anchor="rm")
-            tracked(d, (cx + W * 0.050, cy), name, kf, "lm", 0, tracking=0.12)
+            mark(d, t, cx + U * 0.022, cy, kf.size * 0.42, 0)
+            d.text((cx + U * 0.0455, cy), "%d." % n, font=df, fill=INK, anchor="rm")
+            tracked(d, (cx + U * 0.050, cy), name, kf, "lm", 0, tracking=0.12)
 
     root, _ = os.path.splitext(render)
     out = root + "-labelled.png"

@@ -32,7 +32,7 @@ campaign format (v1.1).
 
 | Contents | Count |
 |---|---|
-| Lore entries | 26 |
+| Lore entries | 27 |
 | Characters | 42 (playable: Conall Bjornlasch, Gardwen, Magda, Randall) |
 | Creature templates | 4 |
 | Locations | 22 |
@@ -110,6 +110,7 @@ concrete things those goals produce, scheduled against the world clock. Run
 - [GM Guide: Supporting and Offscreen Cast](lore/gm-guide/gm-guide-supporting-and-offscreen-cast.md) *(GM only)*
 - [The DragonBarge: deck plan](lore/gm-guide/gm-guide-the-dragonbarge-deck-plan.md) *(GM only)*
 - [The Governor's council](lore/gm-guide/gm-guide-the-governor-s-council.md) *(GM only)*
+- [The Catacombs: where they run](lore/gm-guide/gm-guide-the-catacombs.md) *(GM only)*
 
 **gm-secret**
 - [GM Secrets: The Possession Scheme](lore/gm-secret/gm-secrets-the-possession-scheme.md) *(GM only)*

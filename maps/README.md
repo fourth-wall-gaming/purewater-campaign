@@ -21,6 +21,10 @@ Mermaid's Court and the Catacombs never are).
 | [The North Quarter](grandcanal/the-north-quarter.jpg) | `grandcanal/` | the North Quarter, the Palazzo, the Grand Canal and its ferries | `high-isle.md` |
 | [The Merchant's Quarter](merchants/the-merchants-quarter.jpg) | `merchants/` | Market Square, the guildhalls, the councillors' palazzi, the cut and its bridges | `the-merchant-s-quarter.md` |
 
+**GM only:** `catacombs/` holds the plan of what runs underneath the city: an
+overlay on this map and the requests for redrawing it. It is never shown to
+players; see `catacombs/README.md`.
+
 Not yet drawn: the outlying isles (Lost Isle, the Singer's Rest, Northlight) and
 the country beyond the city (the Vantt Estate, the Ford and the Ashwick Road).
 
