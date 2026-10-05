@@ -136,7 +136,9 @@
       "reach": "L",
       "ap": 4,
       "hp": 8,
-      "enc": 3
+      "enc": 3,
+      "ap_hp": "4/8",
+      "effects": "Stun Location"
     },
     {
       "name": "Staff Sling",
@@ -148,7 +150,9 @@
       "notes": "Stun Location",
       "ap": 3,
       "hp": 6,
-      "enc": 2
+      "enc": 2,
+      "ap_hp": "1/2",
+      "effects": "Stun Location"
     },
     {
       "name": "Ringmail (all locations)",

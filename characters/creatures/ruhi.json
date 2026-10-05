@@ -129,7 +129,8 @@
       "size": "S",
       "reach": "T",
       "ap": 1,
-      "hp": 4
+      "hp": 4,
+      "ap_hp": "-"
     },
     {
       "name": "Pelt (natural armor, all locations)",

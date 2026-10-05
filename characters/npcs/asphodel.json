@@ -127,7 +127,9 @@
       "damage": "1d4+1",
       "size": "S",
       "reach": "S",
-      "notes": "Bleed, Impale; kept for self-defense"
+      "notes": "Bleed, Impale; kept for self-defense",
+      "ap_hp": "6/8",
+      "effects": "Bleed, Impale"
     }
   ],
   "passions": {

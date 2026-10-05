@@ -126,28 +126,36 @@
       "damage": "1d8",
       "size": "M",
       "reach": "L",
-      "notes": "Bleed, Impale"
+      "notes": "Bleed, Impale",
+      "ap_hp": "6/12",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Spear",
       "damage": "1d8+1",
       "size": "M",
       "reach": "L",
-      "notes": "Impale"
+      "notes": "Impale",
+      "ap_hp": "4/5",
+      "effects": "Impale"
     },
     {
       "name": "Short Bow",
       "type": "ranged",
       "damage": "1d8",
       "range": "5/40/80",
-      "notes": "Impale"
+      "notes": "Impale",
+      "ap_hp": "4/4",
+      "effects": "Impale"
     },
     {
       "name": "Round Shield",
       "damage": "1d4",
       "size": "L",
       "reach": "S",
-      "notes": "Passive Block"
+      "notes": "Passive Block",
+      "ap_hp": "4/12",
+      "effects": "Bash, Stun Location"
     },
     {
       "name": "Mail & leather (all locations)",

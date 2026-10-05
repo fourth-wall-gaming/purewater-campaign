@@ -132,14 +132,18 @@
       "damage": "1d8",
       "size": "M",
       "reach": "L",
-      "notes": "Impale (damage not filled on sheet; CFI standard used)"
+      "notes": "Impale (damage not filled on sheet; CFI standard used)",
+      "ap_hp": "5/8",
+      "effects": "Impale"
     },
     {
       "name": "Ritual knife (soul-knife, symbol of Asmodeus)",
       "size": "S",
       "damage": "1d4",
       "reach": "S",
-      "notes": "Demonologist's binding knife, stolen from his father's effects. He carries it on his belt. If a binding goes wrong he is likely to leave it behind -- it is the key evidence tying the di Teufels to the possession scheme."
+      "notes": "Demonologist's binding knife, stolen from his father's effects. He carries it on his belt. If a binding goes wrong he is likely to leave it behind -- it is the key evidence tying the di Teufels to the possession scheme.",
+      "ap_hp": "6/8",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Scroll of Seat the Bound (one use)",

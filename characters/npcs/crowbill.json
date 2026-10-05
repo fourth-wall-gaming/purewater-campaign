@@ -125,14 +125,18 @@
       "damage": "1d4+1",
       "size": "S",
       "reach": "S",
-      "notes": "Bleed, Impale"
+      "notes": "Bleed, Impale",
+      "ap_hp": "5/4",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Hand crossbow",
       "type": "ranged",
       "damage": "1d6",
       "range": "5/20/40",
-      "notes": "Impale"
+      "notes": "Impale",
+      "ap_hp": "4/5",
+      "effects": "Impale"
     },
     {
       "name": "Leather armor (all locations)",

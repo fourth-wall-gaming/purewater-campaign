@@ -68,7 +68,7 @@ tell this one wrong.
   the closing). Time is an
   index; `d-3/dawn` is 52. `tick` between scenes — the living world runs whether
   anybody watches or not.
-- **Sixteen agendas on clocks and 39 beats.** `forecast` between scenes, and
+- **Sixteen agendas on clocks and 40 beats.** `forecast` between scenes, and
   `brief --id <beat>` **before narrating toward any beat**. Never narrate toward a
   beat you have not opened; the file is nearly always better than the mechanism you
   are about to invent.

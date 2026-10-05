@@ -132,35 +132,45 @@
       "damage": "1d8",
       "size": "M",
       "reach": "L",
-      "notes": "Bleed, Impale"
+      "notes": "Bleed, Impale",
+      "ap_hp": "6/12",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Dagger",
       "damage": "1d4+1",
       "size": "S",
       "reach": "S",
-      "notes": "Bleed, Impale"
+      "notes": "Bleed, Impale",
+      "ap_hp": "6/8",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Round Shield",
       "damage": "1d4",
       "size": "L",
       "reach": "S",
-      "notes": "Passive Block"
+      "notes": "Passive Block",
+      "ap_hp": "4/12",
+      "effects": "Bash, Stun Location"
     },
     {
       "name": "Recurve bow",
       "type": "ranged",
       "damage": "1d8",
       "range": "15/125/250",
-      "notes": "Impale"
+      "notes": "Impale",
+      "ap_hp": "4/5",
+      "effects": "Impale"
     },
     {
       "name": "Han-kyu (short bow)",
       "type": "ranged",
       "damage": "1d8",
       "range": "5/25/50",
-      "notes": "Impale"
+      "notes": "Impale",
+      "ap_hp": "4/4",
+      "effects": "Impale"
     },
     {
       "name": "Light armor (all locations)",

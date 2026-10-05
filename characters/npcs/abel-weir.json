@@ -124,7 +124,9 @@
       "damage": "1d6",
       "size": "M",
       "reach": "S",
-      "notes": "Not a weapon of war and he knows it."
+      "notes": "Not a weapon of war and he knows it.",
+      "ap_hp": "4/4",
+      "effects": "Bash, Stun Location"
     },
     {
       "name": "Blue-grey watch coat",

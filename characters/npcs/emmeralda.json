@@ -52,7 +52,7 @@
         1,
         3
       ],
-      "ap": 2,
+      "ap": 0,
       "hp": 5,
       "current_hp": 5
     },
@@ -62,7 +62,7 @@
         4,
         6
       ],
-      "ap": 2,
+      "ap": 0,
       "hp": 5,
       "current_hp": 5
     },
@@ -72,7 +72,7 @@
         7,
         9
       ],
-      "ap": 2,
+      "ap": 0,
       "hp": 6,
       "current_hp": 6
     },
@@ -82,7 +82,7 @@
         10,
         12
       ],
-      "ap": 2,
+      "ap": 0,
       "hp": 7,
       "current_hp": 7
     },
@@ -92,7 +92,7 @@
         13,
         15
       ],
-      "ap": 2,
+      "ap": 0,
       "hp": 4,
       "current_hp": 4
     },
@@ -102,7 +102,7 @@
         16,
         18
       ],
-      "ap": 2,
+      "ap": 0,
       "hp": 4,
       "current_hp": 4
     },
@@ -112,7 +112,7 @@
         19,
         20
       ],
-      "ap": 2,
+      "ap": 0,
       "hp": 5,
       "current_hp": 5
     }
@@ -123,12 +123,15 @@
       "damage": "1d4+1",
       "size": "S",
       "reach": "S",
-      "notes": "Bleed, Impale"
+      "notes": "Bleed, Impale",
+      "ap_hp": "6/8",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Demon-surge (involuntary)",
       "damage": "1d3 + bestial strength",
-      "notes": "see possession note"
+      "notes": "see possession note",
+      "ap_hp": "-"
     }
   ],
   "passions": {

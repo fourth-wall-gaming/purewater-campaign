@@ -124,6 +124,15 @@
       "name": "Locked correspondence file",
       "type": "document",
       "notes": "Four letters, none signed with a name that means anything. THE only physical evidence the Society is more than a dining club. Kept in the hired room, not at his lodgings. He burns it if the party's interest turns."
+    },
+    {
+      "name": "Dagger",
+      "damage": "1d4+1",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed, Impale",
+      "ap_hp": "6/8",
+      "effects": "Bleed, Impale"
     }
   ],
   "passions": {
@@ -132,7 +141,9 @@
     "Quiet contempt for the men he flatters": 55,
     "Self-preservation": 65
   },
-  "combat_styles": {},
+  "combat_styles": {
+    "Clerk's caution (dagger)": 25
+  },
   "spells": null,
   "extras": {
     "gender": "male",

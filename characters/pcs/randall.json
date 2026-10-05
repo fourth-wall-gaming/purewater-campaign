@@ -138,7 +138,9 @@
       "ap": 6,
       "hp": 8,
       "enc": 0,
-      "quantity": 4
+      "quantity": 4,
+      "ap_hp": "6/8",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Knife",
@@ -149,7 +151,9 @@
       "ap": 5,
       "hp": 4,
       "enc": 0,
-      "quantity": 2
+      "quantity": 2,
+      "ap_hp": "5/4",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Sling",
@@ -161,7 +165,9 @@
       "load": 3,
       "ap": 1,
       "hp": 2,
-      "enc": 0
+      "enc": 0,
+      "ap_hp": "1/2",
+      "effects": "Stun Location"
     },
     {
       "name": "Crossbow",
@@ -174,7 +180,9 @@
       "ap": 4,
       "hp": 5,
       "enc": 0,
-      "quantity": 2
+      "quantity": 2,
+      "ap_hp": "4/5",
+      "effects": "Impale"
     },
     {
       "name": "Studded Leather (all locations)",

@@ -125,21 +125,27 @@
       "damage": "1d10+1",
       "size": "L",
       "reach": "VL",
-      "notes": "Impale; ancient technique"
+      "notes": "Impale; ancient technique",
+      "ap_hp": "4/10",
+      "effects": "Impale"
     },
     {
       "name": "Composite Bow",
       "type": "ranged",
       "damage": "1d8",
       "range": "15/90/180",
-      "notes": "Impale; unnatural precision"
+      "notes": "Impale; unnatural precision",
+      "ap_hp": "4/8",
+      "effects": "Impale"
     },
     {
       "name": "Long Sword",
       "damage": "1d8",
       "size": "M",
       "reach": "L",
-      "notes": "Bleed, Impale"
+      "notes": "Bleed, Impale",
+      "ap_hp": "6/12",
+      "effects": "Bleed, Impale"
     },
     {
       "name": "Dragon-scale armor (fused, all locations)",

@@ -123,7 +123,9 @@
       "damage": "1d3",
       "size": "S",
       "reach": "S",
-      "notes": "kept for fear, not skill"
+      "notes": "kept for fear, not skill",
+      "ap_hp": "5/4",
+      "effects": "Bleed, Impale"
     }
   ],
   "passions": {

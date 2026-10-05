@@ -141,7 +141,26 @@
       "current_hp": 5
     }
   ],
-  "equipment": [],
+  "equipment": [
+    {
+      "name": "Belaying pin (club)",
+      "damage": "1d6",
+      "size": "M",
+      "reach": "S",
+      "notes": "Bash, Stun Location",
+      "ap_hp": "4/4",
+      "effects": "Bash, Stun Location"
+    },
+    {
+      "name": "Knife",
+      "damage": "1d3",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed, Impale",
+      "ap_hp": "5/4",
+      "effects": "Bleed, Impale"
+    }
+  ],
   "passions": {
     "Love (the boy)": 70,
     "Fear (the Baron)": 65,

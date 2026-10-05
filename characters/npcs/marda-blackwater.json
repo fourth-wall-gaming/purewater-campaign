@@ -125,14 +125,17 @@
       "damage": "1d8",
       "size": "L",
       "reach": "L",
-      "notes": "Bleed, Snare"
+      "notes": "Bleed, Snare",
+      "ap_hp": "4/10",
+      "effects": "Entangle, Impale, Sunder"
     },
     {
       "name": "Heavy fists / brawl",
       "damage": "1d3",
       "size": "M",
       "reach": "S",
-      "notes": "plus damage modifier"
+      "notes": "plus damage modifier",
+      "ap_hp": "-"
     },
     {
       "name": "Heavy work-leathers (all locations)",

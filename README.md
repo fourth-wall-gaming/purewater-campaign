@@ -1,34 +1,46 @@
 # And Then the Dragons Came: Purewater
 
-> **Install it and play:**
-> ```
-> /plugin marketplace add fourth-wall-gaming/mythras-gm
-> /plugin install purewater@fourth-wall-gaming
-> /mythras-gm:setup      # once per machine
-> /purewater:start
-> ```
-> That brings the [mythras-gm](https://github.com/fourth-wall-gaming/mythras-gm)
-> engine with it, imports this package, briefs you on Mythras, and walks you
-> through choosing or rolling a character.
->
-> **The marketplace is the engine repository, not this one.** This repo is a
-> *plugin*; mythras-gm carries the marketplace manifest that lists it. Adding
-> this repository as a marketplace fails with `no manifest found at
-> .claude-plugin/marketplace.json`, which is correct and expected — there is
-> deliberately one marketplace, so a campaign's dependency on the engine
-> resolves by itself.
->
-> **This repository is a scenario seed, not a save.** The root is the pristine
-> starting state — world clock `d-3/dawn`, 39 beats all pending, an empty journal,
-> four pregens offered and none chosen. Nothing here spoils it: the records of
-> four previous playthroughs live on the `playthroughs` branch and are not part
-> of a release.
+A *Classic Fantasy Imperative* scenario packaged as a campaign for the
+[mythras-gm](https://github.com/fourth-wall-gaming/mythras-gm) engine, and
+shipped as a Claude Code plugin. This README is the technical account: what the
+package is, how the engine loads and runs it, and how to work on it.
 
-A Classic Fantasy Imperative port of 'And then the Dragons Came', relocated to Purewater -- a Venice-like canal city where the sacred waters of the Lake Lady meet the sea. Baron Hanzo di Teufel arrives with his Dragon Knights for the Lake Lady's Tourney, his possessed champion concealed among them. Four strangers arrive the same week. Built as a living world: every NPC and faction runs its own agenda on a clock, and what the party does not witness happens anyway.
+**If you want to run Purewater yourself, at a table, without the engine**, you
+want the Games Master's guide instead — the plot, every scene, the maps and a full
+stat block for every Non-Player Character — published from this repository at
+**https://fourth-wall-gaming.github.io/purewater-campaign/**.
 
-A **Mythras Imperative** campaign in the
-[mythras-gm](https://github.com/fourth-wall-gaming/mythras-gm) publishable
-campaign format (v1.1).
+```
+/plugin marketplace add fourth-wall-gaming/mythras-gm
+/plugin install purewater@fourth-wall-gaming
+/mythras-gm:setup      # once per machine: TypeDB, schema, rules graph
+/purewater:start       # import the seed, choose a character, open the scene
+```
+
+---
+
+## 1. What this repository is
+
+| | |
+|---|---|
+| **Format** | `mythras-gm-campaign`, format version **1.1** (`campaign.yaml`) |
+| **System** | *Classic Fantasy Imperative*, on *Mythras Imperative* |
+| **Campaign id** | **`myth-campaign-purewater-s1`** — fixed, the same on every install |
+| **Seed state** | world clock `d-3/dawn` (`time_index` 52), session 0, every beat `pending`, one seed note in the journal, four pregens offered and none chosen |
+| **Plugin** | `purewater` — depends on `mythras-gm` (`.claude-plugin/plugin.json`) |
+
+**It is a seed, not a save.** The file tree is the *source* of a campaign. A save
+lives in TypeDB: `/purewater:start` imports this package once, and from then on
+the database is the game. Editing these files does not change a running campaign,
+and the engine never writes back to them.
+
+The marketplace is the **engine's** repository, not this one. This repository is a
+plugin; mythras-gm carries the marketplace manifest that lists it, so a campaign's
+dependency on the engine resolves by itself. Adding *this* repository as a
+marketplace fails with `no manifest found at .claude-plugin/marketplace.json`,
+which is correct.
+
+### Contents
 
 | Contents | Count |
 |---|---|
@@ -39,231 +51,243 @@ campaign format (v1.1).
 | Factions | 14 |
 | Journal events | 1 |
 | Agendas | 16 |
-| Beats | 39 |
+| Beats | 40 |
 | Facts | 17 |
 
-## Repository layout
+### Layout
 
 | Directory | Contents |
 |---|---|
-| `lore/` | The worldbook, one markdown file per entry, grouped by category |
-| `characters/` | PCs, NPCs, and creatures (full sheets + GM narratives, JSON) |
-| `templates/` | Reusable creature/NPC stat blocks (JSON) |
-| `locations/` | Places (markdown + frontmatter) |
-| `factions/` | Factions and organizations (markdown + frontmatter) |
-| `journal/` | The campaign event log (JSON) |
-| `agendas/` | What each NPC and faction wants, on a progress clock |
-| `beats/` | What happens next if nobody interferes, scheduled in world time |
-| `facts/` | Situational truth: one proposition per file, with when it became true |
-| `knowledge.json` | Who knows which fact, how, and since when |
-| `maps/` | The city map (canon), eight lettered district sheets, building plans, the realm, encounter maps and GM-only secrets; see `maps/README.md` |
+| `agendas/` | What each character or faction wants, on a progress clock (markdown + frontmatter) |
+| `beats/` | What happens next if nobody interferes, scheduled in world time (markdown + frontmatter) |
+| `characters/` | `pcs/`, `npcs/`, `creatures/` — full Mythras sheets as JSON, with prose and actor notes |
+| `templates/` | Reusable stat blocks the engine can `spawn` (Dragon Knights, the Watch, cutpurses) |
+| `locations/` | Places, with staging notes and a **Map:** line naming the sheet they appear on |
+| `factions/` | Factions and organisations |
+| `facts/` | Situational truth: one proposition per file, `not-yet-true` until play establishes it |
+| `journal/` | The event log; in the seed, one `gm-note` |
+| `lore/` | The worldbook as database-ready entries, each marked `visibility: player` or `gm` |
+| `setting/` | Long-form source: `the-story.md` (the plan), the original adventure, the worldbook books |
+| `maps/` | The city map (canon), district sheets, building plans, the realm, encounters, GM-only secrets |
+| `commands/` | The `/purewater:start` slash command |
+| `skills/` | `skills/purewater/SKILL.md` — what the engine needs to know about this campaign |
+| `hooks/` | The SessionStart hook that reports the state of the save |
+| `scripts/` | `engine.sh` (finds the engine) and `session-start.sh` |
+| `tests/` | `test_seed.py` — the seed stays a seed, and the docs stay true |
 
-## The story, for the GM
+`knowledge.json` at the root holds who knows which fact, how, and since when.
 
-*Spoilers from here down.* The plan is [`setting/the-story.md`](setting/the-story.md),
-act by act; every beat appears in it once.
+---
 
-- **`d-3`, the column.** The Baron rides in with a litter nobody may approach. A
-  guard at his stirrup calls Randall *my lord*; at dusk Randall's old enemy Sinnit
-  corners Conall in the Lullwater and calls him *Randall*. That night a nameless young man --
-  Santo -- tries to seat a lust spirit in Emmeralda at the Sylph's Embrace. The
-  dice decide whether he walks her out willing or opens her with a knife and runs,
-  and either way Magda and Gardwen see a man with a burnt hand on the stair.
-- **`d-2` to `d-1`, the city closes.** Hesper takes both twins; Magda and Gardwen
-  clear them in the catacombs, and the four become a party. Sinnit tells the
-  Pearl it was Randall anyway, and -- unless Randall apologises to him in public --
-  sells the two faces to Blau, which sets the Baron hunting his unknown sons. Santo's tantrum puts
-  fire into the house front and the Pearl closes to the Dragon Knights. At the
-  presentation the champion's helm comes off and Gardwen sees her brother.
-- **`d0`, what is in him.** Temerach wins the Archery. Gardwen boards the
-  DragonBarge by night and learns what holds Thuban: the bones, and the locket the
-  Baron takes off to sleep.
-- **`d1`, the sand and the theft.** The champion wins. That night Nus and Randall
-  take the locket from beside the sleeping Baron.
-- **`d2`, three endings.** No theft: the Baron moves Thuban into Prince Emeric by
-  the old rite and turns toward the throne. Theft, Nus unprotected: the Baron
-  burns the Lullwater, Sinnit sells Nus's hiding place, Blau kills Nus and returns the locket, the Prince is taken
-  in the room he summoned the Baron to, and Temerach's impossible shot only
-  wounds. Theft, Nus saved: with no leash on him, Thuban breaks out with the party
-  and Temerach. Every road leads to the bones in the Baron's border tower, which
-  is the next adventure.
+## 2. How the plugin finds the engine
 
-Kag ships as an NPC with **no bearing on the plot** -- Crowbill's errands and a
-hustle or two; see [`setting/kag-as-an-npc.md`](setting/kag-as-an-npc.md).
+A plugin's `${CLAUDE_PLUGIN_ROOT}` resolves to its own directory and there is no
+variable for a sibling's, so a campaign cannot name the engine it depends on.
+`scripts/engine.sh` looks for it, in order of how much it trusts the answer:
 
-The canonical full-prose worldbook sources live in [`setting/`](setting/) — see its README for the book list and audience guide. The `lore/` files below are the same material sliced into database-ready entries.
+1. **`$MYTHRAS_GM_ROOT`** — the documented escape hatch, and what CI uses.
+2. **`~/.claude/mythras-gm/engine-root`** — the pointer the engine's `init-db`
+   writes; checked, because a plugin upgrade can leave it stale.
+3. **`~/.claude/plugins/installed_plugins.json`** — where Claude Code says it put
+   the engine.
+4. **A search of the plugin trees**, which come in more than one layout.
 
-## The living world (agendas)
-
-What the world is doing while the PCs are elsewhere. Each agenda is a goal held
-by a character or faction, tracked on a clock; the `beats/` directory holds the
-concrete things those goals produce, scheduled against the world clock. Run
-`tick` between scenes to find out what has come due.
-
-- [A di Teufel who is not his](agendas/a-di-teufel-who-is-not-his.md) -- *Hanzo di Teufel* (0/6)
-- [Clean up after the young master](agendas/clean-up-after-the-young-master.md) -- *Blau* (0/6)
-- [Field the champion and take the city](agendas/field-the-champion-and-take-the-city.md) -- *Hanzo di Teufel* (2/8)
-- [Find who carved Emmeralda](agendas/find-who-carved-emmeralda.md) -- *Marisette* (0/6)
-- [Get paid, keep the company whole](agendas/get-paid-keep-the-company-whole.md) -- *Tat Atarer* (0/4)
-- [Have her](agendas/have-her.md) -- *Santo di Teufel* (0/6)
-- [Hold the streets as if we own them](agendas/hold-the-streets-as-if-we-own-them.md) -- *The Dragon Knights* (2/6)
-- [Keep the Lady's water clean](agendas/keep-the-lady-s-water-clean.md) -- *High Priestess Nerissa* (0/6)
-- [Keep the champion unseen](agendas/keep-the-champion-unseen.md) -- *Hanzo di Teufel* (1/4)
-- [Keep the table level](agendas/keep-the-table-level.md) -- *Crowbill* (0/6)
-- [Make Randall say it](agendas/make-randall-say-it.md) -- *Sinnit* (0/6)
-- [Make them pay for one of ours](agendas/make-them-pay-for-one-of-ours.md) -- *Marda Blackwater* (1/4)
-- [One big score, and a name](agendas/one-big-score-and-a-name.md) -- *Nus* (0/4)
-- [Shield the boy, unmask the house](agendas/shield-the-boy-unmask-the-house.md) -- *Temerach Nebulo* (1/6)
-- [The one who works it out](agendas/the-one-who-works-it-out.md) -- *Kag* (0/4)
-- [Wake a Dragon King](agendas/wake-a-dragon-king.md) -- *The Awake the Dragon Movement* (3/10)
-
-## The worldbook (lore index)
-
-**character-creation**
-- [Rolling your own](lore/character-creation/rolling-your-own.md)
-- [The Four Companions](lore/character-creation/the-four-companions.md) *(GM only)*
-
-**cosmology**
-- [The Realm of Thornmere](lore/cosmology/the-realm-of-thornmere.md)
-
-**daily-life**
-- [The dragonshits in the streets](lore/daily-life/the-dragonshits-in-the-streets.md)
-- [The Lake Lady's Tourney](lore/daily-life/the-lake-lady-s-tourney.md)
-
-**entry-points**
-- [Entry Point: Conall on the road](lore/entry-points/entry-point-conall-on-the-road.md)
-- [Entry Point: Gardwen at the ford](lore/entry-points/entry-point-gardwen-at-the-ford.md)
-- [Entry Point: Magda at the ford](lore/entry-points/entry-point-magda-at-the-ford.md)
-- [Entry Point: Randall in Caravan Square](lore/entry-points/entry-point-randall-in-caravan-square.md)
-
-**geography**
-- [The City and Its Islands](lore/geography/the-city-and-its-islands.md)
-- [The Lands of Thornmere](lore/geography/the-lands-of-thornmere.md)
-
-**gm-guide**
-- [GM Guide: Conflicting agendas, and resolving them offscreen](lore/gm-guide/gm-guide-conflicting-agendas.md) *(GM only)*
-- [GM Guide: Dramatis Personae](lore/gm-guide/gm-guide-dramatis-personae.md) *(GM only)*
-- [GM Guide: Running the Living World](lore/gm-guide/gm-guide-running-the-living-world.md) *(GM only)*
-- [GM Guide: Supporting and Offscreen Cast](lore/gm-guide/gm-guide-supporting-and-offscreen-cast.md) *(GM only)*
-- [The DragonBarge: deck plan](lore/gm-guide/gm-guide-the-dragonbarge-deck-plan.md) *(GM only)*
-- [The Governor's council](lore/gm-guide/gm-guide-the-governor-s-council.md) *(GM only)*
-- [The Catacombs: where they run](lore/gm-guide/gm-guide-the-catacombs.md) *(GM only)*
-
-**gm-secret**
-- [GM Secrets: The Possession Scheme](lore/gm-secret/gm-secrets-the-possession-scheme.md) *(GM only)*
-- [The Ember Society](lore/gm-secret/the-ember-society.md) *(GM only)*
-
-**history**
-- [The Dragon Kings and the Lake Lady](lore/history/the-dragon-kings-and-the-lake-lady.md)
-- [The Widow of the Pearl](lore/history/the-widow-of-the-pearl.md)
-
-**law**
-- [The King's justice, and how a lord is called to answer](lore/law/the-kings-justice.md)
-
-**magic-system**
-- [Magic in Purewater: Water and Fire](lore/magic-system/magic-in-purewater-water-and-fire.md)
-
-**player-briefing**
-- [Choosing a character](lore/player-briefing/choosing-a-character.md)
-- [Welcome to Purewater](lore/player-briefing/welcome-to-purewater.md)
-
-**religion**
-- [The Gods of Thornmere](lore/religion/the-gods-of-thornmere.md)
-- [The Order and the Swords: one goddess, two houses](lore/religion/the-order-and-the-swords.md)
-
-## Dramatis personae
-
-**Player characters**
-- [Conall Bjornlasch](characters/pcs/conall-bjornlasch.json) — Warranted investigator of the King's Assay -- the Crown's arcane inspectorate; twin brother of Randall and secretly a son of Baron Hanzo. A razor-sharp investigator (Insight 88) who is also a capable fighter.
-- [Gardwen](characters/pcs/gardwen.json) — Feral-raised elf druid and lone survivor of a Dragon Knight raid; a rank-1 divine caster of nature and pure-water magic who walks with a befriended she-wolf, searching for her long-lost brother.
-- [Magda](characters/pcs/magda.json) — Aged barbarian berserker and sworn servant of the death-goddess Hel; Blessed by Hel (she does not age), she guards Gardwen and the lost twins and fights with berserk fury despite her years.
-- [Randall](characters/pcs/randall.json) — Street thief of Purewater, raised in a brothel on the Pearl; identical twin of Conall and secretly a son of Baron Hanzo. A nimble, silver-tongued rogue (Deceit 75, Stealth 72, Sleight 71).
-
-**NPCs**
-- [Alderic Vantt](characters/npcs/alderic-vantt.json) — Merchant prince and councillor, fifty-two. The Baron's host: the Dragon Knights are camped on his water-meadow, and he drafted the standing order that told the watch to stand down. **Bought** -- Hanzo quietly covered four thousand of his debt two winters ago and asked for nothing, and this is the week he finds out what it cost. Not a cultist; knows nothing of the scheme.
-- [Abel Weir](characters/npcs/abel-weir.json) — Sergeant of the City Watch, forty-one, twenty-two years in blue-grey. Keeps the referral book: four inches of complaints against the Baron's men that he has been ordered in writing to record and not act on. Not brave, thoroughly professional, and looking for someone to refer it all *to*. The party's lawful door.
-- [Asphodel](characters/npcs/asphodel.json) — A courtesan at the Promise of Heaven, the house where Randall grew up. Warm, quick, and trusted by him 'as brother and sister' -- his closest confidante on the Pearl Quay and a ready source of information from the working girls.
-- [Blau](characters/npcs/blau.json) — Baron Hanzo's albino lieutenant -- known to the ranks as Commander Vask. A thin, red-eyed, burn-scarred killer with unnatural strength who runs the Dragon Knights' day-to-day command and handles the Baron's 'dirty work': a cold, efficient assassin and intimidator.
-- [Cassian Bree](characters/npcs/cassian-bree.json) — Secretary of the Ember Society, forty-four: courteous, boring on purpose, immaculate minutes. The only actual Movement member in Purewater, and the worst kind of suspect -- everything he does is legal and he will help you with all of it. Has been quietly reporting on Baron Hanzo to the Movement for six years; Hanzo does not know.
-- [Cailan](characters/npcs/cailan.json) — Gardwen's possessed brother (birth name Gabriel) -- the Baron's tournament champion, host to the ancient dragon-knight spirit Thuban Eta. Dragon-scale armor fused to his skin; eyes flicker reptilian when possessed; fights with uncanny ancient skill and minor fire.
-- [Constantine](characters/npcs/constantine.json) — Proprietor of The Sylph's Embrace on the Pearl -- shrewd, protective of her workers, fiercely independent. Operates under Marisette's authority. After Santo's attack on Emmeralda in her house, she is hiring protection and wants justice.
-- [Corvin](characters/npcs/corvin.json) — Sword of the Lake, twenty-two: earnest, brave, and not remotely subtle. Rows well, watches badly, and wants the white belt more than he wants to be careful.
-- [Crowbill](characters/npcs/crowbill.json) — Leader of Purewater's criminal underworld -- canal smuggling, gambling, protection. Wiry and forgettable but for a small crow tattoo on his right hand. A master of streets and shadows (Streetwise 88, Stealth 82, Conceal 78) who keeps to a code: no killing locals, no harming children, no touching the Lake Lady's sites.
-- [Emmeralda](characters/npcs/emmeralda.json) — Elven courtesan of The Sylph's Embrace -- poised, magnetic, and the finest performer on the Pearl (CHA 18, Seduction 88, Dance 85).
-- [Hesketh Pyle](characters/npcs/hesketh-pyle.json) — Councillor, fifty-eight, salt and glass. **Frightened** -- the Baron's people made his son's killing go away two years ago and kept the deposition, and he has voted as told ever since. Drinks in a wine-shop where councillors do not go. The crack in the council.
-- [Guildmaster Torval Bluehand](characters/npcs/guildmaster-torval-bluehand.json) — Guildmaster of the Watercrafters -- middle-aged, practical innovator whose hands are permanently blue-tinged from decades of watercraft enchantment. A Magic-User specialized in water artifice (Craft 85, Arcane Casting 60, Mechanisms 80) rather than battle magic; his guild's enchantments keep the canal-city running.
-- [Hanzo di Teufel](characters/npcs/hanzo-di-teufel.json) — Baron Hanzo di Teufel -- the campaign's master villain: a charismatic borderland noble and the only complete practitioner of the binding school, who has held a dragon-knight's spirit inside a living child for ten years. Not a battle-mage; he has never personally fought anybody, and works through charm, suggestion, the Dragon Knights, and a hundred years of patience. He means to become a Dragon King.
-- [Harbormaster Velen Deepkeel](characters/npcs/harbormaster-velen-deepkeel.json) — Stern, weathered Harbormaster with forty years at the docks -- meticulous, traditional, publicly incorruptible. A consummate seaman and administrator (Seamanship 85, Navigation 82, Maritime Law 80) who controls the harbor's lawful face while quietly tolerating Crowbill's smuggling.
-- [Hesper](characters/npcs/hesper.json) — To Purewater, Hesper is the madame Marisette's cold, dangerous mage-enforcer -- quiet, watchful, able to drop a strong man with a single spoken word. The truth is the opposite of what the mask suggests: Hesper is a deep-cover agent of the Quiet Hand, a hidden fellowship that works unseen for the good of the world, and the menace is a costume worn over a conscience. Master arcane caster (Arcane Casting 100, Willpower 95).
-- [High Priestess Nerissa](characters/npcs/high-priestess-nerissa.json) — High Priestess of the Temple of the Lake Lady -- middle-aged, silver-streaked hair, blue-green robes that ripple like water. A powerful divine caster (Piety 92, Willpower 85) who senses water corruption, blesses sacred waters, and speaks with water spirits. Temple law forbids her from intervening directly, so she works through the PCs.
-- [Ila](characters/npcs/ila.json) — A young elven girl (about thirteen) at the Sylph's Embrace, devoted to Emmeralda. An innocent of the Pearl, and a thread on the party's conscience.
-- [Kerrin (brown coat)](characters/npcs/kerrin-brown-coat.json) — One of Crowbill's watchers: dockside, unremarkable, professional. Eleven years of reading faces across a room, and he follows rather than closes.
-- [Ivo Calder](characters/npcs/ivo-calder.json) — Tide Master of the Watercrafters and the city's appointed assessor, fifty. Signed the Lake Lady's fouling alarm off as a **false reading** six weeks ago, at one polite request from a man he respects, and kept his original notes proving it was real. A confession waiting for a competent interviewer -- and his recantation reopens the alarm and puts the Order officially onto the Baron three days before the Tourney.
-- [Kag](characters/npcs/kag.json) — Half-orc, thirties, seven feet of her: Crowbill's muscle and the only person in his outfit who can read a ledger. Runs his errands and his business on the streets, and a hustle or two of her own. Canon from run 4; **no bearing on the plot.**
-- [Lilura Deepcurrent](characters/npcs/lilura-deepcurrent.json) — Elderly head of the Order of the Lake Lady for three decades -- piercing blue eyes, rumored merfolk ancestry (she holds her breath unnaturally long). The city's most powerful divine caster (Piety 95, Willpower 92), guiding the Order's water-faith against the Baron's fire demonologists.
-- [Marda Blackwater](characters/npcs/marda-blackwater.json) — Broad-shouldered leader of The Dredgers, risen from the dredge-boats during a labor dispute five years ago. A powerful working-class champion (Brawn 75, Oratory 78, Influence 75) who rallies dock labor against the merchant princes and -- above all -- against the Baron's Dragon Knights.
-- [Mariarta](characters/npcs/mariarta.json) — An older, canny courtesan of the Promise of Heaven with 'the calm intelligence of someone who can survive almost any situation involving men.' Sent up to entertain the Baron's soldiers, she brings back the hard intelligence on his guarded quarters -- Randall's most valuable inside source on the Dragon Knights' manor.
-- [Maro Quist](characters/npcs/maro-quist.json) — Councillor, seventy-one, thirty years in the chamber. **Sincere** -- incorruptible, formidable, and completely wrong: he voted for both instructions on the merits, having been given true facts in the right order. Subscribes to a dining society that is a cult recruiting front and thinks they are antiquarians, which makes the innocent man look the guiltiest. The best ally in the city government.
-- [Marisette](characters/npcs/marisette.json) — The madame with overall authority over Purewater's Pearl -- the proprietors, Constantine among them, answer to her. A consummate social power broker (Influence 85, Insight 82, Commerce 82) who keeps the pleasure district running and resents the disorder the Baron and Santo have brought to it.
-- [Murgeroch](characters/npcs/murgeroch.json) — Temerach Nebulo's squire and go-between -- the steady, competent young fighter who carries the knight's messages, screens her meetings, and tends her gear. Usually the first of Temerach's people the party deals with.
-- [Nus](characters/npcs/nus.json) — A quick-fingered Purewater street thief and loyal friend of Randall -- lookout, fence, and second pair of hands for a job; nimble, streetwise, and easy to underestimate.
-- [Orrin Sculle](characters/npcs/orrin-sculle.json) — The champion's keeper aboard the DragonBarge. Ten years feeding, dressing, washing and walking a boy who is not there, and talking to him every night while he does it. The only person who knows which hand Gabriel reaches with.
-- [Prince Emeric](characters/npcs/prince-emeric.json) — The young Governor of Purewater -- the King's nephew, perhaps two-and-twenty: clever, idealistic, genuinely decent, and entirely unsuited to govern a city like this. He wants to reform Purewater; the factions humor him, manage him, and run rings around his good intentions.
-- [Ravella](characters/npcs/ravella.json) — Half-merfolk proprietor of The Siren's Call -- pleasure house and information market in one. Subtle waterfolk tells (webbed fingers, water-reflecting eyes, Swim 90). A master broker (Insight 85, Streetwise 88, Commerce 80) with light innate water magic, secretly protecting the city's hidden waterfolk.
-- [Santo di Teufel](characters/npcs/santo-di-teufel.json) — Baron Hanzo's cruel son and heir -- a spoiled young fire-mage who taught himself demonology by tracing his father's work. No part of his father's scheme: he wants **one girl** -- Emmeralda of the Sylph's Embrace -- kept on the barge and glad to be there, and he has one stolen scroll with which to make her willing. Nobody on the Pearl knows his face. He spends the scroll; the dice decide whether it takes or whether he opens her with the knife and runs.
-- [Sana](characters/npcs/sana.json) — Nineteen, dark red hair chopped ragged on the left side. High Priestess Nerissa's niece, six weeks at the temple, and the one who notices what nobody else notices.
-- [Sinnit](characters/npcs/sinnit.json) — A brutish Lullwater canal-rat who has hated Randall for seven years over a purse handed back with a bow. The week's street-level antagonist: mistakes Conall for Randall, tells the Pearl Randall carved the girl, sells the two faces to Blau and Nus to the fire. Turned only by Randall's apology, out loud, in front of witnesses.
-- [Tat Atarer](characters/npcs/tat-atarer.json) — Captain of the Dragon Knights -- a hardened, pragmatic mercenary commander who serves Baron Hanzo for pay, not ideology. Master fighter (combat 97%); 'the Baron pays for our swords, not our opinions.'
-- [Temerach Nebulo](characters/npcs/temerach-nebulo.json) — Elf knight of the Swords of the Lake, 'the Lakelady's Javelin', and the order's implacable spymaster in Purewater. Four years of quiet network around Baron Hanzo; reached only through her squire Murgeroch; never surprised, never moved, never owed. Conall's handler. Nobody recruits her -- she runs people.
-- [Thorne](characters/npcs/thorne.json) — Elderly storyteller of The Moist Oyster -- frail-seeming but with penetrating blue eyes and a cane that hides a blade. Secretly a former Order of the Lake initiate and Dragon-Knight-raid survivor with peerless historical lore (Dragon Kings era 92) and knowledge of possession-ritual weaknesses.
-- [Thuban Eta](characters/npcs/thuban-eta.json) — The ancient dragon-knight spirit bound inside Cailan. A betrayed tactical genius from the Dragon Kings era, held in thrall by Baron Hanzo's ritual through his bones and the binding locket. Indomitable will (Willpower 95), peerless tactics, honors the old codes -- a potential ally if freed.
-
-**Creatures**
-- [Ruhi](characters/creatures/ruhi.json) — Gardwen's befriended companion -- a loyal she-wolf; swift, keen-nosed and savage in the bite.
-
-## Factions
-
-- [Crowbill's Underworld](factions/crowbill-s-underworld.md) — Purewater's criminal underground -- canal smuggling, gambling, protection -- run to a code by the unremarkable crime lord Crowbill. Signaled by crow marks. The occupation is wrecking the equilibrium his business depends on.
-- [The Awake the Dragon Movement](factions/the-awake-the-dragon-movement.md) — A shadowy movement to revive the ancient draconic order and transform men into Dragon Kings. Baron Hanzo's true cause; an existential threat to water magic.
-- [The City Watch](factions/the-city-watch.md) — Purewater's ordinary police: about ninety men and women in blue-grey, competent at drunks, thieves and canal disputes -- and under standing orders not to provoke the Baron's people until the Tourney is over.
-- [The Currents](factions/the-currents.md) — A leaderless network of spies and informants trading in secrets, not contraband. Marked by chalk water-signs; the hidden 'Source' directs it.
-- [The Dragon Knights](factions/the-dragon-knights.md) — Baron Hanzo's 20-30 sworn warriors -- brutal mercenaries in dragon heraldry, enhanced with fire demonology. In Purewater for the Tourney and behaving like an army of occupation, because they have been told the watch will not touch them.
-- [The Dredgers](factions/the-dredgers.md) — Labor guild and mutual-aid society of Purewater's working poor -- canal-clearers, dockers, fishers. Black armbands, white wave. Led by Marda Blackwater, and three hundred strong in a week when the Baron's men are taking their boats.
-- [The Harbor Masters](factions/the-harbor-masters.md) — The regulatory guild of Purewater's docks and shipping -- tariffs, berths, maritime law. Dark blue uniforms, a harbor tower HQ, a publicly incorruptible Harbormaster, and increasingly corrupt upper ranks. They berthed the DragonBarge.
-- [The Mermaid's Court](factions/the-mermaid-s-court.md) — A secretive society of pure-water practitioners bound to merfolk, preserving water magic older than the city. Hidden under Lost Isle; led by the enigmatic 'Pearl'.
-- [The King's Assay](factions/the-kings-assay.md) — The Crown's chartered body for licensing, inspecting and recording arcane practice in Thornmere -- founded after the uprising to put magic on a register. Warrants, hallmarks, and a personal steel punch. Conall is one of theirs.
-- [The Order of the Lake Lady](factions/the-order-of-the-lake-lady.md) — The water-faith of Purewater: priesthood of the lake goddess, guardians of pure water magic, and owners of the Tourney. Robed in blue-green with silver wave patterns. Their fouling alarm has been silenced by written instruction.
-- [The Pleasure Houses of the Pearl](factions/the-pleasure-houses-of-the-pearl.md) — The courtesan network of the Pearl, under the madame Marisette's near-absolute authority. Constantine's Sylph's Embrace and Ravella's Siren's Call among them. The richest information market in Purewater, and the campaign's front door.
-- [The Quiet Hand](factions/the-quiet-hand.md) — A secret, centuries-old fellowship that steers the world toward the good from the shadows -- by knowing first and acting unseen. Espionage as mercy. Hesper is their agent in Purewater. (GM: a benevolent hidden patron.)
-- [The Swords of the Lake](factions/the-swords-of-the-lake.md) — An austere knightly order sworn to the Lake Lady and the protection of the realm's water magic. Temerach Nebulo is their most famous blade -- and the only armed authority in Purewater that does not answer to the Governor's council.
-- [The Watercrafters Guild](factions/the-watercrafters-guild.md) — Boat-builders, canal engineers, water-diviners and makers of water-enhanced goods -- the artisans whose enchantments keep the canal-city working. Indigo sashes. One of their Tide Masters signed the Baron's corruption off as a false reading.
-
-## Loading this campaign
-
-You do not have to. `/purewater:start` does it:
-
-```
-/plugin install purewater@fourth-wall-gaming
-/purewater:start
-```
-
-By hand, from a clone, with the engine checked out next door:
+Sourcing it sets `GM_ROOT`, `GM_SKILL`, `GM_CLI` and a `gm` shell function:
 
 ```bash
-GM=~/mythras-gm/skills/mythras-gm
-uv run -q --project "$GM" python "$GM/mythras_gm.py" init-db
-uv run -q --project "$GM" python "$GM/mythras_gm.py" import-campaign --path .
+. "${CLAUDE_PLUGIN_ROOT}/scripts/engine.sh"
+gm doctor
 ```
 
-The campaign id is fixed — **`myth-campaign-purewater-s1`** — so a second import
-of the same package fails rather than forking your save. Pass `--new-ids` only if
-you deliberately want a second, parallel playthrough.
+Every variable in it expands with `:-`, because the hook that sources it runs
+under `set -u`. The hook (`hooks/hooks.json` → `scripts/session-start.sh`) only
+**reports** the state of the save at session start. It never imports and never
+blocks.
 
-Then `get-context --campaign myth-campaign-purewater-s1 --compact`.
+---
 
-> Lore files marked `visibility: "gm"` contain spoilers. Players: browse
-> `lore/` but skip anything GM-marked, and stay out of
-> `journal/` if you want to avoid table history.
+## 3. Starting and resuming
 
-Based on Mythras Imperative, Written by Pete Nash and Lawrence Whitaker,
+`/purewater:start` (`commands/start.md`) is the zero-state path:
+
+1. Brief the player on *Mythras* if they are new to it — before character
+   creation, because knowing that Passions matter changes what a player writes down.
+2. `gm init-db`, then `gm get-campaign --campaign myth-campaign-purewater-s1`.
+   - **Not found** → import.
+   - **Session 0** → imported, never played; skip the import.
+   - **Session above 0** → a game is in progress. **Stop** and hand over to
+     `/mythras-gm:play`. The command never re-seeds a live game.
+3. `gm import-campaign --path "${CLAUDE_PLUGIN_ROOT}"`.
+4. Read the engine's `TABLE.md` and `styles/gamesmaster.md`, and this campaign's
+   `setting/the-story.md`.
+5. Brief the setting (`lore/player-briefing/welcome-to-purewater.md`), offer the
+   four pregens in full (`choosing-a-character.md`) or roll one
+   (`lore/character-creation/rolling-your-own.md`).
+6. `update-campaign --played <pc-id>` so the other three stay in the world as
+   companions; for a rolled character, `create-character --type pc` and
+   **`move-character` to a real location**, or every beat reads as offscreen.
+7. `set-scene`, `update-campaign --session-number 1`, `log-event --type session-start`.
+8. Deliver the entry point from `lore/entry-points/` and open the scene.
+
+Every session after that is **`/mythras-gm:play`**.
+
+### The campaign id
+
+`myth-campaign-purewater-s1` is a key in the schema, so **importing the package
+twice fails loudly** instead of quietly forking somebody's save. To run a second,
+parallel playthrough deliberately, pass `--new-ids`. Set `MYTHRAS_CAMPAIGN` to the
+id and stop passing `--campaign` everywhere.
+
+---
+
+## 4. The world clock
+
+The clock is **day-keyed**, four watches a day — `dawn`, `day`, `dusk`, `night` —
+and stored as an integer `time_index`. `d-3/dawn` is **52**.
+
+| Day | What it is |
+|---|---|
+| `d-3` | Arrival: the Baron's column enters the city |
+| `d-2` | The city closes |
+| `d-1` | The presentation of the entrants |
+| `d0` | The Tourney, day one: the Archery |
+| `d1` | The Tourney, day two: the Single Combat |
+| `d2` | The Tourney, day three: the Run, then the closing |
+
+Negative days read as what they are — *two days before* — so the numbering has to
+keep meaning that. Move time with `tick`, never by hand:
+
+```bash
+gm forecast                       # the canonical thread: what happens if nobody interferes
+gm tick --to "d-3/night"          # advance; report what came due, onscreen or off
+gm brief --id <beat|npc|place>    # read it before you narrate it
+```
+
+---
+
+## 5. Agendas and beats: the living world
+
+An **agenda** is a goal held by a character or faction, tracked on a clock.
+A **beat** is the next concrete thing an agenda produces if nobody interferes,
+placed in world time with a location and a cast. Run `gm list-agendas` for the
+sixteen agendas and their clocks, and `gm forecast` for the schedule.
+
+`tick` returns each due beat flagged **onscreen** or **offscreen**, computed from
+where the player characters actually are — not chosen by the Games Master.
+Onscreen beats are played as scenes; offscreen beats happened anyway, and are
+recorded with `fire-beat --outcome narrated --log` so the party can discover them.
+
+### Beat frontmatter
+
+| Field | Meaning |
+|---|---|
+| `when` | The **latest** the beat happens — a backstop, not an appointment |
+| `trigger` | `time`, `clock>=N` (the beat's agenda has reached N), `condition`, or `contact` |
+| `needs` | Preconditions: `played: <beat-slug>`, `fact: <fact-slug>`, `contact: <char-or-loc-id>`, or `any:` a list of those |
+| `onscreen_if` | Prose: who has to be where for it to be a scene |
+| `agenda`, `place`, `cast` | Ids; `place` decides onscreen staging |
+| `by: null` | No backstop: an opportunity that never fires on its own (`orrin-sculle-decides`) |
+
+**Conditions accelerate; time backstops.** A beat can be brought forward when the
+party earns it and can never be stalled forever. Bend a beat to what play has made
+true with `revise-beat`; never edit the file.
+
+### The three endings, and the one thing the engine cannot decide
+
+The last day turns on the binding locket (`nus-lifts-the-binding-locket`,
+`d1/night`):
+
+| Ending | Condition | Beats that fire |
+|---|---|---|
+| **A** | Never stolen, or the theft failed | `the-run-across-the-town`, `the-private-audience` |
+| **B** | Stolen; Blau recovers it | `the-lullwater-burns`, `sinnit-sells-nus`, `the-private-audience`, `the-impossible-shot` |
+| **C** | Stolen; Nus lives and the party keeps it from Blau | `the-lullwater-burns`, `sinnit-sells-nus`, `thuban-breaks-out` |
+
+`needs` can express "the theft happened" but not "the locket is *still* in the
+party's hands". So at `d2/dawn` the Games Master reads the board and cancels the
+beats that no longer apply. `setting/the-story.md` carries the same table.
+
+### The arc is not loaded into the save, and that is expected
+
+`forecast` reports `NO ARC LOADED`. `setting/the-story.md` is a plan for the Games
+Master to **read** (step 4 above), one beat per row. It is not in the engine's arc
+format: `sync-arc --file` expects YAML front matter and would rewrite the beats
+from the document. **Do not run `sync-arc` on `the-story.md`.**
+
+---
+
+## 6. Facts and knowledge
+
+`facts/` holds propositions about the world, each `not-yet-true` or `established`,
+each with a `truth` that may be `false` — a belief the city holds that is not so
+(*The man who carved Emmeralda was Randall the Pearl thief*). `knowledge.json`
+records who knows what, how (`witnessed`, `deduced`, `told`) and how sure they are.
+In play: `establish-fact`, `learn`, `who-knows`, `character-view`, and
+`check-consistency` to reconcile the graph against the clock.
+
+---
+
+## 7. Working on this repository
+
+### Run it locally
+
+```bash
+claude --plugin-dir ~/mythras-gm --plugin-dir ~/purewater-campaign-v2
+```
+
+Local copies satisfy the `dependencies` entry, so this exercises the real
+resolution path without publishing anything.
+
+### Test an import — never against the live database
+
+```bash
+export TYPEDB_PORT=1730 TYPEDB_DATABASE=purewater_test
+. scripts/engine.sh
+gm init-db
+gm delete-campaign --campaign myth-campaign-purewater-s1 --yes   # only in the scratch database
+gm import-campaign --path .
+gm forecast
+gm check-consistency
+```
+
+### Tests
+
+```bash
+uv run --with pytest pytest -q tests/
+```
+
+`test_seed.py` holds the seed to being a seed — clock 52, session 0, one journal
+note, every beat pending, no character named in the opening scene — and the docs
+to telling the truth: the counts in the table above match the disk, every
+documented directory exists, only one campaign id is ever offered, and the player
+briefing keeps its secrets.
+
+### Editing the plot
+
+The beats are the catalogue and `setting/the-story.md` is the plan. **Every beat
+appears in `the-story.md` exactly once.** A new beat needs a frontmatter `id` of
+the form `myth-beat-<12 hex>`, a `when` (opportunity beats still need a backstop
+time, because `add-beat` will not take one without), and a row in the plan.
+Agendas take `myth-agenda-<12 hex>`. Update the counts above and in
+`commands/start.md`, `skills/purewater/SKILL.md`, `.claude-plugin/plugin.json`
+and the seed note in `journal/events.json`.
+
+### Exporting and playthroughs
+
+`export-campaign` writes a fresh file snapshot of a save — **never over the root**,
+which is the seed. Finished runs are exported to `archive/` **on the `playthroughs`
+branch**, never onto `main`, and `.gitignore` enforces it. Session logs, novels and
+archives of four previous playthroughs live only on `playthroughs`; they are the
+worst spoilers in the project and are not part of a release.
+
+### Spoilers in the release tree
+
+Lore marked `visibility: "gm"`, `lore/gm-secret/`, `setting/the-story.md`,
+`setting/adventure.md` and `lore/character-creation/the-four-companions.md`
+contain the reveals. The engine keeps GM lore out of player-facing narration until
+it lands in play; a person browsing this repository has no such protection.
+
+---
+
+Based on *Mythras Imperative*, written by Pete Nash and Lawrence Whitaker,
 published by The Design Mechanism, Copyright 2023, used under the ORC License.

@@ -29,8 +29,9 @@ to be there when she gets to the door.
 
 **He also wants his coat and the scroll** and will send one of the men up for
 them if the house is quiet enough. Whatever the party did not take, he takes.
-If they searched the room on the night, the man finds bare boards and Santo
-goes after whoever has them.
+If they searched the room on the night -- or Conall has already been through it
+with his warrant (*Conall reads the room*), which in the natural course he has
+-- the man finds bare boards and Santo goes after whoever has them.
 
 **Onscreen** -- a fight, a chase over water, or a negotiation the party wins by
 being present and awake. The hard part is Emmeralda, who is on his side.

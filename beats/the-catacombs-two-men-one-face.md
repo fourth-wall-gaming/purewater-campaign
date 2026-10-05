@@ -72,4 +72,9 @@ collar over and reads the crest. **She names the di Teufels.** She does not
 know which di Teufel, and she knows exactly what it means that two strangers
 in her city wear their face. That is the handoff from mystery to adventure.
 
+**And Conall has just heard, from her questions, what was done upstairs at the
+Sylph's Embrace.** Demon-craft on a woman under a Purewater roof is the King's
+Assay's business, and he is the only assayer in the city. He walks out of the
+cellar and goes to read the room (*Conall reads the room*).
+
 Advance *Find who carved Emmeralda* by 2.

@@ -122,6 +122,24 @@
       "name": "The Baron's private note of discharge",
       "type": "document",
       "notes": "Two winters old, four thousand, no terms and no interest stated. Kept in a locked drawer in the house on High Isle rather than at the estate. It is not a crime. It is the whole explanation."
+    },
+    {
+      "name": "Rapier",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Impale",
+      "ap_hp": "5/8",
+      "effects": "Impale"
+    },
+    {
+      "name": "Dagger",
+      "damage": "1d4+1",
+      "size": "S",
+      "reach": "S",
+      "notes": "Bleed, Impale",
+      "ap_hp": "6/8",
+      "effects": "Bleed, Impale"
     }
   ],
   "passions": {
@@ -130,7 +148,9 @@
     "Fear of the man he owes": 60,
     "Love of his daughter Ilse": 70
   },
-  "combat_styles": {},
+  "combat_styles": {
+    "Gentleman's blade (rapier, dagger)": 30
+  },
   "spells": null,
   "extras": {
     "gender": "male",

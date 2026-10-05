@@ -121,21 +121,27 @@
       "damage": "2d8",
       "size": "H",
       "reach": "VL",
-      "notes": "Bleed, Impale, Sunder"
+      "notes": "Bleed, Impale, Sunder",
+      "ap_hp": "6/12",
+      "effects": "Bleed, Impale, Sunder"
     },
     {
       "name": "War Axe",
       "damage": "1d8+1",
       "size": "M",
       "reach": "M",
-      "notes": "Bleed, Sunder"
+      "notes": "Bleed, Sunder",
+      "ap_hp": "4/8",
+      "effects": "Bleed, Sunder"
     },
     {
       "name": "Ember Shield",
       "damage": "1d4",
       "size": "L",
       "reach": "S",
-      "notes": "Passive Block; radiates heat"
+      "notes": "Passive Block; radiates heat",
+      "ap_hp": "6/12",
+      "effects": "Bash, Stun Location"
     },
     {
       "name": "Scale-and-plate (all locations)",
