@@ -7,7 +7,7 @@ when: "d1/day"
 trigger: "time"
 onscreen_if: "The Tourney is public; the party will be there unless something extraordinary prevents it"
 agenda: "myth-agenda-e0469a5c2863"
-place: "myth-loc-6f1056d77024"
+place: "myth-loc-eb0e6fbaed52"
 cast: ["myth-char-cac22cc2cbf6", "myth-char-cee57a7f5de2", "myth-char-a46cf24af084"]
 created_at: "2026-09-09T00:00:00"
 ---

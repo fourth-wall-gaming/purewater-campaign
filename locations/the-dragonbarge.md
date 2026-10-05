@@ -36,8 +36,10 @@ and the ship is quiet enough at night to hear a man walk.
 has stopped mentioning it.*
 
 **Aft of the companionway**: the Baron's quarters, his apparatus, the working
-cabin, the locked case behind the border rolls -- and the daily rite at first
-light, which is the one fixed point in the ship's day. Cailan is exercised on the
+cabin, the locked case behind the border rolls -- and the nightly rite behind
+sealed doors, which is the one fixed point in the ship's day. When it is done the
+Baron takes the chain off and sleeps with the locket on the table by his bed, and
+Blau sleeps across the door. Cailan is exercised on the
 after deck before dawn, in harness, with the deck cleared.
 
 **Getting aboard.** Not a stealth problem and not a crowd to hide in -- an
