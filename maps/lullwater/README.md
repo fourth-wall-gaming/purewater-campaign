@@ -1,5 +1,8 @@
 # The Lullwater sheet
 
+*The method is written up for all the sheets in `../README.md`; this is the
+first one, and its notes on tools still apply.*
+
 A detailed map of the Lullwater. Its source is `lullwater_no_text.png`, a text-free
 redraw of the Lullwater and its surroundings made from the city map
 (`../purewater-map.png`, canon). `prep` crops the island from it, and every later

@@ -63,3 +63,5 @@ side, steam rising where its hull meets the water.
 - **The Isle Post** (watch) -- the watch-house of High Isle, where Captain Sarn commands and Sergeant Abel Weir keeps the four-inch referral book.
 
 Marked on the sheet in `maps/grandcanal/`.
+
+**Map:** `maps/grandcanal/the-north-quarter.jpg`, `maps/merchants/the-merchants-quarter.jpg`, `maps/forges/the-forges-and-the-docks.jpg`, `maps/tournament/the-lists-and-temple-isle.jpg`.

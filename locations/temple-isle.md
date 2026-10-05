@@ -32,3 +32,9 @@ pool, and leaves it through the south wall, where broad **water-steps** go down 
 the lake. The Lady's blessing and the Washing are held on those steps, and they face
 the Tournament Ground across a narrow water, in plain sight of the stands. These are
 marked on the Lists and Temple Isle sheet, `maps/tournament/`.
+
+## Amenities
+
+- **The Pilgrims' Hostel** -- cells in the temple's west cloister for pilgrims who have walked a long way.
+
+**Map:** `maps/tournament/the-lists-and-temple-isle.jpg`.

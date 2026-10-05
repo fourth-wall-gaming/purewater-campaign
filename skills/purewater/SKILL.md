@@ -78,6 +78,23 @@ tell this one wrong.
   be; ask her what a thing *costs* and you have the best analyst in Purewater for
   nothing. It is not an Influence roll.
 
+## 5. Maps
+
+`maps/purewater-map.png` is the city, and it is canon. Eight district sheets
+enlarge it, each a lettered JPEG with a key: the Lullwater, the Pearl, the Shoals,
+the Lists and Temple Isle, Caravan Square, the Forges and the Docks, the North
+Quarter, and the Merchant's Quarter. `maps/README.md` lists them and what each
+covers, and every location file ends with a **Map:** line naming its sheet.
+
+- **Show the sheet when the party arrives somewhere new**, and use it to answer
+  "how do we get there": which bridge, which stair, which ferry. No bridge
+  crosses the Grand Canal, and none reaches the Lullwater or Temple Isle.
+- **The sheets are player-safe.** Nothing secret is lettered on them. Their keys
+  name places, taverns and amenities (●) and watch posts (■); the one-line notes
+  behind those are in the location files' "Taverns, amenities and the watch"
+  sections, and the watch posts in `factions/the-city-watch.md`. Brief the
+  location before narrating one.
+
 ## Commands
 
 | | |

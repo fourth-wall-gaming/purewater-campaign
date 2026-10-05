@@ -43,3 +43,5 @@ marked on the Pearl sheet, `maps/pearl/`.
 - **The Lantern Box** (watch) -- a watch box at the North Quarter end of the Lantern Bridge, unmanned after dark; the Pearl keeps its own order.
 
 Marked on the sheet in `maps/pearl/`.
+
+**Map:** `maps/pearl/the-pearl.jpg`.

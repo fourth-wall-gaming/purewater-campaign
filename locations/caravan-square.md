@@ -43,3 +43,5 @@ goes by water instead. These are marked on the Caravan Square sheet,
 - **The Gate Post** (watch) -- the watch post at the customs end of the Triumph Bridge, whose watchman does nothing about the three Knights in the middle of it.
 
 Marked on the sheet in `maps/caravan/`.
+
+**Map:** `maps/caravan/caravan-square.jpg`.

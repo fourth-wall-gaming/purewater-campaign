@@ -51,3 +51,5 @@ these are marked on the Shoals sheet, `maps/shoals/`.
 - **The Fishmarket Post** (watch) -- the watch post on the market; it records, refers, and keeps its shutters half-closed toward the bridge.
 
 Marked on the sheet in `maps/shoals/`.
+
+**Map:** `maps/shoals/the-shoals.jpg`.

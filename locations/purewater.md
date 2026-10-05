@@ -41,3 +41,5 @@ salt and canal-stink fill the air. Under it all runs the campaign's elemental
 tension -- the Lake Lady's pure waters against the fire-corruption bleeding from the
 Baron's **[[The DragonBarge]]**, moored at the Forges' seaward pier. Beneath
 everything run **[[The Catacombs]]**.
+
+**Map:** `maps/purewater-map.png`, `maps/README.md`.

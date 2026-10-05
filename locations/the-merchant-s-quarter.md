@@ -42,3 +42,5 @@ on the Merchant's Quarter sheet, `maps/merchants/`.
 - **The Market Post** (watch) -- the watch post on the square, whose patrols now route round the quarter rather than be seen not acting.
 
 Marked on the sheet in `maps/merchants/`.
+
+**Map:** `maps/merchants/the-merchants-quarter.jpg`.

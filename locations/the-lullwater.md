@@ -70,3 +70,5 @@ These names are lettered on the Lullwater sheet, `maps/lullwater/`.
 - **The Shut Post** (watch) -- a watch post with its door nailed shut; the watch comes over only to fish out the dead.
 
 Marked on the sheet in `maps/lullwater/`.
+
+**Map:** `maps/lullwater/the-lullwater.jpg`.

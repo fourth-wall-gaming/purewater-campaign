@@ -16,3 +16,5 @@ anyone may enter. That is the whole reason it matters: it is the only place in
 Purewater during that week where a person with no standing can stand in front of
 the Governor and be handed something, in public, and be owed a hearing for as
 long as the crowd is watching.
+
+**Map:** `maps/tournament/the-lists-and-temple-isle.jpg`.

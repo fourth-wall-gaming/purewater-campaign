@@ -39,3 +39,5 @@ sheet, `maps/forges/`.
 - **The Seaward Post** (watch) -- the busiest post in the city, which has quietly stopped sending patrols anywhere near the barge pier.
 
 Marked on the sheet in `maps/forges/`.
+
+**Map:** `maps/forges/the-forges-and-the-docks.jpg`.

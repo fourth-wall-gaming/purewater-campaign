@@ -22,3 +22,5 @@ travel.
 every proprietor now working, every house on the Quay enforces it, and no amount
 of money has ever moved it — which is the reason there is anyone left working on
 the Pearl at all.
+
+**Map:** `maps/pearl/the-pearl.jpg`.

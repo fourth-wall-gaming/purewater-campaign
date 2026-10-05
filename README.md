@@ -56,6 +56,7 @@ campaign format (v1.1).
 | `beats/` | What happens next if nobody interferes, scheduled in world time |
 | `facts/` | Situational truth: one proposition per file, with when it became true |
 | `knowledge.json` | Who knows which fact, how, and since when |
+| `maps/` | The city map (canon) and eight lettered district sheets; see `maps/README.md` |
 
 The canonical full-prose worldbook sources live in [`setting/`](setting/) — see its README for the book list and audience guide. The `lore/` files below are the same material sliced into database-ready entries.
 
