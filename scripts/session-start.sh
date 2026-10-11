@@ -29,13 +29,23 @@ PW="${CLAUDE_PLUGIN_ROOT:-$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)}"
 if [ -z "${GM_ROOT}" ]; then
   cat <<MSG
 purewater: the mythras-gm engine is not installed, so this campaign cannot run.
+PUREWATER_ROOT=${PW}
 
-  /plugin install mythras-gm@fourth-wall-gaming
+Install it from the same marketplace this campaign came from -- open the plugin
+browser (/plugins in Codex, /plugin in Claude Code), find mythras-gm, install
+it, and START A NEW SESSION: a plugin's skills only appear in a session opened
+after it was installed.
 
-Purewater declares that dependency, so it should have arrived automatically --
-if it did not, install it by hand, or set MYTHRAS_GM_ROOT to a checkout. Until
-then: do not GM this campaign off the files in this package. They are a source
-export, not a save file, and nothing you change in them reaches the game.
+Purewater declares that dependency, so it should have arrived automatically. If
+it did not, set MYTHRAS_GM_ROOT to a checkout of the engine. If it IS installed
+and you are reading this anyway, run the engine's install check -- it reports
+which lookup failed:
+
+  mythras-gm/scripts/verify-install.sh
+
+Until then: do not GM this campaign off the files in this package, and do not
+follow the purewater-start skill. They are a source export, not a save file,
+and nothing you change in them reaches the game.
 MSG
   exit 0
 fi
@@ -81,8 +91,8 @@ save file and no dice tower.
 
   ${REMEDY}
 
-Do not narrate, do not roll, and do not tell the user anything was saved. Offer
-to run /mythras-gm:setup.
+Do not narrate, do not roll, and do not tell the user anything was saved. Offer to follow the mythras-setup skill (/mythras-gm:setup in Claude Code).
+PUREWATER_ROOT=${PW}
 MSG
   exit 0
 fi
@@ -106,12 +116,12 @@ print("%s|%s" % (date, session))
 ' 2>/dev/null || echo "?|?")
   CLOCK="${STATE%%|*}"; SESSION="${STATE##*|}"
   if [ "${SESSION:-0}" = "0" ]; then
-    echo "purewater: the campaign is imported and has not been started (clock ${CLOCK}). Run /purewater:start to choose a character and open the scenario. MYTH_CAMPAIGN=${SEED_ID}"
+    echo "purewater: the campaign is imported and has not been started (clock ${CLOCK}). Follow the purewater-start skill (/purewater:start in Claude Code) to choose a character and open the scenario. MYTH_CAMPAIGN=${SEED_ID} PUREWATER_ROOT=${PW}"
   else
-    echo "purewater: a game is in progress -- ${SEED_ID}, clock ${CLOCK}, session ${SESSION}. Resume it with /mythras-gm:play. Do NOT run /purewater:start; it is for a campaign that has not begun."
+    echo "purewater: a game is in progress -- ${SEED_ID}, clock ${CLOCK}, session ${SESSION}. Resume it with the mythras-play skill (/mythras-gm:play in Claude Code). Do NOT follow purewater-start; it is for a campaign that has not begun. PUREWATER_ROOT=${PW}"
   fi
   exit 0
 fi
 
-echo "purewater: the campaign is installed but has not been imported into the database yet. Run /purewater:start -- it will import ${SEED_ID} from ${PW} and walk the player through choosing a character. Do not GM from the files in this package; they are a source export, not the save."
+echo "purewater: the campaign is installed but has not been imported into the database yet. Follow the purewater-start skill (/purewater:start in Claude Code) -- it will import ${SEED_ID} from ${PW} and walk the player through choosing a character. Do not GM from the files in this package; they are a source export, not the save. PUREWATER_ROOT=${PW}"
 exit 0
