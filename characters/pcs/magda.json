@@ -175,6 +175,7 @@
     "culture": "Barbarian",
     "frame": "Light",
     "class": "Fighter",
+    "rank": 2,
     "game_system": "Classic Fantasy",
     "character_type": "Major Character",
     "deity": "Hel (goddess of death)",
