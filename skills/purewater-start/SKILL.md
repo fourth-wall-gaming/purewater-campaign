@@ -131,6 +131,11 @@ gm update-campaign --campaign myth-campaign-purewater-s1 --played <chosen-pc-id>
 `--played` tells the world-clock which PCs are the player's, so the other three
 stay in the world as companions rather than being staged as absent.
 
+**Build them at Rank 2.** Every pre-gen is CFI Rank 2 and the scenario is
+pitched at it; a Rank 1 novice is outclassed from the first scene. Set
+`--extras '{"rank": 2, "class": "<their class>"}'` so the sheet says so, and for
+a caster set `magic_rank` to 2 as well — that is what gates the spell list.
+
 For a rolled character: `create-character --type pc`, then **`move-character` to a
 real location**. Without that they are nowhere and every beat reads as offscreen.
 

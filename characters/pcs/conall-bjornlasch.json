@@ -211,6 +211,7 @@
     "culture": "Human Civilized",
     "frame": "Medium",
     "class": "Magic-User",
+    "rank": 2,
     "class_note": "Flat Magic-User (Rank 2 Mage; 6 mage class skills at 70%+, Arcane Casting 73, 26 arcane spells) per operator. He retains strong martial training (combat style Fighter 82, all weapons/shields) but is classed as a straight Magic-User, not a multiclass. Mage caveat: cannot cast arcane spells while wearing armor or using a shield.",
     "game_system": "Classic Fantasy",
     "character_type": "Major Character",

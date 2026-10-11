@@ -205,3 +205,56 @@ def test_docs_do_not_point_at_directories_the_release_lacks():
             assert "playthroughs" in para, (
                 f"{name} mentions a playthrough directory without saying it "
                 f"lives on the playthroughs branch:\n{para.strip()[:300]}")
+
+
+# --- the campaign's starting rank ----------------------------------------
+
+PCS = sorted(glob.glob(str(ROOT / "characters" / "pcs" / "*.json")))
+CAMPAIGN_RANK = 2
+
+
+def test_there_are_pre_generated_characters():
+    """Every test below iterates them."""
+    assert len(PCS) >= 4, f"found {len(PCS)} pre-gens"
+
+
+@pytest.mark.parametrize("path", PCS, ids=lambda p: Path(p).stem)
+def test_every_pre_gen_is_the_campaign_rank(path):
+    """Purewater starts at CFI Rank 2, and it was recorded four different ways.
+
+    Conall and Gardwen carried `magic_rank: 2` plus prose ("Rank 2 Mage",
+    "CFI cleric, Rank 2"). Randall carried only a hedge in prose -- "roughly
+    Rogue Rank 2 (Thief); confirm against the Rogue class-skill list if exact
+    rank matters". Magda, a Fighter, carried nothing at all, because a Fighter
+    has no magic rank and that was the only field anyone had been filling in.
+
+    So the campaign's starting rank was unstated and unqueryable: a GM rolling
+    a new character at the table had nothing to match, and the obvious default
+    is Rank 1. `extras.rank` is the class rank for every PC, caster or not.
+    `magic_rank` stays what it is -- spell access for the two casters.
+    """
+    ex = json.load(open(path)).get("extras") or {}
+    assert ex.get("rank") == CAMPAIGN_RANK, (
+        f"{Path(path).stem} has extras.rank={ex.get('rank')!r}; every PC in "
+        f"this campaign is Rank {CAMPAIGN_RANK}")
+
+
+@pytest.mark.parametrize("path", PCS, ids=lambda p: Path(p).stem)
+def test_a_caster_s_magic_rank_agrees_with_its_class_rank(path):
+    """Two fields that must not drift. A Rank 2 cleric with magic_rank 1 would
+    have access to a spell list its own sheet says it cannot reach."""
+    ex = json.load(open(path)).get("extras") or {}
+    if ex.get("magic_rank") is None:
+        pytest.skip(f"{Path(path).stem} is not a caster")
+    assert ex["magic_rank"] == ex.get("rank"), (
+        f"{Path(path).stem}: magic_rank={ex['magic_rank']} but rank={ex.get('rank')}")
+
+
+def test_the_campaign_states_its_rank_where_a_gm_will_look():
+    """A convention nobody can find is not a convention. It belongs in the
+    campaign skill's conventions list AND in the ritual that builds a
+    character, because that is the moment it is needed."""
+    conv = (ROOT / "skills" / "purewater" / "SKILL.md").read_text().lower()
+    start = (ROOT / "skills" / "purewater-start" / "SKILL.md").read_text().lower()
+    for name, text in (("the campaign skill", conv), ("purewater-start", start)):
+        assert "rank 2" in text, f"{name} never states the campaign's starting rank"

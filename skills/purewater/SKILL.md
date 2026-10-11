@@ -67,6 +67,13 @@ tell this one wrong.
 
 ## 4. This campaign's own conventions
 
+- **Everyone starts at CFI Rank 2.** All four pre-gens are Rank 2, and a
+  character rolled at the table is built to match — this is not a Rank 1 novice
+  campaign, and a Rank 1 character walks into the Tourney outclassed. It is
+  recorded as `extras.rank` on every PC, caster or not; `extras.magic_rank` is
+  the separate spell-access tier and for a caster the two agree.
+
+
 - **The clock is day-keyed.** `d-3` is arrival, `d-1` the presentation, and the
   Tourney runs `d0` (the Archery), `d1` (the Single Combat) and `d2` (the Run and
   the closing). Time is an
