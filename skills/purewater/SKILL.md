@@ -14,8 +14,12 @@ the engine structurally cannot know.
 The engine's `SKILL.md` tells you to read `setting/the-story.md` and gives no
 path, because a plugin cannot know where another plugin's data lives. Here it is:
 
+`$PW` is this package's root. The preflight prints it as `PUREWATER_ROOT=<path>`
+at session start; failing that it is the directory two levels above this
+`SKILL.md`. A plugin-root environment variable is not it — your host sets one
+for hook commands only, never in your shell.
+
 ```bash
-PW="${CLAUDE_PLUGIN_ROOT}"
 . "${PW}/scripts/engine.sh"    # sets GM_ROOT, GM_SKILL, GM_CLI and a gm() shell function
 ```
 
@@ -117,6 +121,11 @@ covers, and every location file ends with a **Map:** line naming its sheet.
 
 | | |
 |---|---|
-| `/purewater:start` | first run: brief, import, choose or roll a character, open the scene |
-| `/mythras-gm:play` | every session after that |
-| `/mythras-gm:setup` | once per machine, if the database is not up |
+| skill | slash command (Claude Code) | when |
+|---|---|---|
+| `purewater-start` | `/purewater:start` | first run: brief, import, choose or roll a character, open the scene |
+| `mythras-play` | `/mythras-gm:play` | every session after that |
+| `mythras-setup` | `/mythras-gm:setup` | once per machine, if the database is not up |
+
+Name the **skill** when you tell a player what to do next. The slash commands
+exist only in Claude Code; in Codex there is nothing to type.

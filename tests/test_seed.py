@@ -63,11 +63,13 @@ def test_only_one_campaign_id_is_ever_offered():
     """Three documents once claimed three different live campaign ids, and the
     one CLAUDE.md called 'the live game' was a whole run out of date."""
     shipped = ["campaign.yaml", "README.md", "skills/purewater/SKILL.md",
-               "commands/start.md", "scripts/session-start.sh"]
+               "skills/purewater-start/SKILL.md", "scripts/session-start.sh"]
     for rel in shipped:
         f = ROOT / rel
-        if not f.exists():
-            continue
+        # No skip-if-missing. A renamed file used to drop out of this check
+        # silently, which is how a document naming a dead campaign id would
+        # survive the very test written to catch it.
+        assert f.exists(), f"{rel} is in the shipped list but not on disk"
         found = set(re.findall(r"myth-campaign-[a-z0-9-]+", f.read_text()))
         assert found <= {SEED_ID}, f"{rel} names other campaign ids: {found - {SEED_ID}}"
 
@@ -85,7 +87,7 @@ def test_the_plugin_declares_the_engine_as_a_dependency():
 def test_the_start_command_guards_against_resetting_a_live_game():
     """The worst thing this plugin could ship: a returning player types
     /purewater:start and loses their campaign."""
-    cmd = (ROOT / "commands" / "start.md").read_text()
+    cmd = (ROOT / "skills" / "purewater-start" / "SKILL.md").read_text()
     assert "session number above 0" in cmd
     assert "/mythras-gm:play" in cmd, "an in-progress game must be handed to play"
     assert "do not re-seed" in cmd.lower() or "do not import" in cmd.lower()
@@ -94,7 +96,7 @@ def test_the_start_command_guards_against_resetting_a_live_game():
 def test_the_new_player_path_briefs_before_it_asks():
     """Knowing that Passions matter changes what a player writes down, so the
     Mythras briefing has to come before character creation."""
-    cmd = (ROOT / "commands" / "start.md").read_text()
+    cmd = (ROOT / "skills" / "purewater-start" / "SKILL.md").read_text()
     assert "NEW-TO-MYTHRAS.md" in cmd
     i_brief = cmd.index("NEW-TO-MYTHRAS.md")
     i_choose = cmd.index("choosing-a-character.md")
