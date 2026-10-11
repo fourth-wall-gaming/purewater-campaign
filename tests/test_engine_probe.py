@@ -226,3 +226,50 @@ def test_no_home_at_all_is_a_miss_not_an_abort(tmp_path):
     )
     assert "unbound variable" not in r.stderr, r.stderr
     assert r.returncode == 0, f"exit {r.returncode}: {r.stderr}"
+
+
+def test_the_hook_publishes_the_campaign_root_absolutely(empty_home, tmp_path):
+    """The skill needs this package's own path and cannot compute it: a skill
+    body is prose, and the plugin-root variable a host substitutes into it
+    under Claude Code expands to nothing under Codex. The hook CAN resolve it
+    -- both hosts set the variable for hook commands -- so the hook publishes
+    it and the skill reads it from there. Same fix as the engine's own.
+    """
+    import shutil
+    import subprocess
+    staged = tmp_path / "staged-plugin"
+    (staged / "scripts").mkdir(parents=True)
+    for name in ("engine.sh", "session-start.sh"):
+        shutil.copy2(ROOT / "scripts" / name, staged / "scripts" / name)
+
+    env = _clean_env(empty_home)
+    env["CLAUDE_PLUGIN_ROOT"] = str(staged)
+    r = subprocess.run(["bash", str(staged / "scripts" / "session-start.sh")],
+                       capture_output=True, text=True, env=env, cwd=str(staged))
+
+    assert r.returncode == 0, f"exit {r.returncode}\n{r.stdout}\n{r.stderr}"
+    assert f"PUREWATER_ROOT={staged}" in r.stdout, (
+        "the hook must publish this package's absolute path in every branch; "
+        f"without it a Codex session has no path to the campaign files:\n{r.stdout}")
+
+
+def test_the_hook_names_a_skill_not_only_a_slash_command(empty_home, tmp_path):
+    """Review Focus 4. Codex has no commands component, so an instruction to
+    type /purewater:start is an instruction a Codex user cannot follow."""
+    import shutil
+    import subprocess
+    staged = tmp_path / "staged-plugin"
+    (staged / "scripts").mkdir(parents=True)
+    for name in ("engine.sh", "session-start.sh"):
+        shutil.copy2(ROOT / "scripts" / name, staged / "scripts" / name)
+    env = _clean_env(empty_home)
+    env["CLAUDE_PLUGIN_ROOT"] = str(staged)
+    out = subprocess.run(["bash", str(staged / "scripts" / "session-start.sh")],
+                         capture_output=True, text=True, env=env,
+                         cwd=str(staged)).stdout
+
+    assert "purewater-start" in out, (
+        "the engine-missing branch sends the player to a Claude-Code-only "
+        f"install command with no skill named:\n{out}")
+    assert "/plugin install" not in out, (
+        "that command does not exist in Codex; describe the plugin browser")
