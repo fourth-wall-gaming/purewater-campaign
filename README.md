@@ -82,7 +82,8 @@ which is correct.
 
 ## 2. How the plugin finds the engine
 
-A plugin's `${CLAUDE_PLUGIN_ROOT}` resolves to its own directory and there is no
+A plugin's own plugin-root variable resolves to its own directory, is set for
+hook commands only, and there is no
 variable for a sibling's, so a campaign cannot name the engine it depends on.
 `scripts/engine.sh` looks for it, in order of how much it trusts the answer:
 
@@ -96,7 +97,7 @@ variable for a sibling's, so a campaign cannot name the engine it depends on.
 Sourcing it sets `GM_ROOT`, `GM_SKILL`, `GM_CLI` and a `gm` shell function:
 
 ```bash
-. "${CLAUDE_PLUGIN_ROOT}/scripts/engine.sh"
+. "${PW}/scripts/engine.sh"   # $PW: see PUREWATER_ROOT in the preflight output
 gm doctor
 ```
 
@@ -118,7 +119,7 @@ blocks.
    - **Session 0** → imported, never played; skip the import.
    - **Session above 0** → a game is in progress. **Stop** and hand over to
      `/mythras-gm:play`. The command never re-seeds a live game.
-3. `gm import-campaign --path "${CLAUDE_PLUGIN_ROOT}"`.
+3. `gm import-campaign --path "${PW}"`.
 4. Read the engine's `TABLE.md` and `styles/gamesmaster.md`, and this campaign's
    `setting/the-story.md`.
 5. Brief the setting (`lore/player-briefing/welcome-to-purewater.md`), offer the

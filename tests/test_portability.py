@@ -111,3 +111,40 @@ def test_no_shipped_skill_names_a_slash_command_without_its_skill(doc):
             assert skill in text, (
                 f"{doc.relative_to(ROOT)} tells the reader to run {command} and "
                 f"never names the {skill} skill, which is the only route in Codex")
+
+
+def test_hook_timeouts_are_plausible_seconds():
+    """`timeout` is seconds in both hosts (Claude Code: "Seconds before
+    cancelling", default 600; Codex: the same, and it caps most events at 600).
+    A millisecond value reads as days and silently disables the timeout."""
+    spec = json.loads((ROOT / "hooks" / "hooks.json").read_text())
+    found = []
+    for event, groups in spec.get("hooks", {}).items():
+        for group in groups:
+            for hook in group.get("hooks", []):
+                if "timeout" in hook:
+                    found.append((event, hook["timeout"]))
+    assert found, "no hook declares a timeout; this test would pass vacuously"
+    too_long = [(e, t) for e, t in found if t > 600]
+    assert not too_long, (
+        f"timeout is in SECONDS, not milliseconds: {too_long}")
+
+
+def test_the_contributor_instructions_reach_both_agents():
+    """Claude Code reads AGENTS.md only when no CLAUDE.md sits at or above the
+    working directory; Codex reads AGENTS.md only. So a bare AGENTS.md beside a
+    CLAUDE.md is read by one and ignored by the other. The documented way to
+    have one file serve both is a CLAUDE.md that imports it.
+
+    This repository's instructions are for contributors in a clone, not for
+    players -- they are not shipped. But a contributor using Codex in that
+    clone currently gets none of them."""
+    agents = ROOT / "AGENTS.md"
+    claude = ROOT / "CLAUDE.md"
+    assert agents.exists(), "no AGENTS.md: a Codex contributor gets no instructions"
+    assert claude.exists(), "no CLAUDE.md"
+    assert "@AGENTS.md" in claude.read_text(), (
+        "CLAUDE.md does not import AGENTS.md, so Claude Code reads CLAUDE.md "
+        "only and the two can drift")
+    assert "campaign package" in agents.read_text(), (
+        "AGENTS.md exists but does not hold the contributor instructions")
