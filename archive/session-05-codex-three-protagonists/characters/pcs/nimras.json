@@ -1,0 +1,923 @@
+{
+  "id": "myth-char-4fc52ae14026",
+  "name": "Nimras",
+  "type": "pc",
+  "status": "active",
+  "description": "Nimras: human Rank 2 Magic-User, freelance mage hunter trained by an independent fellowship. Left amicably to spread his wings. Review draft; not yet in play.",
+  "narrative": "Nimras is a freelance mage hunter trained by an independent fellowship. He left on good terms to choose his own work and establish his independence. The fellowship has commissioned him to find his former teacher Rennic Vaur in Purewater and recover an entrusted manuscript. His introduction to Oren Vey is his first proposed lead. He holds no Crown warrant. Alignment and passions remain the player\u2019s choice. No arrival, target sighting or scene has been played.",
+  "characteristics": {
+    "STR": 11,
+    "CON": 15,
+    "SIZ": 10,
+    "DEX": 12,
+    "INT": 14,
+    "POW": 15,
+    "CHA": 15
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 13,
+    "luck_points": 5,
+    "magic_points": 15,
+    "movement": "6.096m (20 feet)"
+  },
+  "skills": {
+    "Athletics": 35,
+    "Boating": 26,
+    "Brawn": 21,
+    "Conceal": 32,
+    "Customs (Home culture)": 68,
+    "Dance": 27,
+    "Deceit": 60,
+    "Drive": 32,
+    "Endurance": 40,
+    "Evade": 69,
+    "First Aid": 26,
+    "Influence": 70,
+    "Insight": 70,
+    "Locale (Home region)": 40,
+    "Perception": 70,
+    "Ride": 27,
+    "Sing": 30,
+    "Stealth": 57,
+    "Swim": 26,
+    "Unarmed": 23,
+    "Willpower": 70,
+    "Language (Common)": 69,
+    "Commerce": 34,
+    "Courtesy": 39,
+    "Streetwise": 70,
+    "Arcane Casting": 71,
+    "Arcane Knowledge": 70,
+    "Language (Elven)": 29,
+    "Lore (Magical traditions)": 28,
+    "Lore (Dangerous creatures)": 28,
+    "Survival": 60
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Quarterstaff",
+      "damage": "1d8",
+      "size": "M",
+      "hands": 2,
+      "traits": [
+        "Stun Location"
+      ]
+    },
+    {
+      "name": "Dart",
+      "damage": "1d4",
+      "size": "S",
+      "quantity": 3,
+      "range": "15/30/60 ft",
+      "traits": [
+        "Impale"
+      ]
+    },
+    {
+      "name": "Common travelling clothes"
+    },
+    {
+      "name": "Spellbook"
+    },
+    {
+      "name": "Spell component pouch"
+    },
+    {
+      "name": "Backpack"
+    },
+    {
+      "name": "Waterskin"
+    },
+    {
+      "name": "Trail rations (7 days)"
+    },
+    {
+      "name": "Bedroll"
+    },
+    {
+      "name": "Small empty sack"
+    },
+    {
+      "name": "Flint and tinder"
+    },
+    {
+      "name": "Two-hour candles (10)"
+    },
+    {
+      "name": "Parchment pages (10)"
+    },
+    {
+      "name": "Quill"
+    },
+    {
+      "name": "Bottle of ink"
+    },
+    {
+      "name": "Belt pouch"
+    },
+    {
+      "name": "Hemp rope (30 ft; purchased for 1 GP)"
+    },
+    {
+      "name": "Rennic Vaur\u2019s note"
+    },
+    {
+      "name": "Sketch of Lantern Float Market public landing"
+    },
+    {
+      "name": "Nessa Rill work request with Rennic introduction",
+      "description": "Merchant Quarter workshop directions, offer10GP total including3GP advance. Rennic vouches for Nimras training and successful completed fellowship commission, not for Nessa whom he has not met."
+    },
+    {
+      "name": "Signed collection receipt \u2014 Nessa Rill",
+      "description": "Permission to collect her blue leather tool-case from Tobin Marr; store directions included."
+    }
+  ],
+  "passions": {
+    "True Neutral (Pragmatic; freedom of action)": 59,
+    "Uphold (My independence)": 70,
+    "Loyalty (The fellowship)": 59,
+    "Respect (Rennic Vaur)": 50
+  },
+  "combat_styles": {
+    "Combat Skill (Mage)": 43
+  },
+  "spells": {
+    "sorcery": [
+      "Read Magic",
+      "Appraise",
+      "Avert",
+      "Befuddle",
+      "Chill",
+      "Cleanse",
+      "Coordination",
+      "Deflect",
+      "Dry",
+      "Ignite",
+      "Magic Tricks",
+      "Might",
+      "Protection",
+      "Repair",
+      "Preserve",
+      "Magic Missile",
+      "Shield",
+      "Invisibility",
+      "Detect Magic",
+      "Sleep",
+      "Change Appearance",
+      "Web",
+      "Dispel Magic",
+      "Lightning Bolt",
+      "Locate Object"
+    ]
+  },
+  "powers": [
+    {
+      "name": "Mental Strength",
+      "type": "CFI mage Rank 1 ability",
+      "prerequisite": "Arcane Casting 60%",
+      "cost": "Free character-creation ability",
+      "effect": "Once per day, mental-magic resistance Willpower tests are two difficulty grades easier. Disbelieving illusions and phantasms is one grade easier.",
+      "uses_per_day": 1,
+      "uses_remaining": 1
+    }
+  ],
+  "extras": {
+    "class": "Magic-User",
+    "rank": 2,
+    "rank_title": "Mage",
+    "race": "Human",
+    "species": "humanoid",
+    "culture": "Civilized",
+    "pronouns": "he/him",
+    "build_status": "Active player character; session begun at d6/dusk.",
+    "background": {
+      "profession": "Freelance mage hunter and battle mage",
+      "training": "An independent magical fellowship, name not yet chosen.",
+      "departure": "Left amicably to spread his wings and choose his own work; no bad blood.",
+      "current_client": "His former fellowship.",
+      "commission": "Find his former teacher Rennic Vaur in Purewater, bring him home alive, and recover the entrusted manuscript he took.",
+      "lead": "An introduction to Oren Vey, proposed as Vaur\u2019s last known correspondent.",
+      "authority": "No Crown warrant; fellowship training does not make him an Assayer.",
+      "style": "Direct battle magic, protection and pursuit; precise skills, spells and abilities unchosen.",
+      "creation_status": "Characteristics and core concept agreed; sheet, spellbook, passions, employer name, payment and personal equipment unfinished.",
+      "continuity": "Join the existing Purewater campaign at d6/dusk after the tournament and Hanzo\u2019s departure. No rewind or advance."
+    },
+    "skill_allocation": {
+      "base": {
+        "Athletics": 23,
+        "Boating": 26,
+        "Brawn": 21,
+        "Conceal": 27,
+        "Customs (Home culture)": 68,
+        "Dance": 27,
+        "Deceit": 29,
+        "Drive": 27,
+        "Endurance": 30,
+        "Evade": 24,
+        "First Aid": 26,
+        "Influence": 30,
+        "Insight": 29,
+        "Locale (Home region)": 28,
+        "Perception": 29,
+        "Ride": 27,
+        "Sing": 30,
+        "Stealth": 26,
+        "Swim": 26,
+        "Unarmed": 23,
+        "Willpower": 30,
+        "Language (Common)": 69,
+        "Commerce": 29,
+        "Courtesy": 29,
+        "Streetwise": 30,
+        "Arcane Casting": 29,
+        "Arcane Knowledge": 28,
+        "Language (Elven)": 29,
+        "Lore (Magical traditions)": 28,
+        "Lore (Dangerous creatures)": 28,
+        "Survival": 30,
+        "Combat Skill (Mage)": 23
+      },
+      "culture": {
+        "Conceal": 5,
+        "Deceit": 10,
+        "Drive": 5,
+        "Influence": 10,
+        "Insight": 15,
+        "Locale (Home region)": 10,
+        "Willpower": 15,
+        "Streetwise": 15,
+        "Courtesy": 10,
+        "Commerce": 5
+      },
+      "class": {
+        "Arcane Casting": 15,
+        "Arcane Knowledge": 15,
+        "Willpower": 15,
+        "Insight": 15,
+        "Influence": 10,
+        "Perception": 15,
+        "Evade": 15
+      },
+      "bonus": {
+        "Arcane Casting": 26,
+        "Arcane Knowledge": 27,
+        "Willpower": 10,
+        "Insight": 11,
+        "Influence": 20,
+        "Perception": 26,
+        "Evade": 30,
+        "Survival": 30,
+        "Streetwise": 25,
+        "Courtesy": 0,
+        "Locale (Home region)": 2,
+        "Endurance": 10,
+        "Athletics": 12,
+        "Combat Skill (Mage)": 20,
+        "Stealth": 30,
+        "Deceit": 21
+      },
+      "culture_professional": [
+        "Streetwise",
+        "Courtesy",
+        "Commerce"
+      ],
+      "class_professional": [
+        "Arcane Casting",
+        "Arcane Knowledge",
+        "Language (Elven)",
+        "Lore (Magical traditions)",
+        "Lore (Dangerous creatures)"
+      ],
+      "hobby_professional": "Survival",
+      "rank_qualifying_skills": {
+        "Influence": 70,
+        "Insight": 70,
+        "Perception": 70,
+        "Willpower": 70,
+        "Arcane Casting": 70,
+        "Arcane Knowledge": 70
+      },
+      "limits": "100 culture (5-15 each), 100 class (max 15), 300 Rank 2 bonus (max 30 each)."
+    },
+    "spell_ranks": {
+      "0": [
+        "Read Magic",
+        "Appraise",
+        "Avert",
+        "Befuddle",
+        "Chill",
+        "Cleanse",
+        "Coordination",
+        "Deflect",
+        "Dry",
+        "Ignite",
+        "Magic Tricks",
+        "Might",
+        "Protection",
+        "Repair",
+        "Preserve"
+      ],
+      "1": [
+        "Magic Missile",
+        "Shield",
+        "Invisibility",
+        "Detect Magic",
+        "Sleep",
+        "Change Appearance",
+        "Web"
+      ],
+      "2": [
+        "Dispel Magic",
+        "Lightning Bolt",
+        "Locate Object"
+      ]
+    },
+    "prepared_spells": {
+      "0": [
+        "Read Magic",
+        "Avert",
+        "Protection",
+        "Coordination",
+        "Repair"
+      ],
+      "1": [
+        "Magic Missile",
+        "Shield",
+        "Detect Magic",
+        "Invisibility",
+        "Change Appearance"
+      ],
+      "2": [
+        "Dispel Magic",
+        "Lightning Bolt",
+        "Locate Object"
+      ]
+    },
+    "spell_memory_capacity": {
+      "0": 5,
+      "1": 5,
+      "2": 3
+    },
+    "spell_learning": "Read Magic plus 14 cantrips and 7 Rank 1 spells at Arcane Knowledge 70; 3 spells gained on reaching Rank 2. No extra spells awarded.",
+    "wealth": {
+      "gp": 27,
+      "sp": 3,
+      "cp": 4,
+      "starting_roll": {
+        "success": true,
+        "expr": "3d6",
+        "rolls": [
+          5,
+          1,
+          1,
+          5,
+          1,
+          1,
+          5,
+          1,
+          1,
+          5,
+          1,
+          1
+        ],
+        "total": 7
+      },
+      "purchases_gp": {
+        "Hemp rope (30 ft)": 1
+      },
+      "contract_advance": "Amount not established; not added to starting wealth.",
+      "expenses": [
+        {
+          "purpose": "Three Steps Rooms three nights with breakfast",
+          "sp": 6,
+          "paid_at": "d6/night"
+        },
+        {
+          "purpose": "Public boat passages city to Temple Isle and Temple Isle to Lullwater",
+          "cp": 2,
+          "paid_at": "local d8/day",
+          "conversion": "1SP=10CP, changed1SP leaving8CP"
+        },
+        {
+          "purpose": "Three Steps Rooms three nights with breakfast",
+          "sp": 6,
+          "paid_at": "d6/night"
+        },
+        {
+          "purpose": "Public boat passages city to Temple Isle and Temple Isle to Lullwater",
+          "cp": 2,
+          "paid_at": "local d8/day",
+          "conversion": "1SP=10CP, changed1SP leaving8CP"
+        },
+        {
+          "purpose": "Three Steps Rooms three nights with breakfast",
+          "sp": 6,
+          "paid_at": "d6/night"
+        },
+        {
+          "purpose": "Public boat passages city to Temple Isle and Temple Isle to Lullwater",
+          "cp": 2,
+          "paid_at": "local d8/day",
+          "conversion": "1SP=10CP, changed1SP leaving8CP"
+        },
+        {
+          "purpose": "Three Steps Rooms three nights with breakfast",
+          "sp": 6,
+          "paid_at": "d6/night"
+        },
+        {
+          "purpose": "Public boat passages city to Temple Isle and Temple Isle to Lullwater",
+          "cp": 2,
+          "paid_at": "local d8/day",
+          "conversion": "1SP=10CP, changed1SP leaving8CP"
+        }
+      ],
+      "income": [
+        {
+          "purpose": "Completed live recovery of Rennic and return of manuscript",
+          "gp": 8,
+          "paid_at": "d7/day",
+          "client": "myth-faction-affe680fd24f"
+        },
+        {
+          "purpose": "Nessa Rill intact tool-case recovery; no advance deducted",
+          "gp": 10,
+          "paid_at": "d7/day",
+          "client": "myth-char-703e25b4d09d"
+        },
+        {
+          "purpose": "Completed live recovery of Rennic and return of manuscript",
+          "gp": 8,
+          "paid_at": "d7/day",
+          "client": "myth-faction-affe680fd24f"
+        },
+        {
+          "purpose": "Nessa Rill intact tool-case recovery; no advance deducted",
+          "gp": 10,
+          "paid_at": "d7/day",
+          "client": "myth-char-703e25b4d09d"
+        },
+        {
+          "purpose": "Vey examination commission advance,part of total4GP",
+          "gp": 1,
+          "paid_at": "d9/day",
+          "client": "myth-char-fd2973412ca1"
+        },
+        {
+          "purpose": "Completed live recovery of Rennic and return of manuscript",
+          "gp": 8,
+          "paid_at": "d7/day",
+          "client": "myth-faction-affe680fd24f"
+        },
+        {
+          "purpose": "Nessa Rill intact tool-case recovery; no advance deducted",
+          "gp": 10,
+          "paid_at": "d7/day",
+          "client": "myth-char-703e25b4d09d"
+        },
+        {
+          "purpose": "Completed live recovery of Rennic and return of manuscript",
+          "gp": 8,
+          "paid_at": "d7/day",
+          "client": "myth-faction-affe680fd24f"
+        },
+        {
+          "purpose": "Nessa Rill intact tool-case recovery; no advance deducted",
+          "gp": 10,
+          "paid_at": "d7/day",
+          "client": "myth-char-703e25b4d09d"
+        },
+        {
+          "purpose": "Vey examination commission advance,part of total4GP",
+          "gp": 1,
+          "paid_at": "d9/day",
+          "client": "myth-char-fd2973412ca1"
+        },
+        {
+          "purpose": "Vey independent examination report,remaining3GP of4GP total after1GP advance",
+          "gp": 3,
+          "paid_at": "d9/day",
+          "client": "myth-char-fd2973412ca1"
+        }
+      ]
+    },
+    "cfi_rules_notes": [
+      "Rank 2: base 2 AP +1; base POW Luck 3 + human 1 + Rank 2 table 1 =5.",
+      "CON+SIZ 25: use CFI HP table, then +1 in each location at Rank 2.",
+      "INT/4 memory fractions rounded down following engine skill guidance.",
+      "Rank 2 spells cost normally; lower-rank spell final costs reduced by 2 per rank difference, minimum 1 MP.",
+      "No spell is forgotten merely by successful casting. Arcane casting requires freedom from armour and shields.",
+      "No additional paid Rank abilities granted; no unspent advancement budget invented.",
+      "Locale and Customs refer to his home region, not automatic knowledge of Purewater. Home region and fellowship name remain undecided.",
+      "Navigation and Track are untrained Professional skills and have not been added under other names."
+    ],
+    "pending_player_choices": [
+      "Home region and fellowship name"
+    ],
+    "alignment": {
+      "name": "True Neutral",
+      "elements": [
+        "Pragmatic",
+        "Freedom of action"
+      ],
+      "value": 59,
+      "calculation": "INT 14 + POW 15 + 30"
+    },
+    "outlook": {
+      "player_defined": true,
+      "manner": "Tries to be pleasant and amiable.",
+      "ethics": "Freedom from imposed constraints and rules; personal judgement over corrupt orthodox legality. Will not victimise the helpless and tries to keep ordinary people safe.",
+      "boundaries": "Does not tolerate people messing with him.",
+      "lethal_force": "Earlier willingness to kill if necessary remains bounded by the new code; player decides when force against dangerous opposition is justified. No automatic pacifism or unrestricted violence inferred.",
+      "law": "Views orthodox kingdom legality as corrupt; readily breaks its laws.",
+      "work": "Comfortable with thefts, heists and illicit deals, viewed as entrepreneurial work.",
+      "moral_distinction": "Distinguishes willing people in the game from ordinary people. Their participation is not blanket permission for cruelty; the player decides particular judgements.",
+      "bystanders": "Keep ordinary people safe; do not treat the helpless as expendable."
+    },
+    "confirmed_personal_passions": {
+      "Uphold (My independence)": 70,
+      "Loyalty (The fellowship)": 59,
+      "Respect (Rennic Vaur)": 50
+    },
+    "opening_manifest": "docs/scenarios/nimras-session-start-manifest.json",
+    "portrait": {
+      "path": "/Users/gullyburns/Documents/ChatGPT/mythras/docs/characters/nimras-portrait-v1.png",
+      "workspace_relative_path": "docs/characters/nimras-portrait-v1.png",
+      "status": "Approved by the player as Nimras\u2019s appearance reference.",
+      "generation": "Built-in image generation; graphite and ink character sketch.",
+      "appearance": "Compact, healthy human man around thirty, dark tousled hair, light stubble, amiable self-possessed expression; worn practical travelling coat over ordinary unarmoured clothes, boots, spellbook satchel and component pouch. Plain wooden quarterstaff and a small suggestion of lightning.",
+      "scope": "Appearance reference only; no added powers or equipment. Quarterstaff is already on the mechanical sheet.",
+      "prompt": "Quick expressive graphite and ink character sketch on warm off-white paper of Nimras, a compact human male freelance mage hunter around thirty, healthy and moderately athletic, intelligent personable face, small easy smile, steady gaze, practical worn travelling coat over plain unarmoured clothes, boots, component pouch, well-used spellbook in a weatherproof satchel, plain wooden quarterstaff and a small fork of lightning at his free hand. Loose canal-city background inspired by Venice, confident hatching, natural human anatomy. No armour, shield, pointed hat, ornate robes, fireball, glowing eyes, text or watermark."
+    },
+    "appearance": "Compact, healthy human man around thirty, dark tousled hair, light stubble, amiable self-possessed expression; worn practical travelling coat over ordinary unarmoured clothes, boots, spellbook satchel and component pouch. Plain wooden quarterstaff and a small suggestion of lightning.",
+    "player_experience_brief": {
+      "activities": "Magic-heavy with many opportunities for spellcasting and a little fighting",
+      "tone": "Fantasy secret-agent fieldwork; freelance outsider arriving for first time",
+      "relationship": "Former teacher and professional recovery commission",
+      "method": "Interview after pitch selection, then tailor cast, acts and playable situations",
+      "selected_campaign": "The Midnight Exchange",
+      "base_and_scope": "Purewater anchor and journeys through the wider kingdom",
+      "work_preference": "Start an independent business with modest-risk recovery/appraisal jobs; gradually offer more heists and illicit deals through earned contacts and player choices. Protect ordinary people and the helpless. No mandatory initial ambush or criminal commitment.",
+      "interview_status": "complete"
+    },
+    "full_name": "Nimras Lylandyr",
+    "active_cover_name": null,
+    "lodging": {
+      "location": "myth-loc-ddabdb0593f3",
+      "room": "Small room upstairs, canal window",
+      "nights": 3,
+      "from": "d6/night",
+      "through": "d8/night",
+      "paid_sp": 6,
+      "includes": "Breakfast",
+      "key_held": true,
+      "nights_used": 3,
+      "status": "Last prepaid nightd8/night slept; current d9morning breakfast included. No additional night booked or charged.",
+      "returned_at": "d7/day"
+    },
+    "active_magic": [
+      {
+        "spell": "Repair",
+        "target": "Drowned Kiln empty packing crate lid, minor split",
+        "cast_at": "d7/dawn",
+        "expires": "d8/dawn",
+        "healing_hp": 1,
+        "cost_mp": 1,
+        "casting_roll": 32,
+        "temporary_repair": true,
+        "active": false,
+        "ended_reason": "Duration expired d8/dawn",
+        "clock_migrated": true
+      },
+      {
+        "spell": "Repair",
+        "target": "Tobin Marr loft key",
+        "cast_at": "d7/day",
+        "expires": "d8/day",
+        "duration": "24 hours",
+        "cost_mp": 1,
+        "original_roll": 96,
+        "luck_reversed_roll": 69,
+        "skill": 71,
+        "healing_hp": 1,
+        "temporary_repair": true,
+        "active": false,
+        "ended_reason": "Voluntarily dismissed locald8/dawn at player request",
+        "clock_migrated": true
+      },
+      {
+        "spell": "Invisibility",
+        "intensity": 1,
+        "target": "myth-char-4fc52ae14026",
+        "cast_at": "d7/day late afternoon, Rill Stillhouse",
+        "duration_hours": 6,
+        "expires": "Six hours after casting; track scene-relative elapsed time, no automatic dawn claim",
+        "cost_mp": 1,
+        "original_roll": 90,
+        "luck_reversed_roll": 9,
+        "skill": 71,
+        "active": false,
+        "limitations": "Normal vision only; sound/touch remain. Attack ends spell; caster may dismiss freely.",
+        "ended_reason": "Voluntarily dismissed d7/day at quiet exterior of Stillhouse on player instruction",
+        "clock_migrated": true
+      },
+      {
+        "spell": "Change Appearance",
+        "active": false,
+        "intensity": 3,
+        "cast_at": "locald8/day at Lullwater landing",
+        "cost_mp": 0,
+        "critical": true,
+        "casting_roll": 4,
+        "duration_roll": {
+          "success": true,
+          "expr": "2d6",
+          "rolls": [
+            3,
+            2
+          ],
+          "total": 5
+        },
+        "duration_minutes": 15,
+        "elapsed_minutes": 13,
+        "remaining_minutes": 2,
+        "appearance": "Nondescript local adult passerby, altered facial features and plain worn clothing, same approximate build; no real person impersonated. Scent and touch unchanged.",
+        "clock_migrated": true,
+        "migrated_active_at_install": true,
+        "native_effect_id": "myth-effect-ea47eebe9be1"
+      }
+    ],
+    "surveillance": {
+      "location": "myth-loc-9e382e0baf3b",
+      "position": "Inside main loft door, several paces from Rennic worktable",
+      "detected": true,
+      "roll": "Stealth02/56critical beats hearing29/50success",
+      "status": "Ended: voluntarily revealed true appearance to Rennic"
+    },
+    "last_full_rest": "d8/dawn",
+    "combat_state": {
+      "encounter": "myth-enc-1740f49c69f5",
+      "round": 1,
+      "cycle_completed": 1,
+      "initiative": 16,
+      "ap": 0,
+      "max_ap": 3,
+      "last_action": "Staffdisarm succeeded: frozenParry29beatsBessCompanyArms11/50success. DM0 cudgelfallsBessfeet. AP0, no additionalActioncost.",
+      "ap_ledger_authoritative": true,
+      "engine_note": "CLIencounterAPbaseline excludes casting/ready/movement; use this ledger and no-ap attackcalls then persistAPhere. Houndinit+1corrects engine treating naturalAP1 as wornarmor; original dice preserved.",
+      "cycle_2_status": "DefensiveDisarmresolved, JoryDelay, ConallMove1AP tointerpose, thenvoluntarysurrender; encounterendedwithoutRound2",
+      "conditions": [],
+      "readied_weapon": "Quarterstaff",
+      "active": false,
+      "ended_reason": "Company captain voluntarily yields afterlostactivehounds, woundedhandler, disarmedBess andAssayrapier intervention; weaponsdropped, no physicalrestraints yet"
+    },
+    "score": {
+      "observed": [
+        "d7/dawn R1C1 houndcontrolstandoff: First Lightning Bolt casting Action, intensity2;1of2 complete"
+      ]
+    },
+    "last_spell": {
+      "spell": "Lightning Bolt",
+      "intensity": 2,
+      "roll": 58,
+      "success": true,
+      "released": true,
+      "mp_spent": 4,
+      "damage_each_location": 3,
+      "targets": [
+        "myth-char-375dd5281882",
+        "myth-char-0f7136e1ac47",
+        "myth-char-764c91ce4e27"
+      ]
+    },
+    "commission_result": {
+      "status": "completed",
+      "at": "d7/day",
+      "client": "myth-faction-affe680fd24f",
+      "teacher_returned_alive": true,
+      "manuscript_returned": true,
+      "fee_received_gp": 8,
+      "home_location": "myth-loc-8ef4d0bfe41f",
+      "total_wealth": {
+        "gp": 13,
+        "sp": 4,
+        "cp": 0
+      }
+    },
+    "doing": {
+      "goal": "Socialise and learn local surroundings while building practice",
+      "next": "After paying respects to Nerissa, wandering Lullwater in a generic disguise, no new contact approachedyet",
+      "where": "myth-loc-d09bf7a910cb",
+      "as_of_session": 8
+    },
+    "midnight_commission": {
+      "client": "myth-char-703e25b4d09d",
+      "task": "Recover Nessa tool-case intact",
+      "status": "completed",
+      "fee_gp": 10,
+      "advance_gp": 0,
+      "terms": "No recovery, no charge; full10GP on successful intact return",
+      "accepted_at": "d7/day",
+      "paid_gp": 10,
+      "completed_at": "d7/day"
+    },
+    "courtesy_visits": {
+      "intent": "Over next few days, visit local mages offering freelance magical services as courtesy",
+      "exclude": "Maudren Sere, per player",
+      "first": "Oren Vey, existing acquaintance",
+      "remaining": [],
+      "status": "Complete, no new commissions accepted; Sere omitted as requested",
+      "completed": [
+        "Oren Vey",
+        "Ysabet Rill",
+        "Hesper",
+        "Lady Ilyra Voss",
+        "Caldris"
+      ]
+    },
+    "contracting_boundaries": {
+      "stated_to_vey": {
+        "at": "d7/day",
+        "terms": [
+          "No blatantly criminal or unethical work",
+          "No violence against people unable to defend themselves",
+          "No work impugning personal honour",
+          "No stupid work"
+        ],
+        "scope": "Explicit current contracting limits; moral judgements remain player-owned. No automatic pacifism, obedience to corrupt law, Passion change or rewrite of earlier history."
+      },
+      "client_conflicts": {
+        "stated_to": "myth-char-d25e7fa48211",
+        "preference": "Generally avoid tasks putting him at odds with other patrons",
+        "confidentiality": "Personally guarantees discretion",
+        "exclusivity": "None; openly offers independent services to multiple major sorcerers",
+        "principle": "Player judges specific conflicts. No automatic duty to disclose other clients or hidden loyalties."
+      }
+    },
+    "play_pause": {
+      "requested_by_player": false,
+      "resumed_at": "d7/dusk",
+      "resumed_by": "Player requested return to bed and overnight recovery",
+      "current": "d8/dawn after full safe rest"
+    },
+    "recovery_state": {
+      "at": "local d8/dawn after short spellbook rest",
+      "base_max_mp": 15,
+      "ongoing_reserved_mp": 0,
+      "current_mp": 15,
+      "reserved_for": null,
+      "luck": "Unchanged; sleep is not a session refresh"
+    },
+    "thread_clock": {
+      "local_time": "d8/day",
+      "global_time_on_read": "d23/day",
+      "rule": "Parallel protagonist continuity. Continue saved Nimras d8 scene; do not rewind or tick shared high-water clock for earlier local play. Explicitly date local facts; preserve Hrill later history and private knowledge.",
+      "scene": "Lullwater after temple courtesy and short disguised walk",
+      "authoritative": false,
+      "migrated_to": "myth-storyline-b6753554ddd0",
+      "note": "Native storyline clock is authoritative; retained for audit only."
+    },
+    "timed_effects": [
+      {
+        "id": "myth-effect-ea47eebe9be1",
+        "name": "Change Appearance",
+        "active": false,
+        "started_at_minute": 34933,
+        "ends_at_minute": 34935,
+        "reserved_mp": 0,
+        "remaining_minutes": 0
+      },
+      {
+        "id": "myth-effect-334153283dad",
+        "name": "Detect Magic \u2014 auction examination",
+        "active": false,
+        "started_at_minute": 36395,
+        "ends_at_minute": 36397,
+        "reserved_mp": 1,
+        "remaining_minutes": 0
+      },
+      {
+        "id": "myth-effect-4721cbd1a902",
+        "name": "Read Magic \u2014 auction examination",
+        "active": false,
+        "started_at_minute": 36397,
+        "ends_at_minute": 36399,
+        "reserved_mp": 1,
+        "remaining_minutes": 0
+      }
+    ],
+    "storyline_clock_migration": {
+      "storyline": "myth-storyline-b6753554ddd0",
+      "effect_id": "myth-effect-ea47eebe9be1",
+      "play_advanced": false,
+      "resources_changed": false
+    },
+    "current_commission": {
+      "client": "myth-char-fd2973412ca1",
+      "task": "Independent examination/report on Ash Register papers",
+      "fee_total_gp": 4,
+      "advance_received_gp": 1,
+      "remaining_fee_gp": 0,
+      "expenses_cap_gp": 1,
+      "accepted_at": "d9/day",
+      "scope": "No bidding,purchase,theft or recovery authorised.",
+      "examiner_note": "Vey signed introduction authorising supervised examination of Lot17 at VelvetHold; supplies no private cabin access.",
+      "status": "completed",
+      "fee_paid_total_gp": 4,
+      "expenses_claimed_gp": 0,
+      "report": "Qualified: magical aura and funerary text observed; age/authorship unverified after failed ArcaneKnowledge; Rusk,diTeufel,Ashwick receipt and Drakesfall survey reference."
+    },
+    "auction_field_notes": {
+      "location": "VelvetHold Lot17,supervised inspection",
+      "authorised_copy": true,
+      "findings": "Aura I2/M2, school unidentified; funerary name Avar Dhal; Drakesfall estate chapel survey reference; clearance receipt Severin Rusk, di Teufel estate factor, Ashwick; attribution and age unverified.",
+      "originals_left_with_venn": true
+    }
+  },
+  "actor_notes": null,
+  "fatigue": "Fresh",
+  "luck_current": 5,
+  "magic_current": 13,
+  "experience_rolls": 0,
+  "location": "myth-loc-1f1ed691536c",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-23T16:54:43"
+}

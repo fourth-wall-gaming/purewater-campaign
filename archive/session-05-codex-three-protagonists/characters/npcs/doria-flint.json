@@ -1,0 +1,174 @@
+{
+  "id": "myth-char-aeb84ff1eb81",
+  "name": "Doria Flint",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult master glassblower of Furnace Court; no spellcasting. Burn mark at wrist; blunt and warm. Gives useful evidence freely when danger is clear.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 15,
+    "INT": 14,
+    "POW": 11,
+    "CHA": 13
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 14,
+    "luck_points": 0,
+    "magic_points": 11,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Craft (Glassworking)": 85,
+    "Mechanisms": 60,
+    "Perception": 60,
+    "Influence": 55,
+    "Insight": 50,
+    "Evade": 45,
+    "Athletics": 50
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Kiln tongs",
+      "damage": "1d4",
+      "size": "M"
+    },
+    {
+      "name": "Leather apron"
+    },
+    {
+      "name": "Glass cutters"
+    },
+    {
+      "name": "Kiln receipt"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {},
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "score": {
+      "want": "Keep workers safe and paid",
+      "ought": "Disclose who ordered the hunting bodies",
+      "driver": "Responsibility for the work of her hands",
+      "stated_reason": "Keep workers safe and paid",
+      "focus": "promotion",
+      "status": {
+        "Nimras": "Unknown visiting professional; no awareness of his thoughts or commission until learned."
+      },
+      "tactics": [
+        "Help immediate safety",
+        "Show receipts and name workshop",
+        "Ask compensation for further labour",
+        "Shut workshop against threats"
+      ],
+      "when_lied_to": "miss",
+      "blind_spot": "Trusts familiar professional habits.",
+      "rhythm": "Warm blunt speech, everyday craft idiom.",
+      "observed": [
+        "d6/night: knowledgeable unnamed visitor admired hounds and asked about live insert replacement. Doria showed collar, explained independent removal and named Kest; did not volunteer Rennic refuge.",
+        "d6/night: visitor praised workmanship; Doria offered cold sample for inspection and explained Kest original salvage brief, without offering a gift or identifying Rennic refuge.",
+        "d6/night: visitor asked authorship and possible purchase. Doria credited glasswork/fittings to herself and binding to Kest, then asked intended use; no sale or animation promise.",
+        "d6/night: visitor mentioned unnamed masters and Vaur as possible competing interest. Doria confirmed his visit about Kest, asked what competition was meant, did not name refuge or claim to detect a lie.",
+        "d6/night: asked what Vaur wanted, recounted delivery/fitting questions and wish for private Kest meeting; no current location given, visitor\u2019s rival claim still unexplained.",
+        "d6/night: visitor called Vaur a character and asked about agitation; Doria reported closed-door request and guarded satchel posture, without assigning feelings or disclosing shelter.",
+        "d6/night: visitor gives name Damien Harcourt and asks where to find Kest; supplied Kiln and annealing room directions. No identity verification or knowledge of Senn agreement."
+      ]
+    },
+    "doing": {
+      "goal": "Keep workshop safe and maintain dawn contact",
+      "next": "Back at Furnace Court after the food visit; no knowledge Nimras found Rennic or of their proposed report.",
+      "where": "myth-loc-8354b95b2b39",
+      "as_of_session": 6
+    },
+    "pronouns": "she/her"
+  },
+  "actor_notes": "LOOKS: Adult master glassblower of Furnace Court; no spellcasting. Burn mark at wrist; blunt and warm. Gives useful evidence freely when danger is clear. CORE/WANTS: Keep workers safe and paid. PRESSURE: follows tactics in score; no lie detection. KEY: Warm blunt speech, everyday craft idiom.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "location": "myth-loc-8354b95b2b39",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-23T21:54:03"
+}

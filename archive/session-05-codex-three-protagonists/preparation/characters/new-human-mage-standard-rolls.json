@@ -1,0 +1,144 @@
+{
+  "method": "standard human rolls in order",
+  "rolls": {
+    "STR": {
+      "success": true,
+      "expr": "3d6",
+      "rolls": [
+        6,
+        6,
+        2
+      ],
+      "total": 14
+    },
+    "CON": {
+      "success": true,
+      "expr": "3d6",
+      "rolls": [
+        4,
+        5,
+        6
+      ],
+      "total": 15
+    },
+    "SIZ": {
+      "success": true,
+      "expr": "2d6+6",
+      "rolls": [
+        1,
+        3
+      ],
+      "total": 10
+    },
+    "DEX": {
+      "success": true,
+      "expr": "3d6",
+      "rolls": [
+        6,
+        5,
+        1
+      ],
+      "total": 12
+    },
+    "INT": {
+      "success": true,
+      "expr": "2d6+6",
+      "rolls": [
+        2,
+        3
+      ],
+      "total": 11
+    },
+    "POW": {
+      "success": true,
+      "expr": "3d6",
+      "rolls": [
+        5,
+        6,
+        4
+      ],
+      "total": 15
+    },
+    "CHA": {
+      "success": true,
+      "expr": "3d6",
+      "rolls": [
+        6,
+        4,
+        5
+      ],
+      "total": 15
+    }
+  },
+  "character_created": true,
+  "assigned_characteristics": {
+    "STR": 11,
+    "CON": 15,
+    "SIZ": 10,
+    "DEX": 12,
+    "INT": 14,
+    "POW": 15,
+    "CHA": 15
+  },
+  "player_adjustment": "Player requested swapping STR and INT; original dice results retained above.",
+  "name": "Nimras",
+  "species": "Human",
+  "class": "Magic-User",
+  "target_rank": 2,
+  "concept": {
+    "profession": "Freelance mage hunter and battle mage",
+    "training": "An independent magical fellowship, name not yet chosen.",
+    "departure": "Left amicably to spread his wings and choose his own work; no bad blood.",
+    "current_client": "His former fellowship.",
+    "commission": "Find his former teacher Rennic Vaur in Purewater, bring him home alive, and recover the entrusted manuscript he took.",
+    "lead": "An introduction to Oren Vey, proposed as Vaur’s last known correspondent.",
+    "authority": "No Crown warrant; fellowship training does not make him an Assayer.",
+    "style": "Direct battle magic, protection and pursuit; precise skills, spells and abilities unchosen.",
+    "creation_status": "Characteristics and core concept agreed; sheet, spellbook, passions, employer name, payment and personal equipment unfinished.",
+    "continuity": "Join the existing Purewater campaign at d6/dusk after the tournament and Hanzo’s departure. No rewind or advance."
+  },
+  "supersedes": "Tavin Reed was an unadopted proposal; Nimras is the selected character.",
+  "concept_lore_id": "myth-lore-f5f59683d921",
+  "starting_wealth_roll": {
+    "success": true,
+    "expr": "3d6",
+    "rolls": [
+      5,
+      1,
+      1
+    ],
+    "total": 7
+  },
+  "character_id": "myth-char-4fc52ae14026",
+  "creation_status": "Core character mechanics and personality approved; not yet introduced in a scene. Fellowship name and home region remain open.",
+  "outlook": {
+    "player_defined": true,
+    "manner": "Tries to be pleasant and amiable.",
+    "ethics": "Pragmatic; exercises his own judgement.",
+    "boundaries": "Does not tolerate people messing with him.",
+    "lethal_force": "Willing to kill when he thinks it necessary; the player decides when that is."
+  },
+  "alignment": {
+    "name": "True Neutral",
+    "elements": [
+      "Pragmatic",
+      "Freedom of action"
+    ],
+    "value": 59,
+    "calculation": "INT 14 + POW 15 + 30"
+  },
+  "confirmed_personal_passions": {
+    "Uphold (My independence)": 70,
+    "Loyalty (The fellowship)": 59,
+    "Respect (Rennic Vaur)": 50
+  },
+  "portrait": {
+    "path": "/Users/gullyburns/Documents/ChatGPT/mythras/docs/characters/nimras-portrait-v1.png",
+    "workspace_relative_path": "docs/characters/nimras-portrait-v1.png",
+    "status": "Approved by the player as Nimras’s appearance reference.",
+    "generation": "Built-in image generation; graphite and ink character sketch.",
+    "appearance": "Compact, healthy human man around thirty, dark tousled hair, light stubble, amiable self-possessed expression; worn practical travelling coat over ordinary unarmoured clothes, boots, spellbook satchel and component pouch. Plain wooden quarterstaff and a small suggestion of lightning.",
+    "scope": "Appearance reference only; no added powers or equipment. Quarterstaff is already on the mechanical sheet.",
+    "prompt": "Quick expressive graphite and ink character sketch on warm off-white paper of Nimras, a compact human male freelance mage hunter around thirty, healthy and moderately athletic, intelligent personable face, small easy smile, steady gaze, practical worn travelling coat over plain unarmoured clothes, boots, component pouch, well-used spellbook in a weatherproof satchel, plain wooden quarterstaff and a small fork of lightning at his free hand. Loose canal-city background inspired by Venice, confident hatching, natural human anatomy. No armour, shield, pointed hat, ornate robes, fireball, glowing eyes, text or watermark."
+  }
+}

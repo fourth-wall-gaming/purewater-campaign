@@ -1,0 +1,217 @@
+{
+  "id": "myth-char-c5d773d786d1",
+  "name": "Corporal Dera Venn",
+  "type": "npc",
+  "status": "active",
+  "description": "she. Short practical directions and ordinary humor. Wants keepers and Crown post safe; owes soldiers sensible orders. Knows cistern and visible besiegers, not contract. Welcomes help, can evacuate instead of last stand.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Combat Skill": 60,
+    "Athletics": 45,
+    "Brawn": 45,
+    "Perception": 45,
+    "Willpower": 45,
+    "Influence": 40,
+    "Evade": 40,
+    "Endurance": 45,
+    "Boating": 30,
+    "Swim": 45,
+    "Engineering": 45,
+    "Stealth": 40,
+    "Strategy": 50,
+    "First Aid": 40
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 3,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 3,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 3,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 3,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Spear",
+      "damage": "1d8",
+      "size": "M",
+      "traits": [
+        "Impale"
+      ]
+    },
+    {
+      "name": "Shield",
+      "damage": "1d4",
+      "size": "L"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 60
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Human",
+    "pronouns": "she",
+    "score": {
+      "want": "Short practical directions and ordinary humor. Wants keepers and Crown post safe; owes soldiers sensible orders. Knows cistern and visible besiegers, not contract. Welcomes help, can evacuate instead of last stand.",
+      "ought": "Keep comrades alive and honor any actual surrender; does not command Hrill.",
+      "driver": "Wants keepers and Crown post safe; owes soldiers sensible orders",
+      "status": "Stranger to Hrill; no prior relationship",
+      "tactics_ladder": "Demand or guard first; use force if own feasible objective requires it; retreat or surrender at serious injury or credible defeat. Never infinite resources.",
+      "catches_lies": "No automatic detection; roll only when evidence warrants.",
+      "knowledge_limits": "Short practical directions and ordinary humor. Wants keepers and Crown post safe; owes soldiers sensible orders. Knows cistern and visible besiegers, not contract. Welcomes help, can evacuate instead of last stand.",
+      "observed": []
+    },
+    "doing": {
+      "goal": "Hold Crown beacon after transferring all ten prisoners to lawful escort",
+      "next": "Ten prisoners handed to Brann atd32dusk120 with banner/recruitmentpapers/quaysketch forHythehearing. KeepersHalwenBess andthree originalCrown guards remain. No new siege or prisoner escape.",
+      "where": "myth-loc-c9b08e8a741a",
+      "as_of_session": 8
+    },
+    "plan_reference": "docs/scenarios/hrill-greywatch-preparation.md",
+    "assets": {
+      "food_person_days": 15,
+      "bolts": 59,
+      "wood_bundles": 12,
+      "oil_jars": 2,
+      "skiff_location": "myth-loc-b1be91a95740",
+      "skiff_capacity": 2,
+      "day26_food_allocation": {
+        "person_days": 15,
+        "people": "fivepostpeopleand10prisoners",
+        "charged_once": true
+      },
+      "day27_food_allocation": {
+        "person_days": 15,
+        "charged_once": true
+      },
+      "day28_food_allocation": {
+        "person_days": 15,
+        "charged_once": true
+      },
+      "day29_food_allocation": {
+        "person_days": 15,
+        "charged_once": true
+      },
+      "day30_to32_food_allocation": {
+        "person_days": 45,
+        "charged_once": true,
+        "people": "fivepostpeopleand10prisoners"
+      },
+      "prisoners_remaining": 0,
+      "evidence_handover": "Stitched dragonbanner,recruitmentpromises,quaystoresandsignalsketch toBrann; no proofHanzo link claimed",
+      "day33_to35_food_allocation": {
+        "person_days": 15,
+        "people": "threeoriginalguardsHalwenBess, prisonersgone",
+        "charged_once": true
+      },
+      "day36_to38_food_allocation": {
+        "person_days": 15,
+        "people": "threeguardsHalwenBess",
+        "charged_once": true
+      }
+    },
+    "pike_cooperation_record": {
+      "completed": "d25/night159",
+      "witnesses": [
+        "myth-char-55eac4f06b3f",
+        "myth-char-c5d773d786d1"
+      ],
+      "fulfilled": "Delivered Hrill safely, returned with Halwen unharmed, surrendered boat and resumed custody",
+      "legal_effect": "Recorded for Crown hearing only; no pardon or sentence"
+    }
+  },
+  "actor_notes": "Short practical directions and ordinary humor. Wants keepers and Crown post safe; owes soldiers sensible orders. Knows cistern and visible besiegers, not contract. Welcomes help, can evacuate instead of last stand.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-c9b08e8a741a",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-27T22:13:31"
+}

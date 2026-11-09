@@ -1,0 +1,29 @@
+{
+  "id": "myth-enc-64b0cd586fd2",
+  "name": "Single Combat: Halla versus Rusk",
+  "description": "Second bout d1/day. Halla battleaxe round shield chainmail helm, handaxe dagger at belt. Rusk longsword round shield, ordinary quilted training coat with no recorded armour AP. Both uninjured. Victory by yield or marshal stoppage; stop on call. One proactive action per round, remaining AP reactions. Halla3AP Rusk2AP. No results predetermined.",
+  "summary": "Halla wins second Single Combat vs Rusk by marshal stoppage round2. Axe46/81 success vs shield100/65 fumble. Trip resistance Brawn61/50 fails; Rusk prone. Disarm resistance20/65 success loses opposed tie to original Halla46 success; sword dropped. Damage7 plus mastery1=8 to Left Arm, HP4 to -4 Major; incapacitated. Rusk also Chest1/7 Minor from round1. Halla uninjured Luck3. Healers enter immediately; treatment pending, no graphic injury detail.",
+  "status": "resolved",
+  "round": 2,
+  "combatants": [
+    {
+      "id": "myth-char-069d998e58a6",
+      "name": "Rusk",
+      "initiative": 18,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "initiative": 8,
+      "ap": 3,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 11
+    }
+  ],
+  "created_at": "2026-10-14T13:46:43"
+}

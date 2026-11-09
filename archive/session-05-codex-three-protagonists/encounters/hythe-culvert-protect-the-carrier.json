@@ -1,0 +1,114 @@
+{
+  "id": "myth-enc-c40e604cfc2f",
+  "name": "Hythe culvert: protect the carrier",
+  "description": "Hrill draws ownlongsword and closes on Dain crossbowman threatening Pella. Start all behindhedgebendx0 vsDainx80ft; no surpriseassumed. Roll initiative beforeanymovement/shot; playerdefensesandeffectschosen.",
+  "summary": "Roadside fight ended: Hrill hands surrendered disarmedMoss toBenno, shieldreadiedafterhandoff; threeotherrobberswithdrewthroughcoppicewhilecustodysecured. No injuries, nofree capture or killing of remainingthree.",
+  "status": "resolved",
+  "round": 2,
+  "combatants": [
+    {
+      "id": "myth-char-a91a8a3881b5",
+      "name": "Moss Pell",
+      "initiative": 19,
+      "ap": 0,
+      "max_ap": 3,
+      "conditions": [
+        "prone",
+        "surrendered",
+        "x100ft handsopenraised, droppedunloadedcrossbowatx100. Spearstillunreadiedslung, notboundornativelydisarmedofeveryitemyet.",
+        "Voluntary surrender follows life-over-profit character and pinned0AP/emptyweapon underHrillblade; no uncertain persuasion check needed."
+      ],
+      "dex": 13
+    },
+    {
+      "id": "myth-char-4e202c6ec7e0",
+      "name": "Joric Vane",
+      "initiative": 18,
+      "ap": 1,
+      "max_ap": 3,
+      "conditions": [
+        "x145ft easttrack, two20ftMoves, swordshieldready1APleft"
+      ],
+      "dex": 13
+    },
+    {
+      "id": "myth-char-b93379d9f38f",
+      "name": "Kell Rook",
+      "initiative": 18,
+      "ap": 0,
+      "max_ap": 2,
+      "conditions": [
+        "x155ft easttrack, two20ftMoves,0AP"
+      ],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-9322980e4ed6",
+      "name": "Orrin Fell",
+      "initiative": 17,
+      "ap": 1,
+      "max_ap": 3,
+      "conditions": [
+        "x0ft, tworeloadactionscomplete4/4loadedcrossbow17bolts1APheld; H/Mossnotcleansafeshot"
+      ],
+      "dex": 13
+    },
+    {
+      "id": "myth-char-dd7ce8e82dd0",
+      "name": "Pella Wren",
+      "initiative": 14,
+      "ap": 3,
+      "max_ap": 3,
+      "conditions": [
+        "x20ftbehindstone safe3APheld; mule/cart/eightwoolintactx60"
+      ],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-2ba4d0205f0d",
+      "name": "Dain Sedge",
+      "initiative": 13,
+      "ap": 2,
+      "max_ap": 3,
+      "conditions": [
+        "x140ft easttrack, one20ftMove, loadedcrossbow2APheld; foliageandMossforegrounddenyclearshotatHrill, notfiringthroughcompanion"
+      ],
+      "dex": 13
+    },
+    {
+      "id": "myth-char-d514260173a7",
+      "name": "Sergeant Brann Tarrow",
+      "initiative": 12,
+      "ap": 1,
+      "max_ap": 3,
+      "conditions": [
+        "x60ftatcart, two20ftMoves, swordshieldready1APheld"
+      ],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-07bc6645bb49",
+      "name": "Hrill Helmdance",
+      "initiative": 11,
+      "ap": 1,
+      "max_ap": 3,
+      "conditions": [
+        "x97ft standing guarded with drawnlongswordpointtowardMossx100, shieldstillSLUNG",
+        "Usercommand Surrender and cautioushalfpacewithinexistingengagement, not a Move/ChangeRange or attack; freeSpeech/guard,1APheldDelay."
+      ],
+      "dex": 14
+    },
+    {
+      "id": "myth-char-b3ee117cb166",
+      "name": "Benno Reed",
+      "initiative": 11,
+      "ap": 0,
+      "max_ap": 2,
+      "conditions": [
+        "x60ftatcart, two20ftMoves0AP"
+      ],
+      "dex": 12
+    }
+  ],
+  "created_at": "2026-10-28T12:11:12"
+}

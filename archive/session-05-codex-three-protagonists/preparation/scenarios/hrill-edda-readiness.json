@@ -1,0 +1,14 @@
+{
+  "clock_held": true,
+  "parallel_pc_state_preserved": true,
+  "other_pc_scene_preserved": true,
+  "hrill_resources_preserved": true,
+  "no_new_pc_knowledge": true,
+  "cast_and_anatomy_verified": true,
+  "npc_luck_zero": true,
+  "eight_live_situations": true,
+  "finite_assets_and_wages": true,
+  "three_acts_synced": true,
+  "refusal_authorities_negotiation_early_victory_tested": true,
+  "player_risk_preference_recorded": true
+}

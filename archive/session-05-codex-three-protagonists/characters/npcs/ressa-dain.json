@@ -1,0 +1,176 @@
+{
+  "id": "myth-char-a1eff2fb2fc7",
+  "name": "Ressa Dain",
+  "type": "npc",
+  "status": "active",
+  "description": "she/her. Knows lake shelters and sailing, recent storm; no northern enclave secret or hunter plan.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 11,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Boating": 75,
+    "Perception": 65,
+    "Survival": 60,
+    "Swim": 70,
+    "Brawn": 45,
+    "Athletics": 50,
+    "Influence": 35,
+    "Willpower": 55,
+    "Combat Skill": 50,
+    "Endurance": 45,
+    "Evade": 35,
+    "First Aid": 25
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Knife",
+      "damage": "1d4+1",
+      "size": "S"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 50
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Human",
+    "score": {
+      "want": "Bring crew home and earn wages",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Keep people alive and avoid another preventable boat accident",
+      "stated_reason": "Crew need safe useful habits aboard",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Broad-shouldered pilot with a knitted cap. Laconic, blunt about weather, dry amusement at landfolk. Recommends shelter and acts on ropes rather than lecturing. No wish to command Hrill's life.",
+      "physical": "Broad-shouldered pilot with a knitted cap",
+      "secret": "Knows lake shelters and sailing, recent storm; no northern enclave secret or hunter plan.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": [
+        "d21/dusk: Hrill followed boarding instruction, stowed mail and kept weapons accessible. Demonstrated waistloop using existing boatline, invited practice. No humiliation or competence test at safe mooring."
+      ],
+      "focus": "prevention"
+    },
+    "role": "ressa",
+    "pronouns": "she/her",
+    "doing": {
+      "goal": "Keep sound boat and crew safe at White Shingle",
+      "next": "Afterreport/shelteredstorm/safevoyage nowaboardGreyHeron atjetty; no currentemergency orneworders accepted.",
+      "where": "myth-loc-b3f72f0269af",
+      "as_of_session": 8
+    },
+    "plan_reference": "docs/scenarios/hrill-edda-preparation.md",
+    "wealth": {
+      "gp": 6.0
+    },
+    "wages_received_gp": 5.0,
+    "payroll_paid_through": "d28/night"
+  },
+  "actor_notes": "Broad-shouldered pilot with a knitted cap. Laconic, blunt about weather, dry amusement at landfolk. Recommends shelter and acts on ropes rather than lecturing. No wish to command Hrill's life.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-894191c86c72",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-27T01:28:21"
+}

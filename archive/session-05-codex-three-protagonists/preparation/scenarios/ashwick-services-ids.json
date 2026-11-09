@@ -1,0 +1,699 @@
+{
+  "inn": {
+    "success": true,
+    "id": "myth-loc-a76869d1528e",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 180,
+      "scene": "d39/day180 ASHWICK ROAD POST/TOWN ENTRANCE afteractual3hreturnfromquarry. Playerabandonedcurrentwatchandheadedback; noPCattack/stealthapproach/conversationwithDane,nocampentry. Hknows3peoplewithcartquarry,twoenteredlowerquarrywithtools,womanleftguard. ExactnamesnotpersonallyconfirmedbeyondleadDane,widercache/politicsunknown. Originalnoguardexplorationnotexecuted. HfullHPFreshMP8Luck1cash26GPbow18allownkit,lastslept8hours,39foodnotbought/foragedyet. NoautomaticreporttoLysa,newhire,foodpurchase/innbooking. AtpostLysastillknowslocalDanequarrydepartureonly,notAvelstoryuntiltold. GMquarryOP1search180of240mincompleted,still1hourbeforeactualEngineering45StandardorBrawn50Hardcheck;pendingbeatnotresolved,notentrygranted. MerritKettWilla3only,food3allocated39oil3.5cash30inc9wagesdue40. OtherPCclocksunchanged. NextplayeractionAshwickopen;noforcedfurtherquarryinterest.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "forge": {
+    "success": true,
+    "id": "myth-loc-345d26d7f045",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 180,
+      "scene": "d39/day180 ASHWICK ROAD POST/TOWN ENTRANCE afteractual3hreturnfromquarry. Playerabandonedcurrentwatchandheadedback; noPCattack/stealthapproach/conversationwithDane,nocampentry. Hknows3peoplewithcartquarry,twoenteredlowerquarrywithtools,womanleftguard. ExactnamesnotpersonallyconfirmedbeyondleadDane,widercache/politicsunknown. Originalnoguardexplorationnotexecuted. HfullHPFreshMP8Luck1cash26GPbow18allownkit,lastslept8hours,39foodnotbought/foragedyet. NoautomaticreporttoLysa,newhire,foodpurchase/innbooking. AtpostLysastillknowslocalDanequarrydepartureonly,notAvelstoryuntiltold. GMquarryOP1search180of240mincompleted,still1hourbeforeactualEngineering45StandardorBrawn50Hardcheck;pendingbeatnotresolved,notentrygranted. MerritKettWilla3only,food3allocated39oil3.5cash30inc9wagesdue40. OtherPCclocksunchanged. NextplayeractionAshwickopen;noforcedfurtherquarryinterest.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "keeper": {
+    "success": true,
+    "id": "myth-char-ca1b4ec2bfad",
+    "characteristics": {
+      "STR": 11,
+      "CON": 12,
+      "SIZ": 13,
+      "DEX": 13,
+      "INT": 14,
+      "POW": 9,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 3,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 2,
+      "initiative_bonus": 13,
+      "luck_points": 2,
+      "magic_points": 9,
+      "movement": "4m walk / 12m fly"
+    },
+    "skills": {
+      "Athletics": 24,
+      "Boating": 23,
+      "Brawn": 24,
+      "Conceal": 22,
+      "Dance": 24,
+      "Deceit": 25,
+      "Drive": 22,
+      "Endurance": 24,
+      "Evade": 26,
+      "First Aid": 27,
+      "Influence": 50,
+      "Insight": 40,
+      "Locale": 28,
+      "Perception": 45,
+      "Ride": 22,
+      "Sing": 20,
+      "Stealth": 27,
+      "Unarmed": 24,
+      "Willpower": 18,
+      "Flight": 24,
+      "Customs": 68,
+      "Native Tongue": 65,
+      "Commerce": 55
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          2
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          3,
+          4
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          5,
+          7
+        ],
+        "ap": 0,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          8,
+          10
+        ],
+        "ap": 0,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Wing",
+        "range": [
+          11,
+          12
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Wing",
+        "range": [
+          13,
+          14
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          15,
+          16
+        ],
+        "ap": 0,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          17,
+          18
+        ],
+        "ap": 0,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 180,
+      "scene": "d39/day180 ASHWICK ROAD POST/TOWN ENTRANCE afteractual3hreturnfromquarry. Playerabandonedcurrentwatchandheadedback; noPCattack/stealthapproach/conversationwithDane,nocampentry. Hknows3peoplewithcartquarry,twoenteredlowerquarrywithtools,womanleftguard. ExactnamesnotpersonallyconfirmedbeyondleadDane,widercache/politicsunknown. Originalnoguardexplorationnotexecuted. HfullHPFreshMP8Luck1cash26GPbow18allownkit,lastslept8hours,39foodnotbought/foragedyet. NoautomaticreporttoLysa,newhire,foodpurchase/innbooking. AtpostLysastillknowslocalDanequarrydepartureonly,notAvelstoryuntiltold. GMquarryOP1search180of240mincompleted,still1hourbeforeactualEngineering45StandardorBrawn50Hardcheck;pendingbeatnotresolved,notentrygranted. MerritKettWilla3only,food3allocated39oil3.5cash30inc9wagesdue40. OtherPCclocksunchanged. NextplayeractionAshwickopen;noforcedfurtherquarryinterest.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "cfg_keeper": {
+    "success": true,
+    "id": "myth-char-ca1b4ec2bfad",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, tactics, when_lied_to, blind_spot, rhythm, physical, secret, observed"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 180,
+      "scene": "d39/day180 ASHWICK ROAD POST/TOWN ENTRANCE afteractual3hreturnfromquarry. Playerabandonedcurrentwatchandheadedback; noPCattack/stealthapproach/conversationwithDane,nocampentry. Hknows3peoplewithcartquarry,twoenteredlowerquarrywithtools,womanleftguard. ExactnamesnotpersonallyconfirmedbeyondleadDane,widercache/politicsunknown. Originalnoguardexplorationnotexecuted. HfullHPFreshMP8Luck1cash26GPbow18allownkit,lastslept8hours,39foodnotbought/foragedyet. NoautomaticreporttoLysa,newhire,foodpurchase/innbooking. AtpostLysastillknowslocalDanequarrydepartureonly,notAvelstoryuntiltold. GMquarryOP1search180of240mincompleted,still1hourbeforeactualEngineering45StandardorBrawn50Hardcheck;pendingbeatnotresolved,notentrygranted. MerritKettWilla3only,food3allocated39oil3.5cash30inc9wagesdue40. OtherPCclocksunchanged. NextplayeractionAshwickopen;noforcedfurtherquarryinterest.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "move_keeper": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 180,
+      "scene": "d39/day180 ASHWICK ROAD POST/TOWN ENTRANCE afteractual3hreturnfromquarry. Playerabandonedcurrentwatchandheadedback; noPCattack/stealthapproach/conversationwithDane,nocampentry. Hknows3peoplewithcartquarry,twoenteredlowerquarrywithtools,womanleftguard. ExactnamesnotpersonallyconfirmedbeyondleadDane,widercache/politicsunknown. Originalnoguardexplorationnotexecuted. HfullHPFreshMP8Luck1cash26GPbow18allownkit,lastslept8hours,39foodnotbought/foragedyet. NoautomaticreporttoLysa,newhire,foodpurchase/innbooking. AtpostLysastillknowslocalDanequarrydepartureonly,notAvelstoryuntiltold. GMquarryOP1search180of240mincompleted,still1hourbeforeactualEngineering45StandardorBrawn50Hardcheck;pendingbeatnotresolved,notentrygranted. MerritKettWilla3only,food3allocated39oil3.5cash30inc9wagesdue40. OtherPCclocksunchanged. NextplayeractionAshwickopen;noforcedfurtherquarryinterest.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "smith": {
+    "success": true,
+    "id": "myth-char-f5a899e23910",
+    "characteristics": {
+      "STR": 14,
+      "CON": 12,
+      "SIZ": 13,
+      "DEX": 13,
+      "INT": 14,
+      "POW": 9,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 3,
+      "damage_modifier": "+1d2",
+      "experience_modifier": 0,
+      "healing_rate": 2,
+      "initiative_bonus": 13,
+      "luck_points": 2,
+      "magic_points": 9,
+      "movement": "4m walk / 12m fly"
+    },
+    "skills": {
+      "Athletics": 27,
+      "Boating": 26,
+      "Brawn": 60,
+      "Conceal": 22,
+      "Dance": 24,
+      "Deceit": 25,
+      "Drive": 22,
+      "Endurance": 24,
+      "Evade": 26,
+      "First Aid": 27,
+      "Influence": 22,
+      "Insight": 23,
+      "Locale": 28,
+      "Perception": 50,
+      "Ride": 22,
+      "Sing": 20,
+      "Stealth": 27,
+      "Unarmed": 27,
+      "Willpower": 18,
+      "Flight": 27,
+      "Customs": 68,
+      "Native Tongue": 65,
+      "Craft (Bladesmith)": 75,
+      "Commerce": 55,
+      "Lore (Metallurgy)": 65,
+      "Arms": 55
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          2
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          3,
+          4
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          5,
+          7
+        ],
+        "ap": 0,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          8,
+          10
+        ],
+        "ap": 0,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Wing",
+        "range": [
+          11,
+          12
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Wing",
+        "range": [
+          13,
+          14
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          15,
+          16
+        ],
+        "ap": 0,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          17,
+          18
+        ],
+        "ap": 0,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 180,
+      "scene": "d39/day180 ASHWICK ROAD POST/TOWN ENTRANCE afteractual3hreturnfromquarry. Playerabandonedcurrentwatchandheadedback; noPCattack/stealthapproach/conversationwithDane,nocampentry. Hknows3peoplewithcartquarry,twoenteredlowerquarrywithtools,womanleftguard. ExactnamesnotpersonallyconfirmedbeyondleadDane,widercache/politicsunknown. Originalnoguardexplorationnotexecuted. HfullHPFreshMP8Luck1cash26GPbow18allownkit,lastslept8hours,39foodnotbought/foragedyet. NoautomaticreporttoLysa,newhire,foodpurchase/innbooking. AtpostLysastillknowslocalDanequarrydepartureonly,notAvelstoryuntiltold. GMquarryOP1search180of240mincompleted,still1hourbeforeactualEngineering45StandardorBrawn50Hardcheck;pendingbeatnotresolved,notentrygranted. MerritKettWilla3only,food3allocated39oil3.5cash30inc9wagesdue40. OtherPCclocksunchanged. NextplayeractionAshwickopen;noforcedfurtherquarryinterest.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "cfg_smith": {
+    "success": true,
+    "id": "myth-char-f5a899e23910",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, tactics, when_lied_to, blind_spot, rhythm, physical, secret, observed"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 180,
+      "scene": "d39/day180 ASHWICK ROAD POST/TOWN ENTRANCE afteractual3hreturnfromquarry. Playerabandonedcurrentwatchandheadedback; noPCattack/stealthapproach/conversationwithDane,nocampentry. Hknows3peoplewithcartquarry,twoenteredlowerquarrywithtools,womanleftguard. ExactnamesnotpersonallyconfirmedbeyondleadDane,widercache/politicsunknown. Originalnoguardexplorationnotexecuted. HfullHPFreshMP8Luck1cash26GPbow18allownkit,lastslept8hours,39foodnotbought/foragedyet. NoautomaticreporttoLysa,newhire,foodpurchase/innbooking. AtpostLysastillknowslocalDanequarrydepartureonly,notAvelstoryuntiltold. GMquarryOP1search180of240mincompleted,still1hourbeforeactualEngineering45StandardorBrawn50Hardcheck;pendingbeatnotresolved,notentrygranted. MerritKettWilla3only,food3allocated39oil3.5cash30inc9wagesdue40. OtherPCclocksunchanged. NextplayeractionAshwickopen;noforcedfurtherquarryinterest.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "move_smith": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 180,
+      "scene": "d39/day180 ASHWICK ROAD POST/TOWN ENTRANCE afteractual3hreturnfromquarry. Playerabandonedcurrentwatchandheadedback; noPCattack/stealthapproach/conversationwithDane,nocampentry. Hknows3peoplewithcartquarry,twoenteredlowerquarrywithtools,womanleftguard. ExactnamesnotpersonallyconfirmedbeyondleadDane,widercache/politicsunknown. Originalnoguardexplorationnotexecuted. HfullHPFreshMP8Luck1cash26GPbow18allownkit,lastslept8hours,39foodnotbought/foragedyet. NoautomaticreporttoLysa,newhire,foodpurchase/innbooking. AtpostLysastillknowslocalDanequarrydepartureonly,notAvelstoryuntiltold. GMquarryOP1search180of240mincompleted,still1hourbeforeactualEngineering45StandardorBrawn50Hardcheck;pendingbeatnotresolved,notentrygranted. MerritKettWilla3only,food3allocated39oil3.5cash30inc9wagesdue40. OtherPCclocksunchanged. NextplayeractionAshwickopen;noforcedfurtherquarryinterest.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "smith_assets": {
+    "success": true,
+    "id": "myth-char-f5a899e23910",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, tactics, when_lied_to, blind_spot, rhythm, physical, secret, observed"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 180,
+      "scene": "d39/day180 ASHWICK ROAD POST/TOWN ENTRANCE afteractual3hreturnfromquarry. Playerabandonedcurrentwatchandheadedback; noPCattack/stealthapproach/conversationwithDane,nocampentry. Hknows3peoplewithcartquarry,twoenteredlowerquarrywithtools,womanleftguard. ExactnamesnotpersonallyconfirmedbeyondleadDane,widercache/politicsunknown. Originalnoguardexplorationnotexecuted. HfullHPFreshMP8Luck1cash26GPbow18allownkit,lastslept8hours,39foodnotbought/foragedyet. NoautomaticreporttoLysa,newhire,foodpurchase/innbooking. AtpostLysastillknowslocalDanequarrydepartureonly,notAvelstoryuntiltold. GMquarryOP1search180of240mincompleted,still1hourbeforeactualEngineering45StandardorBrawn50Hardcheck;pendingbeatnotresolved,notentrygranted. MerritKettWilla3only,food3allocated39oil3.5cash30inc9wagesdue40. OtherPCclocksunchanged. NextplayeractionAshwickopen;noforcedfurtherquarryinterest.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "market": {
+    "success": true,
+    "id": "myth-loc-05ba898b3929",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 220,
+      "scene": "d39/day190 HART AND LANTERN INN ASHWICK. Haskedkeepergoodbladesmith.BrennaTullrecommendsVaraFlintforgebyeastgateoldwell,5minwalk;ordinarywellmadeswords/honestrepairs,nofreemagicorqualitybonus. Hnotyetleftinn,nofooddrinklodgingorweaponsordered,nopayment. Hcash26GPfullHPFreshMP8Luck1arrows18ownmailshieldswordbowretained,lastslept8hours;39foodnotyetordered,nonewpenalty. Independentquarrysearch190of240minutes,OP1checkdue39day240ifuninterrupted;notresolved. HknowsAvel60GPpersonalsaleandDanelead,observed3campguarded,notactualarsenal/politics. AllpreviousvictoriesandotherPCclocksunchanged. LocalNPCsnoAvelquarrysecretknowledge. NewinnandsmithnativeIDsdocs/scenarios/ashwick-services-ids.json. Latest39day220after30minfriendlychat:BrennareportsDane2recentinnstays,cashbills,oldarms/seals/mapstrade;guardsKettOrrWillaAshnamed;senthimtoVaraforoldmailappraisal. No knownbuyers/patron/paymentbyotherperson,noprivateAvel/quarryknowledge. Varapriorordinarymailinspectionnowestablished,mayanswerphysicalquestionsbutnotprivatepolitics. Hnofooddrinkpurchase/cashchange. OP1actual4hsearchcompletiondueday240in20minutes;doorcheckstillunrolled,noentryguaranteed. Latest: HaskedprivacyandexplainstolocalkeeperGreywatchwomanincidentandpossibleDanelink,nonameorprovenDaneordersgiven. Brennapromisednottorepeatconversation,nopayment/noexchange. PlacenameGreywatchclarifiedOOCandattemptfailed,notactualoccupation. Same39day220clock,OP1checkdueday240unrolled.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "green": {
+    "success": true,
+    "id": "myth-loc-f15633ce353d",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 220,
+      "scene": "d39/day190 HART AND LANTERN INN ASHWICK. Haskedkeepergoodbladesmith.BrennaTullrecommendsVaraFlintforgebyeastgateoldwell,5minwalk;ordinarywellmadeswords/honestrepairs,nofreemagicorqualitybonus. Hnotyetleftinn,nofooddrinklodgingorweaponsordered,nopayment. Hcash26GPfullHPFreshMP8Luck1arrows18ownmailshieldswordbowretained,lastslept8hours;39foodnotyetordered,nonewpenalty. Independentquarrysearch190of240minutes,OP1checkdue39day240ifuninterrupted;notresolved. HknowsAvel60GPpersonalsaleandDanelead,observed3campguarded,notactualarsenal/politics. AllpreviousvictoriesandotherPCclocksunchanged. LocalNPCsnoAvelquarrysecretknowledge. NewinnandsmithnativeIDsdocs/scenarios/ashwick-services-ids.json. Latest39day220after30minfriendlychat:BrennareportsDane2recentinnstays,cashbills,oldarms/seals/mapstrade;guardsKettOrrWillaAshnamed;senthimtoVaraforoldmailappraisal. No knownbuyers/patron/paymentbyotherperson,noprivateAvel/quarryknowledge. Varapriorordinarymailinspectionnowestablished,mayanswerphysicalquestionsbutnotprivatepolitics. Hnofooddrinkpurchase/cashchange. OP1actual4hsearchcompletiondueday240in20minutes;doorcheckstillunrolled,noentryguaranteed. Latest: HaskedprivacyandexplainstolocalkeeperGreywatchwomanincidentandpossibleDanelink,nonameorprovenDaneordersgiven. Brennapromisednottorepeatconversation,nopayment/noexchange. PlacenameGreywatchclarifiedOOCandattemptfailed,notactualoccupation. Same39day220clock,OP1checkdueday240unrolled.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "livery": {
+    "success": true,
+    "id": "myth-loc-6f5ea54800ab",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 220,
+      "scene": "d39/day190 HART AND LANTERN INN ASHWICK. Haskedkeepergoodbladesmith.BrennaTullrecommendsVaraFlintforgebyeastgateoldwell,5minwalk;ordinarywellmadeswords/honestrepairs,nofreemagicorqualitybonus. Hnotyetleftinn,nofooddrinklodgingorweaponsordered,nopayment. Hcash26GPfullHPFreshMP8Luck1arrows18ownmailshieldswordbowretained,lastslept8hours;39foodnotyetordered,nonewpenalty. Independentquarrysearch190of240minutes,OP1checkdue39day240ifuninterrupted;notresolved. HknowsAvel60GPpersonalsaleandDanelead,observed3campguarded,notactualarsenal/politics. AllpreviousvictoriesandotherPCclocksunchanged. LocalNPCsnoAvelquarrysecretknowledge. NewinnandsmithnativeIDsdocs/scenarios/ashwick-services-ids.json. Latest39day220after30minfriendlychat:BrennareportsDane2recentinnstays,cashbills,oldarms/seals/mapstrade;guardsKettOrrWillaAshnamed;senthimtoVaraforoldmailappraisal. No knownbuyers/patron/paymentbyotherperson,noprivateAvel/quarryknowledge. Varapriorordinarymailinspectionnowestablished,mayanswerphysicalquestionsbutnotprivatepolitics. Hnofooddrinkpurchase/cashchange. OP1actual4hsearchcompletiondueday240in20minutes;doorcheckstillunrolled,noentryguaranteed. Latest: HaskedprivacyandexplainstolocalkeeperGreywatchwomanincidentandpossibleDanelink,nonameorprovenDaneordersgiven. Brennapromisednottorepeatconversation,nopayment/noexchange. PlacenameGreywatchclarifiedOOCandattemptfailed,notactualoccupation. Same39day220clock,OP1checkdueday240unrolled.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "fletcher_stall": {
+    "success": true,
+    "id": "myth-loc-1385242bb9d3",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 240,
+      "scene": "d39/day240 ASHWICK MARKET SQUARE after20minpublictownwalk. HknowsHartLantern,marketfood/provisions/wool/leather/cartwork,Varaeastgateforgeoldwell5min,westroadlivery3visiblehorsesownership/pricesunknown,CrownpostnearbygreenwoodenspeartrainingandLakeLadyshrine. ExistingJoReninstructs2anonymousadults,nofreehiredtroops. NoPCpurchase/meal/job/newquest,allownkitcash26GPfullHPFreshMP8Luck1bow18,last8hrest. BrennakeepsDaneconversationprivate. Danehasnoshop/noroomorstockinn,guardsKettWilla;Varaprioroldmailinspectionlead. HknowsAvelpersonalsale60GPbutnotdealerprivatepurpose. GMquarrysearchcomplete240,20mincrowbarEngineeringattemptINPROGRESS,rollDaneEngineering45Standardat260BEFOREopenstate;noentryyet. MerritKettlowerquarry,Willa cartguard,3onlyfood3oil3.5cash30inc9wagedue40. OtherPCclocksunchanged,priorvictoriesstand. NoautomaticPCfollowupdestination.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "butts": {
+    "success": true,
+    "id": "myth-loc-600ab1318d8f",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 240,
+      "scene": "d39/day240 ASHWICK MARKET SQUARE after20minpublictownwalk. HknowsHartLantern,marketfood/provisions/wool/leather/cartwork,Varaeastgateforgeoldwell5min,westroadlivery3visiblehorsesownership/pricesunknown,CrownpostnearbygreenwoodenspeartrainingandLakeLadyshrine. ExistingJoReninstructs2anonymousadults,nofreehiredtroops. NoPCpurchase/meal/job/newquest,allownkitcash26GPfullHPFreshMP8Luck1bow18,last8hrest. BrennakeepsDaneconversationprivate. Danehasnoshop/noroomorstockinn,guardsKettWilla;Varaprioroldmailinspectionlead. HknowsAvelpersonalsale60GPbutnotdealerprivatepurpose. GMquarrysearchcomplete240,20mincrowbarEngineeringattemptINPROGRESS,rollDaneEngineering45Standardat260BEFOREopenstate;noentryyet. MerritKettlowerquarry,Willa cartguard,3onlyfood3oil3.5cash30inc9wagedue40. OtherPCclocksunchanged,priorvictoriesstand. NoautomaticPCfollowupdestination.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "fletcher": {
+    "success": true,
+    "id": "myth-char-8d1e41eba09f",
+    "characteristics": {
+      "STR": 12,
+      "CON": 11,
+      "SIZ": 11,
+      "DEX": 15,
+      "INT": 14,
+      "POW": 10,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 3,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 2,
+      "initiative_bonus": 14,
+      "luck_points": 2,
+      "magic_points": 10,
+      "movement": "4m walk / 12m fly"
+    },
+    "skills": {
+      "Athletics": 27,
+      "Boating": 23,
+      "Brawn": 23,
+      "Conceal": 25,
+      "Dance": 26,
+      "Deceit": 25,
+      "Drive": 25,
+      "Endurance": 22,
+      "Evade": 30,
+      "First Aid": 29,
+      "Influence": 22,
+      "Insight": 24,
+      "Locale": 28,
+      "Perception": 50,
+      "Ride": 25,
+      "Sing": 21,
+      "Stealth": 29,
+      "Unarmed": 27,
+      "Willpower": 20,
+      "Flight": 27,
+      "Customs": 68,
+      "Native Tongue": 65,
+      "Craft (Fletching)": 75,
+      "Craft (Bowyer)": 75,
+      "Commerce": 50,
+      "Arms": 55,
+      "Survival": 45
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          2
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          3,
+          4
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          5,
+          7
+        ],
+        "ap": 0,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          8,
+          10
+        ],
+        "ap": 0,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Wing",
+        "range": [
+          11,
+          12
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Wing",
+        "range": [
+          13,
+          14
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          15,
+          16
+        ],
+        "ap": 0,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          17,
+          18
+        ],
+        "ap": 0,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 240,
+      "scene": "d39/day240 ASHWICK MARKET SQUARE after20minpublictownwalk. HknowsHartLantern,marketfood/provisions/wool/leather/cartwork,Varaeastgateforgeoldwell5min,westroadlivery3visiblehorsesownership/pricesunknown,CrownpostnearbygreenwoodenspeartrainingandLakeLadyshrine. ExistingJoReninstructs2anonymousadults,nofreehiredtroops. NoPCpurchase/meal/job/newquest,allownkitcash26GPfullHPFreshMP8Luck1bow18,last8hrest. BrennakeepsDaneconversationprivate. Danehasnoshop/noroomorstockinn,guardsKettWilla;Varaprioroldmailinspectionlead. HknowsAvelpersonalsale60GPbutnotdealerprivatepurpose. GMquarrysearchcomplete240,20mincrowbarEngineeringattemptINPROGRESS,rollDaneEngineering45Standardat260BEFOREopenstate;noentryyet. MerritKettlowerquarry,Willa cartguard,3onlyfood3oil3.5cash30inc9wagedue40. OtherPCclocksunchanged,priorvictoriesstand. NoautomaticPCfollowupdestination.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "cfg_fletcher": {
+    "success": true,
+    "id": "myth-char-8d1e41eba09f",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 240,
+      "scene": "d39/day240 ASHWICK MARKET SQUARE after20minpublictownwalk. HknowsHartLantern,marketfood/provisions/wool/leather/cartwork,Varaeastgateforgeoldwell5min,westroadlivery3visiblehorsesownership/pricesunknown,CrownpostnearbygreenwoodenspeartrainingandLakeLadyshrine. ExistingJoReninstructs2anonymousadults,nofreehiredtroops. NoPCpurchase/meal/job/newquest,allownkitcash26GPfullHPFreshMP8Luck1bow18,last8hrest. BrennakeepsDaneconversationprivate. Danehasnoshop/noroomorstockinn,guardsKettWilla;Varaprioroldmailinspectionlead. HknowsAvelpersonalsale60GPbutnotdealerprivatepurpose. GMquarrysearchcomplete240,20mincrowbarEngineeringattemptINPROGRESS,rollDaneEngineering45Standardat260BEFOREopenstate;noentryyet. MerritKettlowerquarry,Willa cartguard,3onlyfood3oil3.5cash30inc9wagedue40. OtherPCclocksunchanged,priorvictoriesstand. NoautomaticPCfollowupdestination.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  },
+  "loc_fletcher": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 240,
+      "scene": "d39/day240 ASHWICK MARKET SQUARE after20minpublictownwalk. HknowsHartLantern,marketfood/provisions/wool/leather/cartwork,Varaeastgateforgeoldwell5min,westroadlivery3visiblehorsesownership/pricesunknown,CrownpostnearbygreenwoodenspeartrainingandLakeLadyshrine. ExistingJoReninstructs2anonymousadults,nofreehiredtroops. NoPCpurchase/meal/job/newquest,allownkitcash26GPfullHPFreshMP8Luck1bow18,last8hrest. BrennakeepsDaneconversationprivate. Danehasnoshop/noroomorstockinn,guardsKettWilla;Varaprioroldmailinspectionlead. HknowsAvelpersonalsale60GPbutnotdealerprivatepurpose. GMquarrysearchcomplete240,20mincrowbarEngineeringattemptINPROGRESS,rollDaneEngineering45Standardat260BEFOREopenstate;noentryyet. MerritKettlowerquarry,Willa cartguard,3onlyfood3oil3.5cash30inc9wagedue40. OtherPCclocksunchanged,priorvictoriesstand. NoautomaticPCfollowupdestination.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "id": "myth-char-1aa1d6892d3a",
+  "name": "Rennic Vaur",
+  "type": "npc",
+  "status": "active",
+  "description": "Nimras\u2019s former teacher and experienced mage hunter. Retained an entrusted binding manuscript beyond its loan to help disable a living-caster hunt. Affectionate, practical, independent. Selected Glass Hounds setup supersedes the rejected survey purpose.",
+  "narrative": "Former teacher of Nimras and experienced mage hunter. Retained the fellowship manuscript beyond his loan to assist Kest in disabling hunting constructs; motive does not excuse breach. No water-survey purpose, possession or compulsory betrayal.",
+  "characteristics": {
+    "STR": 10,
+    "CON": 13,
+    "SIZ": 13,
+    "DEX": 14,
+    "INT": 16,
+    "POW": 16,
+    "CHA": 12
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 3,
+    "initiative_bonus": 15,
+    "luck_points": 0,
+    "magic_points": 16,
+    "movement": "6.096m (20 feet)"
+  },
+  "skills": {
+    "Arcane Casting": 95,
+    "Arcane Knowledge": 95,
+    "Willpower": 95,
+    "Insight": 90,
+    "Perception": 75,
+    "Influence": 60,
+    "Streetwise": 55,
+    "Survival": 65,
+    "Stealth": 60,
+    "Deceit": 50,
+    "Evade": 75,
+    "Athletics": 45,
+    "Lore (Magical traditions)": 85,
+    "Lore (Waterworks surveys)": 70
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 9,
+      "current_hp": 9
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    }
+  ],
+  "equipment": [
+    "Weathered travelling coat",
+    "Staff",
+    "Satchel (manuscript returned to fellowship)",
+    "Kest\u2019s appeal letter"
+  ],
+  "passions": {},
+  "combat_styles": {},
+  "spells": {
+    "sorcery": [
+      "Read Magic",
+      "Avert",
+      "Protection",
+      "Coordination",
+      "Repair",
+      "Appraise",
+      "Magic Tricks",
+      "Befuddle",
+      "Shield",
+      "Armor",
+      "Magic Missile",
+      "Detect Magic",
+      "Change Appearance",
+      "Invisibility",
+      "Sleep",
+      "Web",
+      "Dispel Magic",
+      "Lightning Bolt",
+      "Locate Object",
+      "Mirror Image",
+      "Fly",
+      "Hold Person",
+      "Dimension Door",
+      "Invisibility, Greater",
+      "Wizard Sight"
+    ]
+  },
+  "powers": [
+    {
+      "name": "Mental Strength",
+      "effect": "Once per day, mental magic resistance two grades easier; disbelieve illusions one grade easier."
+    }
+  ],
+  "extras": {
+    "class": "Magic-User",
+    "rank": 3,
+    "rank_title": "Adept Mage",
+    "prepared_spells": {
+      "0": [
+        "Read Magic",
+        "Avert",
+        "Protection",
+        "Coordination",
+        "Repair",
+        "Appraise",
+        "Magic Tricks"
+      ],
+      "1": [
+        "Shield",
+        "Magic Missile",
+        "Detect Magic",
+        "Change Appearance",
+        "Invisibility",
+        "Sleep",
+        "Web",
+        "Armor"
+      ],
+      "2": [
+        "Dispel Magic",
+        "Lightning Bolt",
+        "Locate Object",
+        "Mirror Image",
+        "Fly",
+        "Hold Person"
+      ],
+      "3": [
+        "Dimension Door",
+        "Wizard Sight"
+      ]
+    },
+    "score": {
+      "want": "Stop the conversion of salvage constructs into mage hunters",
+      "ought": "Return the fellowship manuscript when recalled",
+      "driver": "Make his experience useful beyond other people\u2019s errands",
+      "stated_reason": "Stop the conversion of salvage constructs into mage hunters",
+      "focus": "promotion",
+      "status": {
+        "Nimras": "Respected former pupil now independent; no foreknowledge of his decisions.",
+        "Oren Vey": "Useful peer whom he finds overprotective of books."
+      },
+      "tactics": [
+        "Explain plainly",
+        "Ask bounded help",
+        "Hand over book and offer testimony",
+        "Defend only against actual unlawful violence"
+      ],
+      "when_lied_to": "miss",
+      "blind_spot": "Trusts familiar professional habits.",
+      "rhythm": "Plain irreverent replies; affectionate teasing with old pupils.",
+      "physical": "Practical tools and repaired clothing; studies an object by turning it rather than declaiming about it.",
+      "observed": [
+        "d6/night live Glass Hounds reunion: Nimras coughs softly and reveals true form in loft. Rennic recognizes him, grins and asks if sent to fetch him. Commission, alias and route not yet disclosed.",
+        "d6/night: Nimras confirms retrieval commission and asks about Senn. Rennic gives exaggerated start, turns book to pupil and explains recovery captain\u2019s conversion plus own retention to help Kest break bindings. No custody transfer yet.",
+        "d6/night: Nimras proposed Assay report, citing hired thugs and money. Rennic agreed, slid Kest letter across table and volunteered to accompany and answer for retaining manuscript. No report delivered or item custody transferred.",
+        "d6/night: Asked directly, Rennic promised to return with Nimras and bring book after making Assay report. No raid, conviction or full operation defeat prerequisite imposed.",
+        "d6/night: agreed to disguise before departure; cast74/95success intensity5 for1MP,35minutes. Packs owned manuscript and Kest letter, accompanies Nimras to local Assay correspondent.",
+        "d6/night: on Nimras delegation, gave full limited account and presented Kest letter to correspondent; report promise fulfilled, willing return remains.",
+        "d6/night: on agreed return route recast disguise36/95success intensity5 cost1MP duration45min; escorted to loft, then dismissed own disguise privately. Keeps book, returns original Kest letter to satchel after Holt notes report. Ready for morning meeting and promised return afterward."
+      ]
+    },
+    "actor_notes": "LOOKS: lean middle-aged traveller, close-cropped grey hair, repaired coat. CORE: practical affectionate teacher who acts before asking permission. WANTS: help Kest stop dangerous conversion, then settle fellowship obligations. PRESSURE: terse, seeks real exits. KEY: plain irreverent answers, no riddles or water-survey explanations.",
+    "pronouns": "he/him",
+    "gender": "male",
+    "doing": {
+      "goal": "Settle fellowship obligations after voluntary return",
+      "next": "At fellowship home; teacher/manuscript recovery completed and fee paid. No next adventure or additional PC decision presumed.",
+      "where": "myth-loc-8ef4d0bfe41f",
+      "as_of_session": 6
+    },
+    "active_magic": [],
+    "last_full_rest": "d7/dawn"
+  },
+  "actor_notes": "LOOKS: lean middle-aged traveller, close-cropped grey hair, repaired coat. CORE: practical affectionate teacher who acts before asking permission. WANTS: help Kest stop dangerous conversion, then settle fellowship obligations. PRESSURE: terse, seeks real exits. KEY: plain irreverent answers, no riddles or water-survey explanations.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 16,
+  "experience_rolls": 0,
+  "location": "myth-loc-8ef4d0bfe41f",
+  "factions": [
+    "myth-faction-fdc97be93c16"
+  ],
+  "from_template": null,
+  "created_at": "2026-10-23T17:51:30"
+}

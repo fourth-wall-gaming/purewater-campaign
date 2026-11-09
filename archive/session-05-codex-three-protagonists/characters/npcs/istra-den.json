@@ -1,0 +1,187 @@
+{
+  "id": "myth-char-b2ba2c202420",
+  "name": "Istra Den",
+  "type": "npc",
+  "status": "active",
+  "description": "she/her. Velvet Hold captain; protects vessel and ordinary crew.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 12,
+    "POW": 10,
+    "CHA": 12
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 10,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 24,
+    "Boating": 65,
+    "Brawn": 24,
+    "Conceal": 22,
+    "Dance": 24,
+    "Deceit": 40,
+    "Drive": 22,
+    "Endurance": 24,
+    "Evade": 40,
+    "First Aid": 24,
+    "Influence": 40,
+    "Insight": 50,
+    "Locale": 24,
+    "Perception": 45,
+    "Ride": 22,
+    "Sing": 22,
+    "Stealth": 40,
+    "Swim": 24,
+    "Unarmed": 24,
+    "Willpower": 45,
+    "Customs": 64,
+    "Native Tongue": 64,
+    "Commerce": 40,
+    "Streetwise": 45
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Cudgel",
+      "damage": "1d6",
+      "size": "M",
+      "reach": "S",
+      "ap": 4,
+      "hp": 6
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Dockside weapons": 45
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "she/her",
+    "rank": 0,
+    "preparation": "midnight-exchange-auction-live.md",
+    "resources_and_intentions": {
+      "goal": "Keep vessel and crew safe.",
+      "limits": "Castoff needs two crew,clear lines and actual time; not instant disappearance."
+    },
+    "score": {
+      "want": "Keep vessel and crew safe.",
+      "ought": "Keep agreements without sacrificing ordinary people.",
+      "driver": "Keep vessel and crew safe.",
+      "stated_reason": "This is the work I agreed to do.",
+      "focus": "promotion",
+      "status": {
+        "Nimras": "Unknown at opening"
+      },
+      "tactics": [
+        "Seek agreement",
+        "Use actual leverage",
+        "Withdraw or surrender at stated limit"
+      ],
+      "when_lied_to": "miss",
+      "blind_spot": "Overestimates own familiar trade.",
+      "rhythm": "Plain words; no exposition speech.",
+      "physical": "Practical working clothes and kit.",
+      "secret": "No additional secret beyond documented own knowledge."
+    },
+    "doing": {
+      "goal": "Keep vessel and crew safe.",
+      "next": "Follow actual operation prerequisites in midnight-exchange-auction-live.md; no automatic victory or knowledge.",
+      "where": "myth-loc-ff8015dac6df",
+      "as_of_session": 8
+    }
+  },
+  "actor_notes": "LOOKS:Adult paid professional, practical travel clothes; details may vary with actual scene. CORE:Values a workable agreement within personal limits. NATURE:Businesslike in work,ordinary in company; no compulsive interrogation. WANTS:Keep vessel and crew safe. PRESSURE:Castoff needs two crew,clear lines and actual time; not instant disappearance. KEY:Venn uses warm direct sales talk; Marek asks pointed provenance questions; Rusk gives clipped instructions; agents speak plainly; guards give short warnings.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": "myth-loc-ff8015dac6df",
+  "factions": [
+    "myth-faction-2f77a4cba587"
+  ],
+  "from_template": null,
+  "created_at": "2026-10-27T18:46:50"
+}

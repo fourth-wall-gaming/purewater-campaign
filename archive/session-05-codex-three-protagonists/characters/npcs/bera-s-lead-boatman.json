@@ -1,0 +1,162 @@
+{
+  "id": "myth-char-c431f1aea355",
+  "name": "Bera's lead boatman",
+  "type": "npc",
+  "status": "retired",
+  "description": "Adult human boatman on Bera Lowkeel's leading grain boat. Weathered face, rolled sleeves, working boots. Professional boat-hand responsible for steering and bringing the load alongside.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 13,
+    "INT": 11,
+    "POW": 10,
+    "CHA": 10
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 10,
+    "movement": "4m walk / 12m fly"
+  },
+  "skills": {
+    "Athletics": 25,
+    "Boating": 70,
+    "Brawn": 40,
+    "Conceal": 23,
+    "Dance": 23,
+    "Deceit": 21,
+    "Drive": 23,
+    "Endurance": 24,
+    "Evade": 26,
+    "First Aid": 24,
+    "Influence": 20,
+    "Insight": 21,
+    "Locale": 50,
+    "Perception": 45,
+    "Ride": 23,
+    "Sing": 20,
+    "Stealth": 24,
+    "Unarmed": 25,
+    "Willpower": 35,
+    "Flight": 25,
+    "Customs": 62,
+    "Native Tongue": 61,
+    "Swim": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {},
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "creation_error": "Unintroduced NPC was created with CLI default avian instead of humanoid; retired before any played history or knowledge edge. Use corrected humanoid boatman record.",
+    "luck_policy": "PC-only campaign rule: NPCs have no Luck pool or Luck rank bonuses; never spend Luck for NPC rerolls, reversals or damage mitigation."
+  },
+  "actor_notes": null,
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-13T02:31:20"
+}

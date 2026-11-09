@@ -1,0 +1,162 @@
+{
+  "id": "myth-char-78aa9a268aad",
+  "name": "Fenn Ash",
+  "type": "npc",
+  "status": "active",
+  "description": "Knows own assignment; no automatic knowledge of relic identity or commander secrets.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 12,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Combat Skill": 55,
+    "Athletics": 45,
+    "Brawn": 45,
+    "Endurance": 50,
+    "Evade": 40,
+    "Perception": 45,
+    "Willpower": 40,
+    "Influence": 30
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Longsword",
+      "damage": "1d8",
+      "size": "M"
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 55
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Human",
+    "score": {
+      "want": "Earn wages and survive the road contract",
+      "ought": "Knows own assignment; no automatic knowledge of relic identity or commander secrets.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "guard3",
+    "doing": {
+      "goal": "Earn wages and survive the road contract",
+      "next": "Wait for a specific deployment order",
+      "where": "myth-loc-1518aa5a203b",
+      "as_of_session": 7
+    },
+    "pronouns": "they/them"
+  },
+  "actor_notes": "LOOKS: working retainer in maintained leather armour. CORE: paid work ought to end with pay and a living worker. NATURE: ordinary, hungry, responds to ordinary decency. WOUND: insecure employment. WANTS: wages and survival. PRESSURE: follows the sergeant, then seeks safe retreat. KEY: plain short answers.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": "myth-loc-1518aa5a203b",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-25T21:09:17"
+}

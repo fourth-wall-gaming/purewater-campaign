@@ -1,0 +1,217 @@
+{
+  "success": true,
+  "from": "d25/dusk",
+  "now": "d25/dusk",
+  "time_index": 166,
+  "activated_agendas": [],
+  "cancelled_beats": [],
+  "retired_facts": [],
+  "pc_locations": [
+    "myth-loc-7352c04bb679"
+  ],
+  "arc": {
+    "acts": [
+      {
+        "act": "I",
+        "when": "",
+        "title": "SHELTER UNDER ARMS",
+        "for": "Protect a fleeing keeper from armed pursuit at the teaching-house doorway. Settle immediate custody and discover the threatened Crown post through people and physical evidence. Hrill has direct fighting and judgment work.",
+        "takes": "Custody, bodily safety, equipment and freedom can be lost through actual opposed action. Doorway cover and side escape work. No mandatory injury, enlistment, pursuit or choice to sail. Early surrender and refusal are possible.",
+        "index_from": null,
+        "index_to": null
+      },
+      {
+        "act": "II",
+        "when": "",
+        "title": "REACH THE LIGHT",
+        "for": "Reach Greywatch by actual voyage if chosen, reconnoitre, enter via quay or cistern, help honest defenders, remove transport/blockade or assault resources. Discover this independent company's aim to establish an imperial foothold.",
+        "takes": "Exposed landings, hostile bows, stone stairs, finite supplies and real enemy tactics create risk. No compulsory swimming or automatic equipment change. Gained allies and defeated assets change the next situation permanently.",
+        "index_from": null,
+        "index_to": null
+      },
+      {
+        "act": "III",
+        "when": "",
+        "title": "WHO HOLDS THE SHORE",
+        "for": "Defend, relieve, extract, force surrender or otherwise settle the surviving seizure attempt. Deny a real restorationist base; no need to pursue Hanzo or accept an endless campaign. Earlier success can conclude the story.",
+        "takes": "Post, stores, freedom and lives face actual executable operations. Defeat and retreat remain possible; no prescribed death, betrayal or revenge raid. Cancel dependent operations when people or means are gone.",
+        "index_from": null,
+        "index_to": null
+      }
+    ],
+    "now": null
+  },
+  "due_beats": [
+    {
+      "id": "myth-beat-012be842c9dd",
+      "title": "Maro Quist reads it to the end",
+      "summary": "The magistrate reads everything put in front of him, at his own pace, while you wait -- and then explains accurately why it is not his to act on",
+      "status": "pending",
+      "when": "d-1/day",
+      "time_index": 61,
+      "trigger": "contact",
+      "onscreen_if": "On an actual petition presented to Maro Quist; date is opportunity backstop, not an invented offscreen petitioner.",
+      "branches": null,
+      "result": null,
+      "narrative": "**The wall, in the person of a decent man.**\n\nSeventy-one, upright, chain always worn. He does not interrupt and cannot be\ninterrupted. He reads the whole thing -- actually reads it, in front of you, at\nhis own pace, while you stand there -- and then repeats your position back to\nyou more accurately than you put it.\n\nAnd then tells you exactly why it is not his.\n\nThe watch is under a written standing order. He is not corrupt, he is not\nfrightened, and he is not persuadable, because he is **right**. A baron's son\nwith a knife is weather, and you do not sue the weather.\n\nIf he reads it twice, he has changed his mind, and the room should know it.",
+      "agenda": null,
+      "agenda_title": null,
+      "priority": 3,
+      "place": null,
+      "place_name": null,
+      "cast": [
+        "myth-char-1f6ab2d5c803"
+      ],
+      "cast_names": [
+        "Maro Quist"
+      ],
+      "staging": "offscreen"
+    },
+    {
+      "id": "myth-beat-e9920d8ddf8e",
+      "title": "Ivo Calder folds",
+      "summary": "The assayer who signed what he should not have has kept his original notes, moved them twice, and collapses completely the moment an independent reading appears",
+      "status": "pending",
+      "when": "d0/day",
+      "time_index": 65,
+      "trigger": "contact",
+      "onscreen_if": "Any PC present",
+      "branches": null,
+      "result": null,
+      "narrative": "Fifty, distinguished, guild indigo, instruments kept beautifully, and he has\nnot slept properly in six weeks.\n\nHe has the whole defence prepared and wants to deliver it; a question he has not\nanticipated stops him dead. What he wants is to be told that what he signed was\nreasonable.\n\n**There is no middle with him.** Vigorous defence, and then everything, in one\nbreath, the moment an independent reading appears. He has not destroyed the\noriginal notes and has moved them twice.\n\nWhat this buys is **a name** -- who is actually paying the Baron -- not a\nconviction. The man who is paying is not in this city and does not die on the\nsand.",
+      "agenda": null,
+      "agenda_title": null,
+      "priority": 3,
+      "place": null,
+      "place_name": null,
+      "cast": [
+        "myth-char-b74e0a3c1d58"
+      ],
+      "cast_names": [
+        "Ivo Calder"
+      ],
+      "staging": "offscreen"
+    },
+    {
+      "id": "myth-beat-ad65f6cffbcf",
+      "title": "G1 Keeper seeks shelter from armed pursuit",
+      "summary": "G1 \u2014 Doorway seizure",
+      "status": "pending",
+      "when": "d25/dusk",
+      "time_index": 166,
+      "trigger": "time",
+      "onscreen_if": "Actual presence or intervention; opportunity cards need player approach, backstop is not automatic travel.",
+      "branches": null,
+      "result": null,
+      "narrative": "G1 \u2014 Doorway seizure\n\n# The Crown's Last Light \u2014 selected preparation\n\n27 October 2026. \u201cContinue\u201d follows the recommended beacon premise. The GM\nstated that interpretation before preparation. Reuse the explicit interview:\ndangerous knightly action, rescue, tactics, exploration and honor; a reluctant\nfighter, no compulsory killing, animal hunt, distant summons or new enlistment.\nCompress logistics. Trouble reaches his present shore. Preparation holds\nd25/dusk minute92; opening resumes here without assuming Edda's answer, travel,\nrest, equipment change or acceptance of a commission.\n\n## Experience and global conflict\n\nAvel Veyr wants Greywatch's signal, defensible landing and thirty days' military\nstores as a recruitment base for renewed draconic imperial rule. She believes\nsmall independent communities will eventually accept a ruler who can enforce\norder. She has committed her remaining savings and six-person company to taking\nit. Corporal Dera Venn refuses to surrender royal ground or its civilians.\nAvel will use lethal force against armed resistance; prisoners are leverage and\nlabor, not automatic murder victims. Pike wants his outstanding fee, not empire.\nHis pursuit of the keeper threatens the village's hospitality and her freedom.\nHrill is the trained close fighter immediately beside the threatened person.\nProtecting her can lead to protecting a real Crown garrison; no oath is required.\n\nThis advances the global restoration conflict causally: a landing, stores and\nsignal become contested capacity. Saving the post denies that foothold. Avel is\nindependent of Hanzo. No secret orders, possession, endless reinforcements,\nreactivated tournament scheme or cancellation of Halla's victory. Hanzo's actual\nwithdrawal and parked household remain unchanged. The wider question is whether\nfear and promised order can rebuild the old dominion, opposed by people who\nchoose mutual defense. A local victory can finish this adventure completely.\n\n## Starting situation, geography and timing\n\nGreywatch is new minor local geography on the outer eastern lake shore, two\nhours by ordinary small boat south of Listening Reeds' outer landing, bypassing\nthe longer inner route through Narrow Water. It is not an ancient marked fort\nfrom Selith's chart. Flint Cove is fifteen minutes rowing south of its quay.\nNo change to existing Bell Reed/White Shingle/Narrow Water travel distances.\nThe post is Crown land; Listening Reeds remains independent, not under its law.\n\nInitial present setting: Avel's six-person party has reached Greywatch's outer\nyard by its inland track and demands surrender. Dera and two guards hold the\ntower with civilian Bess. No assault, injury or capture has yet been resolved.\nKeeper Halwen, outside the gate when the company arrived, took the post's skiff\nto the nearby independent settlement for help. Pike's contracted boat followed\nher visible course. Establish these starting placements as the selected premise,\nnot as outcomes of a played rescue or a failed offscreen resistance roll.\n\nOpening contact at minute94: Halwen runs from her tied skiff into the teaching\nhouse doorway. Mar and Toll are ten yards behind her with drawn weapons; Pike\nand Arlo remain in their moored boat thirty yards beyond the doorway, with Arlo's\nbow available but not aimed or drawn. No arrow, attack or PC reaction assumed.\nEdda stands at the doorway from the preceding scene, Hrill beside the table,\nSelith at the table. Grey Heron is on the same village landing, forty yards\nfrom the house. Hrill has a sheathed sword and an available shortbow, lowered\nand unnocked, twenty arrows; mail and shield stowed aboard.\nDo not silently equip anything. Halwen asks shelter; Mar demands she come out.\nThe threshold is a physical choke, the records room a retreat, the side door\nopens onto a reed-bank footpath. House walls stop sight and ordinary arrows.\n\nUnopposed intentions, never predetermined outcomes: Pike first demands custody,\nthen orders Mar/Toll to seize Halwen if they can do so without a general village\nbattle. If met by an armed defender he demands passage, attempts a brief rush\nonly if numerical advantage remains, and withdraws at serious injury or if\nvillagers mobilize. He will not burn the village or shoot children. Returning\nnews to Avel takes two actual hours. Avel cannot know the encounter meanwhile.\nAt d26/dawn Avel may attempt her tower breach if she still has at least three\nfit fighters and the ladder. Evaluate resistance and prior changes first.\n\n## Cast, organization and finite resources\n\nAll sheets, personality scores, inventory and placements are in TypeDB and the\ncompanion setup manifest. Human NPCs have no Luck or spells. No horses.\n\n| Person | Ordinary manner, want and competing duty | Knowledge, next action and limits |\n|---|---|---|\n| Dame Avel Veyr, she | Blunt military sentences; convivial about service. Wants a permanent command and imperial restoration; owes her five followers survival and promised wages | Knows post approaches and her contract, not Hrill or elf numbers or a hidden cistern entry. Demand surrender, then prepare assault. Retreat or surrender when two effective followers remain and breach is unworkable. Will accept disarmament with lawful hearing if beaten; no immunity |\n| Captain Surn Pike, he | Familiar sailor's bargaining idiom, dislikes titles. Wants final12GP fee and boat intact; owes crew their share | Knows contract and Halwen's course, not Avel's wider contacts. Recover messenger, return to cove. Credible safe withdrawal and forfeiting unpaid fee can suffice; no magical loyalty. Will not sacrifice boat for employer |\n| Corporal Dera Venn, she | Short practical directions, ordinary humor off duty. Wants keepers and Crown post safe; owes guards sensible command | Knows post, visible six besiegers, old water stair. Does not know Pike's contract or exact outside help. Holds shut tower, can sortie if actual signal/cover. Accepts reinforcement and civilian evacuation; won't order a suicidal last stand |\n| Halwen Tarr, she | Breathless plain speech under pressure, otherwise gossipy craftsperson. Wants shelter and help for Bess; owes post warning duty | Saw armed demand and her own pursuers, knows skiff route and cistern entry from maintenance. Does not know ideology, contract or enemy totals beyond what she saw. Seek shelter; guide only if protected and consenting |\n| Bess Tarr, they | Dry workman's speech; Halwen's adult sibling, not a child hostage. Wants household free and tower maintained | Knows cistern workings and reserve fuel. Help brace door and carry water; can evacuate. No lore oracle or combat specialist |\n| Arlo Fen, he | Laconic boat archer; wants wages and no drowning | Knows pursuit task, not imperial strategy. Remains with Pike and bow, no shot without clear order/target; yields if isolated |\n| Mar Lusk, she | Brusque, mocks hesitation; wants Pike's respect and pay | Knows recover Halwen task; underestimates a lone older knight until tested. At doorway with sword; bow slung. Backs away from superior force |\n| Toll Reed, he | Repeats captain's wording; wants berth and passage home | Same limited task; doorway with cudgel. Follows Mar unless seriously threatened; accepts surrender terms |\n| Avel's five: Enna Rusk, Corl Hen, Venn Tal, Essa Gant, Jerr Low | Paid soldiers with individual names and ordinary separate lives; no secret connection to Severin Rusk is implied by surname | Enna carries crossbow, four have spears/shields; all know employer's explicit imperial aspiration but no Hanzo link. At outer yard. Will surrender under half strength without workable advantage |\n| Guards Noll Beck and Vela Sorn | Noll cautious, Vela outspoken; protect their corporal and keepers | Know tower duties and seen demand; spear/shield and crossbow respectively. No outside intelligence |\n\nAvel:24GP remaining, six military ration-days/person for36 person-days total,\none18ft ladder, rope60ft, handaxe, two unlit pitch pots, no siege engine.\nPike already received8GP advance (outside Hrill's economy),4GP spent provisioning,\n4GP cash left;12GP unpaid contingent on occupation. Four crew including captain,\n16person-days food; two bows36arrows total; one24ft boat, bow/stern AP3 HP18 each,\none60ftrope, two oars, no second boat. Losses persist; travel/food charged once.\nPost:3guards,2keepers total,150person-days stored grain/dried food (thirty days\nfor five),60crossbow bolts,12bundles beacon wood and2oil jars for lighting,\none8ft two-person skiff now at village. No cash prize promised. Honest relief\ncan be requested: nearest established Crown patrol contact at Hythe requires\nactual existing multiday passage, never instant cavalry. Local independent\npeople can voluntarily shelter civilians; three village bows remain their own\nfinite assets, no free commanded army. Edda chooses vessel risks herself and\ndoesn't acquire a mandatory unpaid siege contract from Hrill's choice.\n\n## Evidence and knowledge boundaries\n\nActionable truth has physical sources. Pike's waterproof fee chit in boat locker\nnames Avel,12GP remainder and Greywatch landing. Pike can admit it; captured crew\nknow employer/location but not exact fee. Avel's kit holds a stitched dragon\nbanner, recruitment promises and a sketch marking the quay/stores/signal.\nHer spoken demands and soldiers' testimony also reveal political purpose.\nHalwen's maintenance tools carry a narrow iron cistern key; Dera/Bess can give\nthe same approach, and the exposed stone drainage arch can be found physically.\nNo failed Perception roll deletes it: a failed search takes fifteen minutes and\nrisks a sentry's observation, then another approach remains. No universal key.\nInitial GM truths attach only to actual participants' knowledge. Hrill learns\nonly doorstep observations at opening. No advance knowledge of Avel, purpose,\nenemy totals, contract, cistern or impending dawn attempt. Edda/Selith know no\nmore than their direct observations. No information reaches Avel until a real\nmessenger returns. Hanzo hears nothing automatically.\n\n## Three acts, subject to player changes\n\nI \u2014 Shelter under arms. Protect Halwen or otherwise settle the attempted seizure.\nImmediate win: safe civilian and a reduced, driven-off, captured or negotiated\npursuit party. Investigate physical boat/keeper evidence to learn the post is\nthreatened. If Hrill refuses, Selith can shelter Halwen and residents resist;\nresolve actual contest, no mandatory death or destruction. Enemy withdrawal\nchanges later blockade resources. End when help/withdrawal is decided.\n\nII \u2014 Reach and change the siege. Actual2h passage required if chosen, with\nequipment/rest decisions respected. Enemy cove/boat can be disabled, bought out\nor captured; infiltrate water stair, relieve garrison, recover supplies, scout\nenemy positions. Discovery of imperial purpose changes an apparent local seizure\ninto an attempt to build real restorationist capacity. No second required fight.\nIf Pike is neutralized there is no blockade; if Avel already surrenders skip\nlater conflict. Warnings are visible sentries, ladder and shouted demands.\n\nIII \u2014 End the surviving operation. Defend against an executable breach, organize\na sortie, surround the company, secure surrender, or evacuate while denying\nstores. Loss of landing/resources matters even if Avel escapes. Possible durable\nendings: post retained; post abandoned with all people saved; enemy occupation;\npartial rescue; lawful custody. Avel can actually win but no ending is compulsory.\nAn early victory stays a victory, with no revenge raid spawned to fill acts.\n\n## Playable situation cards and actual resolution\n\n### G1 \u2014 Doorway seizure\nPurpose: immediate protection/close action, establishes opposing custody claim.\nActor: Pike wants keeper isolated, sends Mar/Toll only; prerequisites: four fit\ncrew and boat reaching the village by the followed visible route. Scene geometry\nabove; house and side path are real cover and escape. Earliest opening94; no\ndeadline expressed as automatic injury. Mar's first demand gives warning; rush\nonly after PC response and if a feasible advantage remains. Sword55 vs Hrill's\nchosen defense, Toll club45; NPC2AP each, no surprise/free attack. PC may bar\ndoor, fight, warn, question, seize boat or withdraw. Start encounter and initiative\nif violence becomes immediate; ask PC defense and special effects. Brawn contested\nfor a forced door; braced inner table makes it harder; no silent roll before\nplayer chooses. Negotiation Influence vs Pike Willpower45, supported by actual\narmed resistance and self-interest; intimidation can change circumstances.\nPartial/failure means contested custody, injury or lost position through actual\nrules, never automatic victim abduction. Retreat into room/side path remains.\nCaptured crew remove fighting capacity and can provide limited information.\n\n### G2 \u2014 Rock quay and cistern approach\nPurpose: armed entry/exploration and tactical advantage. Two hours from village;\nquay30ft across, stone chest-high bollards, stairs climb40ft to yard; two abreast,\nouter rail present except one visible gap, return boat/water available. Tower\nyard40x50ft, tower door barred from within. Cistern arch60ft north of quay,\nexposed maintenance ledge3ftwide above water, locked hatch, dry stairs into\nground room. No obligatory swimming. Avel places Enna at quay overlook, Corl\non track, remaining three with her in yard only after actual opening changes.\nSentry Perception45 vs Stealth if concealment attempted; obvious daylight approach\nneeds no discovery roll. Engineering can identify safe access, Athletics for a\nrushed exposed climb only, not a routine stair toll. Defender may shoot exposed\nhostiles only with clear line and in combat order; cover and withdrawal work.\nFall requires actual failure at rail gap with failed save per rules; ordinary\nwalking isn't a trap. Failed stealth brings challenge or contact, not teleporting\nall enemies to entry. Reaching tower lets Hrill organize practical defense.\n\n### G3 \u2014 Flint Cove contract and boat\nPurpose: remove paid transport dependency. Beach60ft, grounded bow, chest and\nsupplies under oilcloth10ft back; foot track to tower is20minutes. Whichever\nPike crew actually remain are here after their two-hour return, not also at\nvillage or blockade. Written contract is discoverable by opening unlocked locker;\nsearch costs time if contested, no roll for reading obvious words. Pike protects\nboat but bargains at credible defeat; no required12GP payment by PC. Open-water\nescape possible; opposition Boating60 against actual pursuer skill when chased.\nCut moorings can inconvenience, not sink sound hull; damaging it uses actual\nAP/HP and weapons. Yielded contract/testimony supports lawful action. Removing\ncrew/boat/pay bargain cancels blockade, no replacement vessel.\n\n### G4 \u2014 Breach or sortie\nPurpose: decisive physical action over living people and post. Prerequisites:\nAvel free,3fit fighters, ladder, actual intact route; at26dawn earliest after\nreports/recovery. If conditions fail cancel attempt. Preparation takes20minutes\nwith visible ladder movement; tower defenders can act before breach. Ladder\nleans against20ftwall, room for one climber at a time; shutters give defenders\ncover, not immunity. Opposed Engineering40 vs Dera Engineering45 for useful\nbreach placement/defense preparation, then actual attacks/climbs/door damage,\nnot one opposed roll that kills a garrison. Door AP4 HP20. NPC crossbow reload\nand arrow consumption persist. Fire pots only if Avel still has them and staff\ncan escape through ground floor; ignition/fire harm use fetched rules, never\nautomatic tower conflagration. Hrill can hold narrow ground, topple ladder,\nsortie or call terms; all can be consequential. Failed defense can lose post,\ncapture or wound through actual rolls. Surrender/withdrawal terminate dependent\noperations. No compulsory duel. Civilians can evacuate by cistern or skiff if\navailable; respecting survival can trump possession for Dera.\n\n## Readiness and counterfactual checks\n\nPrepared: current scene/time and gear; three acts; immediate actionable G1;\nfinite named cast and CFI sheets; mapped approaches; political evidence and\nper-character ignorance; conditional operations and permanent asset losses.\nRefusal leaves independent actors and real opposed resolution. Authorities can\nhelp after travel. Pike negotiations materially remove blockade. Existing allies\nare competent and retain consent. Early Avel defeat ends her operation. Cistern\nfirst and cove first both work. No prescribed harm or deity/possession mechanism.\nOpening is ready only after CLI persistence/readback and native time verification;\nno clock advance during design. New future successes remain not-yet-true.\n",
+      "agenda": "myth-agenda-78da460eb762",
+      "agenda_title": "Recover keeper and protect boat fee",
+      "priority": 3,
+      "place": "myth-loc-7352c04bb679",
+      "place_name": "Listening Reeds",
+      "cast": [
+        "myth-char-b902b2fc4873",
+        "myth-char-55eac4f06b3f",
+        "myth-char-4e088f17fbf3",
+        "myth-char-219a21603f90",
+        "myth-char-dc1002b73163"
+      ],
+      "cast_names": [
+        "Captain Surn Pike",
+        "Halwen Tarr",
+        "Arlo Fen",
+        "Mar Lusk",
+        "Toll Reed"
+      ],
+      "staging": "onscreen"
+    }
+  ],
+  "onscreen": [
+    "myth-beat-ad65f6cffbcf"
+  ],
+  "offscreen": [
+    "myth-beat-012be842c9dd",
+    "myth-beat-e9920d8ddf8e"
+  ],
+  "silent_agendas": [
+    {
+      "id": "myth-agenda-c447b43512d4",
+      "title": "Find who carved Emmeralda",
+      "holder": "Marisette",
+      "clock": {
+        "filled": 2,
+        "size": 6
+      }
+    },
+    {
+      "id": "myth-agenda-50cad32306f1",
+      "title": "Keep the Lady's water clean",
+      "holder": "High Priestess Nerissa",
+      "clock": {
+        "filled": 0,
+        "size": 6
+      }
+    },
+    {
+      "id": "myth-agenda-fa6bf991c984",
+      "title": "One big score, and a name",
+      "holder": "Nus",
+      "clock": {
+        "filled": 0,
+        "size": 4
+      }
+    },
+    {
+      "id": "myth-agenda-aa7c6a03fc20",
+      "title": "Shield the boy, unmask the house",
+      "holder": "Temerach Nebulo",
+      "clock": {
+        "filled": 1,
+        "size": 6
+      }
+    },
+    {
+      "id": "myth-agenda-kag-works-it-out",
+      "title": "The one who works it out",
+      "holder": "Kag",
+      "clock": {
+        "filled": 0,
+        "size": 4
+      }
+    },
+    {
+      "id": "myth-agenda-10c0c31e38ad",
+      "title": "Preserve a library worth finding",
+      "holder": "Oren Vey",
+      "clock": {
+        "filled": 0,
+        "size": 6
+      }
+    },
+    {
+      "id": "myth-agenda-d0bf5f7900fd",
+      "title": "Long Shore: preserve independent safe shallows",
+      "holder": "Ilyen",
+      "clock": {
+        "filled": 0,
+        "size": 3
+      }
+    }
+  ],
+  "storyline": {
+    "id": "myth-storyline-0fea5d34980f",
+    "name": "Hrill",
+    "pcs": [
+      "myth-char-07bc6645bb49"
+    ],
+    "now": "d25/dusk",
+    "minute_in_watch": 94,
+    "scene": "d25/dusk minute92 ListeningReeds teaching-house.45minhistorycompressed:HrilllearnsSelithaccountDragonKings/dragonknights,uprising/SwordsLake,shoretraditionsolderwaterpowers/LakeLadyresistance;localhouseholdrefuge/shelter/oldplacenamerecords. No activeimperialplot/Baronritual/otherPCsecret/skillgain. Eddaindoorwayasks We\u2019re sailing south at first light.Will you be aboard? Hanswerpending,noPCdestinationchosen/noovernightrest/day26. Selithrecordsaccessiblebyconsent,route3/3achieved,hunt2/3active. Ilyenreported/preparingreturnwatch,nolatereventassumed. H18GP/paid25/eightdaysinitialtermthrough27/fullHP/Fresh/Luck4/AP0/swordsheathed/bowloweredunnocked20arrows;mail/shieldaboardsoundmooredGreyHeron0bales,2Edda-ownedconsignmentNarrowWater,8GPtradereceivabledue35.",
+    "session": 8
+  },
+  "world_high_water": "d25/dusk",
+  "resolved_shared_events": [],
+  "expired_effects": [],
+  "historical_camera": false,
+  "minute_in_watch": 94
+}

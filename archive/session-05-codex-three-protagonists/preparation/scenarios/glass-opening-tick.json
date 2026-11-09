@@ -1,0 +1,189 @@
+{
+  "success": true,
+  "from": "d6/night",
+  "now": "d6/night",
+  "time_index": 91,
+  "activated_agendas": [],
+  "cancelled_beats": [],
+  "retired_facts": [],
+  "pc_locations": [
+    "myth-loc-8354b95b2b39"
+  ],
+  "arc": {
+    "acts": [
+      {
+        "act": "I",
+        "when": "d6 to d7",
+        "title": "THE HUNT",
+        "for": "Put Nimras in reach of his quarry and a physical magical threat. G1 offers pursuit, counter-magic, restraint, bargaining and an early recovery that stands.",
+        "takes": "At risk are the teacher's freedom, the manuscript and people in the hunt's path. No injury, capture or escape is predetermined.",
+        "index_from": 88,
+        "index_to": 95
+      },
+      {
+        "act": "II",
+        "when": "d7 to d8",
+        "title": "THE PACK",
+        "for": "Contest workshop, handlers, copies and transport. G2 and G3 are actual attempts requiring surviving assets and information. Authorities and city powers can provide real help. Nimras can separate rivals or strike their dependencies in any order.",
+        "takes": "At risk are control of the constructs, custody of useful research and the ability to prevent coercive export. No compulsory betrayal or compensating defeat.",
+        "index_from": 92,
+        "index_to": 99
+      },
+      {
+        "act": "III",
+        "when": "d8 to d10",
+        "title": "WHO KEEPS THE HOUNDS",
+        "for": "Settle surviving transport, research and personal obligations. G4 cannot depart without actual loading and pilot; G5 can resolve immediately whenever recovery is achieved. Recalculate dates after play, and never hold an early victory for this act.",
+        "takes": "At risk are lasting availability of mage-hunting tools and professional relationships. Clear victory, partial victory, negotiated settlement, failure and withdrawal have distinct concrete results in the GM plan.",
+        "index_from": 96,
+        "index_to": 107
+      }
+    ],
+    "now": "I"
+  },
+  "due_beats": [
+    {
+      "id": "myth-beat-012be842c9dd",
+      "title": "Maro Quist reads it to the end",
+      "summary": "The magistrate reads everything put in front of him, at his own pace, while you wait -- and then explains accurately why it is not his to act on",
+      "status": "pending",
+      "when": "d-1/day",
+      "time_index": 61,
+      "trigger": "contact",
+      "onscreen_if": "On an actual petition presented to Maro Quist; date is opportunity backstop, not an invented offscreen petitioner.",
+      "branches": null,
+      "result": null,
+      "narrative": "**The wall, in the person of a decent man.**\n\nSeventy-one, upright, chain always worn. He does not interrupt and cannot be\ninterrupted. He reads the whole thing -- actually reads it, in front of you, at\nhis own pace, while you stand there -- and then repeats your position back to\nyou more accurately than you put it.\n\nAnd then tells you exactly why it is not his.\n\nThe watch is under a written standing order. He is not corrupt, he is not\nfrightened, and he is not persuadable, because he is **right**. A baron's son\nwith a knife is weather, and you do not sue the weather.\n\nIf he reads it twice, he has changed his mind, and the room should know it.",
+      "agenda": null,
+      "agenda_title": null,
+      "priority": 3,
+      "place": null,
+      "place_name": null,
+      "cast": [
+        "myth-char-1f6ab2d5c803"
+      ],
+      "cast_names": [
+        "Maro Quist"
+      ],
+      "staging": "offscreen"
+    },
+    {
+      "id": "myth-beat-e9920d8ddf8e",
+      "title": "Ivo Calder folds",
+      "summary": "The assayer who signed what he should not have has kept his original notes, moved them twice, and collapses completely the moment an independent reading appears",
+      "status": "pending",
+      "when": "d0/day",
+      "time_index": 65,
+      "trigger": "contact",
+      "onscreen_if": "Any PC present",
+      "branches": null,
+      "result": null,
+      "narrative": "Fifty, distinguished, guild indigo, instruments kept beautifully, and he has\nnot slept properly in six weeks.\n\nHe has the whole defence prepared and wants to deliver it; a question he has not\nanticipated stops him dead. What he wants is to be told that what he signed was\nreasonable.\n\n**There is no middle with him.** Vigorous defence, and then everything, in one\nbreath, the moment an independent reading appears. He has not destroyed the\noriginal notes and has moved them twice.\n\nWhat this buys is **a name** -- who is actually paying the Baron -- not a\nconviction. The man who is paying is not in this city and does not die on the\nsand.",
+      "agenda": null,
+      "agenda_title": null,
+      "priority": 3,
+      "place": null,
+      "place_name": null,
+      "cast": [
+        "myth-char-b74e0a3c1d58"
+      ],
+      "cast_names": [
+        "Ivo Calder"
+      ],
+      "staging": "offscreen"
+    },
+    {
+      "id": "myth-beat-8f56485f6bdd",
+      "title": "Hound on the Glasswalk",
+      "summary": "G1: Retrieve Vaur\u2019s satchel. Opening is a threat frame, no attack resolved. Resolve all contested movement, commands and combat honestly. No automatic Vaur escape or capture.",
+      "status": "pending",
+      "when": "d6/night",
+      "time_index": 91,
+      "trigger": "time",
+      "onscreen_if": "Only if Nimras is actually present or can witness the event. Evaluate real prerequisites; offscreen opposition is rolled and knowledge travels by actual witnesses.",
+      "branches": null,
+      "result": null,
+      "narrative": "G1: Retrieve Vaur\u2019s satchel. Opening is a threat frame, no attack resolved. Resolve all contested movement, commands and combat honestly. No automatic Vaur escape or capture. Full prerequisites, warnings, counterplay and outcomes: myth-lore-9d681319bb7e",
+      "agenda": "myth-agenda-99340d853f02",
+      "agenda_title": "Sell the hunting pack",
+      "priority": 3,
+      "place": "myth-loc-fc60662cbe2e",
+      "place_name": "The Glasswalk",
+      "cast": [
+        "myth-char-1aa1d6892d3a",
+        "myth-char-375dd5281882",
+        "myth-char-fa32af8326d2",
+        "myth-char-0f7136e1ac47"
+      ],
+      "cast_names": [
+        "Rennic Vaur",
+        "Iven Toll",
+        "Bess Arl",
+        "Glass Hound 1"
+      ],
+      "staging": "offscreen"
+    }
+  ],
+  "onscreen": [],
+  "offscreen": [
+    "myth-beat-012be842c9dd",
+    "myth-beat-e9920d8ddf8e",
+    "myth-beat-8f56485f6bdd"
+  ],
+  "silent_agendas": [
+    {
+      "id": "myth-agenda-c447b43512d4",
+      "title": "Find who carved Emmeralda",
+      "holder": "Marisette",
+      "clock": {
+        "filled": 2,
+        "size": 6
+      }
+    },
+    {
+      "id": "myth-agenda-50cad32306f1",
+      "title": "Keep the Lady's water clean",
+      "holder": "High Priestess Nerissa",
+      "clock": {
+        "filled": 0,
+        "size": 6
+      }
+    },
+    {
+      "id": "myth-agenda-fa6bf991c984",
+      "title": "One big score, and a name",
+      "holder": "Nus",
+      "clock": {
+        "filled": 0,
+        "size": 4
+      }
+    },
+    {
+      "id": "myth-agenda-aa7c6a03fc20",
+      "title": "Shield the boy, unmask the house",
+      "holder": "Temerach Nebulo",
+      "clock": {
+        "filled": 1,
+        "size": 6
+      }
+    },
+    {
+      "id": "myth-agenda-kag-works-it-out",
+      "title": "The one who works it out",
+      "holder": "Kag",
+      "clock": {
+        "filled": 0,
+        "size": 4
+      }
+    },
+    {
+      "id": "myth-agenda-10c0c31e38ad",
+      "title": "Preserve a library worth finding",
+      "holder": "Oren Vey",
+      "clock": {
+        "filled": 0,
+        "size": 6
+      }
+    }
+  ]
+}

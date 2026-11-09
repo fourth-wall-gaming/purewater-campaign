@@ -1,0 +1,181 @@
+{
+  "id": "myth-char-4e202c6ec7e0",
+  "name": "Joric Vane",
+  "type": "npc",
+  "status": "active",
+  "description": "Red beard cut square, patched brigandine, no badge or livery.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 14,
+    "CON": 13,
+    "SIZ": 14,
+    "DEX": 13,
+    "INT": 14,
+    "POW": 12,
+    "CHA": 12
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 0,
+    "healing_rate": 3,
+    "initiative_bonus": 13,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 45,
+    "Boating": 27,
+    "Brawn": 60,
+    "Conceal": 25,
+    "Dance": 25,
+    "Deceit": 26,
+    "Drive": 25,
+    "Endurance": 45,
+    "Evade": 40,
+    "First Aid": 35,
+    "Influence": 55,
+    "Insight": 26,
+    "Locale": 28,
+    "Perception": 50,
+    "Ride": 25,
+    "Sing": 24,
+    "Stealth": 27,
+    "Swim": 27,
+    "Unarmed": 27,
+    "Willpower": 45,
+    "Customs": 68,
+    "Native Tongue": 66,
+    "Strategy": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 3,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 3,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 3,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {
+    "Road arms": 65
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "he/him",
+    "score": {
+      "want": "Former hired soldier choosing robbery for profit; blunt economical speech; wants cart and cargo worth12GP to finance winter. Fights arrest but chooses survival over a lost robbery.",
+      "ought": "Keep people alive",
+      "driver": "Former hired soldier choosing robbery for profit; blunt economical speech; wants cart and cargo worth12GP to finance winter. Fights arrest but chooses survival over a lost robbery.",
+      "stated_reason": "Livelihood",
+      "relational_status": "Has never met Hrill",
+      "tactics": [
+        "Demand Pella cart under crossbow threat; no theft or binding automatically complete; threatens but no scripted hostage killing.",
+        "Use actual cover and available weapons",
+        "Accept surrender or withdraw when beaten"
+      ],
+      "catches_lies": "No automatic lie detection",
+      "observed": [
+        "Lost sword to Hrill disarm; chose surrender rather than fightthreeCrownpursuers withshield whileWinded."
+      ]
+    },
+    "doing": {
+      "goal": "Survive lawful custody",
+      "next": "Yielded; surrendered carried weapons/shield/bolts to Crown watch. Unbound underHrill/Brannguard; noattemptescape, no verdict/pardon.",
+      "where": "myth-loc-2e76f65fe09a"
+    },
+    "assets": {
+      "gp": 4,
+      "food_person_days": 6,
+      "total_company": 4,
+      "extra_people": 0,
+      "spare_weapons": 0,
+      "cookpot_value_gp": 2,
+      "remaining_company_people": 2,
+      "captured_people": 1,
+      "departed_people": 1,
+      "last_pack": "d29/day195, no new resources; Kell took2existingfooddays"
+    },
+    "custody": {
+      "status": "surrendered, disarmed, unbound",
+      "holder": "myth-char-d514260173a7",
+      "location": "myth-loc-2e76f65fe09a"
+    }
+  },
+  "actor_notes": "LOOKS: Red beard cut square, patched brigandine, no badge or livery. CORE/NATURE/WANTS/PRESSURE: Former hired soldier choosing robbery for profit; blunt economical speech; wants cart and cargo worth12GP to finance winter. Fights arrest but chooses survival over a lost robbery. VOICE: Short ordinary sentences, distinct temperament, no exposition.",
+  "fatigue": "Winded",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-e57029a62b7b",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-28T07:19:55"
+}

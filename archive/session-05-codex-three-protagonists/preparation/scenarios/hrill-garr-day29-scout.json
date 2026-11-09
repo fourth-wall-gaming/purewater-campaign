@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "character": "Garr Hew",
+  "skill_name": "Perception",
+  "asked_for": null,
+  "base_skill": 60,
+  "augment": null,
+  "roll": 52,
+  "skill": 60,
+  "difficulty": "hard",
+  "effective": 40,
+  "critical_range": 4,
+  "level": "failure",
+  "storyline": {
+    "id": "myth-storyline-0fea5d34980f",
+    "name": "Hrill",
+    "pcs": [
+      "myth-char-07bc6645bb49"
+    ],
+    "now": "d29/day",
+    "minute_in_watch": 0,
+    "scene": "d29/dawn135 Hythe East Arm quay, Hrill with Crown Reeve Elric Marden. Hrill ACCEPTED seven days Crown patrol duty d29-35 inclusive,1GP/day paid after duty plus board, no advance. SevenGP watch hiring allowance allocated, sevenpersondays board not charged yet. Employment stored on Hrill; old Edda ten days fully paid10GP preserved as previous contract. Hrill says glad to work in troop again. Marden offers hand: Then welcome, Sir Hrill. You\u2019ll draw the same meals and stand the same watches as the rest of them. Await Hrill response/action; muster/patrol not yet played or scheduled, no new danger established. Prepare any substantial new adventure before opening it, reusing action/honor/troop preferences. Hrill20GPfullHPFreshMP8Luck3ownlongswordmailshieldbow18arrowsmaintenancekey. Greywatchreport delivered toMarden, relief arrangements pending, hearing date unfixed, no verdict/pardon. No Hanzo link established; Hrill testified Avel asked whether Hanzo declared himself, claimed acted alone. OtherPCclocks unchanged.",
+    "session": 8
+  },
+  "world_high_water": "d29/day"
+}

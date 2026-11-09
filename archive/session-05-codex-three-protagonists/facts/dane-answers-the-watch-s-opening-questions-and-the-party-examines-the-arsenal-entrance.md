@@ -1,0 +1,10 @@
+---
+id: "myth-fact-66080797ec39"
+title: "Dane answers the watch\u2019s opening questions and the party examines the arsenal entrance"
+statement: "At41day280 afterHrill explainsthewatchwantssamequestions,Dane repeats60GPpurchasefromAvelofmail/signet/surveyandself-financedsearch,showsmatchingreceiptandsurveytoLysa,doesnotidentifyrestorationistcustomersatthisinitialrequest. Fiveminquestioningthen20minquarryapproachtoarsenaldoor,withHrillalreadyvolunteeredguide.Danedoesnotbarordinaryinspection,Lysadoesnotdeclarearrestorownershipruling,Jo/Ivoremainquarrycamp. AtopenmainentryH/LysaseeoldcrownedgarrisonstampontheinnerfaceofdoorandreadablemarkGARRISON STORES;itidentifiesmilitarystoresratherthanaprivatehousehold,asprepared. PurchasepaperlistsAvelpersonalarmour,sig net,surveyandnotastoregrant. Currentlawfultitle/salvagerightsrequireactualassessment,notautomaticfinaljudgment.Noonecrossesunsafe landing."
+status: "established"
+truth: "true"
+time_index: 229
+created_at: "2026-10-28T22:26:27"
+---
+

@@ -1,0 +1,141 @@
+{
+  "id": "myth-char-2038d552c3ab",
+  "name": "Joss Fen",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult Purewater crowd thief who works tournament gatherings with Pell Nettles.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 10,
+    "CON": 11,
+    "SIZ": 9,
+    "DEX": 14,
+    "INT": 12,
+    "POW": 11,
+    "CHA": 12
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "-1d2",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 13,
+    "luck_points": 0,
+    "magic_points": 11,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 24,
+    "Boating": 21,
+    "Brawn": 19,
+    "Conceal": 25,
+    "Dance": 26,
+    "Deceit": 47,
+    "Drive": 25,
+    "Endurance": 22,
+    "Evade": 50,
+    "First Aid": 26,
+    "Influence": 24,
+    "Insight": 23,
+    "Locale": 24,
+    "Perception": 50,
+    "Ride": 25,
+    "Sing": 23,
+    "Stealth": 55,
+    "Swim": 21,
+    "Unarmed": 24,
+    "Willpower": 22,
+    "Customs": 64,
+    "Native Tongue": 64,
+    "Sleight": 58
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 3,
+      "current_hp": 3
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 3,
+      "current_hp": 3
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {},
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "luck_policy": "PC-only campaign rule: NPCs have no Luck pool or Luck rank bonuses; never spend Luck for NPC rerolls, reversals or damage mitigation."
+  },
+  "actor_notes": "Joss Fen\nLOOKS: Broad-faced adult in a faded green hood, clean boots, and fingerless gloves. Carries a folded tournament broadside.\nCORE: A cautious crowd thief who earns by making other people's mistakes look accidental.\nNATURE: Quiet, practical, and happiest when somebody else draws the eye.\nWOUND: A former partner once ran with the whole purse and left Joss for the watch; every escape route is now chosen in advance.\nWANTS: Get Pell clear and leave without being marked.\nPRESSURE: Abandons the job and walks rather than runs until directly seized.\nKEY: \"Mind your own belt.\"",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "location": "myth-loc-95b0d058ff45",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-13T05:48:51"
+}

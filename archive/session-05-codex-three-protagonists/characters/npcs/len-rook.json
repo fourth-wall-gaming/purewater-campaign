@@ -1,0 +1,171 @@
+{
+  "id": "myth-char-483065a786d2",
+  "name": "Len Rook",
+  "type": "npc",
+  "status": "active",
+  "description": "Wants his property safe; owes delivery but will abandon cart to save himself.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 10,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 12,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Ride": 45,
+    "Drive": 45,
+    "Brawn": 40,
+    "Athletics": 40,
+    "Perception": 40,
+    "Influence": 35,
+    "Willpower": 40,
+    "Evade": 35,
+    "Combat Skill": 30
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Dagger",
+      "damage": "1d4+1",
+      "size": "S"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 30
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Human",
+    "score": {
+      "want": "Deliver hospice medicine and return with mule and cart",
+      "ought": "Wants his property safe; owes delivery but will abandon cart to save himself.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": [
+        "s8 Ashen Span: obeyed Hrill go-ahead, crawled free safely, introduced himself and asked his destination.",
+        "s8: shook Hrill Helmdance hand after his introduction, heard his Three Hearths destination and invited him to walk together via sheep track.",
+        "s8: Hrill agreed to shared walk and asked whether cart help needed. Asked help with empty-cart recovery; unloaded intact supplies with Maelin and prepared a hauling loop, awaiting Hrill.",
+        "s8: worked alongside Hrill successful cart haul; secured empty cart, packed mule, guided agreed walk via sheep track and told keeper of Hrill rescue on arrival."
+      ]
+    },
+    "role": "len",
+    "doing": {
+      "goal": "Deliver hospice medicine and return with mule and cart",
+      "next": "Stay balanced on beam until cart is secured",
+      "where": "myth-loc-de51a82e562e",
+      "as_of_session": 7
+    },
+    "pronouns": "he/him",
+    "assets": {
+      "cart_location": "Ashen Span southern bank, secured for collection",
+      "mule_location": "Three Hearths Hospice",
+      "hospice_supplies_delivered": {
+        "medicine_bundles": 4,
+        "food_sacks": 2
+      }
+    }
+  },
+  "actor_notes": "LOOKS: broad carrier with a sun-bleached cap and a boot caught beneath a cart shaft. CORE: a delivery is a promise to an actual person. NATURE: plain, companionable, complains without malice. WOUND: dislikes being treated as expendable labour. WANTS: be free of this cart. PRESSURE: becomes terse and fiercely literal. KEY: rough short clauses, ordinary road idiom.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": "myth-loc-73eaff6c3e38",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-25T21:09:17"
+}

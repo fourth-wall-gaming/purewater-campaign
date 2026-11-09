@@ -1,0 +1,10 @@
+---
+id: "myth-fact-d2b8ca707904"
+title: "Elenfirsthandfamilyhistory: AvelraisedatVeyrholdingoutsideAs"
+statement: "Elenfirsthandfamilyhistory: AvelraisedatVeyrholdingoutsideAshwick,trainedbyherfatherinswordandknightlyduties;healsokeptstoriesandfamilyrelicsofimperialservice. Avelspentadultyearssoldieringforpaywithvariouscompanies,notacontinuousCrowncommissionestablished. Duringlastwinterhomevisit shebeganspeakingofrestoringtheoldorderandobtainingapermanentcommand;Elenheardthesethingsdirectlybutknowsnolivinglordwhocommandedher. No specificwar,secretpatron,treasonbyfamilyoradditionalfamilycrimeestablished."
+status: "established"
+truth: "true"
+time_index: 218
+created_at: "2026-10-28T16:40:16"
+---
+

@@ -1,0 +1,142 @@
+{
+  "id": "myth-char-a61083ec0e76",
+  "name": "Reedback of the northern shallows",
+  "type": "creature",
+  "status": "active",
+  "description": "Single migratory herbivore; custom aquatic anatomy. No Luck, spells, intelligence in Common, prophecy or imperative to fight. Grazes and retreats.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 30,
+    "CON": 22,
+    "SIZ": 36,
+    "DEX": 8,
+    "INT": 5,
+    "POW": 12,
+    "CHA": 3
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+2d6",
+    "experience_modifier": -1,
+    "healing_rate": 5,
+    "initiative_bonus": 7,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "10 feet land; 30 feet swimming"
+  },
+  "skills": {
+    "Swim": 85,
+    "Brawn": 80,
+    "Endurance": 80,
+    "Perception": 50,
+    "Evade": 20,
+    "Combat Skill": 55,
+    "Willpower": 50
+  },
+  "hit_locations": [
+    {
+      "name": "Right Hind Flipper",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 3,
+      "hp": 11,
+      "current_hp": 11
+    },
+    {
+      "name": "Left Hind Flipper",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 3,
+      "hp": 11,
+      "current_hp": 11
+    },
+    {
+      "name": "Shell",
+      "range": [
+        7,
+        12
+      ],
+      "ap": 7,
+      "hp": 16,
+      "current_hp": 16
+    },
+    {
+      "name": "Right Fore Flipper",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 3,
+      "hp": 11,
+      "current_hp": 11
+    },
+    {
+      "name": "Left Fore Flipper",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 3,
+      "hp": 11,
+      "current_hp": 11
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 3,
+      "hp": 12,
+      "current_hp": 12
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Bite"
+    },
+    {
+      "name": "Body buffet"
+    },
+    {
+      "name": "Bite",
+      "damage": "1d8",
+      "size": "L"
+    },
+    {
+      "name": "Body buffet",
+      "damage": "1d6",
+      "size": "H"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Natural defences": 55
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Reedback",
+    "role": "reedback",
+    "doing": {
+      "goal": "Graze and migrate away from actual disturbance",
+      "next": "DivedawayfromGarrclose26daySwim55/85beatBoating15/65. Unhurt,noharpoon/lineattached. Submergedbeyondhuntersusable30/60ftrange;newfeedingpositionunknownhunters,noforcedfuturefight.",
+      "where": "myth-loc-c563e843554c",
+      "as_of_session": 8
+    },
+    "plan_reference": "docs/scenarios/hrill-edda-preparation.md"
+  },
+  "actor_notes": "Large reed-matted shelled herbivore. Grazes, migrates, warns at crowding, dives or shoves if attacked. Withdraws at serious wound if able. No human moral judgement or magical awareness. Behaviour and range limits in prepared creature card.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-c563e843554c",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-27T01:28:25"
+}

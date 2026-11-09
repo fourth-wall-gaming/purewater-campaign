@@ -1,0 +1,163 @@
+{
+  "id": "myth-char-dfda426b7fd6",
+  "name": "Sergeant Drell",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult human man, square beard with grey through it, mail shirt and an unfastened sword belt. Sergeant named by captured frame-planter as ordering silver planted against Halla's sister; higher command responsibility remains unproved. Currently assigned to mill escort under Vask.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 13,
+    "SIZ": 13,
+    "DEX": 12,
+    "INT": 11,
+    "POW": 11,
+    "CHA": 10
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 0,
+    "healing_rate": 3,
+    "initiative_bonus": 11,
+    "luck_points": 0,
+    "magic_points": 11,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 50,
+    "Boating": 26,
+    "Brawn": 55,
+    "Conceal": 23,
+    "Dance": 22,
+    "Deceit": 50,
+    "Drive": 23,
+    "Endurance": 60,
+    "Evade": 45,
+    "First Aid": 23,
+    "Influence": 20,
+    "Insight": 45,
+    "Locale": 22,
+    "Perception": 50,
+    "Ride": 23,
+    "Sing": 21,
+    "Stealth": 23,
+    "Swim": 26,
+    "Unarmed": 25,
+    "Willpower": 55,
+    "Customs": 62,
+    "Native Tongue": 61,
+    "Intimidation": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 4,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 4,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 4,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 4,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Sword",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "M",
+      "ap": 6,
+      "hp": 10
+    },
+    {
+      "name": "Travel pack"
+    },
+    {
+      "name": "Mail shirt"
+    },
+    {
+      "name": "Cloak"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Dragon Knight sergeant (sword, spear, shield)": 65
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "he/him",
+    "gender": "male",
+    "luck_policy": "NPC current/max Luck zero, no Luck use."
+  },
+  "actor_notes": "LOOKS: Square grey-threaded beard, mail, sword belt being buckled for travel. CORE: Career sergeant who treats command protection as part of his pay and would prefer somebody else answer for his orders. NATURE: Brisk, ordinary barrack speech, neither theatrical nor suicidal. WANTS: Leave with escort without being held for the planting allegation. REFUSAL: Will not confess merely because somebody looks angry, or attack a Crown captain casually. PRESSURE: Asks which authority wants him; bargains if isolated, escape only when realistic. EDGE: Named by captured planter, now escort assigned under Vask. Does not know Halla secrets. No proof or settled truth about higher command orders.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "location": "myth-loc-50ef7563cb14",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-22T07:54:35"
+}

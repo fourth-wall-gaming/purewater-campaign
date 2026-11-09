@@ -1,0 +1,85 @@
+{
+  "success": true,
+  "attacker": "Dain Sedge",
+  "defender": "Hrill Helmdance",
+  "weapon": "Light crossbow",
+  "attack_roll": {
+    "roll": 45,
+    "skill": 28,
+    "difficulty": "standard",
+    "effective": 28,
+    "critical_range": 3,
+    "level": "failure"
+  },
+  "defense": "parry",
+  "defense_roll": {
+    "roll": 31,
+    "skill": 81,
+    "difficulty": "standard",
+    "effective": 81,
+    "critical_range": 9,
+    "level": "success"
+  },
+  "special_effects": 1,
+  "effects_to": "Hrill Helmdance",
+  "available_effects": [
+    {
+      "id": "damage-weapon",
+      "name": "Damage Weapon",
+      "phase": "post-damage",
+      "one_line": "wreck the thing in their hand"
+    },
+    {
+      "id": "scar-foe",
+      "name": "Scar Foe",
+      "phase": "post-damage",
+      "one_line": "leave a mark they keep"
+    },
+    {
+      "id": "prepare-counter",
+      "name": "Prepare Counter",
+      "phase": "post-damage",
+      "one_line": "set up the answer"
+    },
+    {
+      "id": "withdraw",
+      "name": "Withdraw",
+      "phase": "post-damage",
+      "one_line": "break off clean"
+    },
+    {
+      "id": "trip",
+      "name": "Trip",
+      "phase": "followup",
+      "one_line": "take their legs",
+      "contest": "Brawn or Evade or Acrobatics"
+    },
+    {
+      "id": "disarm",
+      "name": "Disarm",
+      "phase": "followup",
+      "one_line": "knock it out of their hand",
+      "contest": "Combat Style"
+    }
+  ],
+  "ap_remaining": {
+    "Joric Vane": 3,
+    "Dain Sedge": 2,
+    "Sergeant Brann Tarrow": 3,
+    "Orrin Fell": 3,
+    "Hrill Helmdance": 1
+  },
+  "next": "resolve-effects --encounter myth-enc-c8febb1dd9ed [--effect <id> ...]",
+  "storyline": {
+    "id": "myth-storyline-0fea5d34980f",
+    "name": "Hrill",
+    "pcs": [
+      "myth-char-07bc6645bb49"
+    ],
+    "now": "d29/day",
+    "minute_in_watch": 200,
+    "scene": "d29/day200 CHARCOALNORTHPATH myth-loc-2e76f65fe09a H/Brann/Orrinfollowedusernorthpair. Actual3minordinarywalkfromkiln240yardsnorth; twofugitivesJoric/Dain400yardsnorth, gap160yards(480feet). Straightstretchopen coppice ordinarymutualsight: crossbowmanlooksback, swordsmanwithshieldbesidehim; no freshshoot/aimbonus/movement/initiativeyet. Hnamesunknownplayer, noextraallies/foes. ASKUSERACTION nowarmedmenvisible, dontstallonpermissiontofollowagain. ApproachnotstealthdeclaredsoNPCcansee3watchbutnotknowintents/rolls. No guaranteedcontact; opposedpursuitifuncertain, allrollsnative. HswordRIGHTshieldREADIEDLEFT,mail5fullHPFreshMP8Luck2cash20. Noactiveencounter, anynewfightrollfreshinitiative beforeattack/defensesalwaysplayer. Orrinloadedcrossbow17bolts;Brannswordshieldready. Dainloaded12bolts,Joricswordshieldarmor3torso2limbs,6partyfood/cash4cookpot2GP. BennoholdsunbounddisarmedMossandseizedunloadedxbow11bolts+spearatculvertwithPella/cartmule8woolsafe. KellNOTfollowed, now400yardseastofkiln on myth-loc-526325c7d1de afteractual3moremin,owngearrope2food, unawareofwhichtrailHchose. Originalrobberyagendathwarted, noHorHanzoDragonKingsconnection. Weekhire29-35foodday29charged1sixdaysleftnopaytodayyet; noclock/rest/luckrefresh. OtherPCclocksunchanged.",
+    "session": 8
+  },
+  "world_high_water": "d29/day"
+}

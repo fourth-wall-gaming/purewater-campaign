@@ -1,0 +1,1306 @@
+{
+  "id": "myth-char-77a79270f637",
+  "name": "Halla",
+  "type": "pc",
+  "status": "active",
+  "description": "Male dwarf Fighter; Forge Quarter bodyguard, fixer and hired muscle.",
+  "narrative": "Halla is an adult dwarf, a seasoned Rank 2 Fighter and former citadel garrison soldier. In his unnamed home citadel he refused an order to seize winter stores from a dwarven settlement that could not spare them. His commander falsely accused him of taking payment to let the supplies disappear. Halla left in disgrace. A later inquiry cleared him, but by then he had built a life near his sister in Purewater; the correction travelled less widely than the accusation. Years as a canal-side bodyguard, fixer and hired muscle taught him swimming, stealth and vigilance. He stays because his sister runs a boat-repair yard in the Forge Quarter. When stolen baronial silver was planted there, he acted to protect her and brought the captured planter to the Watch. Honour, kindness and mental resilience are central to him; the player controls all thoughts, choices and dialogue. The approved military history replaces the earlier grew-up-in-Purewater wording without changing skills or class. Live money, wounds, employment, debt and tournament outcomes belong to structured state and facts, not this biography.",
+  "characteristics": {
+    "STR": 15,
+    "CON": 18,
+    "SIZ": 10,
+    "DEX": 11,
+    "INT": 11,
+    "POW": 7,
+    "CHA": 5
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": -1,
+    "healing_rate": 3,
+    "initiative_bonus": 11,
+    "luck_points": 3,
+    "magic_points": 7,
+    "movement": "4.572m (15 feet)"
+  },
+  "skills": {
+    "Athletics": 36,
+    "Boating": 70,
+    "Brawn": 71,
+    "Conceal": 18,
+    "Dance": 16,
+    "Deceit": 16,
+    "Drive": 18,
+    "Endurance": 70,
+    "Evade": 42,
+    "First Aid": 22,
+    "Influence": 10,
+    "Insight": 18,
+    "Locale": 32,
+    "Perception": 65,
+    "Ride": 18,
+    "Sing": 12,
+    "Stealth": 52,
+    "Swim": 53,
+    "Unarmed": 74,
+    "Willpower": 59,
+    "Customs": 62,
+    "Native Tongue": 56,
+    "Combat Skill (Fighter)": 76,
+    "Intimidation": 56,
+    "Craft (Metalwork)": 32,
+    "Lore (Strategy and Tactics)": 22,
+    "Commerce": 41,
+    "Mechanisms": 47,
+    "Lockpicking": 42,
+    "Language (Common)": 56,
+    "Language (Dwarf)": 56
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 5,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 5,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 5,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 5,
+      "hp": 9,
+      "current_hp": 9
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 5,
+      "hp": 7,
+      "current_hp": 7
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Work clothes and boots"
+    },
+    {
+      "name": "Belt pouch"
+    },
+    {
+      "name": "Battleaxe",
+      "damage": "1d8+1",
+      "size": "L",
+      "ap": 4,
+      "hp": 8,
+      "effects": [
+        "bleed",
+        "sunder"
+      ],
+      "hands": 2,
+      "traits": [
+        "cutting"
+      ],
+      "current_grip": "two-handed",
+      "max_hp": 8,
+      "current_hp": 8,
+      "condition": "Sound original haft before champion bout"
+    },
+    {
+      "name": "Worn but serviceable chain armour",
+      "armour_points": 5
+    },
+    {
+      "name": "Unarmed",
+      "damage": "1d3",
+      "size": "S",
+      "natural": true
+    },
+    {
+      "name": "Handaxe",
+      "damage": "1d6",
+      "size": "S",
+      "ap": 3,
+      "hp": 6,
+      "hands": 1,
+      "effects": [
+        "bleed"
+      ],
+      "traits": [
+        "thrown",
+        "cutting"
+      ],
+      "range": [
+        30,
+        60,
+        90
+      ],
+      "range_units": "feet",
+      "encumbrance_things": 0.5,
+      "condition": "Used, sound and serviceable"
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L",
+      "ap": 4,
+      "hp": 12,
+      "hands": 1,
+      "traits": [
+        "ranged-parry",
+        "passive-block"
+      ],
+      "passive_block_locations": 4
+    },
+    {
+      "name": "Sling",
+      "ownership": "Prince's household guard loan",
+      "condition": "Serviceable"
+    },
+    {
+      "name": "Sling stones",
+      "quantity": 20,
+      "ownership": "Guard-issued ammunition"
+    }
+  ],
+  "passions": {
+    "Good (Kind; protects innocents)": 48,
+    "Lawful (Honourable; keeps his word)": 48,
+    "Love (Sister)": 70,
+    "Seek (Freedom from Crowbill)": 50,
+    "Uphold (Honour through mastery of combat)": 60
+  },
+  "combat_styles": {
+    "Fighter (all basic and martial weapons, all shields)": 76,
+    "Battleaxe specialist": 81
+  },
+  "spells": null,
+  "powers": [
+    {
+      "name": "Combat Proficiency",
+      "effect": "+5 Fighter Combat Skill and Unarmed; already included"
+    },
+    {
+      "name": "Weapon Specialization (Battleaxe)",
+      "effect": "+5 Combat Skill with battleaxe; one free parry while wielding it"
+    },
+    {
+      "name": "Weapon Master (Battleaxe)",
+      "effect": "Double critical chance with battleaxe; damage modifier improves one step to +1d2"
+    },
+    {
+      "name": "Forceful Strike",
+      "effect": "Make next melee attack one difficulty grade harder to increase damage modifier two steps"
+    }
+  ],
+  "extras": {
+    "race": "dwarf",
+    "class": "fighter",
+    "rank": 2,
+    "rank_title": "Fighter",
+    "pronouns": "he/him",
+    "creation_pending": [],
+    "racial_traits": {
+      "darkvision_feet": 60,
+      "arcane_resistance": "Willpower one grade easier against arcane magic",
+      "poison_resistance": "Endurance one grade easier against poison",
+      "tunnel_sense": "Easy Perception within 10 feet",
+      "literate": true
+    },
+    "skill_allocations": {
+      "race": {
+        "Athletics": 10,
+        "Brawn": 15,
+        "Endurance": 15,
+        "Evade": 5,
+        "Locale": 10,
+        "Perception": 15,
+        "Willpower": 15,
+        "Craft (Metalwork)": 5,
+        "Commerce": 5,
+        "Mechanisms": 5
+      },
+      "class": {
+        "Combat Skill (Fighter)": 15,
+        "Brawn": 15,
+        "Endurance": 15,
+        "Evade": 10,
+        "Unarmed": 15,
+        "Boating": 10,
+        "Intimidation": 15,
+        "Craft (Metalwork)": 5
+      },
+      "bonus": {
+        "Combat Skill (Fighter)": 30,
+        "Brawn": 15,
+        "Endurance": 4,
+        "Unarmed": 24,
+        "Boating": 27,
+        "Intimidation": 25,
+        "Commerce": 20,
+        "Mechanisms": 20,
+        "Lockpicking": 20,
+        "Perception": 30,
+        "Evade": 5,
+        "Willpower": 30,
+        "Stealth": 30,
+        "Swim": 20
+      }
+    },
+    "combat_proficiency": {
+      "Combat Skill (Fighter)": 5,
+      "Unarmed": 5
+    },
+    "free_cultural_bonuses": {
+      "Customs": 40,
+      "Language (Common)": 40,
+      "Language (Dwarf)": 40
+    },
+    "rules_source": "https://github.com/raleel/cfi-srd/tree/main/rules/en",
+    "experience_category": "Low Level (seasoned)",
+    "bonus_pool": 300,
+    "bonus_cap_per_skill": 30,
+    "hobby_professional_skill": "Lockpicking",
+    "weapon_specialization": "Battleaxe",
+    "weapon_mastery": "Battleaxe",
+    "rank_1_free_ability": "Forceful Strike",
+    "rank_benefits": {
+      "hit_points_per_location": 1,
+      "luck_points": 1,
+      "action_points": 1
+    },
+    "specialized_battleaxe_skill": 81,
+    "weapon_master_damage_modifier": "+1d2",
+    "age_note": "Seasoned adult; precise age optional and not yet specified",
+    "player_character_emphasis": "Mental resilience is a central part of Halla; Willpower prioritized to 59 within experienced starting limits.",
+    "alignment_moral": "Good",
+    "alignment_ethical": "Lawful",
+    "alignment_moral_traits": [
+      "Kind",
+      "Protects innocents"
+    ],
+    "alignment_ethical_traits": [
+      "Honourable",
+      "Keeps his word"
+    ],
+    "alignment_starting_formula": "INT 11 + POW 7 + 30 = 48",
+    "passion_rating_note": "Seasoned-character agreed ratings: Sister 70, honour/good dwarven life 60, freedom from Crowbill 50; these are GM-assigned campaign ratings rather than fresh-character formula values.",
+    "money": {
+      "gp": 0,
+      "sp": 8,
+      "cp": 0
+    },
+    "starting_purse_roll": {
+      "dice": "2d4",
+      "rolls": [
+        2,
+        2
+      ],
+      "total": 4
+    },
+    "player_moral_characterization": "Halla means well and has a strong sense of honour, but finds navigating moral complexity tricky; player describes him as not very smart. INT remains the rolled 11. Do not dictate his thoughts or decisions.",
+    "optional_details": [
+      "exact age"
+    ],
+    "upbringing": "Raised in an unnamed dwarven citadel, served as a garrison soldier, then moved to Purewater after an unjust scandal. Years of canal-side guard work taught swimming, stealth and vigilance. Stays near his sister.",
+    "stored_gear": {
+      "location": "Sister boatyard in the Forge Quarter",
+      "items": [
+        "Waterskin",
+        "Trail rations for one week",
+        "Bedroll",
+        "Flint and tinder",
+        "Two torches",
+        "Backpack",
+        "Round shield"
+      ]
+    },
+    "current_loadout": {
+      "main_hand": "Battleaxe, two-handed grip retained unless player changes",
+      "off_hand": "gripping battleaxe while shieldslung",
+      "handaxe": "at belt",
+      "dagger": "Sold to Nessa d6/day",
+      "armour": "Chain and helmet ready",
+      "head": "helm worn",
+      "shield": "Own shield carried with kit; not automatically equipped in hand",
+      "main_weapon": "Battleaxe carried safely, not raised",
+      "belt": [
+        "Dagger",
+        "Handaxe",
+        "Dagger",
+        "Handaxe retrieved intact after final",
+        "Dagger",
+        "Handaxe",
+        "Dagger",
+        "Handaxe",
+        "Handaxe"
+      ]
+    },
+    "practice_bout": {
+      "opponent_id": "myth-char-9dec6cf124d8",
+      "encounter_id": "myth-enc-01f8a2ab3ba4",
+      "halla_touches": 3,
+      "opponent_touches": 0,
+      "goal": 3,
+      "status": "complete; Halla wins3-0",
+      "terms": "Controlled touches only; no injury; stop and reset on each clean touch",
+      "initiative": {
+        "Irena": 23,
+        "Halla": 19
+      },
+      "awaiting": null,
+      "round": 5,
+      "ap": {
+        "Halla": 3,
+        "Irena": 1
+      },
+      "range": "Close engagement",
+      "opponent_tactic": "Attacks first on initiative"
+    },
+    "practice_personal_weapon_storage": "Personal axe and round shield with kit beside Rusk, practice axe/shield returned to rack",
+    "bonus_parry_used_round": 2,
+    "active_job": {
+      "employer": "Bera Lowkeel",
+      "employer_id": "myth-char-eafd6a46f0e2",
+      "task": "Guard Shoals boat crews, boats and loads",
+      "pay_gp": 2,
+      "paid": true,
+      "when": "d0 dawn to noon",
+      "meeting": "Shoals water-stair",
+      "status": "completed; both boats, crews and cargo delivered safely",
+      "paid_gp": 2,
+      "pay_timing": "after morning run",
+      "date": "d0",
+      "watch": "dawn to noon",
+      "breakfast_included": true,
+      "partner": "Rusk",
+      "scope": "Protect grain boats and crews during deliveries",
+      "completed_when": "d0/day"
+    },
+    "employment_offer": {
+      "employer_id": "myth-char-46bd3d314355",
+      "task": "Watercrafters crew escort, guard duties only",
+      "when": "d-2 afternoon",
+      "meeting": "Guild water-stair",
+      "pay_gp": 2,
+      "status": "first scheduled afternoon shift completed and paid",
+      "future_shifts": "Possible if first shift works out; not guaranteed"
+    },
+    "scheduled_guild_job": {
+      "employer_id": "myth-char-46bd3d314355",
+      "task": "Crew escort and tool protection",
+      "when": "d-1 morning",
+      "meeting": "Guild water-stair",
+      "pay_gp": 2,
+      "status": "completed and paid before noon presentation",
+      "paid": true,
+      "finishes": "before d-1 noon Tourney presentation",
+      "paid_gp": 2
+    },
+    "debt_credits": [
+      {
+        "amount_gp": 5,
+        "source": "Crowbill parcel delivery d-3/dusk",
+        "note": "Agreed credit; debt total remains unknown"
+      },
+      {
+        "amount_gp": 2,
+        "source": "Voluntary cash repayment to Crowbill d-2 dusk",
+        "note": "Balance sixteen to fourteen gold"
+      },
+      {
+        "amount_gp": 4,
+        "source": "Captured Dragon Knight and preserved planted silver evidence d0/night",
+        "note": "Crowbill credits the account from eight to four gold"
+      }
+    ],
+    "debt_ledger": {
+      "creditor": "Crowbill",
+      "original_gp": 24,
+      "credits_gp": 24,
+      "remaining_gp": 0,
+      "reason": "Restitution after illicit cargo was planted in sister's boatyard; Halla borrowed to keep her from prison",
+      "cash_payments": [
+        {
+          "payment_key": "d-2-dusk-two-gold-after-copper-oar-shift",
+          "amount_gp": 2,
+          "when": "d-2/dusk",
+          "kind": "voluntary cash repayment"
+        },
+        {
+          "payment_key": "d-2-dusk-two-gold-after-copper-oar-shift",
+          "amount_gp": 2,
+          "when": "d-2/dusk",
+          "kind": "voluntary cash repayment"
+        },
+        {
+          "payment_key": "d0-day-six-gold-after-bera-run",
+          "amount_gp": 6,
+          "when": "d0/day",
+          "kind": "voluntary cash repayment"
+        }
+      ],
+      "noncash_credits": [
+        {
+          "credit_key": "d0-night-captured-knight-and-silver",
+          "amount_gp": 4,
+          "when": "d0/night",
+          "kind": "captured Dragon Knight and preserved planted silver evidence"
+        }
+      ],
+      "status": "Settled in full d6/day, witnessed by Captain Ward",
+      "final_payment": {
+        "amount_gp": 4,
+        "when": "d6/day",
+        "witness": "myth-char-bf26a5fa5342",
+        "receipt": "Crowbill marked account paid; written acknowledgment given to Halla"
+      }
+    },
+    "possible_reward": {
+      "source": "Crowbill prisoner information",
+      "condition": "Captured thief supplies useful name of person who sent him to take parcel",
+      "reward": "2GP additional credit against debt",
+      "status": "unearned: Crowbill questioning resisted, no useful sender name yet; original2GP offer remains standing"
+    },
+    "morning_preparation": {
+      "when": "d-2/dawn",
+      "plan": "Register single combat at Lists this morning with axe, shield and chain armour for inspection; guild crew escort in afternoon",
+      "entry_gp_reserved": 0,
+      "entry_paid": true
+    },
+    "player_character_emphasis_latest": "Player says bloody thieves, hates the lot, then sleeps and prepares for tomorrow. No new quantified passion imposed.",
+    "kit_bag": {
+      "bag": "Existing backpack",
+      "contents": [],
+      "strapped_to_bag": [],
+      "purpose": "Tourney entry inspection",
+      "status": "Empty kit bag stored at sister yard after gearing up"
+    },
+    "tourney_entry": {
+      "event": "Single combat",
+      "registered_name": "Halla, Forge Quarter",
+      "fee_gp": 1,
+      "paid": true,
+      "inspection": "d1/day recheck passed: chainmail, helm, battleaxe, handaxe, dagger and round shield; entry already paid",
+      "bouts_begin": "d1",
+      "presentation": "d-1",
+      "presentation_report": "d-1 noon at Lists, mandatory bare-headed bow when named; absence forfeits entry",
+      "additional_weapon": "Handaxe, inspected and approved for single combat including its normal thrown use",
+      "additional_fee_gp": 0,
+      "presentation_status": "completed: Halla uncovered, walked forward and bowed to Emeric at d-1 noon",
+      "presentation_attended": true,
+      "schedule_note": "Source beat31a30c96c2d8 archeryd0/day; beat0e45c0d0f760 SingleCombatd1/day. Corrects prior PC sheetd0 combat placeholder, not a change to source event dates.",
+      "arrival_status": "competitors awning preparingforfinal",
+      "progress": "Finalist: wins over Irena,Rusk,Cailan; final versusVeyaDorn pending",
+      "champion_defeated": true,
+      "winner": false,
+      "final_opponent": "Veya Dorn",
+      "remaining_opponents": 1
+    },
+    "combat_craft_passion": {
+      "rating": 60,
+      "meaning": "Pride in learning, disciplined practice, skilled fighting and testing himself in honourable contests. A central expression of his honour and sense of purpose; does not dictate player choices.",
+      "replaces": "Uphold (Honour and a good dwarven life)",
+      "observed_example": "Halla declined an unopposed finishing touch against Irena, calling it a cheap shot, and waited for both to recover their actions."
+    },
+    "practice_bouts_history": [
+      {
+        "opponent_id": "myth-char-069d998e58a6",
+        "encounter_id": "myth-enc-f5c88a530dd9",
+        "halla_touches": 3,
+        "rusk_touches": 1,
+        "goal": 3,
+        "status": "complete; Halla wins",
+        "size_up": "Rusk right foot forward; shield covers left ribs but not forward knee"
+      }
+    ],
+    "public_tourney_instructions": {
+      "today": "d-1: entrants presentation completed",
+      "tomorrow": "d0/day: archery",
+      "following_day": "d1/day: Single Combat"
+    },
+    "desired_loadout": {
+      "goal": "Second one-handed axe and small throwing axes for alternative dual-axe style; retain shield for other work",
+      "possible_combination": "Current Battleaxe81 with Handaxe76 in other hand;3AP unchanged",
+      "status": "Browsing merchant stock; no purchase or changes to specialization",
+      "merchant_id": "myth-char-74a5e19d92ae",
+      "merchant_location": "myth-loc-ac24047e76f7",
+      "offers": {
+        "new_handaxe_gp": 2.5,
+        "new_battleaxe_gp": 10,
+        "used_each_gp": 2,
+        "used_pair_gp": 3
+      },
+      "inspection": "Both used handaxes sound and serviceable; ordinary inspection by experienced Fighter, no hidden defects",
+      "purchase_status": "One handaxe bought for1GP plus dagger credited1GP; cash1GP preserved",
+      "pending_choice": "User chooses whether to trade dagger for pair or take single as fallback",
+      "followup_authorized": "After purchase return to Lists for weapon approval, then home to equip for afternoon guild shift",
+      "trade_offer": {
+        "item": "Dagger",
+        "credit_gp": 1,
+        "cash_gp": 2,
+        "receives": "Two serviceable used handaxes",
+        "status": "Replaced by accepted single-axe transaction with dagger buyback1GP until closing"
+      },
+      "approval": "New handaxe checked at Lists and approved for single combat"
+    },
+    "pending_errand": {
+      "task": "Buy serviceable handaxes, get Tourney approval, then returnhome and kitup for guild work",
+      "blocked_at": null,
+      "later_steps_not_executed": false,
+      "followup": "Guildshiftcompletepaid; daggerbuybackcompleted; no outstanding shopping errand",
+      "purchase": "Complete, one sound handaxe",
+      "inspection": "Complete: handaxe approved; no extra entry fee",
+      "status": "Purchase, Lists clearance and returnhome/equipment preparation completed"
+    },
+    "dagger_buyback": {
+      "merchant_id": "myth-char-74a5e19d92ae",
+      "location_id": "myth-loc-ac24047e76f7",
+      "price_gp": 1,
+      "deadline": "d-2 closing/dusk",
+      "status": "repurchased",
+      "item": {
+        "name": "Dagger",
+        "damage": "1d4+1",
+        "size": "S",
+        "ap": 6,
+        "hp": 8
+      },
+      "paid_gp": 1
+    },
+    "scheduled_buyback": {
+      "after": "Afternoon guild payment",
+      "when": "d-2 afternoon before stall closing",
+      "item": "Dagger",
+      "price_gp": 1,
+      "authorisation": "User says return this afternoon to buy stuff back if paid first",
+      "status": "complete; original dagger repurchased before closing for1GP"
+    },
+    "previous_job_completion": {
+      "employer": "Crowbill",
+      "task": "Delivered parcel and captured thief",
+      "credited_gp": 5,
+      "status": "completed"
+    },
+    "next_guild_shift_offer": {
+      "employer_id": "myth-char-46bd3d314355",
+      "task": "Same crew escort and tool protection",
+      "when": "d-1 morning, ends before noon presentation",
+      "pay_gp": 2,
+      "status": "d-1 morning shift completed and paid; no additional shift booked",
+      "instructions": "Prioritise crew safety; tools replaceable; defend crew if attacked and return guild; no pursuit"
+    },
+    "tavern_job_offer": {
+      "employer_id": "myth-char-7e2675c70c21",
+      "location": "The Copper Oar kitchen courtyard",
+      "task": "Guard porters and food deliveries while unloading",
+      "when": "d-2 dusk for two hours",
+      "pay_gp": 1,
+      "pay_timing": "after shift",
+      "status": "completed and paid",
+      "conflicts": "none with d-1 morning guild job or noon Tourney presentation",
+      "paid": true,
+      "paid_gp": 1
+    },
+    "stored_shield": {
+      "location": "Sister boatyard in the Forge Quarter",
+      "item": {
+        "name": "Round shield",
+        "damage": "1d4",
+        "size": "L",
+        "ap": 4,
+        "hp": 12,
+        "traits": [
+          "ranged-parry",
+          "passive-block"
+        ],
+        "passive_block_locations": 4
+      },
+      "status": "Recovered from arena and carried with kit"
+    },
+    "player_loadout_clarification": "Armoured, shield left at home; carries battleaxe, handaxe, dagger. Corrects earlier GM assumption of slung shield; no time or courtyard actions advance.",
+    "campaign_awareness_meta": {
+      "agenda_id": "myth-agenda-41e89fd9ad38",
+      "holder": "Tat Atarer",
+      "segments": 1,
+      "size": 6,
+      "bar": 35,
+      "roll": 21,
+      "pc_knows": false,
+      "earlier_guild_report": {
+        "bar": 25,
+        "roll": 90,
+        "reached_principal": false
+      }
+    },
+    "pending_destination": null,
+    "marda_guard_offer": {
+      "employer_id": "myth-char-7b078f2349da",
+      "when": "d-1 afternoon, after noon presentation",
+      "location_id": "myth-loc-e4becf72aa90",
+      "task": "Two guards protecting boat crews, boats and loads at Shoals water-stair",
+      "guards": 2,
+      "pay_gp_each": 2,
+      "pay_timing": "after afternoon shift",
+      "status": "completed; both guards paid two gold each",
+      "paid": true,
+      "conflicts": "none with accepted morning guild shift and noon Tourney presentation",
+      "preferred_partner_id": "myth-char-069d998e58a6",
+      "second_guard_status": "Rusk agreed directly, Marda saw him report and paid him; Thorne has not been informed of direct arrangement"
+    },
+    "scheduled_marda_job": {
+      "employer_id": "myth-char-7b078f2349da",
+      "when": "d-1 afternoon, after noon presentation",
+      "meeting": "Shoals water-stair",
+      "location_id": "myth-loc-e4becf72aa90",
+      "task": "Guard dock crews, boats and loads against seizure",
+      "pay_gp": 2,
+      "pay_timing": "after afternoon shift",
+      "status": "completed and paid",
+      "paid": true,
+      "second_guard": {
+        "candidate_id": "myth-char-069d998e58a6",
+        "name": "Rusk",
+        "status": "Rusk joined at Shoals, Marda witnessed attendance",
+        "pay_gp": 2
+      },
+      "scope": "protective guard work, not raids or pursuit",
+      "paid_gp": 2
+    },
+    "last_session_close": {
+      "session": 1,
+      "next_session": 2,
+      "status": "closed; session2 has now begun",
+      "world_time": "d-2/night",
+      "experience_awarded": 3,
+      "experience_bank": 0,
+      "experience_spent": 3,
+      "free_fumble_improvements": [
+        {
+          "skill": "Perception",
+          "from": 63,
+          "to": 64,
+          "source_event": "myth-event-09bab0bc39b1",
+          "roll": 99
+        }
+      ],
+      "luck_at_close": 0,
+      "luck_at_next_session_start": 3,
+      "npc_doings_review": "Inspection-cover Knight existing duty reviewed, no new change earned. Thorne quiet Rusk enquiry pending; no player-witnessed confirmation.",
+      "resume": "Begin next morning with tick d-1/dawn; do not auto-fire Marda strike unless her clock is4/4. Guild morning, Lists noon, Marda afternoon. Rusk not committed yet.",
+      "skill_improvement_rolls": [
+        {
+          "skill": "Unarmed",
+          "roll": 87,
+          "INT": 11,
+          "total": 98,
+          "from": 70,
+          "gain": 4,
+          "to": 74
+        },
+        {
+          "skill": "Perception",
+          "roll": 21,
+          "INT": 11,
+          "total": 32,
+          "from": 64,
+          "gain": 1,
+          "to": 65
+        },
+        {
+          "skill": "Brawn",
+          "roll": 23,
+          "INT": 11,
+          "total": 34,
+          "from": 70,
+          "gain": 1,
+          "to": 71
+        }
+      ],
+      "next_session_opening": "Halla wakes at sister's Forge Quarter home on d-1/dawn, rested; restore Luck to3/3 when next session begins",
+      "next_session_opening_confirmed_by_player": true
+    },
+    "rest": {
+      "status": "Fresh and uninjured before third bout",
+      "when": "d1/day",
+      "full_hp": true
+    },
+    "earned_skill_increases": {
+      "Perception": {
+        "total": 2,
+        "reason": "Free fumble+1 then experience roll21+INT11=32, gain1"
+      },
+      "Unarmed": {
+        "total": 4,
+        "reason": "Session1 experience roll87+INT11=98, gain4"
+      },
+      "Brawn": {
+        "total": 1,
+        "reason": "Session1 experience roll23+INT11=34, gain1"
+      }
+    },
+    "session_state": {
+      "number": 5,
+      "status": "active",
+      "opening": "Authorised arena replay d1/day",
+      "luck_refresh_completed": true
+    },
+    "morning_guard_position": {
+      "status": "job complete; no active post",
+      "when": "d0/day",
+      "weapons": "battleaxe secured, handaxe at belt"
+    },
+    "guild_morning_payment": {
+      "key": "d-1-morning-guild-escort",
+      "amount_gp": 2,
+      "purse_before_gp": 1,
+      "purse_after_gp": 3,
+      "status": "paid once after completed shift"
+    },
+    "observed_commander_vask": {
+      "when": "d-1 presentation",
+      "appearance": "white hair, very pale skin, red eyes, old facial scarring; bareheaded plain well-kept armour",
+      "view": "clear close view as escort passed competitors rail",
+      "identity_known": "Commander Vask; no secret Blau name or motives"
+    },
+    "marda_afternoon_payment": {
+      "key": "d-1-afternoon-marda-guard-shift",
+      "amount_gp": 2,
+      "purse_before_gp": 3,
+      "purse_after_gp": 5,
+      "status": "paid once after completed shift"
+    },
+    "current_plans": {
+      "next_confirmed_work": "Conditional Crowbill shore-cover job tonight; not launched"
+    },
+    "work_brokerage": {
+      "broker_id": "myth-char-e828864471f6",
+      "permission_to_put_name_forward": true,
+      "scope": "paid protective guard work",
+      "commitment": "player states job first and foremost, although ready for a scrap",
+      "automatic_job_acceptance": false,
+      "first_referral": "myth-char-eafd6a46f0e2",
+      "first_referral_status": "introduced, no contract accepted"
+    },
+    "possible_bera_job": {
+      "employer_id": "myth-char-eafd6a46f0e2",
+      "employer": "Bera Lowkeel",
+      "when": "d0 dawn to noon",
+      "meeting": "Shoals water-stair at dawn",
+      "pay_gp_each": 2,
+      "pay_timing": "after run",
+      "guards": 2,
+      "task": "Protect grain boats and crews during morning deliveries",
+      "breakfast_included": true,
+      "status": "completed and paid",
+      "paid": true,
+      "paid_gp": 2
+    },
+    "scheduled_bera_job": {
+      "employer_id": "myth-char-eafd6a46f0e2",
+      "employer": "Bera Lowkeel",
+      "when": "d0 dawn to noon",
+      "meeting": "Shoals water-stair at dawn",
+      "pay_gp": 2,
+      "pay_timing": "after morning run",
+      "task": "Protect grain boats and crews during morning deliveries",
+      "breakfast_included": true,
+      "status": "completed and paid",
+      "paid": true,
+      "second_guard": {
+        "candidate_id": "myth-char-069d998e58a6",
+        "status": "Rusk accepted through Thorne overnight and reported at dawn",
+        "pay_gp": 2
+      },
+      "paid_gp": 2
+    },
+    "street_encounter": {
+      "encounter_id": "myth-enc-e8d92430e51f",
+      "round": 3,
+      "cycle": 1,
+      "awaiting": "Halla's proactive turn. Rusk delays with2AP; escort has risen behind shield and holds1AP, longsword still three feet away; corporal has sword and shield with2AP.",
+      "initiative_order": [
+        "Rusk",
+        "Escort",
+        "Halla",
+        "Corporal"
+      ],
+      "tie_break": {
+        "Halla": 1,
+        "Escort": 6
+      },
+      "position": "Returned to fighting-ready stance beside second boat, both axes held; no displacement",
+      "system": "Classic Fantasy Imperative; additional initiative cycles while AP remain",
+      "last_attack": {
+        "weapon": "flat of handaxe",
+        "damage_profile": "1d6 blunt for this blow by declared GM ruling",
+        "attack_roll": 69,
+        "attack_skill": 76,
+        "attack_level": "success",
+        "parry_roll": 2,
+        "parry_skill": 65,
+        "parry_level": "critical",
+        "effects_to": "corporal",
+        "effects": 1,
+        "damage_rolled": true,
+        "weapon_profile_restored": true,
+        "conversion_from": 96,
+        "luck_used": "digit reversal instead of unintended reroll87; one point total",
+        "damage_roll": 6,
+        "net_damage": 0,
+        "npc_effect": "Disarm",
+        "resistance_pending": false,
+        "disarm_resistance_roll": 9,
+        "disarm_resistance_effective": 38,
+        "disarm_resistance_level": "success",
+        "disarm_winning_roll": 2,
+        "disarm_winning_level": "critical",
+        "disarm_result": "corporal wins; handaxe dropped on quay, no injury"
+      },
+      "ap_after_attack": {
+        "Halla": 2,
+        "Rusk": 1,
+        "escort": 1,
+        "corporal": 1
+      },
+      "dropped_weapon": {
+        "item": {
+          "name": "Handaxe",
+          "damage": "1d6",
+          "size": "S",
+          "ap": 3,
+          "hp": 6,
+          "hands": 1,
+          "effects": [
+            "bleed"
+          ],
+          "traits": [
+            "thrown"
+          ],
+          "range": [
+            30,
+            60,
+            90
+          ],
+          "range_units": "feet",
+          "encumbrance_things": 0.5,
+          "condition": "Used, sound and serviceable"
+        },
+        "distance_feet": 3,
+        "location": "Recovered into Halla's off hand",
+        "status": "retrieved intact, no longer on quay"
+      },
+      "pending_npc_attack": null,
+      "delaying_npcs": [
+        "myth-char-069d998e58a6",
+        "myth-char-420d053a214a",
+        "myth-char-069d998e58a6",
+        "myth-char-069d998e58a6",
+        "myth-char-420d053a214a",
+        "myth-char-069d998e58a6"
+      ],
+      "ap_current": {
+        "Halla": 3,
+        "Rusk": 2,
+        "escort": 1,
+        "corporal": 2
+      },
+      "passive_blocks": {
+        "corporal": [
+          "Chest",
+          "Abdomen",
+          "Left Arm"
+        ],
+        "escort": [
+          "Chest",
+          "Abdomen",
+          "Left Arm"
+        ],
+        "Rusk": [
+          "Chest",
+          "Abdomen",
+          "Left Arm"
+        ]
+      },
+      "weapon_recovery": {
+        "battleaxe_ready": true,
+        "handaxe_reached_and_held": true,
+        "handaxe_ready": true,
+        "final_ready_actions_remaining": 0
+      },
+      "queued_pc_action": {
+        "action": "Battleaxe attack on corporal",
+        "ap_spent": true,
+        "rolled": true,
+        "attack_roll": 70,
+        "attack_level": "success",
+        "corporal_shield_parry_roll": 22,
+        "parry_level": "success",
+        "effects": 0,
+        "damage_roll": 2,
+        "mastery_damage_roll": 2,
+        "net_damage": 0,
+        "status": "resolved; round shield fully absorbed blow"
+      },
+      "interrupt_chain": {
+        "escort": "spent her held1AP interrupting Halla; sword74/65 failed",
+        "Rusk": "spent1AP attempting to interrupt escort with shield;79/65 failed,no effects/no damage",
+        "status": "Await Halla's two defensive effect choices; original paid attack on corporal remains queued",
+        "Halla": "spent final uncommitted1AP on battleaxe parry6/81 critical; two defensive effects pending"
+      },
+      "status": "resolved; Dragon Knights withdrew; no injuries; boats and cargo secure",
+      "end_round": 3,
+      "ap_at_deescalation": 2,
+      "intimidation_roll": 81,
+      "intimidation_effective": 84,
+      "luck_current": 2
+    },
+    "restart_checkpoint": {
+      "status": "resumed",
+      "campaign_time": "d0/dawn",
+      "encounter_id": "myth-enc-e8d92430e51f",
+      "encounter_round": 3,
+      "encounter_cycle": 1,
+      "resume_at": "Halla's proactive turn",
+      "luck_current": 2,
+      "no_session_advance": true,
+      "no_luck_refresh": true
+    },
+    "current_destination": {
+      "location_id": "myth-loc-f23f1e97b500",
+      "when": "d1/day",
+      "status": "Arrived Crowbill office with sister"
+    },
+    "archery_observation": {
+      "status": "witnessed public result",
+      "winner": "Temerach Nebulo",
+      "event": "Open archery",
+      "knowledge_limit": "Public result only; no private motive or unspoken accusation learned"
+    },
+    "dragonbarge_contract": {
+      "employer_id": "myth-char-e303e68fea08",
+      "employer": "Crowbill",
+      "partner_id": null,
+      "partner": "Unnamed boy",
+      "timing": "d1/night after Halla's Single Combat bout",
+      "role": "Proposed guard and extraction protection; Halla would not be the thief",
+      "objective": "Proposed: get the boy onto the DragonBarge and both back alive with Hanzo's locket",
+      "payment": "8 GP total value if Nus reaches Crowbill alive with Hanzo's locket: cancel remaining 4 GP debt and pay Halla 4 GP cash",
+      "payment_condition": "Nus reaches Crowbill alive with the locket",
+      "status": "Halla withdrawn from all further backup; NPC-only attempt proceeds separately",
+      "offer_heard": true,
+      "accepted": false,
+      "no_contract_formed": false,
+      "advance_gp": 0,
+      "debt_remaining_gp": 4,
+      "declined_at": "d0/day",
+      "reason": "Does not want involvement or backup even if asked; wishes NPCs success only",
+      "original_offer_declined": true,
+      "proposed_role": "shore-side extraction cover only; Halla never boards",
+      "prerequisite": "Crowbill must first draw both Hanzo and Vask off the DragonBarge",
+      "shore_support": "Halla and Kag hold water-stair; one Crowbill man covers alley; one Crowbill oarsman waits below in a skiff",
+      "agreed_at": "d0/day",
+      "operation_time": "d1/night only if both Hanzo and Vask ashore",
+      "infiltrator": "Nus boards alone"
+    },
+    "lodging": {
+      "when": "d2/night",
+      "place": "Sister workshop Forge Quarter",
+      "with": "Sister",
+      "reason": "Dragon Knight retaliation against the yard",
+      "status": "Slept peacefully; now reported for duty"
+    },
+    "luck_preference": {
+      "when": "d1/day",
+      "statement": "Saving Luck for the work tonight",
+      "automatic_spending": false,
+      "remaining": 3
+    },
+    "campaign_play_status": {
+      "paused": false,
+      "rewind_performed": true,
+      "checkpoint": "Before champion bout d1/day",
+      "original_timeline_backup": "/Users/gullyburns/Documents/ChatGPT/mythras/checkpoints/halla-before-arena-replay-2026-10-21",
+      "reason": "GM mechanical audit found invalid recovery/action sequencing; awaiting authorised repair",
+      "review_checkpoint": "Restored after R2 successful Trip+Disarm before NPC stands",
+      "rewind_repair_pending": false,
+      "active_session": 5
+    },
+    "tournament_bout": {
+      "status": "resolved",
+      "opponent_id": "myth-char-cac22cc2cbf6",
+      "prior_wins": [
+        "Irena",
+        "Rusk"
+      ],
+      "round": 3,
+      "ap_current": {
+        "Halla": 2,
+        "Cailan": 2
+      },
+      "one_proactive_per_round": false,
+      "battleaxe_bonus_parry_used": false,
+      "passion_augment": {
+        "passion": "Uphold (Honour through mastery of combat)",
+        "rating": 60,
+        "bonus": 12,
+        "battleaxe_effective": 93,
+        "fighter_effective": 88,
+        "status": "expired at championbout end"
+      },
+      "encounter_id": "myth-enc-282a00fd85e2",
+      "initiative": {
+        "Cailan": 17,
+        "Halla": 9
+      },
+      "pending_action": "Fullytreated beforefinalVeya, waitingtocall; nofightstarted",
+      "proactive_used": {
+        "Halla": true,
+        "Cailan": false
+      },
+      "last_defence": {
+        "attack": 98,
+        "attack_skill": 81,
+        "parry": 4,
+        "parry_skill": 93,
+        "parry_level": "critical",
+        "effects": 2,
+        "effects_selected": [
+          "trip",
+          "disarm"
+        ],
+        "resistance_rolls": {
+          "Evade": 53,
+          "CombatStyle": 77
+        },
+        "result": "both effects succeeded against originalcritical4",
+        "damage": 0
+      },
+      "position": "standing over prone unarmed opponent; axe2H",
+      "audit": {
+        "multiple_turns_allowed": true,
+        "engaged_standing_requires_opposed_test": true,
+        "dropped_weapon_ready_actions": 2,
+        "prone_difficulty": "formidable",
+        "gms_prior_sequence_invalid": true,
+        "repair_applied": true
+      },
+      "cycle": 1,
+      "last_attack": {
+        "roll": 18,
+        "level": "critical",
+        "effects": [
+          "bypass-armor",
+          "bleed"
+        ],
+        "damage": 10,
+        "location": "Head",
+        "endurance": 15,
+        "bleed_resistance": 84,
+        "result": "stoppage; opponentunconscious"
+      },
+      "result": "Halla wins by marshal stoppage"
+    },
+    "runtime_damage_modifier": {
+      "natural": "+0",
+      "active_battleaxe_mastery": "+1d2",
+      "instruction": "Active sheet already includes mastery; do not add another die. Restore natural for other weapons."
+    },
+    "pre_final_treatment": {
+      "when": "d1/day",
+      "provider": "myth-char-438787aca5d4",
+      "injury": "Abdomen minorwoundfromchampionopeningthrust",
+      "first_aid_used": true,
+      "roll": 7,
+      "skill": 70,
+      "result": "critical",
+      "hp_restored": 1,
+      "hp_after": 8,
+      "no_repeat_first_aid_for_this_injury": true,
+      "fee_gp": 0
+    },
+    "final_passion_augment": {
+      "passion": "Uphold (Honour through mastery of combat)",
+      "rating": 60,
+      "bonus": 12,
+      "battleaxe_effective": 93,
+      "fighter_effective": 88,
+      "status": "expired at final end",
+      "critical_threshold_battleaxe": 20
+    },
+    "final_bout_runtime": {
+      "encounter": "myth-enc-0acf071f5ca3",
+      "round": 1,
+      "battleaxe_status": "Disarmed, on sand 3 feet away, intact; not wielded",
+      "hands": "empty",
+      "belt": [
+        "Handaxe",
+        "Dagger"
+      ],
+      "shield": "with kit outside arena",
+      "luck": 2,
+      "free_battleaxe_parry_used": false,
+      "next_turn": "Veya proactive, not yet rolled"
+    },
+    "evidence_in_custody": {
+      "items": [
+        "Baron stamped silver fittings",
+        "Preserved tarred parcel wrapping and knots"
+      ],
+      "from": "Crowbill",
+      "when": "d1/day",
+      "purpose": "Deliver as evidence of attempted frame to City Watch",
+      "ownership": "Evidence, not Halla property or purse",
+      "prisoner_id": "myth-char-138e5343a228",
+      "status": "Received at chandlery door; not yet delivered to Watch"
+    },
+    "tournament_award": {
+      "title": "Single Combat victor, Lake Lady Tourney",
+      "presented_by": "Prince Emeric",
+      "when": "d2/dusk",
+      "token": "Victors wreath bound with lake-green ribbon",
+      "status": "Public honour presented; no knighthood, commission, employment oath or cash payout assumed"
+    },
+    "military_history": {
+      "citadel_name": "Not yet established",
+      "service": "Citadel garrison soldier/warrior before Purewater bodyguard work",
+      "scandal": "Refused an order to seize winter stores from a dwarven settlement that could not spare them; commander falsely accused him of taking payment to let the supplies disappear",
+      "departure": "Left the citadel in disgrace under that false accusation",
+      "vindication": "A later inquiry cleared him, after he had built a life near his sister in Purewater; correction travelled less widely than accusation",
+      "canon_authorization": "Player proposed unjust military scandal and explicitly approved this account at d2/dusk",
+      "skill_effect": "Background clarification only; no points, skills, age or class changes",
+      "knowledge": "Halla knows his own history; Captain Ward has not been told yet",
+      "refusal_conduct": "Remote citadel: an appeal would take weeks. Young Halla argued and refused point blank; he now believes he could have handled the challenge better.",
+      "referees_offered": "Purewater employers; player named Marga, likely established Marda Blackwater but exact identity to confirm when contacting, not automatically treated as a new person."
+    },
+    "crown_service_offer": {
+      "status": "Three trial duty days completed and paid: d3,d5,d6; continued direct supervision after voluntary disclosure, no pardon or commission.",
+      "employer": "Prince Emeric household",
+      "captain": "Captain Elian Ward",
+      "when_offered": "d2/dusk",
+      "trial_days": 7,
+      "pay_gp_per_day": 1,
+      "meals": true,
+      "role": "Supervised household guard under Ward orders",
+      "background_checks": "Employer references and citadel inquiry pending",
+      "commission": false,
+      "advance_paid": 0,
+      "report_to": "Governor Palazzo water-stair guard entrance at dawn",
+      "report_gear": "Own armour and weapons; no new kit issued yet",
+      "payment": "Earned daily; no future wages credited in advance",
+      "days_completed": 3,
+      "wages_paid_gp": 3,
+      "reporting": "Reported on time with own kit at Palazzo water-stair",
+      "first_duty": "Public landing under Captain Ward direct supervision",
+      "last_payment": {
+        "when": "d6/dusk",
+        "amount_gp": 1,
+        "reason": "Completed d6 patrol and customs escort"
+      },
+      "next_report": "d7/dawn Palazzo water-stair",
+      "rest_status": "Returned from d5 duty; not yet rested for night"
+    },
+    "baron_employment_offer": {
+      "status": "Declined d2/dusk because Halla has already agreed to Prince household guard service",
+      "employer": "Baron Hanzo di Teufel household",
+      "role": "Household sword accompanying Baron",
+      "pay_gp_per_day": 2,
+      "board": true,
+      "travel": "Must travel with Baron when he leaves Purewater",
+      "advance_paid": 0,
+      "prior_commitment": "Halla has just accepted seven-day Prince household guard trial; Hanzo has not been told this"
+    },
+    "last_rest": {
+      "when": "d4/night to d5/dawn",
+      "location": "Sister's Forge Quarter workshop",
+      "status": "Full quiet night's sleep completed; reported at Palazzo water-stair by dawn with own kit. Luck remains2; not a new session."
+    },
+    "quiet_war_dagger_sale": {
+      "when": "d6/day",
+      "buyer": "myth-char-74a5e19d92ae",
+      "price_gp": 1,
+      "complete": true
+    },
+    "quiet_war": {
+      "crowbill_favour": "Explicitly refused; no patrol information or protection promised",
+      "debt_settled": true,
+      "receipt_held": true
+    },
+    "guard_weapon_loan": {
+      "issued_when": "d6/dusk",
+      "items": [
+        "Sling",
+        "20 sling stones"
+      ],
+      "authorised_by": "Captain Ward",
+      "return_required": true
+    },
+    "celebration_purchase": {
+      "when": "d6/dusk",
+      "cost_sp": 2,
+      "items": [
+        "hot mushroom-and-onion pies",
+        "honey cakes"
+      ],
+      "purpose": "Supper with Dagna"
+    }
+  },
+  "actor_notes": null,
+  "fatigue": "Fresh",
+  "luck_current": 3,
+  "magic_current": 7,
+  "experience_rolls": 0,
+  "location": "myth-loc-941ec73f1da6",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-11T22:56:48"
+}

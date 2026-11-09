@@ -1,0 +1,465 @@
+{
+  "success": true,
+  "encounter": {
+    "id": "myth-enc-c40e604cfc2f",
+    "name": "Hythe culvert: protect the carrier",
+    "status": "active",
+    "round": 2,
+    "combatants": [
+      {
+        "id": "myth-char-a91a8a3881b5",
+        "name": "Moss Pell",
+        "initiative": 19,
+        "ap": 3,
+        "max_ap": 3,
+        "conditions": [
+          "x95ft by hedge, regainedfootingafterEvade51failure, crossbowunloaded11bolts,0AP"
+        ],
+        "dex": 13,
+        "hit_locations": [
+          {
+            "name": "Right Leg",
+            "hp": "5/5",
+            "ap": 2
+          },
+          {
+            "name": "Left Leg",
+            "hp": "5/5",
+            "ap": 2
+          },
+          {
+            "name": "Abdomen",
+            "hp": "6/6",
+            "ap": 2
+          },
+          {
+            "name": "Chest",
+            "hp": "7/7",
+            "ap": 2
+          },
+          {
+            "name": "Right Arm",
+            "hp": "4/4",
+            "ap": 2
+          },
+          {
+            "name": "Left Arm",
+            "hp": "4/4",
+            "ap": 2
+          },
+          {
+            "name": "Head",
+            "hp": "5/5",
+            "ap": 2
+          }
+        ],
+        "fatigue": "Fresh"
+      },
+      {
+        "id": "myth-char-4e202c6ec7e0",
+        "name": "Joric Vane",
+        "initiative": 18,
+        "ap": 3,
+        "max_ap": 3,
+        "conditions": [
+          "x105ft toward east charcoaltrack, swordshieldready covers gangwithdrawal; holding1AP"
+        ],
+        "dex": 13,
+        "hit_locations": [
+          {
+            "name": "Right Leg",
+            "hp": "6/6",
+            "ap": 2
+          },
+          {
+            "name": "Left Leg",
+            "hp": "6/6",
+            "ap": 2
+          },
+          {
+            "name": "Abdomen",
+            "hp": "7/7",
+            "ap": 3
+          },
+          {
+            "name": "Chest",
+            "hp": "8/8",
+            "ap": 3
+          },
+          {
+            "name": "Right Arm",
+            "hp": "5/5",
+            "ap": 2
+          },
+          {
+            "name": "Left Arm",
+            "hp": "5/5",
+            "ap": 2
+          },
+          {
+            "name": "Head",
+            "hp": "6/6",
+            "ap": 3
+          }
+        ],
+        "fatigue": "Fresh"
+      },
+      {
+        "id": "myth-char-b93379d9f38f",
+        "name": "Kell Rook",
+        "initiative": 18,
+        "ap": 2,
+        "max_ap": 2,
+        "conditions": [
+          "x115ft along easttrack,spearshield;0AP"
+        ],
+        "dex": 12,
+        "hit_locations": [
+          {
+            "name": "Right Leg",
+            "hp": "6/6",
+            "ap": 2
+          },
+          {
+            "name": "Left Leg",
+            "hp": "6/6",
+            "ap": 2
+          },
+          {
+            "name": "Abdomen",
+            "hp": "7/7",
+            "ap": 2
+          },
+          {
+            "name": "Chest",
+            "hp": "8/8",
+            "ap": 2
+          },
+          {
+            "name": "Right Arm",
+            "hp": "5/5",
+            "ap": 2
+          },
+          {
+            "name": "Left Arm",
+            "hp": "5/5",
+            "ap": 2
+          },
+          {
+            "name": "Head",
+            "hp": "6/6",
+            "ap": 2
+          }
+        ],
+        "fatigue": "Fresh"
+      },
+      {
+        "id": "myth-char-9322980e4ed6",
+        "name": "Orrin Fell",
+        "initiative": 17,
+        "ap": 3,
+        "max_ap": 3,
+        "conditions": [
+          "x0ft crossbowreload2of4 after99fumble shot,17boltsremain,0AP"
+        ],
+        "dex": 13,
+        "hit_locations": [
+          {
+            "name": "Right Leg",
+            "hp": "5/5",
+            "ap": 2
+          },
+          {
+            "name": "Left Leg",
+            "hp": "5/5",
+            "ap": 2
+          },
+          {
+            "name": "Abdomen",
+            "hp": "6/6",
+            "ap": 3
+          },
+          {
+            "name": "Chest",
+            "hp": "7/7",
+            "ap": 3
+          },
+          {
+            "name": "Right Arm",
+            "hp": "4/4",
+            "ap": 2
+          },
+          {
+            "name": "Left Arm",
+            "hp": "4/4",
+            "ap": 2
+          },
+          {
+            "name": "Head",
+            "hp": "5/5",
+            "ap": 3
+          }
+        ],
+        "fatigue": "Fresh"
+      },
+      {
+        "id": "myth-char-dd7ce8e82dd0",
+        "name": "Pella Wren",
+        "initiative": 14,
+        "ap": 3,
+        "max_ap": 3,
+        "conditions": [
+          "x20ft withpatrol aftertwoMoves20fttowardactualsafeopening, unhurt; mule/cart/eightwoolbundlesremainx60,1APheld"
+        ],
+        "dex": 12,
+        "hit_locations": [
+          {
+            "name": "Right Leg",
+            "hp": "5/5",
+            "ap": 0
+          },
+          {
+            "name": "Left Leg",
+            "hp": "5/5",
+            "ap": 0
+          },
+          {
+            "name": "Abdomen",
+            "hp": "6/6",
+            "ap": 0
+          },
+          {
+            "name": "Chest",
+            "hp": "7/7",
+            "ap": 0
+          },
+          {
+            "name": "Right Arm",
+            "hp": "4/4",
+            "ap": 0
+          },
+          {
+            "name": "Left Arm",
+            "hp": "4/4",
+            "ap": 0
+          },
+          {
+            "name": "Head",
+            "hp": "5/5",
+            "ap": 0
+          }
+        ],
+        "fatigue": "Fresh"
+      },
+      {
+        "id": "myth-char-2ba4d0205f0d",
+        "name": "Dain Sedge",
+        "initiative": 13,
+        "ap": 3,
+        "max_ap": 3,
+        "conditions": [
+          "x120ft easttrack, loadedcrossbow now held toward pursuingwatch;1APheld, no shot fired"
+        ],
+        "dex": 13,
+        "hit_locations": [
+          {
+            "name": "Right Leg",
+            "hp": "5/5",
+            "ap": 2
+          },
+          {
+            "name": "Left Leg",
+            "hp": "5/5",
+            "ap": 2
+          },
+          {
+            "name": "Abdomen",
+            "hp": "6/6",
+            "ap": 2
+          },
+          {
+            "name": "Chest",
+            "hp": "7/7",
+            "ap": 2
+          },
+          {
+            "name": "Right Arm",
+            "hp": "4/4",
+            "ap": 2
+          },
+          {
+            "name": "Left Arm",
+            "hp": "4/4",
+            "ap": 2
+          },
+          {
+            "name": "Head",
+            "hp": "5/5",
+            "ap": 2
+          }
+        ],
+        "fatigue": "Fresh"
+      },
+      {
+        "id": "myth-char-d514260173a7",
+        "name": "Sergeant Brann Tarrow",
+        "initiative": 12,
+        "ap": 3,
+        "max_ap": 3,
+        "conditions": [
+          "x20ft shieldready, covers driver and prone Hrill; holding2AP"
+        ],
+        "dex": 12,
+        "hit_locations": [
+          {
+            "name": "Right Leg",
+            "hp": "5/5",
+            "ap": 2
+          },
+          {
+            "name": "Left Leg",
+            "hp": "5/5",
+            "ap": 2
+          },
+          {
+            "name": "Abdomen",
+            "hp": "6/6",
+            "ap": 3
+          },
+          {
+            "name": "Chest",
+            "hp": "7/7",
+            "ap": 3
+          },
+          {
+            "name": "Right Arm",
+            "hp": "4/4",
+            "ap": 2
+          },
+          {
+            "name": "Left Arm",
+            "hp": "4/4",
+            "ap": 2
+          },
+          {
+            "name": "Head",
+            "hp": "5/5",
+            "ap": 3
+          }
+        ],
+        "fatigue": "Fresh"
+      },
+      {
+        "id": "myth-char-07bc6645bb49",
+        "name": "Hrill Helmdance",
+        "initiative": 11,
+        "ap": 3,
+        "max_ap": 3,
+        "conditions": [
+          "x20ft prone behind lowstoneparapet, swordreadyright shieldslung; Evade52 against augmented39failed but enemy82missed; no injury",
+          "prone"
+        ],
+        "dex": 14,
+        "hit_locations": [
+          {
+            "name": "Right Leg",
+            "hp": "7/7",
+            "ap": 5
+          },
+          {
+            "name": "Left Leg",
+            "hp": "7/7",
+            "ap": 5
+          },
+          {
+            "name": "Abdomen",
+            "hp": "8/8",
+            "ap": 5
+          },
+          {
+            "name": "Chest",
+            "hp": "9/9",
+            "ap": 5
+          },
+          {
+            "name": "Right Arm",
+            "hp": "6/6",
+            "ap": 5
+          },
+          {
+            "name": "Left Arm",
+            "hp": "6/6",
+            "ap": 5
+          },
+          {
+            "name": "Head",
+            "hp": "7/7",
+            "ap": 5
+          }
+        ],
+        "fatigue": "Fresh"
+      },
+      {
+        "id": "myth-char-b3ee117cb166",
+        "name": "Benno Reed",
+        "initiative": 11,
+        "ap": 2,
+        "max_ap": 2,
+        "conditions": [
+          "x20ft spearshieldready supports Brann; holding1AP"
+        ],
+        "dex": 12,
+        "hit_locations": [
+          {
+            "name": "Right Leg",
+            "hp": "5/5",
+            "ap": 2
+          },
+          {
+            "name": "Left Leg",
+            "hp": "5/5",
+            "ap": 2
+          },
+          {
+            "name": "Abdomen",
+            "hp": "6/6",
+            "ap": 3
+          },
+          {
+            "name": "Chest",
+            "hp": "7/7",
+            "ap": 3
+          },
+          {
+            "name": "Right Arm",
+            "hp": "4/4",
+            "ap": 2
+          },
+          {
+            "name": "Left Arm",
+            "hp": "4/4",
+            "ap": 2
+          },
+          {
+            "name": "Head",
+            "hp": "5/5",
+            "ap": 3
+          }
+        ],
+        "fatigue": "Fresh"
+      }
+    ]
+  },
+  "storyline": {
+    "id": "myth-storyline-0fea5d34980f",
+    "name": "Hrill",
+    "pcs": [
+      "myth-char-07bc6645bb49"
+    ],
+    "now": "d29/day",
+    "minute_in_watch": 180,
+    "scene": "d29/day180 culvertCOMBAT myth-enc-c40e604cfc2f R2START, noR2actionsprocessedYET. AskHrillnextintentthenprocesshigherinitiativesbeforehisaction. Hpronebehindstoneatx20, swordrightreadyshieldSTILLSLUNG,3APrefreshed, fullHPFreshMP8Luck3purse20. PlayerBeGoodManaugmentationAPPLIED retrospectively existingEvade52:28+58//5(11)=39failure, attack82/50miss so unharmed. Orrincover99/55fumblevsMoss51/40failure noSEmiss; noextra fumble calamity. R1actualNPCactions: BrannBennoMove20tox20nowwithH; Pella2Moves40from60tox20safe, owncartmuleeightwoolintact60; Joric2Moves40tox105easttrack,Kelltox115,Daintox120loadedxbowcoverretreat.MossRegainFootingfromfailedEvadeat95easthedge,unloadedxbow11bolts, reload0/4. Orrinx0unloadedxbow17boltsreload2/4. EndR1remainingNPCAPheldvoluntarily, nofurtherattacks. Joriccalled Back Through the hedge, gangbeginningretreatwithoutloot, notcapturedandnotescapedfinalyet. InitiativeMoss19Joric18Kell18Orrin17Pella14Dain13Brann12H11Benno11,allmaxAPrefreshed, noR2turnyet.Mossmayreload/move; otherswithdrawactualdistances, no unlimitedmove/shot. BrannBennohelpactualplans.Driverrescued, noNPCinjurydeath. Playercanchoosepursuitorhold; do notforceanotherfight. Weekemploymentunchanged,noearnedpay/rest/minuteadvance. GlobalindependentrobbersnotHanzo. OtherPCclocksunchanged.",
+    "session": 8
+  },
+  "world_high_water": "d29/day"
+}

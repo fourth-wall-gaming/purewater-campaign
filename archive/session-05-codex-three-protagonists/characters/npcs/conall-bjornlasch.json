@@ -1,0 +1,377 @@
+{
+  "id": "myth-char-06f87a379bbf",
+  "name": "Conall Bjornlasch",
+  "type": "npc",
+  "status": "active",
+  "description": "Warranted investigator of the King's Assay -- the Crown's arcane inspectorate; twin brother of Randall and secretly a son of Baron Hanzo. A razor-sharp investigator (Insight 88) who is also a capable fighter.",
+  "narrative": "A magical investigator and arcane caster warranted by the King's Assay -- the\nCrown's chartered inspectorate for licensing and policing arcane practice -- with a soldier's martial skill (all weapons, all shields). Sharp-eyed and\nanalytical -- Insight 88.\n\nHe rides into Purewater beside Temerach Nebulo for the Lake Lady's Tourney, an\nerrand she has declined to explain. He knows the city not at all, has never heard of\na brother, and has no idea whose son he is.\n\n**GM:** he is Randall's identical twin and a biological son of Baron Hanzo. Temerach\nhas known for years and brought him here deliberately -- see the gm-secret lore. He\nlearns none of this until play delivers it.",
+  "characteristics": {
+    "STR": 13,
+    "CON": 14,
+    "SIZ": 11,
+    "DEX": 14,
+    "INT": 16,
+    "POW": 17,
+    "CHA": 10
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 3,
+    "initiative_bonus": 13,
+    "magic_points": 17,
+    "movement": "6",
+    "luck_points": 0
+  },
+  "skills": {
+    "Brawn": 24,
+    "Endurance": 78,
+    "Evade": 81,
+    "Willpower": 74,
+    "Athletics": 49,
+    "Boating": 27,
+    "Conceal": 40,
+    "Customs": 32,
+    "Dance": 24,
+    "Deceit": 51,
+    "Drive": 31,
+    "First Aid": 30,
+    "Influence": 20,
+    "Insight": 88,
+    "Locale": 32,
+    "Native Tongue": 66,
+    "Perception": 73,
+    "Ride": 50,
+    "Sing": 27,
+    "Stealth": 50,
+    "Swim": 27,
+    "Unarmed": 50,
+    "Streetwise": 67,
+    "Courtesy": 41,
+    "Arcane Casting": 73,
+    "Arcane Knowledge": 72,
+    "Lore (Strategy + Tactics)": 50,
+    "Survival": 50,
+    "Lore (Military History)": 50,
+    "Sleight": 50
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Rapier",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Impale",
+      "ap": 5,
+      "hp": 8,
+      "enc": 1,
+      "ap_hp": "5/8",
+      "effects": "Impale"
+    },
+    {
+      "name": "Buckler",
+      "damage": "1d4",
+      "size": "L",
+      "reach": "S",
+      "notes": "Bash, Stun Location",
+      "ap": 6,
+      "hp": 9,
+      "enc": 1,
+      "ap_hp": "6/9",
+      "effects": "Bash, Stun Location"
+    },
+    {
+      "name": "Short bow",
+      "type": "ranged",
+      "damage": "1d6",
+      "force": "L",
+      "range": "15/100/200",
+      "ammo": 99,
+      "load": 2,
+      "notes": "Impale",
+      "ap": 4,
+      "hp": 4,
+      "enc": 1,
+      "ap_hp": "4/4",
+      "effects": "Impale"
+    },
+    {
+      "name": "Gambeson (all locations)",
+      "armor": true,
+      "ap": 2,
+      "enc": 1,
+      "notes": "AP 2 each location; armor penalty -2"
+    },
+    {
+      "name": "Senn brass command whistle (temporary loan)",
+      "owner": "myth-char-0023133728c0",
+      "temporary": true
+    },
+    {
+      "name": "Spare brass command whistles (evidence)",
+      "quantity": 2,
+      "owner": "myth-char-0023133728c0"
+    },
+    {
+      "name": "Leth Varro letter (capture demonstration terms)",
+      "owner": "myth-char-0023133728c0"
+    },
+    {
+      "name": "Iven Toll brass command whistle (evidence)",
+      "owner": "myth-char-375dd5281882"
+    },
+    {
+      "name": "Senn chest key (temporary inspection custody)",
+      "owner": "myth-char-0023133728c0",
+      "temporary": true
+    }
+  ],
+  "passions": {
+    "Find the man who wears my face": 60,
+    "Love (Temerach Nebulo), unspoken": 65,
+    "Know a thing before acting on it": 55
+  },
+  "combat_styles": {
+    "Fighter (all weapons, all shields)": 82
+  },
+  "spells": {
+    "arcane": [
+      "Befuddle",
+      "Change Appearance",
+      "Coordination",
+      "Dancing Lights",
+      "Darkness",
+      "Detect Magic",
+      "Glamour",
+      "Illusion",
+      "Invisibility",
+      "Invisibility, 10 ft. Radius",
+      "Knock",
+      "Light",
+      "Locate Object",
+      "Magic Missile",
+      "Magic Mouth",
+      "Mirror Image",
+      "Protection",
+      "Read Magic",
+      "Witchsight"
+    ]
+  },
+  "powers": null,
+  "extras": {
+    "culture": "Human Civilized",
+    "frame": "Medium",
+    "class": "Magic-User",
+    "rank": 2,
+    "class_note": "Flat Magic-User (Rank 2 Mage; 6 mage class skills at 70%+, Arcane Casting 73, 26 arcane spells) per operator. He retains strong martial training (combat style Fighter 82, all weapons/shields) but is classed as a straight Magic-User, not a multiclass. Mage caveat: cannot cast arcane spells while wearing armor or using a shield.",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character",
+    "magic_tradition": "Arcane Magic",
+    "magic_rank": 2,
+    "magic_skills": {
+      "Arcane Casting": 73,
+      "Arcane Knowledge": 72
+    },
+    "spell_ranks": {
+      "cantrip": [
+        "Babble",
+        "Darkness",
+        "Find",
+        "Incognito",
+        "Knock",
+        "Mimic",
+        "MindSpeech",
+        "Light",
+        "Ventriloquism",
+        "Witchsight",
+        "Protection",
+        "Coordination"
+      ],
+      "rank_1": [
+        "Read Magic",
+        "Change Appearance",
+        "Color Cascade",
+        "Invisibility, Lesser",
+        "Illusion, Lesser",
+        "Audible Illusion",
+        "Friendship",
+        "Detect Magic",
+        "Shocking Grasp"
+      ],
+      "rank_2": [
+        "Invisibility Radius",
+        "Locate Object",
+        "Read Thoughts",
+        "Illusion Greater",
+        "Mirror Image"
+      ]
+    },
+    "organization": "The King's Assay (warranted investigator)",
+    "twin": "Randall (identical twin brother); both secretly sons of Baron Hanzo",
+    "wound": "Right Arm at 2/4 HP",
+    "gear": [
+      "Crop",
+      "Flint & tinder",
+      "Knife (tool)",
+      "Magnifying Glass",
+      "Razor, folding"
+    ],
+    "armor": "Gambeson on all 7 locations (AP 2, ENC 1 each); armor penalty -2",
+    "encumbrance": {
+      "avg_species_siz": 13,
+      "current_load": 7.5,
+      "load_band": "Normal",
+      "armor_penalty": -2
+    },
+    "source": "Roll20 Classic Fantasy character sheet (And then the Dragons Came campaign)",
+    "gender": "male",
+    "class_ranks": {
+      "Magic-User": {
+        "rank": 2,
+        "title": "Mage"
+      }
+    },
+    "assay_marks": "Warrant (sealed, renewed yearly); thumb-ring of assay silver struck with his own mark; and his steel punch. Losing the punch would be a professional catastrophe -- with it, anything can be licensed, and the Register will back it until the fraud is found.",
+    "pronouns": "he/him",
+    "role_in_halla_campaign": "GM-run seeded companion; Halla is the sole player character",
+    "family_disclosure": {
+      "when": "d-2/night",
+      "source": "Temerach",
+      "status": "heard parentage and kinship claims; seeks verification, no new cooperation promised",
+      "roll": {
+        "actor": "Temerach",
+        "skill": "Influence",
+        "target": 22,
+        "roll": 47,
+        "level": "failure"
+      },
+      "pc_halla_knows": false
+    },
+    "luck_policy": "PC-only campaign rule: NPCs have no Luck pool or Luck rank bonuses; never spend Luck for NPC rerolls, reversals or damage mitigation.",
+    "doing": {
+      "goal": "Complete Kiln evidence handover with Watch",
+      "next": "Heard Nimras full commission/cover account. Offers to finish here while Nimras is free to attend Rennic; retains four whistles and Varro letter; no automatic chest seizure or transport yet.",
+      "where": "myth-loc-8bbc5a0606ad",
+      "as_of_session": 6
+    },
+    "score": {
+      "observed": [
+        "d7/dawn: read Kest appeal letter and heard Rennic report of Senn mage-hunting glass constructs. Agreed to visit Drowned Kiln; asked witnesses whether either dealt with Senn directly. No independent verification or knowledge of Nimras cover/deal.",
+        "d7/dawn: Nimras discloses buyer cover without alias, witnessed one hound/two guards, whistle control, Senn claim of pack/other buyers. Conall offers to accompany buyer as colleague; awaiting acceptance.",
+        "d7/dawn: following Nimras bow, spoke as buyer Gor, requested recall demonstration, witnessed Senn whistle recall/hold, heard requirement for fresh magical trace. Has not received whistle or supplied trace.",
+        "d7/dawn: after Nimras encouraging nod asked to try whistle; Senn voluntarily loaned her personal brass command whistle for on-site demo. Holding it, has not sounded it or cast. Heard Senn ask where Vaur is so Bess can collect him.",
+        "d7/dawn: on Nimras asking Boss what to do, tested loaned whistle recall/hold; sampleless hound obeyed new holder at arm reach. Requested harmless working from Harcourt to test tracking without fetching Vaur. Still holds loaned whistle, no spell cast by either yet.",
+        "d7/dawn: observed Senn fresh Repair shaving loaded into HoundI, sounded hunting signal as shown; it tracked Nimras09/60 behind crates then halted at own signal. Still holds Senn loaned whistle. No attack yet.",
+        "d7/dawn: Nimras waited after cue to proceed. Revealed name/Assaywarrant while holding loaned whistle, announced binding inspection and private Kest interview. Compliance not achieved or refused yet, no arrest/attack.",
+        "d7/dawn: completed unopposed permitted private Kest interview/notebookinspection; Kest volunteers witness account of salvage origin and hunting conversion plus finitebodycount. Returned to Nimras with Kest, asks if he saw where Sennkeepsbusinesspapers. Has not learned platformchest/keyrecon.",
+        "d7/dawn: Nimras identifies papers in locked platformchest and key Senn coat. Requested andreceived key for agreedinspection; offersNimras keytoopen whilewatchingcompany. Chestunopened and PC has nottakenthekey.",
+        "d7/dawn: Nimras dismisses lightning, takeskey, opensplatformchest forinspection. Conallwatchescompanyandretainswhistle, notyetshownpapers/Varroterms.",
+        "d7/dawn: Ndelivers2sparewhistles+Varroletter, readsactualunwillingcastercondition. Announcesconstructsmuststaypendinginquiry. Senn ordersIvenrecall; Ivenreacheswhistle,no soundyet. Conallhas3whistles, Ivenlast1.",
+        "d7/dawn R1C1 houndcontrolstandoff: Delay and conserve3AP; free counterhold whistle signal on ownTurn"
+      ]
+    },
+    "temporary_command_whistle": {
+      "owner": "myth-char-0023133728c0",
+      "holder": "myth-char-06f87a379bbf",
+      "purpose": "On-site buyer trial; recall/hold tested successfully, waiting fresh-trace proposal",
+      "as_of": "d7/dawn"
+    },
+    "combat_state": {
+      "encounter": "myth-enc-1740f49c69f5",
+      "round": 1,
+      "cycle_completed": 1,
+      "initiative": 12,
+      "ap": 1,
+      "max_ap": 3,
+      "last_action": "OwnTurn12Move1AP tointerpose at rapierpoint betweenSennandN; no attack, restraint or freehit",
+      "ap_ledger_authoritative": true,
+      "engine_note": "CLIencounterAPbaseline excludes casting/ready/movement; use this ledger and no-ap attackcalls then persistAPhere. Houndinit+1corrects engine treating naturalAP1 as wornarmor; original dice preserved.",
+      "cycle_2_status": "DefensiveDisarmresolved, JoryDelay, ConallMove1AP tointerpose, thenvoluntarysurrender; encounterendedwithoutRound2",
+      "readied_weapon": "Rapier",
+      "active": false,
+      "ended_reason": "Company captain voluntarily yields afterlostactivehounds, woundedhandler, disarmedBess andAssayrapier intervention; weaponsdropped, no physicalrestraints yet"
+    }
+  },
+  "actor_notes": "Conall Bjornlasch -- GM-run in this campaign\nLOOKS: Well-dressed traveller, sharp-eyed, unhurried. Sits where he can see the door because it was drummed into him.\nCORE: An investigator who has spent his working life finding out what other people are, and who has arrived in a city where the only outstanding question is what he is.\nNATURE: Methodical, dry, watchful. Looks at people rather than around rooms. Writes things down in front of them, deliberately, to see what it does to them. Goes back to the thing you said three answers ago. Good company once he has decided you are not a subject.\nWOUND: He knows whose son he is and has not worked out what a man is supposed to do with that.\nWANTS: To find out what he was brought here for.\nPRESSURE: He stops asking questions. Puts the pencil away and says something entirely plain, and the plainness is the alarm.\nKEY: \"I'm nobody's man in this city. That's meant to reassure you and I notice it never does.\"",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 17,
+  "experience_rolls": 0,
+  "location": "myth-loc-8bbc5a0606ad",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T22:29:01"
+}

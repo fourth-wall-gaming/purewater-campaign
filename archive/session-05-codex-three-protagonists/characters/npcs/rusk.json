@@ -1,0 +1,271 @@
+{
+  "id": "myth-char-069d998e58a6",
+  "name": "Rusk",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult human fighter available for controlled practice at Lists; quilted training coat, sword and round shield.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 12,
+    "SIZ": 13,
+    "DEX": 12,
+    "INT": 11,
+    "POW": 10,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 11,
+    "luck_points": 0,
+    "magic_points": 10,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 25,
+    "Boating": 25,
+    "Brawn": 50,
+    "Conceal": 22,
+    "Dance": 23,
+    "Deceit": 22,
+    "Drive": 22,
+    "Endurance": 60,
+    "Evade": 45,
+    "First Aid": 23,
+    "Influence": 22,
+    "Insight": 21,
+    "Locale": 22,
+    "Perception": 45,
+    "Ride": 22,
+    "Sing": 21,
+    "Stealth": 23,
+    "Swim": 25,
+    "Unarmed": 25,
+    "Willpower": 20,
+    "Customs": 62,
+    "Native Tongue": 62,
+    "Combat Skill (Fighter)": 65
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 1
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": -4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Longsword",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "M",
+      "hands": 1,
+      "ap": 6,
+      "hp": 12,
+      "effects": [
+        "bleed",
+        "impale"
+      ]
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L",
+      "hands": 1,
+      "ap": 4,
+      "hp": 12,
+      "traits": [
+        "ranged-parry",
+        "passive-block"
+      ]
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Sword and shield": 65
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "he/him",
+    "practice_bout": {
+      "format": "First three clean controlled touches; stop on touch, no injury resolution unless someone abandons control",
+      "halla_touches": 3,
+      "rusk_touches": 1,
+      "status": "complete; Halla wins"
+    },
+    "prepared_counter": {
+      "against": "myth-char-77a79270f637",
+      "triggering_attack": "low axe cut to forward leg",
+      "encounter": "myth-enc-f5c88a530dd9",
+      "status": "expired unused at bout end",
+      "specific_special_effect": "choose-location",
+      "replacement_special_effect": "disarm",
+      "rule": "CFI defender substitutes selected attacker special effect with own automatic effect on trigger; no free attack"
+    },
+    "dropped_weapon": {
+      "name": "Practice sword",
+      "location": "On sand beside Rusk",
+      "status": "retrieved during stop after second touch"
+    },
+    "practice_control": {
+      "real_damage_modifier": "+1d2",
+      "temporary_damage_modifier": "+0",
+      "reason": "Controlled touch practice, no damaging follow-through; restore real modifier when bout ends",
+      "status": "complete; real damage modifier restored"
+    },
+    "home": "The Shoals",
+    "occupation": "Guards grain barges for hire",
+    "tourney_goal": "Win a guild contract through Single Combat",
+    "observed_halla": "Halla won a controlled practice bout 3-1, saluted and shook hands, thanked Rusk, then introduced himself as Halla from the Forge Quarter.",
+    "scheduled_marda_job": {
+      "employer": "Marda Blackwater",
+      "employer_id": "myth-char-7b078f2349da",
+      "when": "d-1 afternoon",
+      "pay_gp": 2,
+      "task": "ordinary guard work with Halla",
+      "status": "completed and paid",
+      "paid": true,
+      "known_terms": "Halla said Marda needs us for guard work this afternoon, couple gold; Rusk accepts two gold",
+      "meeting_location_not_yet_told": false,
+      "pay_timing_not_yet_told": false,
+      "meeting": "Shoals water-stair",
+      "pay_timing": "after afternoon shift",
+      "paid_gp": 2
+    },
+    "current_loadout": "prone on arena sand; longsword dropped nearby, left shield arm unusable",
+    "payments_received": [
+      {
+        "key": "d-1-afternoon-marda-guard-shift",
+        "amount_gp": 2,
+        "source": "Marda Blackwater",
+        "when": "d-1/day"
+      }
+    ],
+    "street_encounter": {
+      "round": 3,
+      "cycle": 1,
+      "action": "Delay behind sword and shield at boarding gap",
+      "remaining_ap": 2,
+      "scope": "First counter against this threat used; cannot react again to the identical threat. Retains remaining action for a fresh threat.",
+      "passive_block": {
+        "weapon": "Round shield",
+        "locations": [
+          "Chest",
+          "Abdomen",
+          "Left Arm",
+          "Chest",
+          "Abdomen",
+          "Left Arm"
+        ],
+        "expires": "when shield used to attack or actively parry",
+        "established": "Re-established free after missed shield attack"
+      },
+      "position": "Ashore beside the boarding gap after stepping in to support Halla",
+      "encounter_id": "myth-enc-e8d92430e51f",
+      "status": "resolved; Dragon Knights withdrew; no injuries; boats and cargo secure",
+      "end_round": 3,
+      "withdrew": false,
+      "remains_on_guard": true
+    },
+    "bera_guard_job": {
+      "status": "completed and paid",
+      "pay_gp": 2,
+      "when": "d0/day",
+      "result": "boats, crews and cargo delivered safely"
+    },
+    "tournament_injury": {
+      "when": "d1/day",
+      "location": "Left Arm",
+      "hp": -4,
+      "wound": "major",
+      "incapacitated": true,
+      "treatment": "Tournament surgeon Healing75 rolled41 success: urgent treatment stabilises Major left-arm wound, immediate fatal risk arrested. No HP restored; arm remains disabled. Attendants transfer Rusk to healers' tent.",
+      "additional_wound": "Chest1/7 Minor",
+      "stabilised": true,
+      "healing_roll": 41,
+      "healing_skill": 75,
+      "current_hp": -4,
+      "further_care": "required"
+    },
+    "tournament_result": "lost to Halla by marshal stoppage round2",
+    "luck_policy": "PC-only campaign rule: NPCs have no Luck pool or Luck rank bonuses; never spend Luck for NPC rerolls, reversals or damage mitigation."
+  },
+  "actor_notes": "Speech short and easy, plain fighting vocabulary, one question at a time. Wants a useful practice partner before tomorrow registration. Friendly but takes the bout seriously. Does not read opponent motives or skill from appearance. Opens with name and first-three-touch offer. Fights behind round shield, measures distance before committing, varies tactics after an exchange. No forced boasting or cruel humiliation.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": "myth-loc-eb0e6fbaed52",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-12T00:50:41"
+}

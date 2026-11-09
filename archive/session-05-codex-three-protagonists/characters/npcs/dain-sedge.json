@@ -1,0 +1,166 @@
+{
+  "id": "myth-char-2ba4d0205f0d",
+  "name": "Dain Sedge",
+  "type": "npc",
+  "status": "active",
+  "description": "Dark cropped beard, leather cap, missing coat buttons.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 13,
+    "INT": 12,
+    "POW": 10,
+    "CHA": 10
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 45,
+    "Boating": 24,
+    "Brawn": 50,
+    "Conceal": 23,
+    "Dance": 23,
+    "Deceit": 22,
+    "Drive": 23,
+    "Endurance": 45,
+    "Evade": 40,
+    "First Aid": 35,
+    "Influence": 20,
+    "Insight": 22,
+    "Locale": 24,
+    "Perception": 50,
+    "Ride": 23,
+    "Sing": 20,
+    "Stealth": 25,
+    "Swim": 24,
+    "Unarmed": 25,
+    "Willpower": 45,
+    "Customs": 64,
+    "Native Tongue": 62
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {
+    "Road arms": 55
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "he/him",
+    "score": {
+      "want": "Follows Joric for money, impatient at delays; uses crossbow intimidation, yields under close sword threat rather than die.",
+      "ought": "Keep people alive",
+      "driver": "Follows Joric for money, impatient at delays; uses crossbow intimidation, yields under close sword threat rather than die.",
+      "stated_reason": "Livelihood",
+      "relational_status": "Has never met Hrill",
+      "tactics": [
+        "At80ft crossbow pointed at Pella; no shot fired, does not know patrol behind bend.",
+        "Use actual cover and available weapons",
+        "Accept surrender or withdraw when beaten"
+      ],
+      "catches_lies": "No automatic lie detection"
+    },
+    "doing": {
+      "goal": "Survive lawful custody",
+      "next": "Yielded; surrendered carried weapons/shield/bolts to Crown watch. Unbound underHrill/Brannguard; noattemptescape, no verdict/pardon.",
+      "where": "myth-loc-2e76f65fe09a"
+    },
+    "assets": {},
+    "custody": {
+      "status": "surrendered, disarmed, unbound",
+      "holder": "myth-char-d514260173a7",
+      "location": "myth-loc-2e76f65fe09a"
+    }
+  },
+  "actor_notes": "LOOKS: Dark cropped beard, leather cap, missing coat buttons. CORE/NATURE/WANTS/PRESSURE: Follows Joric for money, impatient at delays; uses crossbow intimidation, yields under close sword threat rather than die. VOICE: Short ordinary sentences, distinct temperament, no exposition.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-e57029a62b7b",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-28T07:19:56"
+}

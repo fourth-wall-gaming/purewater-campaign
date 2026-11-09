@@ -1,0 +1,187 @@
+{
+  "id": "myth-char-078dcfaf82f3",
+  "name": "Maelin Voss",
+  "type": "npc",
+  "status": "active",
+  "description": "Wants Hrill to help people coordinate; owes Len safe practical help; will take sheep-track rather than sacrifice him for the load.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 10,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 12,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Engineering": 65,
+    "Perception": 55,
+    "Influence": 45,
+    "Insight": 35,
+    "Athletics": 40,
+    "Brawn": 35,
+    "Evade": 40,
+    "First Aid": 40,
+    "Willpower": 45,
+    "Combat Skill": 35
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Dagger",
+      "damage": "1d4+1",
+      "size": "S"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 35
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Human",
+    "score": {
+      "want": "Find a usable northern road with willing competent company",
+      "ought": "Wants Hrill to help people coordinate; owes Len safe practical help; will take sheep-track rather than sacrifice him for the load.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": [
+        "s8 Ashen Span: asked Hrill to hold belayed rope; passed free end when he agreed, then knelt by jack and pointed out trapped boot and tipping risk.",
+        "s8 Ashen Span: secured successful lever to stone post once Len free; cart remains supported, not recovered.",
+        "s8 hearth: keeper introduced her to Hrill by name and relayed his offer to accompany Wind Stair survey. Joined map, set down rope and proposed first-light departure; answer pending. Has not heard Hrill private hope/Purewater conversation.",
+        "s8: Hrill confirmed first-light departure, asked about route and pay. Showed limit of lower survey, warned ledges/shale, offered1GP/day and food for three scouting days; no transfer or pay acceptance yet.",
+        "s8 hearth: Hrill accepted1GP/day and food for three-day survey. Pointed out map holdings and Alder Hame house, stated she does not know current occupants; no secret knowledge or past visit claimed.",
+        "d9/dawn: Hrill offered formal courtly bow and service at slab hazard. Returned small courtly dip. Engineering35/65 identified safe upper shelf approach; proposed rope loop and controlled pull, offered rope coil; nothing rigged yet.",
+        "d10/day: Hrill accepted White Cairn introduction and quietly asked me to inform Serevan. Agreed to convey visit concerns exclusion; no message delivered yet.",
+        "d12/dusk: Hrill agreed inspection and thanked me. Took measuringline/rule tospringground Serevanshowed; no surveyconclusion yet.",
+        "d17/day: Hrill explicitly gave me charge, then lifted on count (Brawn23/70success) and helped paid crew complete two half-day clearance sessions; lowerroad open. Asked his onward plans."
+      ]
+    },
+    "role": "maelin",
+    "doing": {
+      "goal": "Make completed road known and continue own practical work",
+      "next": "Remains Three Hearths after introducing Edda; has not joined lake voyage or accepted new hire",
+      "where": "myth-loc-73eaff6c3e38",
+      "as_of_session": 8
+    },
+    "pronouns": "she/her",
+    "assets": {
+      "personal_travel_purse_gp": 3,
+      "proposed_pay_reserve_gp": 0,
+      "trail_food_person_days": 0,
+      "food_reserved_for_two_walkers_person_days": 0,
+      "paid_to_hrill_gp": 3
+    },
+    "survey_offer": {
+      "daily_gp": 1,
+      "maximum_days": 3,
+      "food_included": true,
+      "scope": "One day to pass, one day scouting, one day back; further work requires new agreement",
+      "status": "Three-day engagement settled on return d10/day; lower route unresolved",
+      "departure": "d8/dawn",
+      "days_worked": 3,
+      "paid_gp": 3,
+      "accrued_gp": 3
+    }
+  },
+  "actor_notes": "LOOKS: road-browned young woman in a patched surveying coat. CORE: work must stand up after she leaves. NATURE: brisk, sociable when unhurried, delighted by a well-made thing. WOUND: once trusted a contractor whose work injured a colleague. WANTS: help freeing the carrier and getting the supplies north. PRESSURE: insists on controlling tasks she should delegate. KEY: short concrete verbs, impatient with grand promises.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": "myth-loc-73eaff6c3e38",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-25T21:09:17"
+}

@@ -1,0 +1,201 @@
+{
+  "id": "myth-char-c3fe7be58017",
+  "name": "Dragon Knight provisioning escort man",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult human man in dragon-blazoned mail, broad nose, sword-and-shield kit. Fresh Shoals provisioning detail; no Halla knowledge.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 12,
+    "SIZ": 13,
+    "DEX": 11,
+    "INT": 11,
+    "POW": 10,
+    "CHA": 10
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 11,
+    "luck_points": 0,
+    "magic_points": 10,
+    "movement": "4m walk / 12m fly"
+  },
+  "skills": {
+    "Athletics": 24,
+    "Boating": 25,
+    "Brawn": 55,
+    "Conceal": 21,
+    "Dance": 21,
+    "Deceit": 21,
+    "Drive": 21,
+    "Endurance": 55,
+    "Evade": 40,
+    "First Aid": 22,
+    "Influence": 20,
+    "Insight": 21,
+    "Locale": 22,
+    "Perception": 45,
+    "Ride": 21,
+    "Sing": 20,
+    "Stealth": 22,
+    "Unarmed": 24,
+    "Willpower": 50,
+    "Flight": 24,
+    "Customs": 62,
+    "Native Tongue": 61,
+    "Intimidation": 50
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 5,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 5,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 5,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 5,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 5,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 5,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Longsword",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "M",
+      "hands": 1,
+      "ap": 6,
+      "hp": 12,
+      "effects": [
+        "bleed",
+        "impale"
+      ]
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L",
+      "hands": 1,
+      "ap": 4,
+      "hp": 12,
+      "traits": [
+        "ranged-parry",
+        "passive-block"
+      ]
+    },
+    {
+      "name": "Mail",
+      "armour_points": 5
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Dragon Knight (sword, shield, unarmed)": 65
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "he/him",
+    "age_note": "adult",
+    "current_loadout": {
+      "armour": "mail AP5",
+      "weapon": "longsword sheathed",
+      "shield": "carried"
+    },
+    "knowledge_limits": "No recognition of Halla, sister, debt, paid guard network or previous Knight incidents.",
+    "luck_policy": "PC-only campaign rule: NPCs have no Luck pool or Luck rank bonuses; never spend Luck for NPC rerolls, reversals or damage mitigation."
+  },
+  "actor_notes": "LOOKS: Adult man, broad nose, mail, shield rubbed smooth at rim. CORE: A working soldier accustomed to others making room for his company. NATURE: Matter-of-fact, more interested in ending errands than proving himself. WANTS: Help collect supplies and get back. PRESSURE: Stays alongside the corporal but weighs obvious physical cost; no automatic assault. SPEECH: Blunt short replies, ordinary vocabulary; no precise legal exposition.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": "myth-loc-e4becf72aa90",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-12T23:53:13"
+}

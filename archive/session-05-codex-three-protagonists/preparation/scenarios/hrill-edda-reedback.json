@@ -1,0 +1,94 @@
+{
+  "name": "Reedback of the northern shallows",
+  "stats": {
+    "STR": 30,
+    "CON": 22,
+    "SIZ": 36,
+    "DEX": 8,
+    "INT": 5,
+    "POW": 12,
+    "CHA": 3
+  },
+  "attributes": {
+    "action_points": 2,
+    "luck_points": 0,
+    "magic_points": 0,
+    "initiative_bonus": 7,
+    "damage_modifier": "+2d6",
+    "movement": "10 feet land; 30 feet swimming",
+    "healing_rate": 5
+  },
+  "skills": {
+    "Swim": 85,
+    "Brawn": 80,
+    "Endurance": 80,
+    "Perception": 50,
+    "Evade": 20,
+    "Combat Skill": 55,
+    "Willpower": 50
+  },
+  "hit_locations": [
+    {
+      "name": "Right Hind Flipper",
+      "range": "01-03",
+      "hp": 11,
+      "ap": 3
+    },
+    {
+      "name": "Left Hind Flipper",
+      "range": "04-06",
+      "hp": 11,
+      "ap": 3
+    },
+    {
+      "name": "Shell",
+      "range": "07-12",
+      "hp": 16,
+      "ap": 7
+    },
+    {
+      "name": "Right Fore Flipper",
+      "range": "13-15",
+      "hp": 11,
+      "ap": 3
+    },
+    {
+      "name": "Left Fore Flipper",
+      "range": "16-18",
+      "hp": 11,
+      "ap": 3
+    },
+    {
+      "name": "Head",
+      "range": "19-20",
+      "hp": 12,
+      "ap": 3
+    }
+  ],
+  "combat_styles": [
+    {
+      "name": "Natural defences",
+      "value": 55,
+      "weapons": [
+        "Bite",
+        "Body buffet"
+      ]
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Bite",
+      "damage": "1d8",
+      "size": "L"
+    },
+    {
+      "name": "Body buffet",
+      "damage": "1d6",
+      "size": "H"
+    }
+  ],
+  "race": "Reedback",
+  "notes": "Single migratory herbivore; custom aquatic anatomy. No Luck, spells, intelligence in Common, prophecy or imperative to fight. Grazes and retreats.",
+  "passions": {},
+  "role": "reedback"
+}

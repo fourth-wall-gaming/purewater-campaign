@@ -1,0 +1,27 @@
+{
+  "id": "myth-enc-fc7527337479",
+  "name": "Warehouse pursuit",
+  "description": "Halla throws dagger from close range at fleeing warehouse intruder in narrow rear passage; target facing away and choosing flight rather than defense. One thrown attack newly declared; prior grab and chase resolved outside combat.",
+  "summary": "Intruder surrendered, Halla holds him and returns him to warehouse; combat ended, prisoner conscious chest3/7 abdomen3/6, Halla uninjured.",
+  "status": "resolved",
+  "round": 1,
+  "combatants": [
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "initiative": null,
+      "ap": 0,
+      "max_ap": 3,
+      "conditions": []
+    },
+    {
+      "id": "myth-char-66ecf4781be1",
+      "name": "Warehouse intruder",
+      "initiative": null,
+      "ap": 2,
+      "max_ap": 3,
+      "conditions": []
+    }
+  ],
+  "created_at": "2026-10-12T06:07:26"
+}

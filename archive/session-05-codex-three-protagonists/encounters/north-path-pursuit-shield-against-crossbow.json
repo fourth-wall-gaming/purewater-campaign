@@ -1,0 +1,66 @@
+{
+  "id": "myth-enc-c8febb1dd9ed",
+  "name": "North path pursuit: shield against crossbow",
+  "description": "H closesfastwithswordshieldready, preauthorizesparryallxbowshots. Dainhaltsandfiresonceatlongrange, then intendswithdrawratherthanstandreload4actions. Joriccontinuesordinaryretreat,nohiddenreinforcements. Initialgap480ft,Hfirst20ftMovebeforetrigger gives460ft,longrange.",
+  "summary": "Opening longrangevolleyended, attack45/28missvsHrillshield31/81success; no damage, no physicallyusablemeleeSEat460ft. Bothgroupscontinuefootpursuitforactualminute, nofurtherboltfiredorreload. Closequartersnewinitiativeifviolencechosen.",
+  "status": "resolved",
+  "round": 1,
+  "combatants": [
+    {
+      "id": "myth-char-4e202c6ec7e0",
+      "name": "Joric Vane",
+      "initiative": 18,
+      "ap": 3,
+      "max_ap": 3,
+      "conditions": [
+        "Pursuitfirstcycle. Othersdelayorcontinuemoving; DainshottriggeredbyHrilladvance, no surprise/no Aimbonus."
+      ],
+      "dex": 13
+    },
+    {
+      "id": "myth-char-2ba4d0205f0d",
+      "name": "Dain Sedge",
+      "initiative": 18,
+      "ap": 2,
+      "max_ap": 3,
+      "conditions": [
+        "Pursuitfirstcycle. Othersdelayorcontinuemoving; DainshottriggeredbyHrilladvance, no surprise/no Aimbonus."
+      ],
+      "dex": 13
+    },
+    {
+      "id": "myth-char-d514260173a7",
+      "name": "Sergeant Brann Tarrow",
+      "initiative": 16,
+      "ap": 3,
+      "max_ap": 3,
+      "conditions": [
+        "Pursuitfirstcycle. Othersdelayorcontinuemoving; DainshottriggeredbyHrilladvance, no surprise/no Aimbonus."
+      ],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-9322980e4ed6",
+      "name": "Orrin Fell",
+      "initiative": 11,
+      "ap": 3,
+      "max_ap": 3,
+      "conditions": [
+        "Pursuitfirstcycle. Othersdelayorcontinuemoving; DainshottriggeredbyHrilladvance, no surprise/no Aimbonus."
+      ],
+      "dex": 13
+    },
+    {
+      "id": "myth-char-07bc6645bb49",
+      "name": "Hrill Helmdance",
+      "initiative": 10,
+      "ap": 1,
+      "max_ap": 3,
+      "conditions": [
+        "Swordrightshieldleft, closes20ftfirstMove1AP, now460ftfromDain. Targetrunning, mostsevererangeFormidableapplies. ExplicitShieldParrypreauthorized, no WMfreeparryonshield."
+      ],
+      "dex": 14
+    }
+  ],
+  "created_at": "2026-10-28T14:23:54"
+}

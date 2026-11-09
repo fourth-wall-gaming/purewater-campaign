@@ -1,0 +1,187 @@
+{
+  "id": "myth-char-1e3facc43b6a",
+  "name": "Elen Veyr",
+  "type": "npc",
+  "status": "active",
+  "description": "she. Grey braid, flour on cuffs. Warm blunt questions; wants family informed and home left alone. Will not excuse Avel attacking keepers. Knows60GPsale and buyer, notarrest/cache. WIll answer willingly andshowcounterfoil oncepurposeexplained.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 12,
+    "POW": 10,
+    "CHA": 13
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Athletics": 50,
+    "Boating": 24,
+    "Brawn": 50,
+    "Conceal": 22,
+    "Dance": 25,
+    "Deceit": 25,
+    "Drive": 22,
+    "Endurance": 50,
+    "Evade": 40,
+    "First Aid": 24,
+    "Influence": 55,
+    "Insight": 50,
+    "Locale": 24,
+    "Perception": 50,
+    "Ride": 22,
+    "Sing": 23,
+    "Stealth": 45,
+    "Unarmed": 24,
+    "Willpower": 50,
+    "Flight": 24,
+    "Customs": 64,
+    "Native Tongue": 65,
+    "Arms": 25,
+    "Combat Skill": 25,
+    "Survival": 40,
+    "Strategy": 30,
+    "Engineering": 30,
+    "Lore (Crown Law)": 20
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 25
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "she",
+    "score": {
+      "want": "Grey braid, flour on cuffs. Warm blunt questions; wants family informed and home left alone. Will not excuse Avel attacking keepers. Knows60GPsale and buyer, notarrest/cache. WIll answer willingly andshowcounterfoil oncepurposeexplained.",
+      "ought": "Honor real surrender; no mind-reading or endless resources",
+      "tactics": "Grey braid, flour on cuffs. Warm blunt questions; wants family informed and home left alone. Will not excuse Avel attacking keepers. Knows60GPsale and buyer, notarrest/cache. WIll answer willingly andshowcounterfoil oncepurposeexplained.",
+      "catches_lies": "No automatic lie detection"
+    },
+    "doing": {
+      "goal": "Grey braid, flour on cuffs. Warm blunt questions; wants family informed and home left alone. Will not excuse Avel attacking keepers. Knows60GPsale and buyer, notarrest/cache. WIll answer willingly andshowcounterfoil oncepurposeexplained.",
+      "next": "Prepared placement asof38dusk; no scenario operation completed",
+      "where": "myth-loc-b9eb72b5721e"
+    },
+    "plan_reference": "docs/scenarios/hrill-what-she-sold-preparation.md",
+    "assets": {
+      "gp": 5,
+      "food_person_days": 12,
+      "food_as_of": "d38/dusk",
+      "shared_with": "myth-char-93ee2cf5bda6",
+      "sale_counterfoil": "Unlockedhouseholdcashbox,60GP,Avelpersonalarmour/signet/surveytoMerritDane"
+    }
+  },
+  "actor_notes": "Grey braid, flour on cuffs. Warm blunt questions; wants family informed and home left alone. Will not excuse Avel attacking keepers. Knows60GPsale and buyer, notarrest/cache. WIll answer willingly andshowcounterfoil oncepurposeexplained.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-b9eb72b5721e",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-28T16:32:14"
+}

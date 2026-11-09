@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "order": [
+    {
+      "name": "Moss Pell",
+      "initiative": 19,
+      "ap": 3
+    },
+    {
+      "name": "Joric Vane",
+      "initiative": 18,
+      "ap": 3
+    },
+    {
+      "name": "Kell Rook",
+      "initiative": 18,
+      "ap": 2
+    },
+    {
+      "name": "Orrin Fell",
+      "initiative": 17,
+      "ap": 3
+    },
+    {
+      "name": "Pella Wren",
+      "initiative": 14,
+      "ap": 3
+    },
+    {
+      "name": "Dain Sedge",
+      "initiative": 13,
+      "ap": 3
+    },
+    {
+      "name": "Sergeant Brann Tarrow",
+      "initiative": 12,
+      "ap": 3
+    },
+    {
+      "name": "Hrill Helmdance",
+      "initiative": 11,
+      "ap": 3
+    },
+    {
+      "name": "Benno Reed",
+      "initiative": 11,
+      "ap": 2
+    }
+  ],
+  "storyline": {
+    "id": "myth-storyline-0fea5d34980f",
+    "name": "Hrill",
+    "pcs": [
+      "myth-char-07bc6645bb49"
+    ],
+    "now": "d29/day",
+    "minute_in_watch": 180,
+    "scene": "d29/day180 Hythe Downs-road culvert myth-loc-c189873fc06a, halfmile outoftown. Routinewatch/muster/mealcompressed; HrillknowsBrannTarrow/OrrinFell/BennoReed. Hrill with3alliedwatchmen behindhedgebendx0, unexposed; cartx60ft, lowstoneparapet/ditchcoverx20ft, road12ftwide, dry6ftditch3ftdeep; easthedgegapsx30/100 leadcharcoaltrack400yardstokiln. Fourunknownarmedmenvisible: JoricGMID4e202c6ec7e0x65muleheadswordshield; Kellb93379d9f38fx75cartrearspearshield; Dain2ba4d0205f0dx80loadedcrossbowaimsdriverPelladd7ce8e82dd0x60; Mossa91a8a3881b5x95easthedgepartialcoverloadedcrossbow. NoPCknowledgeenemy names/camp. No shot/injury/theft/bindingresolved, no combatinitiatives/APspent. Brann says Orrin coverus, SirHrill canyougetherclear? AwaitHaction; rollinitiativebeforeviolentactions, defenses/effectsalwaysplayer. Existingfullgear/HPFreshMP8Luck3purse20GPunchanged. Ownlongswordsheathedshieldslungbowstowed18arrows untilplayerreadies; donotautomaticallydrawexposeorarm. Alliedweaponsnative, Orrinxbow18boltsreload4. Readdocs/scenarios/hrill-culvert-patrol-preparation.md andids forfullreadiness/tactics. Fourrobberstotalnoglobalconspiracy,noreinforcements; negotiation/earlycapturecanendstory. Newscopedarcinstalled. Employmentweek29-35active; day29includedboardcharged1allocation6left, wagesunpaid0earneduntilendofday. No rest/luckreset/timeelsewhere. Greywatchvictorystands,Crownreliefstillbeingarranged,Mardenreportdelivered; no verdict. Garr29dayfailedfreshscout52/40Hard,no beastsite/shot/injury, no renewedhuntuntilnewactuallead,offscreenunknownH. OtherPCclocksunchanged.",
+    "session": 8
+  },
+  "world_high_water": "d29/day"
+}

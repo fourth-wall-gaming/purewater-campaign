@@ -1,0 +1,182 @@
+{
+  "id": "myth-char-07abe629ee9b",
+  "name": "Siv Orr",
+  "type": "npc",
+  "status": "active",
+  "description": "he/him. Knows patrol route and orders, not hidden regional politics.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Combat Skill": 50,
+    "Boating": 55,
+    "Perception": 55,
+    "Survival": 55,
+    "Stealth": 50,
+    "Swim": 65,
+    "Willpower": 45,
+    "Influence": 30,
+    "Athletics": 35,
+    "Brawn": 35,
+    "Endurance": 45,
+    "Evade": 35,
+    "First Aid": 25
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Spear",
+      "damage": "1d8",
+      "size": "M",
+      "traits": [
+        "Impale"
+      ]
+    },
+    {
+      "name": "Short bow",
+      "damage": "1d6",
+      "size": "L",
+      "range": "45/300/600 feet",
+      "reload": 2,
+      "traits": [
+        "Impale"
+      ]
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 50
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Human",
+    "score": {
+      "want": "Keep households safe and avoid needless fighting",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Keep households safe and avoid needless fighting",
+      "stated_reason": "Keep households safe and avoid needless fighting",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Older human scout with a sun-faded scarf. Sparse matter-of-fact speech, offers a pole before advice. Patrol allegiance is to neighbours, not an empire.",
+      "physical": "Older human scout with a sun-faded scarf",
+      "secret": "Knows patrol route and orders, not hidden regional politics.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "siv",
+    "pronouns": "he/him",
+    "doing": {
+      "goal": "Keep households safe and avoid needless fighting",
+      "next": "Initial activity and limits in docs/scenarios/hrill-edda-preparation.md",
+      "where": "myth-loc-991964df7e96",
+      "as_of_session": 8
+    },
+    "plan_reference": "docs/scenarios/hrill-edda-preparation.md"
+  },
+  "actor_notes": "Older human scout with a sun-faded scarf. Sparse matter-of-fact speech, offers a pole before advice. Patrol allegiance is to neighbours, not an empire.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-991964df7e96",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-27T01:28:21"
+}

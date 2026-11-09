@@ -1,0 +1,183 @@
+{
+  "success": true,
+  "character": {
+    "id": "myth-char-219a21603f90",
+    "name": "Mar Lusk",
+    "description": "she. Brusque, mocks hesitation; wants Pike respect and pay. Knows custody task only, underestimates lone older knight. Drawn sword approaching house; bow slung. Backs down when outmatched.",
+    "content": null,
+    "myth-char-type": "npc",
+    "myth-status": "active",
+    "myth-characteristics-json": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "myth-attributes-json": {
+      "action_points": 2,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 2,
+      "initiative_bonus": 12,
+      "luck_points": 0,
+      "magic_points": 0,
+      "movement": "20 feet"
+    },
+    "myth-skills-json": {
+      "Combat Skill": 55,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 50,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 30,
+      "First Aid": 40
+    },
+    "myth-hit-locations-json": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          3
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          4,
+          6
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          7,
+          9
+        ],
+        "ap": 2,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          10,
+          12
+        ],
+        "ap": 2,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          13,
+          15
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          16,
+          18
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "myth-equipment-json": [
+      {
+        "name": "Longsword"
+      },
+      {
+        "name": "Short bow"
+      },
+      {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M"
+      },
+      {
+        "name": "Short bow",
+        "damage": "1d6",
+        "size": "L",
+        "reload": 2,
+        "traits": [
+          "Impale"
+        ]
+      }
+    ],
+    "myth-passions-json": {},
+    "myth-combat-styles-json": {
+      "Arms": 55
+    },
+    "myth-spells-json": {},
+    "myth-powers-json": [],
+    "myth-extras-json": {
+      "race": "Human",
+      "pronouns": "she",
+      "score": {
+        "want": "Brusque, mocks hesitation; wants Pike respect and pay. Knows custody task only, underestimates lone older knight. Drawn sword approaching house; bow slung. Backs down when outmatched.",
+        "ought": "Keep comrades alive and honor any actual surrender; does not command Hrill.",
+        "driver": "Knows custody task only, underestimates lone older knight",
+        "status": "Stranger to Hrill; no prior relationship",
+        "tactics_ladder": "Demand or guard first; use force if own feasible objective requires it; retreat or surrender at serious injury or credible defeat. Never infinite resources.",
+        "catches_lies": "No automatic detection; roll only when evidence warrants.",
+        "knowledge_limits": "Brusque, mocks hesitation; wants Pike respect and pay. Knows custody task only, underestimates lone older knight. Drawn sword approaching house; bow slung. Backs down when outmatched.",
+        "observed": []
+      },
+      "doing": {
+        "goal": "Brusque, mocks hesitation; wants Pike respect and pay. Knows custody task only, underestimates lone older knight. Drawn sword approaching house; bow slung. Backs down when outmatched.",
+        "next": "Prepared current placement; no successful attack yet",
+        "where": "myth-loc-7352c04bb679"
+      },
+      "plan_reference": "docs/scenarios/hrill-greywatch-preparation.md"
+    },
+    "myth-actor-notes": "Brusque, mocks hesitation; wants Pike respect and pay. Knows custody task only, underestimates lone older knight. Drawn sword approaching house; bow slung. Backs down when outmatched.",
+    "myth-fatigue": "Fresh",
+    "myth-luck-current": 0,
+    "myth-magic-current": 0,
+    "myth-experience-rolls": 0
+  },
+  "storyline": {
+    "id": "myth-storyline-0fea5d34980f",
+    "name": "Hrill",
+    "pcs": [
+      "myth-char-07bc6645bb49"
+    ],
+    "now": "d25/dusk",
+    "minute_in_watch": 92,
+    "scene": "d25/dusk minute92 ListeningReeds teaching-house.45minhistorycompressed:HrilllearnsSelithaccountDragonKings/dragonknights,uprising/SwordsLake,shoretraditionsolderwaterpowers/LakeLadyresistance;localhouseholdrefuge/shelter/oldplacenamerecords. No activeimperialplot/Baronritual/otherPCsecret/skillgain. Eddaindoorwayasks We\u2019re sailing south at first light.Will you be aboard? Hanswerpending,noPCdestinationchosen/noovernightrest/day26. Selithrecordsaccessiblebyconsent,route3/3achieved,hunt2/3active. Ilyenreported/preparingreturnwatch,nolatereventassumed. H18GP/paid25/eightdaysinitialtermthrough27/fullHP/Fresh/Luck4/AP0/swordsheathed/bowloweredunnocked20arrows;mail/shieldaboardsoundmooredGreyHeron0bales,2Edda-ownedconsignmentNarrowWater,8GPtradereceivabledue35.",
+    "session": 8
+  },
+  "world_high_water": "d25/dusk"
+}

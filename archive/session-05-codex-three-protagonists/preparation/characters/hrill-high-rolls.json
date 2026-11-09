@@ -1,0 +1,119 @@
+{
+  "name": "Hrill Helmdance",
+  "method": "Dice Roll, High; extra die, discard lowest, scores in order",
+  "species": "Human (working default)",
+  "rolls": {
+    "STR": {
+      "success": true,
+      "expr": "4d6",
+      "rolls": [
+        2,
+        4,
+        5,
+        1
+      ],
+      "total": 12,
+      "discarded": 1,
+      "bonus": 0,
+      "final": 11
+    },
+    "CON": {
+      "success": true,
+      "expr": "4d6",
+      "rolls": [
+        3,
+        1,
+        6,
+        2
+      ],
+      "total": 12,
+      "discarded": 1,
+      "bonus": 0,
+      "final": 11
+    },
+    "SIZ": {
+      "success": true,
+      "expr": "3d6",
+      "rolls": [
+        4,
+        6,
+        4
+      ],
+      "total": 14,
+      "discarded": 4,
+      "bonus": 6,
+      "final": 16
+    },
+    "DEX": {
+      "success": true,
+      "expr": "4d6",
+      "rolls": [
+        1,
+        4,
+        6,
+        4
+      ],
+      "total": 15,
+      "discarded": 1,
+      "bonus": 0,
+      "final": 14
+    },
+    "INT": {
+      "success": true,
+      "expr": "3d6",
+      "rolls": [
+        2,
+        6,
+        3
+      ],
+      "total": 11,
+      "discarded": 2,
+      "bonus": 6,
+      "final": 15
+    },
+    "POW": {
+      "success": true,
+      "expr": "4d6",
+      "rolls": [
+        1,
+        4,
+        2,
+        2
+      ],
+      "total": 9,
+      "discarded": 1,
+      "bonus": 0,
+      "final": 8
+    },
+    "CHA": {
+      "success": true,
+      "expr": "4d6",
+      "rolls": [
+        6,
+        1,
+        3,
+        1
+      ],
+      "total": 11,
+      "discarded": 1,
+      "bonus": 0,
+      "final": 10
+    }
+  },
+  "assigned_characteristics": {
+    "STR": 11,
+    "CON": 11,
+    "SIZ": 16,
+    "DEX": 14,
+    "INT": 15,
+    "POW": 8,
+    "CHA": 10
+  },
+  "supersedes": "hrill-standard-rolls.json; entire previous set replaced by player request, not best-of-two selection",
+  "target_rank": 2,
+  "character_created": true,
+  "aging_modifiers_applied": false,
+  "character_id": "myth-char-07bc6645bb49",
+  "characteristics_approved": true,
+  "status": "Characteristics approved; Rank 2 mechanical review draft saved to TypeDB. Alignment and passions pending."
+}

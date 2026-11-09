@@ -1,0 +1,204 @@
+{
+  "id": "myth-char-87c2db0593fc",
+  "name": "Dame Avel Veyr",
+  "type": "npc",
+  "status": "active",
+  "description": "she. Blunt soldier, convivial off duty. Wants an imperial foothold and permanent command; owes followers survival and promised wages. Knows own plan, not Hrill or cistern. Attempts capture, accepts lawful custody if defeated.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 14,
+    "CON": 13,
+    "SIZ": 14,
+    "DEX": 13,
+    "INT": 14,
+    "POW": 12,
+    "CHA": 13
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 14,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Combat Skill": 70,
+    "Athletics": 45,
+    "Brawn": 55,
+    "Perception": 55,
+    "Willpower": 60,
+    "Influence": 55,
+    "Evade": 40,
+    "Endurance": 60,
+    "Boating": 30,
+    "Swim": 45,
+    "Engineering": 40,
+    "Stealth": 40,
+    "Strategy": 65,
+    "First Aid": 40
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 5,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 5,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 5,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 5,
+      "hp": 5,
+      "current_hp": 1
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 70
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Human",
+    "pronouns": "she",
+    "score": {
+      "want": "Blunt soldier, convivial off duty. Wants an imperial foothold and permanent command; owes followers survival and promised wages. Knows own plan, not Hrill or cistern. Attempts capture, accepts lawful custody if defeated.",
+      "ought": "Keep comrades alive and honor any actual surrender; does not command Hrill.",
+      "driver": "Wants an imperial foothold and permanent command; owes followers survival and promised wages",
+      "status": "Stranger to Hrill; no prior relationship",
+      "tactics_ladder": "Demand or guard first; use force if own feasible objective requires it; retreat or surrender at serious injury or credible defeat. Never infinite resources.",
+      "catches_lies": "No automatic detection; roll only when evidence warrants.",
+      "knowledge_limits": "Blunt soldier, convivial off duty. Wants an imperial foothold and permanent command; owes followers survival and promised wages. Knows own plan, not Hrill or cistern. Attempts capture, accepts lawful custody if defeated.",
+      "observed": []
+    },
+    "doing": {
+      "goal": "Answer Hrill while held in Crown custody",
+      "next": "Admitted she has never seen a living Dragon King and meant Greywatch to gather people who would work to bring them back. No proof or method offered. Bannerseizedforinspection, papers/sketchunread. AwaitHquestion; surrendered, disarmed, LeftArm1/5minoruntreated.",
+      "where": "myth-loc-c9b08e8a741a",
+      "as_of_session": 8
+    },
+    "plan_reference": "docs/scenarios/hrill-greywatch-preparation.md",
+    "assets": {
+      "gp": 24,
+      "food_person_days": 36,
+      "fighters": [
+        "myth-char-87c2db0593fc",
+        "myth-char-2074bda6383d",
+        "myth-char-ed1a4282d985",
+        "myth-char-99ccdfa133d7",
+        "myth-char-e46d17ad962f",
+        "myth-char-5ef410466d11"
+      ],
+      "ladder_feet": 24,
+      "rope_feet": 60,
+      "pitch_pots": 2,
+      "reinforcements": 0
+    },
+    "disarmed_weapon": {
+      "item": {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M"
+      },
+      "location": "gully20ftfromoldbank,beside surrenderedshields",
+      "status": "Dropped by Jerr in gully during group disarm",
+      "distance_roll": "Mastery1d4=3 x3ft=9ft; resistance75/70failsvsHrilloriginal61success"
+    },
+    "surrendered_weapons": {
+      "items": [
+        {
+          "name": "Shield",
+          "damage": "1d4",
+          "size": "L"
+        }
+      ],
+      "location": "gully,20ftfromoldstonebank",
+      "status": "Laid down; not carried, confiscated or transferred to Hrill; armour and personal possessions retained"
+    },
+    "first_aid_left_arm": {
+      "completed": "d25/dusk281",
+      "roll": "Noll48/40failure",
+      "hp_after": 1,
+      "used_for_this_injury": true
+    },
+    "background": {
+      "home": "Small family holding outside Ashwick",
+      "known_family": "Living mother and younger brother; names not yet established",
+      "limits": "No family involvement or allegiance inferred; no word from them established",
+      "source": "Elenfirsthandaccountrevealed38dusk",
+      "upbringing": "RaisedVeyrholding,trainedbyfatherinweapons/knightlyduties;familyimperialservicestoriesandrelics",
+      "adult_career": "Yearswithvariouspaidsoldiercompanies;nospecificwarorcontinuousCrowncommissionestablished",
+      "lastwinter": "Visitedhomeandspokeofrestoringoldorderandpermanentcommand"
+    }
+  },
+  "actor_notes": "Blunt soldier, convivial off duty. Wants an imperial foothold and permanent command; owes followers survival and promised wages. Knows own plan, not Hrill or cistern. Attempts capture, accepts lawful custody if defeated.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-e57029a62b7b",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-27T22:13:31"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "myth-enc-01f8a2ab3ba4",
+  "name": "Halla and Irena practice bout",
+  "description": "CFI controlled spar, first3 clean touches stop on each touch, reset between touches, no injury damage. Halla borrowed practicebattleaxe and roundshield, no armour; Irena padded practicespear twohanded, no armour. Halla3AP Irena2AP. Hallaaxe81 doublecrit18 freebonusaxeparry onceperround; shield76 costsAP. No automatic passionaugment; user can invoke60% combatcraft passion. Longer spear reaches first in fiction, use CFI combat rules, no unsupported extra reach rules. Scores0-0.",
+  "summary": "Halla wins controlled first-three-touch bout3-0 against Irena. Flurry first axe67/81 parried57/68, nextaxe29/81 undefended clean touch. Both fullHP, no injury or Luck spent.",
+  "status": "resolved",
+  "round": 5,
+  "combatants": [
+    {
+      "id": "myth-char-9dec6cf124d8",
+      "name": "Irena",
+      "initiative": 23,
+      "ap": 0,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 14
+    },
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "initiative": 19,
+      "ap": 1,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 11
+    }
+  ],
+  "created_at": "2026-10-12T16:39:48"
+}

@@ -1,0 +1,1349 @@
+[
+  {
+    "name": "Maelin Voss",
+    "stats": {
+      "STR": 10,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Engineering": 65,
+      "Perception": 55,
+      "Influence": 45,
+      "Insight": 35,
+      "Athletics": 40,
+      "Brawn": 35,
+      "Evade": 40,
+      "First Aid": 40,
+      "Willpower": 45,
+      "Combat Skill": 35
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 12,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 0
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 35,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Dagger",
+        "damage": "1d4+1",
+        "size": "S"
+      }
+    ],
+    "notes": "Wants Hrill to help people coordinate; owes Len safe practical help; will take sheep-track rather than sacrifice him for the load.",
+    "passions": {},
+    "race": "Human",
+    "score": {
+      "want": "Free Len and establish a usable independent road",
+      "ought": "Wants Hrill to help people coordinate; owes Len safe practical help; will take sheep-track rather than sacrifice him for the load.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "maelin"
+  },
+  {
+    "name": "Len Rook",
+    "stats": {
+      "STR": 10,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Ride": 45,
+      "Drive": 45,
+      "Brawn": 40,
+      "Athletics": 40,
+      "Perception": 40,
+      "Influence": 35,
+      "Willpower": 40,
+      "Evade": 35,
+      "Combat Skill": 30
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 12,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 0
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 30,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Dagger",
+        "damage": "1d4+1",
+        "size": "S"
+      }
+    ],
+    "notes": "Wants his property safe; owes delivery but will abandon cart to save himself.",
+    "passions": {},
+    "race": "Human",
+    "score": {
+      "want": "Deliver hospice medicine and return with mule and cart",
+      "ought": "Wants his property safe; owes delivery but will abandon cart to save himself.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "len"
+  },
+  {
+    "name": "Mother Anwen",
+    "stats": {
+      "STR": 10,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Influence": 60,
+      "Insight": 55,
+      "Willpower": 60,
+      "First Aid": 65,
+      "Commerce": 50,
+      "Perception": 45,
+      "Evade": 30,
+      "Combat Skill": 20
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 12,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 0
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 20,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Dagger",
+        "damage": "1d4+1",
+        "size": "S"
+      }
+    ],
+    "notes": "Wants immediate stores; owes all guests welcome. Can close and disperse supplies rather than admit a garrison.",
+    "passions": {},
+    "race": "Human",
+    "score": {
+      "want": "Keep the hospice independent and supplied",
+      "ought": "Wants immediate stores; owes all guests welcome. Can close and disperse supplies rather than admit a garrison.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "anwen"
+  },
+  {
+    "name": "Serevan Ashleaf",
+    "stats": {
+      "STR": 10,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Courtesy": 60,
+      "Influence": 50,
+      "Insight": 60,
+      "Willpower": 65,
+      "Perception": 60,
+      "Survival": 60,
+      "Stealth": 55,
+      "Lore (Imperial Funerary Practice)": 70,
+      "Combat Skill": 45
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 12,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 0
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 45,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Dagger",
+        "damage": "1d4+1",
+        "size": "S"
+      }
+    ],
+    "notes": "Wants restitution but owes living pupils safety. Can leave, trade information or demand an actual protective plan.",
+    "passions": {},
+    "race": "Elf",
+    "score": {
+      "want": "Keep pupils safe and recover the funerary standard",
+      "ought": "Wants restitution but owes living pupils safety. Can leave, trade information or demand an actual protective plan.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "serevan"
+  },
+  {
+    "name": "Sir Aldren Vaust",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 75,
+      "Athletics": 60,
+      "Brawn": 60,
+      "Endurance": 65,
+      "Evade": 50,
+      "Influence": 65,
+      "Deceit": 60,
+      "Insight": 50,
+      "Willpower": 65,
+      "Perception": 55,
+      "Lore (Strategy and Tactics)": 70,
+      "Ride": 65
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 12,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 5
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 5
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 5
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 5
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 5
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 75,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M"
+      },
+      {
+        "name": "Round shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "notes": "Wants personal permanence; owes lawful road protection. Aid is real, coercion is chosen. Bargains or surrenders when survival requires it.",
+    "passions": {},
+    "race": "Human",
+    "score": {
+      "want": "Control Wind Stair and secure restorationist patronage",
+      "ought": "Wants personal permanence; owes lawful road protection. Aid is real, coercion is chosen. Bargains or surrenders when survival requires it.",
+      "focus": "promotion",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "vaust"
+  },
+  {
+    "name": "Sergeant Cessa Dorn",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 60,
+      "Athletics": 50,
+      "Brawn": 50,
+      "Endurance": 55,
+      "Evade": 45,
+      "Influence": 50,
+      "Deceit": 35,
+      "Insight": 45,
+      "Willpower": 55,
+      "Perception": 55,
+      "Ride": 50
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 12,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 60,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M"
+      },
+      {
+        "name": "Round shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "notes": "Wants a quiet contract; owes obedience. Accepts lawful restraint or paid withdrawal when credible, not by automatic defection.",
+    "passions": {},
+    "race": "Human",
+    "score": {
+      "want": "Keep the company paid and avoid pointless losses",
+      "ought": "Wants a quiet contract; owes obedience. Accepts lawful restraint or paid withdrawal when credible, not by automatic defection.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "cessa"
+  },
+  {
+    "name": "Harl Teven",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 55,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Endurance": 50,
+      "Evade": 40,
+      "Perception": 45,
+      "Willpower": 40,
+      "Influence": 30
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 12,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 55,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M"
+      },
+      {
+        "name": "Round shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "notes": "Knows own assignment; no automatic knowledge of relic identity or commander secrets.",
+    "passions": {},
+    "race": "Human",
+    "score": {
+      "want": "Earn wages and survive the road contract",
+      "ought": "Knows own assignment; no automatic knowledge of relic identity or commander secrets.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "guard0"
+  },
+  {
+    "name": "Oda Vennick",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 55,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Endurance": 50,
+      "Evade": 40,
+      "Perception": 45,
+      "Willpower": 40,
+      "Influence": 30
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 12,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 55,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M"
+      },
+      {
+        "name": "Round shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "notes": "Knows own assignment; no automatic knowledge of relic identity or commander secrets.",
+    "passions": {},
+    "race": "Human",
+    "score": {
+      "want": "Earn wages and survive the road contract",
+      "ought": "Knows own assignment; no automatic knowledge of relic identity or commander secrets.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "guard1"
+  },
+  {
+    "name": "Merrit Caul",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 55,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Endurance": 50,
+      "Evade": 40,
+      "Perception": 45,
+      "Willpower": 40,
+      "Influence": 30
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 12,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 55,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M"
+      },
+      {
+        "name": "Round shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "notes": "Knows own assignment; no automatic knowledge of relic identity or commander secrets.",
+    "passions": {},
+    "race": "Human",
+    "score": {
+      "want": "Earn wages and survive the road contract",
+      "ought": "Knows own assignment; no automatic knowledge of relic identity or commander secrets.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "guard2"
+  },
+  {
+    "name": "Fenn Ash",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 55,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Endurance": 50,
+      "Evade": 40,
+      "Perception": 45,
+      "Willpower": 40,
+      "Influence": 30
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 12,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 55,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M"
+      },
+      {
+        "name": "Round shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "notes": "Knows own assignment; no automatic knowledge of relic identity or commander secrets.",
+    "passions": {},
+    "race": "Human",
+    "score": {
+      "want": "Earn wages and survive the road contract",
+      "ought": "Knows own assignment; no automatic knowledge of relic identity or commander secrets.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "guard3"
+  },
+  {
+    "name": "Joss Veller",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 55,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Endurance": 50,
+      "Evade": 40,
+      "Perception": 45,
+      "Willpower": 40,
+      "Influence": 30
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 12,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 55,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M"
+      },
+      {
+        "name": "Round shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "notes": "Knows own assignment; no automatic knowledge of relic identity or commander secrets.",
+    "passions": {},
+    "race": "Human",
+    "score": {
+      "want": "Earn wages and survive the road contract",
+      "ought": "Knows own assignment; no automatic knowledge of relic identity or commander secrets.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "guard4"
+  },
+  {
+    "name": "Ina Kett",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 55,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Endurance": 50,
+      "Evade": 40,
+      "Perception": 45,
+      "Willpower": 40,
+      "Influence": 30
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 12,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 55,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M"
+      },
+      {
+        "name": "Round shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "notes": "Knows own assignment; no automatic knowledge of relic identity or commander secrets.",
+    "passions": {},
+    "race": "Human",
+    "score": {
+      "want": "Earn wages and survive the road contract",
+      "ought": "Knows own assignment; no automatic knowledge of relic identity or commander secrets.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "guard5"
+  }
+]

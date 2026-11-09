@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "attacker": "Hrill Helmdance",
+  "defender": "Moss Pell",
+  "weapon": "Longsword",
+  "attack_roll": {
+    "roll": 73,
+    "skill": 58,
+    "difficulty": "standard",
+    "effective": 58,
+    "critical_range": 12,
+    "level": "failure"
+  },
+  "defense": "evade",
+  "defense_roll": {
+    "roll": 92,
+    "skill": 40,
+    "difficulty": "standard",
+    "effective": 40,
+    "critical_range": 4,
+    "level": "failure"
+  },
+  "special_effects": 0,
+  "effects_to": null,
+  "available_effects": [],
+  "ap_remaining": {
+    "Moss Pell": 0,
+    "Joric Vane": 1,
+    "Kell Rook": 0,
+    "Orrin Fell": 1,
+    "Pella Wren": 3,
+    "Dain Sedge": 2,
+    "Sergeant Brann Tarrow": 1,
+    "Hrill Helmdance": 1,
+    "Benno Reed": 0
+  },
+  "next": "resolve-effects --encounter myth-enc-c40e604cfc2f",
+  "storyline": {
+    "id": "myth-storyline-0fea5d34980f",
+    "name": "Hrill",
+    "pcs": [
+      "myth-char-07bc6645bb49"
+    ],
+    "now": "d29/day",
+    "minute_in_watch": 180,
+    "scene": "d29/day180 culvert COMBAT myth-enc-c40e604cfc2f R2pendingpursuit/Luck. UserCharge them. HrillRegainFooting1APpaidunengaged,standingnotprone,2APleft. Swordreadyrightshieldslung. Roll nativeopposed pursuit for75ftheadstart: H73/Hard54 (Athletics70+BeGoodMan11), Moss65/Standard45 BOTHFAILwinnernone. No meleecontact/noattackrolled. OFFERLUCKREROLL decision pending H3Luck; ifyesrerollONLYH againstfrozenMoss65, no rerollinitiative/opponent. Wholechaseposition/NPCmovementpendingoutcome; baselineH20Moss95,Joric105Kell115Dain120easttrack,BrannBennoPella20,Orrin0. ResolveR2higherNPCwithdrawal/allysupportcausallyandactualmovementbeforeHattack. NoNPCnewattackdefenseschosen. FullHPFreshMP8Luck3purse20. Previousbolt82miss/H52vsaug39fail unhurt, Orrin99missvsMoss51fail, nofumblecalamity. Mossstandingunloaded11boltsreload0/4;Orrin17boltsreload2/4;Dainloadedunfired. Driverandcartrescued, fourrobbersretreatwithoutloot, pursuitoptionalnotforcedreplacementfight. Employment29-35board1chargednoearnedpay. OtherPCclocksunchanged.",
+    "session": 8
+  },
+  "world_high_water": "d29/day"
+}

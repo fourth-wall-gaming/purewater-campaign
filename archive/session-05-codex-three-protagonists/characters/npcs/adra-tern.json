@@ -1,0 +1,158 @@
+{
+  "id": "myth-char-4cd605b20637",
+  "name": "Adra Tern",
+  "type": "npc",
+  "status": "active",
+  "description": "She/her. Ordinary secondhand-clothes stallholder in Lullwater beside the bookbinder display; no prior acquaintance with Nimras or affiliation to a patron.",
+  "narrative": "An independent seller of used clothing; knows the condition, provenance claimed by sellers and customers of her own stock. No magical expertise or secret intelligence network assigned.",
+  "characteristics": {
+    "STR": 10,
+    "CON": 12,
+    "SIZ": 11,
+    "DEX": 12,
+    "INT": 12,
+    "POW": 10,
+    "CHA": 13
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 10,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 22,
+    "Boating": 22,
+    "Brawn": 21,
+    "Conceal": 22,
+    "Dance": 25,
+    "Deceit": 25,
+    "Drive": 22,
+    "Endurance": 24,
+    "Evade": 24,
+    "First Aid": 24,
+    "Influence": 45,
+    "Insight": 40,
+    "Locale": 24,
+    "Perception": 45,
+    "Ride": 22,
+    "Sing": 23,
+    "Stealth": 24,
+    "Swim": 22,
+    "Unarmed": 22,
+    "Willpower": 20,
+    "Customs": 64,
+    "Native Tongue": 65,
+    "Commerce": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {},
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "she/her",
+    "score": {
+      "focus": "trade and neighbours",
+      "want": "Earn a living selling sound used clothes.",
+      "ought": "Describe wear and repairs honestly.",
+      "driver": "Returning customers are more useful than a single inflated sale.",
+      "stated_reason": "People still need a coat that keeps the rain out.",
+      "relational_status": "Nimras is an unknown passerby; no name known.",
+      "tactics": [
+        "Offer a suitable garment",
+        "Answer directly",
+        "Let a disinterested customer walk on"
+      ],
+      "catches_lies": "No automatic lie detection; ordinary questions and actual rolls only.",
+      "observed": [
+        "During ordinary selling she sees a passerby face change as his disguise ends. No recognition, arranged contact or surveillance."
+      ]
+    }
+  },
+  "actor_notes": "LOOKS:Middle-aged woman with a faded green headscarf, weathered hands and a brass pin holding her sleeve above the wrist. CORE:An honest description sells better than a grand pedigree. NATURE:Outgoing, bluntly funny and quick to address a passerby; enjoys clothes as useful objects. WOUND:Bad wholesale purchases once consumed a winter reserve. WANTS:Sell sound secondhand clothes and keep local customers returning. PRESSURE:Stops joking and asks plainly what the other person wants. KEY:Short practical questions, everyday vocabulary, friendly irreverence.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": "myth-loc-d09bf7a910cb",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-27T14:32:06"
+}

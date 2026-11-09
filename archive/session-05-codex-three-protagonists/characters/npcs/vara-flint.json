@@ -1,0 +1,195 @@
+{
+  "id": "myth-char-f5a899e23910",
+  "name": "Vara Flint",
+  "type": "npc",
+  "status": "active",
+  "description": "Grey hair cropped close, broad forearms and leather apron. Patient direct craftspeech; wants soundsteel and fairpayment, owes customers honestassessment. Knownlocallyforordinarywellmadeswords. Asks intendedusebeforecommission,won\u2019tpromiseinstantcraftorautomaticmagic. No privateAvel/quarryknowledge.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 14,
+    "CON": 12,
+    "SIZ": 13,
+    "DEX": 13,
+    "INT": 14,
+    "POW": 9,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 13,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "4m walk / 12m fly"
+  },
+  "skills": {
+    "Athletics": 27,
+    "Boating": 26,
+    "Brawn": 60,
+    "Conceal": 22,
+    "Dance": 24,
+    "Deceit": 25,
+    "Drive": 22,
+    "Endurance": 24,
+    "Evade": 26,
+    "First Aid": 27,
+    "Influence": 22,
+    "Insight": 23,
+    "Locale": 28,
+    "Perception": 50,
+    "Ride": 22,
+    "Sing": 20,
+    "Stealth": 27,
+    "Unarmed": 27,
+    "Willpower": 18,
+    "Flight": 27,
+    "Customs": 68,
+    "Native Tongue": 65,
+    "Craft (Bladesmith)": 75,
+    "Commerce": 55,
+    "Lore (Metallurgy)": 65,
+    "Arms": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {},
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "she/her",
+    "score": {
+      "want": "Grey hair cropped close, broad forearms and leather apron. Patient direct craftspeech; wants soundsteel and fairpayment, owes customers honestassessment. Knownlocallyforordinarywellmadeswords. Asks intendedusebeforecommission,won\u2019tpromiseinstantcraftorautomaticmagic. No privateAvel/quarryknowledge.",
+      "ought": "Honestlocaltrade,ordinaryconduct",
+      "catches_lies": "Noautomaticliedetection",
+      "observed": [
+        "40dawnDaneandtravellercallinghimselfHalthomFosrtcollectordinarymalletand3chiselsfor2SP;nocraftcommissionormagic,noprivateinquiryreveal."
+      ]
+    },
+    "doing": {
+      "goal": "Ordinarybusiness",
+      "next": "Workingatforge",
+      "where": "myth-loc-345d26d7f045"
+    },
+    "assets": {
+      "gp": 15,
+      "finished_longswords": 2,
+      "finished_shortswords": 2,
+      "finished_greatswords": 1,
+      "steel_stock_units": 20,
+      "iron_stock_units": 10,
+      "limits": "Ordinaryweapons,prices/ruleslookedupwhenrequested,nofreequalitybonusorinstantcustomcompletion",
+      "sp": 2,
+      "spare_mallets": 1,
+      "spare_chisels": 3,
+      "morning_sale40": {
+        "buyer": "myth-char-e1868d3d940c",
+        "mallets": 1,
+        "chisels": 3,
+        "price_sp": 2
+      }
+    }
+  },
+  "actor_notes": "Grey hair cropped close, broad forearms and leather apron. Patient direct craftspeech; wants soundsteel and fairpayment, owes customers honestassessment. Knownlocallyforordinarywellmadeswords. Asks intendedusebeforecommission,won\u2019tpromiseinstantcraftorautomaticmagic. No privateAvel/quarryknowledge.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-345d26d7f045",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-28T17:34:26"
+}

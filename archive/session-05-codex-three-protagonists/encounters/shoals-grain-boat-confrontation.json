@@ -1,0 +1,47 @@
+{
+  "id": "myth-enc-e8d92430e51f",
+  "name": "Shoals grain-boat confrontation",
+  "description": "d0/dawn beside Bera's second grain boat. Halla says 'Make me' and takes an en-garde stance with held handaxe. Battleaxe remains secured. Corporal releases mooring rope and reaches to draw sheathed sword; escort shield on arm and sword sheathed. Rusk shield raised, sword sheathed. Tied mooring, full HP, no attack yet, no surprise bonus: Halla's spoken threat already alerted both soldiers.",
+  "summary": "Resolved without injury. Halla stepped back and ordered both Dragon Knights away. Intimidation Easy81/84 beat corporal Willpower39/50; the escort recovered her sword and both withdrew. Bera's boats, cargo and crews remained secure. Halla Luck2.",
+  "status": "resolved",
+  "round": 3,
+  "combatants": [
+    {
+      "id": "myth-char-069d998e58a6",
+      "name": "Rusk",
+      "initiative": 15,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-420d053a214a",
+      "name": "Dragon Knight provisioning escort woman",
+      "initiative": 11,
+      "ap": 1,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 11
+    },
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "initiative": 11,
+      "ap": 2,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 11
+    },
+    {
+      "id": "myth-char-19ba91d45d76",
+      "name": "Dragon Knight provisioning corporal",
+      "initiative": 9,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 11
+    }
+  ],
+  "created_at": "2026-10-13T03:03:39"
+}

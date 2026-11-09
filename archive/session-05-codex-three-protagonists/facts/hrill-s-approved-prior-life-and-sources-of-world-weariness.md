@@ -1,0 +1,12 @@
+---
+id: "myth-fact-65fbbb2765fc"
+title: "Hrill's approved prior life and sources of world-weariness"
+statement: "Hrill Helmdance is a human knight aged 42, Rank 2, and a veteran of about twenty years of Crown service through a regional lord's company. Born into lesser gentry with limited wealth, he entered a knightly household as a youth and was knighted in early adulthood after reliable service. He learned to keep his word, care for those in his charge and answer the Crown's call; these convictions endure. His work included supply escorts, road protection, garrison duty and occasional campaigns. He eventually led a small body of soldiers, earning trust through sound judgement, planning, provisions, negotiation and bringing people home. His world-weariness accumulated as villages were burned and rebuilt and disputed boundaries changed hands repeatedly. During a successful assault on a fortified crossing a valued younger comrade was killed; within a season a settlement restored almost the former border. Hrill performed his duty competently but struggled to explain what that death achieved. He left his last service honorably when his term ended, declining another term. His aging campaign horse retired before he tried life in Purewater, and he bought no replacement. He currently has neither horse nor squire; no tragic history for a former squire is established. Purewater was an attempt at a different life. After a few months, its crime and dishonor, culminating in Baron Di Teufel's knights bullying the town, prompted him to leave. He witnessed the baron's champion defeated by Halla, a dwarf fighter from the Forge Quarter, and found it unpleasant yet satisfying. Hrill seeks hope and useful purpose in the broader realm. He is personable, intelligent, resolute and tired of repeated costly fighting, while remaining willing to protect people and use necessary force. His passions are to be a good man, stop the killing and remain loyal to the Crown. Family names, former lord and company, particular wars, the crossing and fallen comrade's names, and former squire history remain open. No disgrace, atrocity, imposed personal culpability, formal knightly order or new obligation is established."
+status: "established"
+truth: "true"
+time_index: 123
+about: ["myth-char-07bc6645bb49"]
+created_at: "2026-10-26T22:45:48"
+---
+
+OOC approval of prior-life facts, recorded tonight; no disclosure to guards or other protagonists.

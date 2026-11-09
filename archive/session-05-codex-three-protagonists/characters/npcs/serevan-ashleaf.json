@@ -1,0 +1,178 @@
+{
+  "id": "myth-char-9794605d1347",
+  "name": "Serevan Ashleaf",
+  "type": "npc",
+  "status": "active",
+  "description": "Wants restitution but owes living pupils safety. Can leave, trade information or demand an actual protective plan.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 10,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 12,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Courtesy": 60,
+    "Influence": 50,
+    "Insight": 60,
+    "Willpower": 65,
+    "Perception": 60,
+    "Survival": 60,
+    "Stealth": 55,
+    "Lore (Imperial Funerary Practice)": 70,
+    "Combat Skill": 45
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Dagger",
+      "damage": "1d4+1",
+      "size": "S"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 45
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Elf",
+    "score": {
+      "want": "Keep pupils safe and recover the funerary standard",
+      "ought": "Wants restitution but owes living pupils safety. Can leave, trade information or demand an actual protective plan.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "Kept promise and restored standard; grateful, but personal endorsement does not settle household security"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": [
+        "d8/dusk Wind Stair: Hrill deferred to Maelin. Heard independent survey and both names; introduced self and asked return of burial standard. No promise yet.",
+        "d8/dusk: Hrill offered support for redress after completing survey, no immediate action or force promised. Explained caution for pupils and offered identifying rubbing at Alder Hame.",
+        "d8/dusk: Hrill proposed petitioning reeve rather than direct confrontation with Vaust. Agreed to ready account/rubbing at Alder Hame; suggested travelling to Wendlow together after survey. No petition filed or travel begun.",
+        "d12/dusk: Hrill returned standard and explained voluntary rental/exclusion withdrawal, personally endorsed proposal. Matched rubbing, accepted restitution. Won Willpower30/65 vsInfluence12/55; declined leasing while Vaust claims household command.",
+        "d12/dusk actual site inspection: Hrill judged lookout ideal, Strategy22/75 applied success. Maelin measured post fits outsidewall. Agreed discuss paid leaseofthispatch conditionalhouse/pathindependence, no signed terms or Vaust acceptance."
+      ]
+    },
+    "role": "serevan",
+    "doing": {
+      "goal": "Keep household independent while agreed lookout is set up",
+      "next": "Indoors after jointboundaryconfirmation; no agreed enlargement/billeting/toll",
+      "where": "myth-loc-4fc1fb5cf167",
+      "as_of_session": 8
+    },
+    "pronouns": "he/him",
+    "assets": {
+      "funerary_standard": "Restored d12/dusk by Hrill, at Alder Hame table; rubbing matches engraving",
+      "rent_received_gp": 3
+    },
+    "lease_position": {
+      "status": "Active: countersigned contract and first rent received d14/dusk",
+      "site": "Outlying shoulder marked by Maelin sketch, access from ravine track",
+      "terms": "Outlying rock shoulder above dry spring shelter beyond low garden wall; Maelin sketch marks footprint/access from ravine track. House, enclosed garden, spring shelter and household path excluded.30days from acceptance/payment,3GP paid before occupation, renewal mutualconsent. Maximum2lookouts atonce,small shelter insidefootprint; no enlargement/permanentworks/additionaloccupants withoutfreshconsent. No household command,billeting/searches; householdpathopen,no toll/obstruction; postaccessfromravinetrack only. Eitherparty7daysnotice; breachpermitsrequestimmediatewithdrawal,contested enforcementtoCrownreeve, notautomaticforce. Removeequipment/leavegroundusable attermend. Standard unconditionalrestitution separatefromlease. Serevansignedoffer; Vaustunsigned/no payment. Hrillcourier,notguarantor/signatory.",
+      "price_gp": 3,
+      "duration": "30days from acceptance and advance payment",
+      "vaust_knows": "Acceptance known to Vaust; actual payment receipt not yet reported",
+      "starts": "d14/dusk",
+      "ends": "d44/dusk"
+    }
+  },
+  "actor_notes": "LOOKS: lean elf with ink-stained sleeves and a travelling cloak repaired at both shoulders. CORE: teaching is how a household survives being driven away. NATURE: dry humour, patient with learners, impatient with flattery. WOUND: forced to choose what books and possessions could be carried. WANTS: pupils safe and stolen heritage returned. PRESSURE: retreats into exact answers and independent action. KEY: measured plain speech, sparse figurative language.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": "myth-loc-4fc1fb5cf167",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-25T21:09:17"
+}

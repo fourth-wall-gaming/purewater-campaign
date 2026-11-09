@@ -1,0 +1,79 @@
+{
+  "damage": {
+    "success": true,
+    "attacker": "Hrill Helmdance",
+    "defender": "Corl Hen",
+    "effects_applied": [
+      "trip"
+    ],
+    "damage_roll": {
+      "expr": "1d8",
+      "rolls": [
+        6
+      ],
+      "total": 6
+    },
+    "damage_modifier_roll": {
+      "expr": "+1d4",
+      "rolls": [
+        1
+      ],
+      "total": 1
+    },
+    "hit_location": {
+      "roll": 20,
+      "location": "Head"
+    },
+    "wound": {
+      "location": "Head",
+      "raw_damage": 7,
+      "armor": 2,
+      "net_damage": 5,
+      "current_hp": 0,
+      "starting_hp": 5,
+      "wound": "serious"
+    },
+    "followups": [
+      {
+        "effect": "trip",
+        "name": "Trip",
+        "contest": "Brawn or Evade or Acrobatics",
+        "defender_chooses": true,
+        "command": "roll-opposed --id-a myth-char-07bc6645bb49 --skill-a <skill> --id-b myth-char-ed1a4282d985 --skill-b <Brawn|Evade|Acrobatics>"
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d25/dusk",
+      "minute_in_watch": 257,
+      "scene": "d25/dusk minute257 narrowboulderbendGreywatch. Activeencounter myth-enc-96a35fea27ae round1. Hrillinitiative19 attackedfrontCorlinitiative17; Venn17 behind8ft, unable directstrikepastally withoutreposition. Longswordspecialist25/75success vsCorlShield98/50failure, oneeffecttoHrill; frozenrollawait resolve-effects. Available choose-location,damage-weapon,trip,disarm; playerchoicepending, no damagerolled. APHrill2 Corl1 Venn2. Hlongswordrightshieldleftbowsslung19arrows mail5fullHPFreshLuck3 18GPkeybelt. Spearmenarmor2fullHP; Corlfront6ft,Venn8ftbehind; roughlateral20ftflankrequiresmovement. No onehascalledwarningyet, yard/quaynoLOSbutcanhearashout; other8holdactualpositions. Halwenreturn239->359 nohelpyet. No extraattack,effects,damage,clockadvanceorNPCteleport.",
+      "session": 8
+    },
+    "world_high_water": "d25/dusk"
+  },
+  "mastery": {
+    "base_damage_modifier": "+1d2",
+    "longsword_modifier": "+1d4",
+    "critical_threshold": 16,
+    "attack_roll": 25,
+    "critical_changed": false
+  },
+  "trip_resistance": {
+    "roll": 51,
+    "skill": 45,
+    "against_original_attack": 25,
+    "outcome": "fails, prone"
+  },
+  "serious_head_resistance": {
+    "roll": 32,
+    "skill": 45,
+    "against_original_attack": 25,
+    "outcome": "wins, remains conscious"
+  },
+  "stun_turns": 1,
+  "corl_current_head_hp": 0
+}

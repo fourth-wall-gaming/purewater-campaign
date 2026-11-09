@@ -1,0 +1,367 @@
+[
+  {
+    "name": "Oren Vey",
+    "stats": {
+      "STR": 8,
+      "CON": 11,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 18,
+      "POW": 18,
+      "CHA": 15
+    },
+    "skills": {
+      "Arcane Casting": 120,
+      "Arcane Knowledge": 120,
+      "Willpower": 115,
+      "Insight": 85,
+      "Perception": 90,
+      "Influence": 95,
+      "Courtesy": 95,
+      "Streetwise": 55,
+      "Evade": 55,
+      "Language (Common)": 90,
+      "Lore (Arcane history)": 120,
+      "Lore (Old manuscripts)": 115
+    },
+    "attributes": {
+      "action_points": 4,
+      "magic_points": 18,
+      "luck_points": 0,
+      "movement": "6.096m (20 feet)"
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 8,
+        "ap": 0
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 9,
+        "ap": 0
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 7,
+        "ap": 0
+      }
+    ],
+    "class": "Magic-User",
+    "rank": 4,
+    "rank_title": "Arch Mage",
+    "sorcery_spells": [
+      "Read Magic",
+      "Avert",
+      "Protection",
+      "Magic Tricks",
+      "Repair",
+      "Preserve",
+      "Appraise",
+      "Detect Magic",
+      "Identify",
+      "Shield",
+      "Armor",
+      "Change Appearance",
+      "Illusion",
+      "Invisibility",
+      "Sleep",
+      "Magic Missile",
+      "Dispel Magic",
+      "Detect Invisibility",
+      "Locate Object",
+      "Mage Lock",
+      "Mirror Image",
+      "Fly",
+      "Hold Person",
+      "Dimension Door",
+      "Invisibility, Greater",
+      "Wizard Sight",
+      "Confusion",
+      "Enchant Item",
+      "Permanency"
+    ],
+    "powers": [
+      {
+        "name": "Mental Strength",
+        "effect": "Once per day, mental magic resistance two grades easier; disbelieve illusions one grade easier."
+      }
+    ],
+    "prepared_spells": {
+      "0": [
+        "Read Magic",
+        "Avert",
+        "Protection",
+        "Magic Tricks",
+        "Repair",
+        "Preserve",
+        "Appraise"
+      ],
+      "1": [
+        "Detect Magic",
+        "Identify",
+        "Shield",
+        "Armor",
+        "Change Appearance",
+        "Illusion",
+        "Invisibility",
+        "Sleep",
+        "Magic Missile"
+      ],
+      "2": [
+        "Dispel Magic",
+        "Detect Invisibility",
+        "Locate Object",
+        "Mage Lock",
+        "Mirror Image",
+        "Fly",
+        "Hold Person"
+      ],
+      "3": [
+        "Dimension Door",
+        "Invisibility, Greater",
+        "Wizard Sight",
+        "Confusion"
+      ],
+      "4": [
+        "Enchant Item",
+        "Permanency"
+      ]
+    },
+    "equipment": [
+      "Pale grey coat",
+      "Silver-mounted spectacles",
+      "Correspondence case"
+    ],
+    "notes": "Established independent master of divination, illusion and old texts, resident at the House of Small Windows on High Isle. Private library and patronage support a pursuit of a vanished magician’s dispersed library. Has limited professional exchanges with Hesper; does not know Hesper’s private allegiance. No Crown office.",
+    "score": {
+      "want": "Have visiting scholars entrust rare material to his care.",
+      "ought": "Return another person’s property when asked, even if he could preserve it better.",
+      "driver": "Fear that the most important work of his life will leave his reach.",
+      "stated_reason": "Good scholarship needs dry rooms and responsible custodians.",
+      "focus": "prevention",
+      "status": {
+        "Nimras": "Established host addressing a younger professional; becomes more formal if treated as an obstacle.",
+        "Rennic Vaur": "Colleague whose impatience he indulges."
+      },
+      "tactics": [
+        "Offer ordinary hospitality and useful access",
+        "Offer an exchange or ask for a copy",
+        "Withhold his own private material",
+        "Withdraw and protect himself if attacked"
+      ],
+      "when_lied_to": "miss",
+      "blind_spot": "Calls his own collecting preservation and other collectors possessive.",
+      "rhythm": "Unhurried complete sentences, occasional scholarly digressions; answers ordinary questions readily.",
+      "physical": "Handles papers and spectacles carefully; attire is worn comfortably rather than displayed.",
+      "secret": "A prized fragment in his private collection is only a copy; he has not admitted the mistake.",
+      "observed": []
+    },
+    "actor_notes": "LOOKS: elderly man in a pale grey coat, ink at a cuff, silver-mounted spectacles. CORE: a hospitable collector who believes access to knowledge depends on someone keeping it safe. NATURE: sociable with scholars, patient with questions, pleased by an exact observation. WOUND: discoveries which were lost because he could not obtain them in time. WANTS: useful exchanges without losing custody of what he already has. PRESSURE: formality replaces warmth; he protects his own property and retreats before risking his life. KEY: register is cultivated and conversational; he does not enumerate or issue military commands."
+  },
+  {
+    "name": "Rennic Vaur",
+    "stats": {
+      "STR": 10,
+      "CON": 13,
+      "SIZ": 13,
+      "DEX": 14,
+      "INT": 16,
+      "POW": 16,
+      "CHA": 12
+    },
+    "skills": {
+      "Arcane Casting": 95,
+      "Arcane Knowledge": 95,
+      "Willpower": 95,
+      "Insight": 90,
+      "Perception": 75,
+      "Influence": 60,
+      "Streetwise": 55,
+      "Survival": 65,
+      "Stealth": 60,
+      "Deceit": 50,
+      "Evade": 75,
+      "Athletics": 45,
+      "Lore (Magical traditions)": 85,
+      "Lore (Waterworks surveys)": 70
+    },
+    "attributes": {
+      "action_points": 3,
+      "magic_points": 16,
+      "luck_points": 0,
+      "movement": "6.096m (20 feet)"
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 8,
+        "ap": 0
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 9,
+        "ap": 0
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 7,
+        "ap": 0
+      }
+    ],
+    "class": "Magic-User",
+    "rank": 3,
+    "rank_title": "Adept Mage",
+    "sorcery_spells": [
+      "Read Magic",
+      "Avert",
+      "Protection",
+      "Coordination",
+      "Repair",
+      "Appraise",
+      "Magic Tricks",
+      "Befuddle",
+      "Shield",
+      "Armor",
+      "Magic Missile",
+      "Detect Magic",
+      "Change Appearance",
+      "Invisibility",
+      "Sleep",
+      "Web",
+      "Dispel Magic",
+      "Lightning Bolt",
+      "Locate Object",
+      "Mirror Image",
+      "Fly",
+      "Hold Person",
+      "Dimension Door",
+      "Invisibility, Greater",
+      "Wizard Sight"
+    ],
+    "prepared_spells": {
+      "0": [
+        "Read Magic",
+        "Avert",
+        "Protection",
+        "Coordination",
+        "Repair",
+        "Appraise",
+        "Magic Tricks"
+      ],
+      "1": [
+        "Shield",
+        "Magic Missile",
+        "Detect Magic",
+        "Change Appearance",
+        "Invisibility",
+        "Sleep",
+        "Web",
+        "Armor"
+      ],
+      "2": [
+        "Dispel Magic",
+        "Lightning Bolt",
+        "Locate Object",
+        "Mirror Image",
+        "Fly",
+        "Hold Person"
+      ],
+      "3": [
+        "Dimension Door",
+        "Wizard Sight"
+      ]
+    },
+    "powers": [
+      {
+        "name": "Mental Strength",
+        "effect": "Once per day, mental magic resistance two grades easier; disbelieve illusions one grade easier."
+      }
+    ],
+    "equipment": [
+      "Weathered travelling coat",
+      "Manuscript carrying case",
+      "Survey notes",
+      "Surveying tools"
+    ],
+    "notes": "Nimras’s former teacher and an experienced mage hunter trained by the same independent fellowship. Has retained an entrusted manuscript beyond his authority and come to Purewater to compare its old surveys with physical structures. Believes that the work matters; that belief does not prove every claim. Not possessed, not part of Hanzo’s household and not automatically hostile to Nimras.",
+    "score": {
+      "want": "Get his former colleagues to allow him to complete his comparison before returning the manuscript.",
+      "ought": "Honour the fellowship’s trust and return material entrusted for limited study.",
+      "driver": "Wants to produce work of his own after years finishing other people’s assignments.",
+      "stated_reason": "The comparison could keep public access from being lost through ignorance.",
+      "focus": "promotion",
+      "status": {
+        "Nimras": "Treats him as a capable former pupil, initially overlooking how independent he has become.",
+        "Oren Vey": "Useful peer whom he finds overprotective of books."
+      },
+      "tactics": [
+        "Show physical findings and ask for time",
+        "Offer a bounded comparison or escorted visit",
+        "Negotiate custody and copying",
+        "Withdraw from unlawful force; defend himself only as actually needed"
+      ],
+      "when_lied_to": "miss",
+      "blind_spot": "Treats his own overdue return as urgent scholarship and others’ similar conduct as evasive.",
+      "rhythm": "Plain short statements; direct replies; technical detail only when asked.",
+      "physical": "Practical tools and repaired clothing; studies an object by turning it rather than declaiming about it.",
+      "secret": "He has not yet proved the survey interpretation on which he staked his reputation.",
+      "observed": []
+    },
+    "actor_notes": "LOOKS: lean middle-aged traveller with closely cropped grey hair, a repaired coat and callused hands. CORE: a former hunter trying to make a discovery without admitting how much he needs it to be right. NATURE: practical, blunt, capable of affectionate teasing with old pupils; generally answers directly. WOUND: decades of useful service remembered under other people’s names. WANTS: enough time to test his findings without forfeiting his own judgement. PRESSURE: becomes terse and seeks a physical exit before escalating to force. KEY: no riddles, no counted preambles, no speeches about what another person feels."
+  }
+]

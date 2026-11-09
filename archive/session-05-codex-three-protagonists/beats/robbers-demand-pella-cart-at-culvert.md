@@ -1,0 +1,44 @@
+---
+id: "myth-beat-cd3d29d88d03"
+title: "Robbers demand Pella cart at culvert"
+summary: "Four armed robbers block a carrier at a dry culvert; patrol can intervene from covered bend."
+status: "played"
+when: "d29/day"
+time_index: 181
+trigger: "time"
+onscreen_if: "Watch circuit passes at day180; no preemptive harm. Stage before any shot or completed theft."
+agenda: "myth-agenda-91b21029f1a1"
+place: "myth-loc-c189873fc06a"
+cast: ["myth-char-2ba4d0205f0d", "myth-char-4e202c6ec7e0", "myth-char-a91a8a3881b5", "myth-char-b93379d9f38f", "myth-char-dd7ce8e82dd0"]
+created_at: "2026-10-28T07:19:59"
+---
+
+# Hrill: the Culvert Patrol
+
+A compact incident within accepted Crown watch service, not a compulsory new campaign. User wants routine work compressed, comradeship, military usefulness, and a stop for significant drama. Reuse explicit preferences: tactical risk, sword/shield, protect people, honor and Crown, spare needless killing. No new interview needed. Clock held d29/dawn135 during preparation.
+
+## Preserved state and global thread
+Greywatch won, ten captives held; Marden received report, relief transport not yet arranged. No revenge reinforcement, no automatic linkage to Hanzo. Work term29-35 at1GP/day plus board accepted; no salary yet. Hrill20GPfullHPFreshMP8Luck3ownlongswordmailshieldbow18arrows. OtherPCclocks untouched. This incident explores the global theme through independent local violence: public service protects livelihoods where armed men claim a right to take. The robbers serve no Dragon King, Avel or Hanzo; no concealed conspiracy clue.
+
+## Dramatic problem and cast
+Four itinerant robbers intend to steal Pella Wren's eight wool bundles and her mule/cart, resale value12GP, to finance the winter. Joric Vane formerly soldiered elsewhere and now leads by force; no invented personal tie to Hrill. They chose an ordinary passing cart at an isolated culvert; no omniscient knowledge of watch timing. No one hurt or robbery automatically successful. They will threaten and fight to escape arrest, but yield if pinned or disarmed; no execution of a hostage just because outnumbered. Joric prefers armed retreat to death, can accept arrest if trapped. If offered a way to surrender, other men can take it separately.
+
+Allies are Sergeant Brann Tarrow, watchmen Orrin Fell and Benno Reed, and Hrill: four on foot, ordinary watch patrol, no cavalry. Brann commands his patrol but can accept a veteran's tactical proposal; he protects the driver, uses cover against missiles, offers surrender, and acts with his actual weapons/AP. Orrin follows practical orders, brings crossbow; Benno inexperienced but competent with spear/shield, no automatic cowardice. Neither is a disposable victim. Hrill has met them at muster and shared the routine watch before incident; no manufactured intimacy. Pella is an independent carrier, wants her mule/cart/cargo safe, complies if threatened, can retreat to culvert-bank cover if actually given a safe opening. Their knowledge is only what they can see plus normal duty; do not know Joric's name/camp or otherPCsecrets.
+
+Opponents: Joric longsword/shield65, Brawn60, Influence55; Dain Sedge crossbow55, dagger40; Moss Pell crossbow50, spear50; Kell Rook spear55 shield, Brawn55. Four total, no reinforcements. Two crossbows loaded, twelve bolts apiece, reload4; two shields, one longsword, two spears, one dagger, one20ftrope, cash4GPtotal, food8persondays. No spellcasting or Luck. Joric brigandine3 torso/arms/helm,2legs; otherrobbersleather2. Allyarmor3torso/helm2limbs; ordinary weapons, onecrossbow18bolts. Mule/cart/cargo remain Pella's unless actual seizure succeeds; mule does not attack or panic automatically.
+
+## Knowledge and evidence
+Robbers alone know their unused charcoal shelter400yards east and stolen wool intent; bootprints/tracks, any captive's directions, or observing escape each offer routes. No need for a witness to explain a mystery. Pella knows her lawful cargo/route and demands just made, not robber names; torn lashing would establish theft only if actually cut. Hrill/patrol can plainly observe armed men blocking cart and a leveled crossbow; authority can be challenged in play. No heraldry, Crown uniforms or false orders. Marden knows only assigned routine circuit, not this encounter until someone reports. Report/runner must actually walk back20minutes.
+
+## Three-act opportunities
+ACT I: stop the roadside coercion and protect the carrier. For: take real ground, cover civilians, challenge authority, negotiate or fight. Takes: bolt/blade injuries, hostages or stolen livelihood are possible, not mandatory. Without intervention, Joric tries to compel surrender of cart then withdraws east; resolve resistance. Warning: visible leveled crossbow and road block, no surprise shot. Turning condition: driver safely freed, robbers surrender/retreat, or actual armed contest.
+ACT II: contain escape and surviving capacity only if needed. For: use troop cooperation, track the single shelter or recover lost cart; alternate approach from dry culvert/hedge. Takes: split patrol, ambush by known surviving weapons, fatigue/time. No chase if victory already complete; no mandatory second battle or injured ally. Early surrender ends resistance.
+ACT III: settle surviving threat and restitution. For: preserve lives, recover actual loot, bring captives lawfully20minutes back toHythe. Takes: escape risk if custody carelessly arranged; no invisible corrupt magistrate, new patron or revived company. Clear win: carrier/cargo safe and threat ended. Negotiated win: surrender with lawful hearing, no guaranteed pardon; partial: carrier saved but some robbers escape or property taken; defeat: robbers get cart/captive or patrol retreats, recovery possible. Dead/injured consequences only actual mechanics. No compulsory killing or pursuit.
+
+## Situation cards
+1. CULVERT DEMAND: d29/day180, modest Downs-road spur halfmile from Hythe. Rough grumbling/raised driver voice heard around hedge bend. Patrol at x0; cart side-on x60ft; low stone parapet and ditch x20ft available fullcover when crouched. Joric beside muleheadx65ft sword drawn down; Kell at cart rearx75 spear; Dainx80 crossbow pointing at Pella beside cartx60; Mossx95 behind east hedge crossbow covering road, visible barrel/upper body, partialcover. Open road12ftwide, culvert spans dry6ftditch3ftdeep, no water/swimming; hedge gapsx30/x100 give approaches, easttracktocharcoalshelter400yards, westroadHythe20min. Patrol can stop behind bendx0 out of direct sight and talk/observe; no PC ambush detection/stealth assumed. No enemy knows Hrill's skills or name. Fourrobbers visible with observation, no hidden fifth. Opening no roll/noattack untilplayer reacts; then initiative before shots/melee, all AP real. Aim/reload/moving use actual actions; crossbow cannot freely parry or fire/reload everyturn. Passive shield cover declared; NPCs take cover, protect driver, resist. Strategy/Engineering/Athletics/Influence/Passions support chosen approaches, never mandatory; player chooses defense/effects. Failedchecks cost cover/time/position, not erase negotiation. Captureleader can end resistance if leverage credible, not mindcontrol.
+2. CHARCOAL SHELTER, conditional:400yards east down known/tracked path, 5minutes ordinary travel, small roofless kiln and leanto, two exits30ftapart, halfwallcover, cookpot2GP and8rationdays part of robbers' finite inventory. No extra people or treasure. Survivors may use cover, surrender or continue escaping through coppice. Approach from road, follow footprints, or circle through openwood. Persuasion/capture/encirclement/fighting possible. Deserter history discoverable by conversation but not a royal conspiracy. If all4caughtatculvert, shelteruncontested.
+3. SAFE RETURN:20minutes to watchyard after actual custody secured, no automatic ambush. Pella can retain/drive owncart and claim restitution. Crown hearing/reward not presumed; crew aid valid. Log injuries, weapons lost, restraints available and specific custody people. No scene if no meaningful risk.
+
+## Readiness and counterfactual audit
+Full native cast sheets, finite weapons/food/cash, three locations, common knowledge facts/unknowns, conditional operation and scoped arc persisted beforeopening. Firstaction: Hrill responds from protected bend to visible armed coercion with allied troop present. Doesnotpreselecthis action or spendAP. Refusal: allies can act and operation rolled, no forcedenlistment. Authorities: Brann already legitimate authority; Marden reachable20min not omnipresent. Negotiation/boughtwithdrawal possible, accountability unchanged. Earlycapture ends adventure, no replacementboss. Outoforderkiln approach valid through actual route. Retreat preserves what actually survives. No priorvictory undone, no invented past crime byHrill, no automaticdeath/hostageseizure. Routinewatch/muster/meal compressed and no roll for ordinary work.

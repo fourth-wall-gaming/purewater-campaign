@@ -1,0 +1,188 @@
+{
+  "id": "myth-char-eea349d4bec5",
+  "name": "Sergeant Cessa Dorn",
+  "type": "npc",
+  "status": "active",
+  "description": "Wants a quiet contract; owes obedience. Accepts lawful restraint or paid withdrawal when credible, not by automatic defection.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 12,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Combat Skill": 60,
+    "Athletics": 50,
+    "Brawn": 50,
+    "Endurance": 55,
+    "Evade": 45,
+    "Influence": 50,
+    "Deceit": 35,
+    "Insight": 45,
+    "Willpower": 55,
+    "Perception": 55,
+    "Ride": 50
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Longsword",
+      "damage": "1d8",
+      "size": "M"
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 60
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Human",
+    "score": {
+      "want": "Keep the company paid and avoid pointless losses",
+      "ought": "Wants a quiet contract; owes obedience. Accepts lawful restraint or paid withdrawal when credible, not by automatic defection.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": [
+        "d9/day: after departing White Cairn dawn and half-day cart journey, encountered unknown knight and surveyor at Wind Stair. Introduced herself and asked route condition, no knowledge of Serevan conversation.",
+        "d9/day Wind Stair: surveyor warned foot passage possible but loaded cart should be belayed. Asked unknown knight to help cross; answer pending. No knowledge of private inspection or Serevan discussion.",
+        "d9/day voice continuation: unknown knight helped belay cart, was friendly/professional, described self as hired hand. Agreed to tell Three Hearths they are friendly, not bandits, helping road. No delivery yet.",
+        "d10/day: Hrill objected to guest exclusion under road licence and asked why Serevan was singled out. Admitted no charge supplied with instruction, offered to ask Vaust; no knowledge of relic or prior Hrill/Serevan meeting.",
+        "d10/day: Hrill asked whether Vaust would discuss exclusion as question of honor. Offered introduction at White Cairn if he returns with escort; no threat or challenge to duel assumed, invitation unanswered.",
+        "d11/dusk: Heard Serevan burial-item claim and Vaust admit standard removed from dig. At Vaust direction unlocked chest and exposed engraved metal standard-head. Now knows this object's identity and location, not sale purpose or provenance beyond statements."
+      ]
+    },
+    "role": "cessa",
+    "doing": {
+      "goal": "Support bounded lawful road work",
+      "next": "Arrived White Cairn d15/dusk, reported rent and working post; no further movement assigned",
+      "where": "myth-loc-1518aa5a203b",
+      "as_of_session": 8
+    },
+    "pronouns": "she/her",
+    "assets": {
+      "escort": [
+        "myth-char-7f6b84d0f737",
+        "myth-char-7e9437535c60"
+      ],
+      "grain_sacks": 6,
+      "carts": 1,
+      "draft_horses": 1,
+      "pledge": "in bag, not shown",
+      "lease_rent_custody_gp": 0,
+      "lease_document": "Delivered signed original to Serevan d14/dusk",
+      "post_shelter": "Existing camp canvas tent packed at rock shoulder; erection pending"
+    },
+    "temporary_custody": {
+      "key": "Vaust relic-chest key handed over to open shed-wagon chest; not returned yet"
+    }
+  },
+  "actor_notes": "LOOKS: compact woman with close-cropped hair, leather armour and a mended shield strap. CORE: promises to soldiers mean wages and a route home. NATURE: blunt, likes good meals and undramatic company. WOUND: survived a commander who spent people to save face. WANTS: paid people and no futile fight. PRESSURE: narrows demands, withdraws if she can, fights if trapped. KEY: economical speech, no military philosophy.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": "myth-loc-1518aa5a203b",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-25T21:09:17"
+}

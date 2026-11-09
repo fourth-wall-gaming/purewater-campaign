@@ -1,0 +1,17 @@
+{
+  "before": 5,
+  "after": 4,
+  "original_roll": 91,
+  "reversed_roll": 19,
+  "opponent_roll": 14,
+  "opponent_skill": 40,
+  "skill": 70,
+  "complete": true,
+  "changed_events": [
+    "myth-event-8cb690a086f9",
+    "myth-event-6c7259b2df39"
+  ],
+  "background_fact": "myth-fact-ff0fb23fbd00",
+  "disclosure_fact": "myth-fact-e1246078c05d",
+  "check_ok": true
+}

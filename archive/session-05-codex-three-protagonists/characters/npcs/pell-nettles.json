@@ -1,0 +1,141 @@
+{
+  "id": "myth-char-f85fdf2477ae",
+  "name": "Pell Nettles",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult Purewater crowd thief who works festivals, ferry queues and tournament grounds.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 9,
+    "CON": 10,
+    "SIZ": 10,
+    "DEX": 15,
+    "INT": 13,
+    "POW": 10,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "-1d2",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 14,
+    "luck_points": 0,
+    "magic_points": 10,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 24,
+    "Boating": 19,
+    "Brawn": 19,
+    "Conceal": 25,
+    "Dance": 26,
+    "Deceit": 24,
+    "Drive": 25,
+    "Endurance": 20,
+    "Evade": 48,
+    "First Aid": 28,
+    "Influence": 22,
+    "Insight": 23,
+    "Locale": 26,
+    "Perception": 52,
+    "Ride": 25,
+    "Sing": 21,
+    "Stealth": 58,
+    "Swim": 19,
+    "Unarmed": 24,
+    "Willpower": 20,
+    "Customs": 66,
+    "Native Tongue": 64,
+    "Sleight": 64
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 3,
+      "current_hp": 3
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 3,
+      "current_hp": 3
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {},
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "luck_policy": "PC-only campaign rule: NPCs have no Luck pool or Luck rank bonuses; never spend Luck for NPC rerolls, reversals or damage mitigation."
+  },
+  "actor_notes": "Pell Nettles\nLOOKS: Wiry adult in a rain-grey coat, with a yellow scarf tucked at the throat and quick narrow hands. No visible weapon.\nCORE: A local crowd thief who treats festivals as harvest and believes getting greedy is how professionals get caught.\nNATURE: Cheerful, alert, and proud of clean work. Likes crowds and dislikes enclosed rooms.\nWOUND: An old arrest cost Pell a year and two fingertips; uniforms and locked doors now end every argument.\nWANTS: One good purse before the crowd thins.\nPRESSURE: Runs immediately, discards the take, and lies only if escape is blocked.\nKEY: \"Wasn't your purse, was it?\"",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": "myth-loc-95b0d058ff45",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-13T05:46:26"
+}

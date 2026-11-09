@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "id": "myth-char-55eac4f06b3f",
+  "name": "Halwen Tarr",
+  "pronouns": "she",
+  "gender_note": null,
+  "status": "active",
+  "description": "she. Plain, ordinarily gossipy keeper. Wants shelter and adult sibling Bess safe. Knows pursued route, demand and cistern maintenance; no political secret or enemy roster. Seeks refuge, guides only by consent.",
+  "location": "Listening Reeds",
+  "actor_notes": "Plain, ordinarily gossipy keeper. Wants shelter and adult sibling Bess safe. Knows pursued route, demand and cistern maintenance; no political secret or enemy roster. Seeks refuge, guides only by consent.",
+  "notes_source": "actor-notes",
+  "agendas": [],
+  "believes": [],
+  "guidance": null,
+  "storyline": {
+    "id": "myth-storyline-0fea5d34980f",
+    "name": "Hrill",
+    "pcs": [
+      "myth-char-07bc6645bb49"
+    ],
+    "now": "d25/dusk",
+    "minute_in_watch": 92,
+    "scene": "d25/dusk minute92 ListeningReeds teaching-house.45minhistorycompressed:HrilllearnsSelithaccountDragonKings/dragonknights,uprising/SwordsLake,shoretraditionsolderwaterpowers/LakeLadyresistance;localhouseholdrefuge/shelter/oldplacenamerecords. No activeimperialplot/Baronritual/otherPCsecret/skillgain. Eddaindoorwayasks We\u2019re sailing south at first light.Will you be aboard? Hanswerpending,noPCdestinationchosen/noovernightrest/day26. Selithrecordsaccessiblebyconsent,route3/3achieved,hunt2/3active. Ilyenreported/preparingreturnwatch,nolatereventassumed. H18GP/paid25/eightdaysinitialtermthrough27/fullHP/Fresh/Luck4/AP0/swordsheathed/bowloweredunnocked20arrows;mail/shieldaboardsoundmooredGreyHeron0bales,2Edda-ownedconsignmentNarrowWater,8GPtradereceivabledue35.",
+    "session": 8
+  },
+  "world_high_water": "d25/dusk"
+}

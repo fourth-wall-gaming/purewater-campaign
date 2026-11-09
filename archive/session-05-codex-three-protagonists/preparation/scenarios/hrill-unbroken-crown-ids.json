@@ -1,0 +1,1675 @@
+{
+  "correct_entry": {
+    "success": true,
+    "fact": {
+      "id": "myth-fact-66080797ec39",
+      "title": "Dane answers customer questions; the old garrison mark is historical provenance",
+      "statement": "At41day280afterHrill explainswatchinquiry,Dane repeats60GPpurchaseandself-financedventure,showsmatchingreceipt/survey,withholdscustomernamesatinitialrequest. Five-minutequestionsand20-minuteapproachtosafeentrancestand. OldcrownedGARRISON STORESmarkishistoricalimperialprovenance,notamodernCrownownershipclaim.ThewatchisinvestigatingswornallegiancetoDragonKings,coercionandpossibleconnectionswithAvel,notimpoundingorjudgingDane\u2019ssalvage.Nobodycrossesunsafe landing.Jo/Ivoatcamp. HrillsupportsfairtreatmentofDane. No compensation/title proceedings occurred in corrected scene.",
+      "status": "established",
+      "truth": "true",
+      "time_index": 229,
+      "when": "d41/day",
+      "narrative": null,
+      "about": [],
+      "about_names": [],
+      "from": null,
+      "from_name": null
+    },
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "supersede_myth-fact-23efb6e86a27": {
+    "success": true,
+    "fact": {
+      "id": "myth-fact-23efb6e86a27",
+      "title": "Dane seeks fair settlement after Hrill acknowledges the limited receipt",
+      "statement": "At41day280Hrillsayshewouldnotcontestthegarrisonmark/receipt\u2019slimitedscope. DaneproposesCrownsettlehisclaimforsurveyandwork,assertshonestpurchaseandexpectsfairtreatment. Thisopensalready-preparednegotiatedsettlementroute,nopriceyetnamed,noCrownfundscreatedorpayment/forfeiture/ownershipverdictagreed. Dane\u2019spersonalceremonialmail/signet/surveyremainhislegitimategoods,oldstorecontentssubjecttoactualclaiminspection. HrillhasnotvolunteeredpersonalmoneyoraccusedDaneofcommissioningAvel.",
+      "status": "superseded",
+      "truth": "true",
+      "time_index": 229,
+      "when": "d41/day",
+      "narrative": "OOC-agreed correction: salvage-title/compensation detour withdrawn; not an event or memory in corrected play. Native checkpoint and journal preserve audit.",
+      "about": [],
+      "about_names": [],
+      "from": null,
+      "from_name": null
+    },
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "forget_myth-char-07bc6645bb49_myth-fact-23efb6e86a27": {
+    "success": true,
+    "knower": "myth-char-07bc6645bb49",
+    "fact": "myth-fact-23efb6e86a27",
+    "forgotten": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "forget_myth-char-e1868d3d940c_myth-fact-23efb6e86a27": {
+    "success": true,
+    "knower": "myth-char-e1868d3d940c",
+    "fact": "myth-fact-23efb6e86a27",
+    "forgotten": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "forget_myth-char-9566e8a59e69_myth-fact-23efb6e86a27": {
+    "success": true,
+    "knower": "myth-char-9566e8a59e69",
+    "fact": "myth-fact-23efb6e86a27",
+    "forgotten": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "supersede_myth-fact-5e7e75a170a1": {
+    "success": true,
+    "fact": {
+      "id": "myth-fact-5e7e75a170a1",
+      "title": "Hrill supports Dane\u2019s compensation claim; Lysa agrees to endorse it",
+      "statement": "At41day280Hrill backsDane\u2019srequestforfaircompensation,pointingtoactualsurvey/tool/wage/carpenterexpensesandcareoverunsafefooting. LysasaysshewillendorsereasonableexpensesandrecordHrill\u2019ssupport;Dane\u2019spersonallypurchasedmail/signet/surveyremainhis.Sheasksstoreleftuntouchedwhilelawfultitleexamined. Thisisofficialsupportforaclaim,notapprovedamount/payment/finalownershiprulingorHrillpersonalguarantee.Noarrestorpunishmentforbeliefs. Dane\u2019sacceptanceofanyfinalprice/holdremainsunresolved,notautomaticagenda defeat.",
+      "status": "superseded",
+      "truth": "true",
+      "time_index": 229,
+      "when": "d41/day",
+      "narrative": "OOC-agreed correction: salvage-title/compensation detour withdrawn; not an event or memory in corrected play. Native checkpoint and journal preserve audit.",
+      "about": [],
+      "about_names": [],
+      "from": null,
+      "from_name": null
+    },
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "forget_myth-char-07bc6645bb49_myth-fact-5e7e75a170a1": {
+    "success": true,
+    "knower": "myth-char-07bc6645bb49",
+    "fact": "myth-fact-5e7e75a170a1",
+    "forgotten": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "forget_myth-char-e1868d3d940c_myth-fact-5e7e75a170a1": {
+    "success": true,
+    "knower": "myth-char-e1868d3d940c",
+    "fact": "myth-fact-5e7e75a170a1",
+    "forgotten": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "forget_myth-char-9566e8a59e69_myth-fact-5e7e75a170a1": {
+    "success": true,
+    "knower": "myth-char-9566e8a59e69",
+    "fact": "myth-fact-5e7e75a170a1",
+    "forgotten": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "retire_myth-event-18e9d72c977f": {
+    "success": true,
+    "id": "myth-event-18e9d72c977f",
+    "type": "myth-game-event",
+    "canon_status": "superseded",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "meta_myth-event-18e9d72c977f": {
+    "success": true,
+    "id": "myth-event-18e9d72c977f",
+    "participants_linked": 0,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "retire_myth-event-c3a20fbd2858": {
+    "success": true,
+    "id": "myth-event-c3a20fbd2858",
+    "type": "myth-game-event",
+    "canon_status": "superseded",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "meta_myth-event-c3a20fbd2858": {
+    "success": true,
+    "id": "myth-event-c3a20fbd2858",
+    "participants_linked": 0,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "entry_journal": {
+    "success": true,
+    "id": "myth-event-cb20005813e1",
+    "participants_linked": 0,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "guide_brief": {
+    "success": true,
+    "fact": {
+      "id": "myth-fact-3450ff3967e8",
+      "title": "Hrill volunteers as guide for Lysa\u2019s quarry inspection",
+      "statement": "At41day15HrillacceptsguidingLysaBellJoRenIvoGelltothequarrytoquestionDaneregardingcustomercontacts,swornallegiancetoDragonKingsandpossiblecoercionfollowingAvelarmedattack.Hisquarryfindprovidescontext,notamodernCrownpropertycase.60minpreparation180minwalkstand,threewatchremainpost,noCrownwage/oath.",
+      "status": "established",
+      "truth": "true",
+      "time_index": 229,
+      "when": "d41/day",
+      "narrative": null,
+      "about": [],
+      "about_names": [],
+      "from": null,
+      "from_name": null
+    },
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "salvage_agenda": {
+    "success": true,
+    "id": "myth-agenda-c17b99147807",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "salvage_op2": {
+    "success": true,
+    "beat": {
+      "id": "myth-beat-e6c2af0a344c",
+      "title": "Inspect and load the arsenal if accessible",
+      "summary": "Safe access and actual loading required; expedition left alone by watch. No title/compensation plot.",
+      "status": "pending",
+      "when": "d41/dusk",
+      "time_index": 230,
+      "trigger": "clock>=1",
+      "onscreen_if": "Actual safe access and time/workers, or PC directly intervenes. Watch presence does not itself prohibit salvage or grant NPC success.",
+      "branches": null,
+      "result": null,
+      "narrative": "Sidecrawl safe, mainlanding unshored after actual checks. 4mail8swords12spears80boltsremainbelow,2mail1swordconfirmedcondition. Genuinechangedmethod/materialsandactualworkrequiredforfurtherprogress. 3workers2hloading;2workers3h;1worker6h. No automatic collapse/retry/loading or Crown seizure. Salvage is independent background unless player chooses it.",
+      "agenda": "myth-agenda-c17b99147807",
+      "agenda_title": "Recover the quarry salvage by safe means",
+      "priority": 3,
+      "place": "myth-loc-1123ef0edce9",
+      "place_name": "The quarry arsenal",
+      "cast": [
+        "myth-char-e1868d3d940c",
+        "myth-char-5486d361a116",
+        "myth-char-9273558c1b22"
+      ],
+      "cast_names": [
+        "Merrit Dane",
+        "Kett Orr",
+        "Willa Ash"
+      ]
+    },
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "salvage_op3": {
+    "success": true,
+    "beat": {
+      "id": "myth-beat-ae406befcefb",
+      "title": "Depart with actual loaded cargo",
+      "summary": "Actual loaded-cargo departure only; legitimate salvage is not the official inquiry target.",
+      "status": "pending",
+      "when": "d40/day",
+      "time_index": 225,
+      "trigger": "clock>=2",
+      "onscreen_if": "ActualPCpresence; contactcardsarenotautooffscreenevents, operationsneedstatedprerequisitesandactualnativechecks.",
+      "branches": null,
+      "result": null,
+      "narrative": "Departure requires actual cargo/cart/mule,3hroadtoAshwick. No automatic theft/arrest/sale or conspiracy confrontation. Current salvage-title branch withdrawn. A customer transaction needs actual agreement, resources and knowledge.",
+      "agenda": "myth-agenda-c17b99147807",
+      "agenda_title": "Recover the quarry salvage by safe means",
+      "priority": 3,
+      "place": "myth-loc-c34fe1fcfef4",
+      "place_name": "Old Crown quarry near Ashwick",
+      "cast": [
+        "myth-char-e1868d3d940c",
+        "myth-char-5486d361a116",
+        "myth-char-9273558c1b22"
+      ],
+      "cast_names": [
+        "Merrit Dane",
+        "Kett Orr",
+        "Willa Ash"
+      ]
+    },
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "hall": {
+    "success": true,
+    "id": "myth-loc-e7d28bb092c5",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "stage_hall": {
+    "success": true,
+    "id": "myth-loc-e7d28bb092c5",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "causeway": {
+    "success": true,
+    "id": "myth-loc-d6eaa9caf9aa",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "stage_causeway": {
+    "success": true,
+    "id": "myth-loc-d6eaa9caf9aa",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "vane": {
+    "success": true,
+    "id": "myth-char-9ea95fe01beb",
+    "characteristics": {
+      "STR": 13,
+      "CON": 13,
+      "SIZ": 13,
+      "DEX": 13,
+      "INT": 14,
+      "POW": 11,
+      "CHA": 13
+    },
+    "attributes": {
+      "action_points": 3,
+      "damage_modifier": "+1d2",
+      "experience_modifier": 2,
+      "healing_rate": 3,
+      "initiative_bonus": 13,
+      "luck_points": 2,
+      "magic_points": 11,
+      "movement": "6m"
+    },
+    "skills": {
+      "Athletics": 55,
+      "Boating": 26,
+      "Brawn": 50,
+      "Conceal": 24,
+      "Dance": 26,
+      "Deceit": 27,
+      "Drive": 24,
+      "Endurance": 60,
+      "Evade": 45,
+      "First Aid": 27,
+      "Influence": 60,
+      "Insight": 25,
+      "Locale": 28,
+      "Perception": 55,
+      "Ride": 24,
+      "Sing": 24,
+      "Stealth": 27,
+      "Swim": 26,
+      "Unarmed": 26,
+      "Willpower": 65,
+      "Customs": 68,
+      "Native Tongue": 67,
+      "Arms": 75,
+      "Strategy": 65
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          3
+        ],
+        "ap": 3,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          4,
+          6
+        ],
+        "ap": 3,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          7,
+          9
+        ],
+        "ap": 5,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Chest",
+        "range": [
+          10,
+          12
+        ],
+        "ap": 5,
+        "hp": 8,
+        "current_hp": 8
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          13,
+          15
+        ],
+        "ap": 3,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          16,
+          18
+        ],
+        "ap": 3,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 5,
+        "hp": 6,
+        "current_hp": 6
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "cfg_vane": {
+    "success": true,
+    "id": "myth-char-9ea95fe01beb",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "where_vane": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "harl": {
+    "success": true,
+    "id": "myth-char-85f99a7f28b1",
+    "characteristics": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 13,
+      "DEX": 13,
+      "INT": 12,
+      "POW": 11,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 3,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 2,
+      "initiative_bonus": 12,
+      "luck_points": 2,
+      "magic_points": 11,
+      "movement": "6m"
+    },
+    "skills": {
+      "Athletics": 50,
+      "Boating": 24,
+      "Brawn": 55,
+      "Conceal": 24,
+      "Dance": 24,
+      "Deceit": 23,
+      "Drive": 24,
+      "Endurance": 50,
+      "Evade": 35,
+      "First Aid": 25,
+      "Influence": 22,
+      "Insight": 23,
+      "Locale": 24,
+      "Perception": 45,
+      "Ride": 24,
+      "Sing": 22,
+      "Stealth": 25,
+      "Swim": 24,
+      "Unarmed": 25,
+      "Willpower": 50,
+      "Customs": 64,
+      "Native Tongue": 63,
+      "Arms": 55
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          3
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          4,
+          6
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          7,
+          9
+        ],
+        "ap": 2,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          10,
+          12
+        ],
+        "ap": 2,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          13,
+          15
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          16,
+          18
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "cfg_harl": {
+    "success": true,
+    "id": "myth-char-85f99a7f28b1",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "where_harl": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "sella": {
+    "success": true,
+    "id": "myth-char-786b3af53c81",
+    "characteristics": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 13,
+      "INT": 12,
+      "POW": 11,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 3,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 2,
+      "initiative_bonus": 12,
+      "luck_points": 2,
+      "magic_points": 11,
+      "movement": "6m"
+    },
+    "skills": {
+      "Athletics": 50,
+      "Boating": 24,
+      "Brawn": 50,
+      "Conceal": 24,
+      "Dance": 24,
+      "Deceit": 23,
+      "Drive": 24,
+      "Endurance": 45,
+      "Evade": 40,
+      "First Aid": 25,
+      "Influence": 22,
+      "Insight": 23,
+      "Locale": 24,
+      "Perception": 55,
+      "Ride": 24,
+      "Sing": 22,
+      "Stealth": 55,
+      "Swim": 24,
+      "Unarmed": 25,
+      "Willpower": 50,
+      "Customs": 64,
+      "Native Tongue": 63,
+      "Arms": 55
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          3
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          4,
+          6
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          7,
+          9
+        ],
+        "ap": 2,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          10,
+          12
+        ],
+        "ap": 2,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          13,
+          15
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          16,
+          18
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "cfg_sella": {
+    "success": true,
+    "id": "myth-char-786b3af53c81",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "where_sella": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "othin": {
+    "success": true,
+    "id": "myth-char-64a3662e6aed",
+    "characteristics": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 13,
+      "INT": 14,
+      "POW": 11,
+      "CHA": 13
+    },
+    "attributes": {
+      "action_points": 3,
+      "damage_modifier": "+0",
+      "experience_modifier": 2,
+      "healing_rate": 2,
+      "initiative_bonus": 13,
+      "luck_points": 2,
+      "magic_points": 11,
+      "movement": "6m"
+    },
+    "skills": {
+      "Athletics": 45,
+      "Boating": 24,
+      "Brawn": 50,
+      "Conceal": 24,
+      "Dance": 26,
+      "Deceit": 65,
+      "Drive": 24,
+      "Endurance": 40,
+      "Evade": 40,
+      "First Aid": 27,
+      "Influence": 55,
+      "Insight": 25,
+      "Locale": 28,
+      "Perception": 50,
+      "Ride": 24,
+      "Sing": 24,
+      "Stealth": 55,
+      "Swim": 24,
+      "Unarmed": 25,
+      "Willpower": 50,
+      "Customs": 68,
+      "Native Tongue": 67,
+      "Arms": 40,
+      "Streetwise": 55
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          3
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          4,
+          6
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          7,
+          9
+        ],
+        "ap": 0,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          10,
+          12
+        ],
+        "ap": 0,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          13,
+          15
+        ],
+        "ap": 0,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          16,
+          18
+        ],
+        "ap": 0,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "cfg_othin": {
+    "success": true,
+    "id": "myth-char-64a3662e6aed",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "where_othin": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "mara": {
+    "success": true,
+    "id": "myth-char-937a61a1e9c1",
+    "characteristics": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 13,
+      "INT": 12,
+      "POW": 11,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 3,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 2,
+      "initiative_bonus": 12,
+      "luck_points": 2,
+      "magic_points": 11,
+      "movement": "6m"
+    },
+    "skills": {
+      "Athletics": 45,
+      "Boating": 24,
+      "Brawn": 50,
+      "Conceal": 24,
+      "Dance": 24,
+      "Deceit": 23,
+      "Drive": 65,
+      "Endurance": 45,
+      "Evade": 40,
+      "First Aid": 25,
+      "Influence": 45,
+      "Insight": 23,
+      "Locale": 24,
+      "Perception": 55,
+      "Ride": 24,
+      "Sing": 22,
+      "Stealth": 25,
+      "Swim": 24,
+      "Unarmed": 25,
+      "Willpower": 50,
+      "Customs": 64,
+      "Native Tongue": 63,
+      "Arms": 35,
+      "Streetwise": 60
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          3
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          4,
+          6
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          7,
+          9
+        ],
+        "ap": 0,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          10,
+          12
+        ],
+        "ap": 0,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          13,
+          15
+        ],
+        "ap": 0,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          16,
+          18
+        ],
+        "ap": 0,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "cfg_mara": {
+    "success": true,
+    "id": "myth-char-937a61a1e9c1",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "where_mara": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "pool": {
+    "success": true,
+    "id": "myth-char-9ea95fe01beb",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "mara_assets": {
+    "success": true,
+    "id": "myth-char-937a61a1e9c1",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "doctrine": {
+    "success": true,
+    "id": "myth-fact-ed9f33c23a6d",
+    "status": "established",
+    "truth": "true",
+    "when": "d41/day",
+    "about": [],
+    "from": null,
+    "learned_by": [
+      "myth-char-9ea95fe01beb",
+      "myth-char-85f99a7f28b1",
+      "myth-char-786b3af53c81",
+      "myth-char-64a3662e6aed",
+      "myth-char-937a61a1e9c1"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "customer": {
+    "success": true,
+    "id": "myth-fact-3973284f0787",
+    "status": "established",
+    "truth": "true",
+    "when": "d41/day",
+    "about": [],
+    "from": null,
+    "learned_by": [
+      "myth-char-e1868d3d940c",
+      "myth-char-9ea95fe01beb",
+      "myth-char-64a3662e6aed"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "mara_background": {
+    "success": true,
+    "id": "myth-fact-3468dfebaf12",
+    "status": "established",
+    "truth": "true",
+    "when": "d41/day",
+    "about": [],
+    "from": null,
+    "learned_by": [
+      "myth-char-937a61a1e9c1",
+      "myth-char-64a3662e6aed",
+      "myth-char-9ea95fe01beb"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "new_agenda": {
+    "success": true,
+    "id": "myth-agenda-892c66b201bf",
+    "holder": "myth-char-9ea95fe01beb",
+    "holder_type": "myth-character",
+    "targets": [
+      "myth-char-937a61a1e9c1"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "recovery": {
+    "success": true,
+    "id": "myth-beat-ed7adcfed5dd",
+    "when": "d42/day",
+    "time_index": 233,
+    "cast": [
+      "myth-char-64a3662e6aed",
+      "myth-char-85f99a7f28b1",
+      "myth-char-786b3af53c81",
+      "myth-char-937a61a1e9c1"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "initiation": {
+    "success": true,
+    "id": "myth-beat-55f48fbe0074",
+    "when": "d43/dusk",
+    "time_index": 238,
+    "cast": [
+      "myth-char-9ea95fe01beb",
+      "myth-char-85f99a7f28b1",
+      "myth-char-786b3af53c81",
+      "myth-char-64a3662e6aed"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "new_lore": {
+    "success": true,
+    "id": "myth-lore-c82e9705c994",
+    "linked_subjects": [
+      {
+        "id": "myth-char-07bc6645bb49",
+        "type": "myth-character"
+      },
+      {
+        "id": "myth-char-9ea95fe01beb",
+        "type": "myth-character"
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "old_lore": {
+    "success": true,
+    "id": "myth-lore-5e1cbf4d337f",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "arc": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    }
+  },
+  "dane_reframe": {
+    "success": true,
+    "id": "myth-char-e1868d3d940c",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "lysa_reframe": {
+    "success": true,
+    "id": "myth-char-9566e8a59e69",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "H_review": {
+    "success": true,
+    "id": "myth-char-07bc6645bb49",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "correction_fact": {
+    "success": true,
+    "id": "myth-fact-cf9c61ca8ae8",
+    "status": "established",
+    "truth": "true",
+    "when": "d41/day",
+    "about": [],
+    "from": null,
+    "learned_by": [
+      "myth-char-07bc6645bb49",
+      "myth-char-e1868d3d940c",
+      "myth-char-9566e8a59e69"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "review_journal": {
+    "success": true,
+    "id": "myth-event-43517e4aac84",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD at d41/day280. Player says \"This wasn\u2019t what I wanted to happen\" after salvage-title/compensation turn. Hold play and clock pending intended correction. No further claim/arrest/seizure/negotiation/events; no retcon yet. OOC feedback NOT character knowledge. Saved physical scene follows: LATEST41day280:HBACKSDaneFAIRCOMPENSATIONwithactualexpense/work/safetytestimony.LysaAGREESendorseREASONABLEEXPENSECLAIMandrecordHsupport,legitimateAvelmail/signet/surveyremainDane;ASKSstoresuntouchedpendingtitle.Noamountapproved/payment/treasury/hardtitleverdict/Hpersonalguarantee.Danehasnotyetacceptedfinalhold/price,prepared12GPsettlementrouteunquoted/unpaid.Noarrest/combat. d41/day280 ARSENAL MAINENTRY H/Lysa/Daneonsafethreshold. Hexplainedwatchwantsinitialsamequestions;Daneanswered60GPAvelmail/signet/survey,self-financedsearch,showedmatchingreceipt/survey,withheldcustomernamesinitialrequest. 5minquestions20minquarryapproachusingHalreadyvolunteeredguide. JoIvoatquarrycampnotblockingexit,Willa/Kett/Berathere. NEWPHYSICALFINDpreparedoldCROWNEDGARRISONSTAMPinnerdoor+readableGARRISON STORES visibleH/Lysa/Dane,designatesmilitarystore;Avelreceiptlistsownmail/signet/surveyNOTstoregrant. Actualcurrenttitle/salvagerightsnotruled,NOautomaticseizure/arrest/attack. AwaitHresponse/nextactionatphysicalclaimclue. Mainlandingunsafeuntouchednoshores,lowerstoreunenteredthisvisit;Hknowsoriginal2mail1swordexaminedsound,butnotBeralater89/88failedpropsmethod/exactGMtotal4mail8swords12spears80boltsallstillbelow. Daneholdsreceipt/survey,no weaponsdrawn. H26GP3SP5CPfullHPFreshMP8Luck1ownmailswordsheathedshieldcarriedbowslung20arrows. LysaJoIvo3watchonly,Crownnotnewemployer. Dane16GP6SPfood0after41allocation,guards0.25hoil+new1/12hspareunlit20minfuel;3guardwages1Berabalancefuture. OP2due41duskconditionalnewmethod/safeaccess/time;noautomaticloading. OtherPCclocksunchanged,priorvictoriesstand.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "scene": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  }
+}

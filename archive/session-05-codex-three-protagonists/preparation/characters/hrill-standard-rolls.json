@@ -1,0 +1,87 @@
+{
+  "name": "Hrill Helmdance",
+  "method": "Standard human rolls in order through Mythras CLI; human is a provisional default",
+  "rolls": {
+    "STR": {
+      "success": true,
+      "expr": "3d6",
+      "rolls": [
+        2,
+        5,
+        1
+      ],
+      "total": 8
+    },
+    "CON": {
+      "success": true,
+      "expr": "3d6",
+      "rolls": [
+        6,
+        2,
+        5
+      ],
+      "total": 13
+    },
+    "SIZ": {
+      "success": true,
+      "expr": "2d6+6",
+      "rolls": [
+        1,
+        6
+      ],
+      "total": 13
+    },
+    "DEX": {
+      "success": true,
+      "expr": "3d6",
+      "rolls": [
+        3,
+        2,
+        5
+      ],
+      "total": 10
+    },
+    "INT": {
+      "success": true,
+      "expr": "2d6+6",
+      "rolls": [
+        1,
+        5
+      ],
+      "total": 12
+    },
+    "POW": {
+      "success": true,
+      "expr": "3d6",
+      "rolls": [
+        3,
+        5,
+        1
+      ],
+      "total": 9
+    },
+    "CHA": {
+      "success": true,
+      "expr": "3d6",
+      "rolls": [
+        1,
+        6,
+        6
+      ],
+      "total": 13
+    }
+  },
+  "rolled_characteristics": {
+    "STR": 8,
+    "CON": 13,
+    "SIZ": 13,
+    "DEX": 10,
+    "INT": 12,
+    "POW": 9,
+    "CHA": 13
+  },
+  "target_rank": 2,
+  "character_created": false,
+  "status": "Rolls saved; assignment, species confirmation and Rank 2 Fighter build pending. No swaps or rerolls made.",
+  "campaign": "myth-campaign-purewater-s1"
+}

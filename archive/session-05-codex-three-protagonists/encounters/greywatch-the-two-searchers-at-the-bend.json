@@ -1,0 +1,48 @@
+{
+  "id": "myth-enc-96a35fea27ae",
+  "name": "Greywatch \u2014 the two searchers at the bend",
+  "description": "At257 boulder bend beyond inlandgate. Hrill swordspecialist75 shieldL mail5 AP3, versus leadCorl spear/shield armor2AP2 and Venn behind spear/shield armor2AP2. Oneabreast; Corl initially melee6ft fromH, Venn8ftbehindCorl, partner blocks attack; rough lateral boulder route20ft slow ground for flank, not instant. Clear north withdrawal; yard/quay out of sight, shouting possible. No surprise. Other8enemies do not teleport. PCdefense/effects remainplayerchoices.",
+  "summary": "Hrill defeats both searchers and accepts their surrender by ordering them away. Both spears broken; Corl conscious with serious Head0 wound, Venn uninjured with temporary grit blindness. Hrill uninjured; no rest, healing or Luck refresh.",
+  "status": "resolved",
+  "round": 1,
+  "combatants": [
+    {
+      "id": "myth-char-07bc6645bb49",
+      "name": "Hrill Helmdance",
+      "initiative": 19,
+      "ap": 1,
+      "max_ap": 3,
+      "conditions": [
+        "free-longsword-parry-used"
+      ],
+      "dex": 14
+    },
+    {
+      "id": "myth-char-ed1a4282d985",
+      "name": "Corl Hen",
+      "initiative": 17,
+      "ap": 0,
+      "max_ap": 2,
+      "conditions": [
+        "prone",
+        "serious-head-wound",
+        "yielding-ceased-resistance"
+      ],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-99ccdfa133d7",
+      "name": "Venn Tal",
+      "initiative": 17,
+      "ap": 1,
+      "max_ap": 2,
+      "conditions": [
+        "prone",
+        "grit-in-eyes-hard-2-turns",
+        "yielding-ceased-resistance"
+      ],
+      "dex": 12
+    }
+  ],
+  "created_at": "2026-10-28T00:38:39"
+}

@@ -1,0 +1,199 @@
+{
+  "id": "myth-char-8d1e41eba09f",
+  "name": "Rellan Voss",
+  "type": "npc",
+  "status": "active",
+  "description": "Spare middle-aged man, curledwoodshavingsonapronandthreadwaxonfingers. Quietmatteroffactspeech,patientcraftquestions. Wants honestordersandsoundgear,owescustomersaccurateadvice. Knowslocalbowpracticeandhisownstock,notAvel/Daneprivateplans. No pressuretopurchase;doesnotleavebusinesstoactasfreeguard.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 11,
+    "SIZ": 11,
+    "DEX": 15,
+    "INT": 14,
+    "POW": 10,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 14,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "4m walk / 12m fly"
+  },
+  "skills": {
+    "Athletics": 27,
+    "Boating": 23,
+    "Brawn": 23,
+    "Conceal": 25,
+    "Dance": 26,
+    "Deceit": 25,
+    "Drive": 25,
+    "Endurance": 22,
+    "Evade": 30,
+    "First Aid": 29,
+    "Influence": 22,
+    "Insight": 24,
+    "Locale": 28,
+    "Perception": 50,
+    "Ride": 25,
+    "Sing": 21,
+    "Stealth": 29,
+    "Unarmed": 27,
+    "Willpower": 20,
+    "Flight": 27,
+    "Customs": 68,
+    "Native Tongue": 65,
+    "Craft (Fletching)": 75,
+    "Craft (Bowyer)": 75,
+    "Commerce": 50,
+    "Arms": 55,
+    "Survival": 45
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Knife",
+      "damage": "1d4+1",
+      "size": "S",
+      "ap": 6,
+      "hp": 6
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 55
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "he/him",
+    "score": {
+      "want": "Soundgear,honestworkandfairtrade",
+      "ought": "Accuratecraftadvice,noliedetectionforfree",
+      "tactics": "Answer,inspectwithconsent,quoteconcretepriceandschedule,noautomaticfreeally",
+      "observed": [
+        "Hrillbought2ordinaryarrowsfor5CPandmadeordinaryenquiriesaserrantknightseekingwork. NoAvel/Danecasedisclosed."
+      ]
+    },
+    "assets": {
+      "gp": 8,
+      "ordinary_arrows": 58,
+      "arrow_shafts": 100,
+      "goose_fletch_sets": 100,
+      "bowstrings": 6,
+      "short_bows": 2,
+      "long_bows": 1,
+      "limits": "Ordinarygear,actualrules/priceslookupwhenpurchase/commissionasked; noinstantcustomworkorfreebonuses",
+      "cp": 5
+    },
+    "doing": {
+      "goal": "Work fletchingstall",
+      "next": "Trimminggoosefeathersandfinishingarrows",
+      "where": "myth-loc-1385242bb9d3"
+    }
+  },
+  "actor_notes": "Spare middle-aged man, curledwoodshavingsonapronandthreadwaxonfingers. Quietmatteroffactspeech,patientcraftquestions. Wants honestordersandsoundgear,owescustomersaccurateadvice. Knowslocalbowpracticeandhisownstock,notAvel/Daneprivateplans. No pressuretopurchase;doesnotleavebusinesstoactasfreeguard.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-1385242bb9d3",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-28T17:54:33"
+}

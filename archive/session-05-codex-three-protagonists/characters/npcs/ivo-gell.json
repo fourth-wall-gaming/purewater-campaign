@@ -1,0 +1,202 @@
+{
+  "id": "myth-char-ce3d6f00a912",
+  "name": "Ivo Gell",
+  "type": "npc",
+  "status": "active",
+  "description": "he. Freckled youngadult with neatlypatchedcoat. Straightforwardwatchspeech; wants reliablework. Knowspatrolroadsnotprivateevents. ObeysLysa,useactualcover,yieldsifoverwhelmed.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 12,
+    "POW": 10,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Athletics": 50,
+    "Boating": 24,
+    "Brawn": 50,
+    "Conceal": 22,
+    "Dance": 23,
+    "Deceit": 25,
+    "Drive": 22,
+    "Endurance": 50,
+    "Evade": 40,
+    "First Aid": 24,
+    "Influence": 50,
+    "Insight": 50,
+    "Locale": 24,
+    "Perception": 50,
+    "Ride": 22,
+    "Sing": 21,
+    "Stealth": 45,
+    "Unarmed": 24,
+    "Willpower": 50,
+    "Flight": 24,
+    "Customs": 64,
+    "Native Tongue": 63,
+    "Arms": 50,
+    "Combat Skill": 50,
+    "Survival": 40,
+    "Strategy": 30,
+    "Engineering": 30,
+    "Lore (Crown Law)": 20
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Short spear",
+      "damage": "1d8+1",
+      "size": "M",
+      "ap": 4,
+      "hp": 5,
+      "traits": [
+        "Impale"
+      ]
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L",
+      "ap": 4,
+      "hp": 12,
+      "traits": [
+        "Ranged Parry",
+        "Passive Block 4 locations"
+      ]
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 50
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "he",
+    "score": {
+      "want": "Freckled youngadult with neatlypatchedcoat. Straightforwardwatchspeech; wants reliablework. Knowspatrolroadsnotprivateevents. ObeysLysa,useactualcover,yieldsifoverwhelmed.",
+      "ought": "Honor real surrender; no mind-reading or endless resources",
+      "tactics": "Freckled youngadult with neatlypatchedcoat. Straightforwardwatchspeech; wants reliablework. Knowspatrolroadsnotprivateevents. ObeysLysa,useactualcover,yieldsifoverwhelmed.",
+      "catches_lies": "No automatic lie detection"
+    },
+    "doing": {
+      "goal": "Inspect actual quarry stores and dealer\u2019s claim/buyers",
+      "next": "ArrivedwithHrill41day255,visibleapproachbroadquarryroad,notambush. Noarrest/attackordered;awaitinitialcontact/explanation. Spears/shieldscarried,notpointedatpeople.",
+      "where": "myth-loc-c34fe1fcfef4"
+    },
+    "plan_reference": "docs/scenarios/hrill-what-she-sold-preparation.md"
+  },
+  "actor_notes": "Freckled youngadult with neatlypatchedcoat. Straightforwardwatchspeech; wants reliablework. Knowspatrolroadsnotprivateevents. ObeysLysa,useactualcover,yieldsifoverwhelmed.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-c34fe1fcfef4",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-28T16:32:20"
+}

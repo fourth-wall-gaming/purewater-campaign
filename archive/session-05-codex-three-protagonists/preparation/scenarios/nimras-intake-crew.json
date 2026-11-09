@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Hedda Rook",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 13,
+      "INT": 14,
+      "POW": 10,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 10
+    },
+    "skills": {
+      "Craft (Ironwork)": 70,
+      "Engineering": 70,
+      "Mechanisms": 65,
+      "Perception": 45,
+      "Insight": 35,
+      "Influence": 40,
+      "Willpower": 45,
+      "Evade": 40
+    },
+    "pronouns": "she/her",
+    "gender": "female",
+    "career": "Canal fitter; mundane civilian",
+    "notes": "Adult fitter, one of Sella Marr’s existing six civilian employees. Measuring proposed gate fittings, not installing or guarding a gate. Broad-shouldered, wool work jacket, chalk on her cuffs. No knowledge of Nimras or Vaur’s commission.",
+    "resource_slot": "Marr civilian employee 1 of 6",
+    "score": {
+      "want": "Finish an accurate estimate without assuming a property dispute.",
+      "status": {
+        "strangers": "Workmanlike equality; expects tools and measuring space respected."
+      },
+      "tactics": [
+        "Answer the practical question",
+        "Point to the estimate order",
+        "Stop work and seek supervisor if pressured"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    }
+  },
+  {
+    "name": "Tovin Beck",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 13,
+      "DEX": 11,
+      "INT": 11,
+      "POW": 10,
+      "CHA": 10
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 10
+    },
+    "skills": {
+      "Craft (Ironwork)": 45,
+      "Athletics": 40,
+      "Perception": 40,
+      "Willpower": 30,
+      "Evade": 35
+    },
+    "pronouns": "he/him",
+    "gender": "male",
+    "career": "Adult fitting assistant; mundane civilian",
+    "notes": "Adult assistant, one of Sella Marr’s existing six civilian employees. Carries tools and holds measuring ends. Work shirt and canvas apron. No knowledge of the mages or manuscript.",
+    "resource_slot": "Marr civilian employee 2 of 6",
+    "score": {
+      "want": "Help Hedda finish the job and get out of the damp.",
+      "status": {
+        "Hedda": "Defers to her judgement",
+        "strangers": "Ordinary politeness, quiet around people arguing."
+      },
+      "tactics": [
+        "Keep doing assigned work",
+        "Let Hedda answer",
+        "Withdraw with the tools if threatened"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    }
+  }
+]

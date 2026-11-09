@@ -1,0 +1,29 @@
+{
+  "id": "myth-enc-f561e1b49dc0",
+  "name": "Single Combat: Halla versus Cailan",
+  "description": "Halla's third bout d1/day vs Hanzo's champion. Halla full chainmail helm AP5, battleaxe specialist81 and shield Fighter76, handaxe dagger at belt, all HP full Luck3. Cailan War Spear two-handed with Long Sword backup and AP5 scale armour, Right Arm1/5 Minor carried from Garran bout, other HP full, 3AP. One proactive action per round, remaining AP reactions, Halla bonus specialist axe parry once per round. Yield or marshal stoppage. No predetermined result, no fire powers yet declared. Halla observed champion previous trip/disarm and recovery, no mechanical bonus assigned.",
+  "summary": "RETRACTED by authorised OOC rewind. Halla-champion bout used erroneous92 instead of possessed mastery121. No result stands, no current-bout injury survives; one spent Luck refunded. Earlier tournament bouts stand. Replaced by fresh corrected bout.",
+  "status": "resolved",
+  "round": 4,
+  "combatants": [
+    {
+      "id": "myth-char-cac22cc2cbf6",
+      "name": "Cailan",
+      "initiative": 13,
+      "ap": 3,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 17
+    },
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "initiative": 7,
+      "ap": 3,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 11
+    }
+  ],
+  "created_at": "2026-10-14T14:29:17"
+}

@@ -1,0 +1,144 @@
+{
+  "id": "myth-char-71b58394e88e",
+  "name": "Jessa Fen",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult human woman, household guard, short dark braid and weathered service cloak. Practical and sociable, likes discussing canal-side work; off duty supper at Copper Oar. No knowledge of Halla private debts or past scandal.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 12,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 12,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 24,
+    "Boating": 24,
+    "Brawn": 24,
+    "Conceal": 24,
+    "Dance": 23,
+    "Deceit": 23,
+    "Drive": 24,
+    "Endurance": 24,
+    "Evade": 24,
+    "First Aid": 24,
+    "Influence": 22,
+    "Insight": 24,
+    "Locale": 24,
+    "Perception": 24,
+    "Ride": 24,
+    "Sing": 23,
+    "Stealth": 24,
+    "Swim": 24,
+    "Unarmed": 24,
+    "Willpower": 24,
+    "Customs": 64,
+    "Native Tongue": 63
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {
+    "Household guard": 60
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "she/her",
+    "role": "Prince household guard; social acquaintance of Halla",
+    "luck_policy": "NPC has no Luck"
+  },
+  "actor_notes": null,
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": "myth-loc-225915e707fe",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-22T02:11:40"
+}

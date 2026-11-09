@@ -1,0 +1,210 @@
+{
+  "id": "myth-char-432c8a6b9e27",
+  "name": "Ilyen",
+  "type": "npc",
+  "status": "active",
+  "description": "they/them. Knows seasonal animal route, own scouts/enclave and Selith records existence; not all records, Hrill mind or current imperial plots.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Combat Skill": 60,
+    "Boating": 65,
+    "Perception": 70,
+    "Survival": 70,
+    "Stealth": 60,
+    "Swim": 65,
+    "Influence": 50,
+    "Insight": 50,
+    "Willpower": 60,
+    "Lore (Lake History)": 55,
+    "Athletics": 35,
+    "Brawn": 35,
+    "Endurance": 45,
+    "Evade": 35,
+    "First Aid": 25
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Spear",
+      "damage": "1d8",
+      "size": "M",
+      "traits": [
+        "Impale"
+      ]
+    },
+    {
+      "name": "Short bow",
+      "damage": "1d6",
+      "size": "L",
+      "range": "45/300/600 feet",
+      "reload": 2,
+      "traits": [
+        "Impale"
+      ]
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 60
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Elf",
+    "score": {
+      "want": "Protect independent shore households and breeding shallows",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Protect independent shore households and breeding shallows",
+      "stated_reason": "Protect independent shore households and breeding shallows",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Lean elf in reed-brown coat, hands usually occupied with boat pole. Courteous, direct hospitality terms, no courtly riddles. Can welcome peaceful outsiders and bargain; uses force against an actual dangerous intrusion, not an accent.",
+      "physical": "Lean elf in reed-brown coat, hands usually occupied with boat pole",
+      "secret": "Knows seasonal animal route, own scouts/enclave and Selith records existence; not all records, Hrill mind or current imperial plots.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "ilyen",
+    "pronouns": "they/them",
+    "doing": {
+      "goal": "Watch Narrow Water and protect independent shore",
+      "next": "Completedactualnight159->279puntreturnNarrowWater, rejoinedexistingLeth/Siv. Giversrefusalreportedpreviously, nofreshhuntlocationconfirmed. Threeexistingbows36arrows, no shots/freshordersresolved.",
+      "where": "myth-loc-991964df7e96",
+      "as_of_session": 8
+    },
+    "plan_reference": "docs/scenarios/hrill-edda-preparation.md",
+    "assets": {
+      "patrol": [
+        "myth-char-432c8a6b9e27",
+        "myth-char-5cf4d4526941",
+        "myth-char-07abe629ee9b"
+      ],
+      "punt_capacity": 4,
+      "bows": 3,
+      "arrows": 36,
+      "food_person_days": 6,
+      "resupply": {
+        "day": "d25/dawn",
+        "source": "Listening Reeds existing stores",
+        "person_days": 9,
+        "transport": "3persondays retainedIlyen;6sentSelith/GreyHeron actual2hroute toLeth/Siv,NarrowWater. Old3allocatedfor25meals."
+      },
+      "food_distribution": {
+        "Ilyen_at_Listening_Reeds": 0,
+        "Leth_and_Siv_at_Narrow_Water": 6,
+        "patrol_at_Narrow_Water": 6
+      },
+      "day26_food_allocation": {
+        "person_days": 3,
+        "charged_once": true
+      }
+    }
+  },
+  "actor_notes": "Lean elf in reed-brown coat, hands usually occupied with boat pole. Courteous, direct hospitality terms, no courtly riddles. Can welcome peaceful outsiders and bargain; uses force against an actual dangerous intrusion, not an accent.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-991964df7e96",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-27T01:28:21"
+}

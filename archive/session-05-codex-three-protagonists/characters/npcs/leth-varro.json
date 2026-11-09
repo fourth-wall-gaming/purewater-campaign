@@ -1,0 +1,152 @@
+{
+  "id": "myth-char-3bac3739e789",
+  "name": "Leth Varro",
+  "type": "npc",
+  "status": "active",
+  "description": "Itinerant private recovery broker. Polished patient speech, treats coercive work as a purchase. No Crown warrant, personal guards or secret command over Purewater masters.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 10,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 13,
+    "INT": 15,
+    "POW": 13,
+    "CHA": 15
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 14,
+    "luck_points": 0,
+    "magic_points": 13,
+    "movement": "6m"
+  },
+  "skills": {
+    "Influence": 75,
+    "Commerce": 80,
+    "Insight": 65,
+    "Deceit": 65,
+    "Willpower": 60,
+    "Perception": 55,
+    "Evade": 50,
+    "Dagger": 45
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Dagger",
+      "damage": "1d4",
+      "size": "S"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {},
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "score": {
+      "want": "Buy a proven means of capturing resistant practitioners",
+      "ought": "Refuse trade in coercive capture",
+      "driver": "Independent livelihood and personal control",
+      "stated_reason": "Buy a proven means of capturing resistant practitioners",
+      "tactics": [
+        "Ask for the demonstration",
+        "Withhold payment without proof",
+        "Offer terms for his own safety",
+        "Flee or surrender rather than die"
+      ],
+      "when_lied_to": "miss",
+      "rhythm": "Polished patient questions; offers prices rather than speeches.",
+      "observed": []
+    },
+    "doing": {
+      "goal": "Buy a demonstrated means of taking unwilling casters",
+      "next": "Wait for Senn\u2019s invitation and proof before travelling to payment",
+      "where": "myth-loc-95ad8f01cf1a",
+      "as_of_session": 6
+    }
+  },
+  "actor_notes": "LOOKS: Itinerant private recovery broker. Polished patient speech, treats coercive work as a purchase. No Crown warrant, personal guards or secret command over Purewater masters. CORE/WANTS: Buy a proven means of capturing resistant practitioners. PRESSURE: Flee or surrender rather than die. KEY: answers direct questions, no automatic lie detection.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 13,
+  "experience_rolls": 0,
+  "location": "myth-loc-95ad8f01cf1a",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-23T22:16:25"
+}

@@ -1,0 +1,19 @@
+{
+  "ready": true,
+  "clock": {
+    "id": "myth-storyline-b6753554ddd0",
+    "name": "Nimras",
+    "pcs": [
+      "myth-char-4fc52ae14026"
+    ],
+    "now": "d9/dawn",
+    "minute_in_watch": 145,
+    "scene": "d8/night minute25, Nimras back in own prepaid room at Three Steps after25min ordinary courtesy skiff crossing withPell and familiar walk. Pell asked nofare, no debt incurred; left at MerchantQuarter publiclanding withgreenboat. No incident, message, newjob or threat invented. Nimras sober, awake, no sleep/rest yet. MP15 Luck5 fullHP Fresh purse23GP3SP4CP; finalprepaidnightd8night withbreakfast. Thorne/Dena/Pell/Orsa newordinarycontacts; otherPCclocks independent. Await player.",
+    "session": 9
+  },
+  "pc_unchanged": true,
+  "new_secrets_unlearned": true,
+  "cast_sheets": 18,
+  "conditional_operations": 6,
+  "review": "Refusal/authorities/negotiation/earlydefeat/outoforder checked in live-preparation document; no accepted contract or later ritual activated."
+}

@@ -1,0 +1,349 @@
+{
+  "id": "myth-char-c15f519326d9",
+  "name": "Reeve Elric Marden",
+  "type": "npc",
+  "status": "active",
+  "description": "Hythe harbour reeve; a broad, grey-haired man in a salt-marked blue coat with a Crown badge.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 11,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 11,
+    "INT": 14,
+    "POW": 12,
+    "CHA": 13
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 22,
+    "Boating": 23,
+    "Brawn": 23,
+    "Conceal": 23,
+    "Dance": 24,
+    "Deceit": 27,
+    "Drive": 23,
+    "Endurance": 24,
+    "Evade": 22,
+    "First Aid": 25,
+    "Influence": 55,
+    "Insight": 55,
+    "Locale": 28,
+    "Perception": 26,
+    "Ride": 23,
+    "Sing": 25,
+    "Stealth": 25,
+    "Swim": 23,
+    "Unarmed": 22,
+    "Willpower": 24,
+    "Customs": 68,
+    "Native Tongue": 67,
+    "Lore (Crown Law)": 65
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {},
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "score": {
+      "want": "Relieve Greywatch and obtain usable firsthand testimony",
+      "ought": "Preserve Crown justice and hold prisoners for hearing",
+      "driver": "Practical public safety",
+      "stated_reason": "Crown duty",
+      "status": "Receives Hrill as reporting knight, no prior relationship",
+      "tactics": [
+        "Hear report",
+        "Ask specific firsthand question",
+        "Require actual evidence for further accusations"
+      ],
+      "lie_detection": "No automatic lie detection; checks when warranted",
+      "observed": [
+        "Hrill reported Avel asked whether Hanzo declared himself; Marden has no proof of a declaration or link. Hrill willing to remain if useful paid work available.",
+        "Hrill accepted week Crown patrol duty and welcomed working in a troop again."
+      ]
+    },
+    "doing": {
+      "goal": "Arrange lawful relief and prisoner transport for Greywatch",
+      "next": "Assess local patrol transport and take firsthand witness account; no escort departed and no sentence pronounced",
+      "where": "myth-loc-894191c86c72"
+    },
+    "pronouns": "he/him",
+    "assets": {
+      "documents": [
+        {
+          "name": "Signed sealed Greywatch report",
+          "source": "Corporal Dera, delivered by Hrill",
+          "received": "d29/dawn135",
+          "opened": true
+        }
+      ],
+      "greywatch_prisoners": [
+        "myth-char-87c2db0593fc",
+        "myth-char-2074bda6383d",
+        "myth-char-ed1a4282d985",
+        "myth-char-99ccdfa133d7",
+        "myth-char-e46d17ad962f",
+        "myth-char-5ef410466d11",
+        "myth-char-b902b2fc4873",
+        "myth-char-4e088f17fbf3",
+        "myth-char-219a21603f90",
+        "myth-char-dc1002b73163"
+      ],
+      "greywatch_evidence": [
+        "Stitched dragonbanner",
+        "Recruitmentpapers",
+        "Quay stores signal sketch",
+        "Brann custodyrecord includingPikecooperation"
+      ]
+    },
+    "hrill_offer": {
+      "status": "Original7daytermcompletedandpaid35dusk; noextensionagreed",
+      "work": "Crown patrol duty in and around Hythe with town watch",
+      "duration_days": 7,
+      "daily_gp": 1,
+      "board_included": true,
+      "cash_allocation_gp": 7,
+      "board_allocation_person_days": 0,
+      "source": "limited Hythe Crown watch hiring allowance",
+      "conditions": "No pay accrued until accepted and work begins; no obligation to remain imposed; hearing date not yet fixed",
+      "start": "d29/dawn135",
+      "end": "d35/night",
+      "pay_schedule": "1GP after daily duty, no advance",
+      "remaining_cash_allocation_gp": 0,
+      "days_board_charged": 7,
+      "day29_board_person_days": 1,
+      "day29_board_charged_once": true,
+      "day29_paid_gp": 1,
+      "wages_paid_through": "d35",
+      "day30_to32_paid_gp": 3,
+      "day33_to35_paid_gp": 3
+    },
+    "greywatch_relief": {
+      "status": "Completed actualreturn33-35,alltenprisonersreceivedaliveHythe35dusk",
+      "escort": [
+        "myth-char-d514260173a7",
+        "myth-char-9322980e4ed6",
+        "myth-char-b3ee117cb166"
+      ],
+      "guide": "myth-char-07bc6645bb49",
+      "commander": "myth-char-d514260173a7",
+      "source": "Separate finite24GP Crown relief appropriation, fully spent; not Hrill hiring fund",
+      "transport": "not yet secured",
+      "departure": "not fixed",
+      "landing_plan": {
+        "scouts": [
+          "myth-char-07bc6645bb49",
+          "myth-char-d514260173a7"
+        ],
+        "aboard": [
+          "myth-char-9322980e4ed6",
+          "myth-char-b3ee117cb166"
+        ],
+        "procedure": "Scout beacon before committing transport to stone quay; signal boat in only once quay checked clear",
+        "limits": "No renewed attack known; actual landing method, vessel, signals and departure not settled"
+      },
+      "charter_owner": "myth-char-56116fd29c52",
+      "vessel": "myth-loc-b3f72f0269af",
+      "charter_gp": 24,
+      "scope": "Six sailing days outward and return, crew,60 bought ration-days; return with10prisoners subject to safe loading and weather",
+      "cargo": "Edda stores her two owned consignment bales ashore at Hythe without sale to free deck",
+      "scout_tender_capacity": 3,
+      "return_route": "Greywatch ListeningReeds BellReed Hythe,3ordinarysailingdays, shelterednights, noincident",
+      "charter_status": "Sixsailingdaysfulfilled24GPfullypaid,nomorecharterowed"
+    },
+    "culvert_evidence": {
+      "location": "Hythe watch evidence store",
+      "items": [
+        {
+          "name": "Seized Longsword (swordsman)",
+          "damage": "1d8",
+          "size": "M",
+          "ap": 6,
+          "hp": 12,
+          "traits": [
+            "Bleed",
+            "Impale"
+          ],
+          "storage": "Collected by Orrin as Crown evidence after both men yielded; stowed, not wielded"
+        },
+        {
+          "name": "Seized Round shield (swordsman)",
+          "damage": "1d4",
+          "size": "L",
+          "ap": 4,
+          "hp": 12,
+          "traits": [
+            "Ranged Parry",
+            "Passive Block 4 locations",
+            "Bash"
+          ],
+          "storage": "Collected by Orrin as Crown evidence after both men yielded; stowed, not wielded"
+        },
+        {
+          "name": "Seized Light crossbow (crossbowman)",
+          "damage": "1d8",
+          "size": "L",
+          "reload": 4,
+          "range": "150/300/600 feet",
+          "loaded": false,
+          "traits": [
+            "Impale"
+          ],
+          "reload_progress": 0,
+          "storage": "Collected by Orrin as Crown evidence after both men yielded; stowed, not wielded"
+        },
+        {
+          "name": "Seized 11 crossbow bolts (crossbowman)",
+          "quantity": 11,
+          "storage": "Collected by Orrin as Crown evidence after both men yielded; stowed, not wielded"
+        },
+        {
+          "name": "Seized Dagger (crossbowman)",
+          "damage": "1d4+1",
+          "size": "S",
+          "ap": 6,
+          "hp": 6,
+          "traits": [
+            "Impale",
+            "Bleed"
+          ],
+          "storage": "Collected by Orrin as Crown evidence after both men yielded; stowed, not wielded"
+        },
+        {
+          "name": "Seized Light crossbow",
+          "damage": "1d8",
+          "size": "L",
+          "reload": 4,
+          "range": "150/300/600 feet",
+          "loaded": false,
+          "traits": [
+            "Impale"
+          ],
+          "reload_progress": 0,
+          "reload_required": 4,
+          "storage": "Crown evidence on ground beside Benno at culvert; not wielded"
+        },
+        {
+          "name": "Seized 11 crossbow bolts",
+          "quantity": 11,
+          "storage": "Crown evidence on ground beside Benno at culvert; not wielded"
+        },
+        {
+          "name": "Seized Short spear",
+          "damage": "1d8+1",
+          "size": "M",
+          "ap": 4,
+          "hp": 5,
+          "traits": [
+            "Impale"
+          ],
+          "storage": "Crown evidence on ground beside Benno at culvert; not wielded"
+        }
+      ]
+    },
+    "greywatch_hearing": {
+      "date": "d36/day",
+      "type": "Initial hearing and receipt of evidence, no finaltrialverdict",
+      "hrill_testimony": "Receivedfirsthandattack+surrender+declarations, heraldicsimilarity distinguishedfromproofHanzoorders",
+      "pike_cooperation": "Safe return ofHalwenandHrillferry recorded asmitigation, no automaticpardon",
+      "custody": "Alltenheldpendingfurtherproceedings",
+      "hrill_status": "No compulsory continuedresidence or newserviceimposed"
+    },
+    "financial_inquiry": {
+      "status": "Hrillallowedinspectseizedrecruitmentpapersandquaysketchunderofficesupervision; originalsretainedCrown",
+      "cash_record": "Avel24GPpersonalremainingcash, inventoriedbutnotgivenHrill",
+      "finding": "RecruitmentpromisessignedAvelownname; no namedfinancialpatron inthesedocuments. Doesnotproveabsenceofpatron."
+    }
+  },
+  "actor_notes": "LOOKS: Broad grey-haired human in salt-marked blue coat, Crown badge. CORE: Public authority exists to make ordinary work possible; prisoners must reach a hearing alive. NATURE: Plainspoken, patient with witnesses, impatient with theatrical accusations. WOUND: A former subordinate mistook rumour for evidence; Marden now keeps accusations specific. WANTS: Relieve Greywatch and establish what the captive commander actually admitted. PRESSURE: Becomes direct and asks for firsthand testimony. KEY: Tell me what she said herself. VOICE: Short everyday sentences, harbour vocabulary, no enumeration or speeches.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-e57029a62b7b",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-28T04:22:07"
+}

@@ -1,0 +1,340 @@
+{
+  "name": "Hrill Helmdance",
+  "stats": {
+    "STR": 11,
+    "CON": 11,
+    "SIZ": 16,
+    "DEX": 14,
+    "INT": 15,
+    "POW": 8,
+    "CHA": 10
+  },
+  "skills": {
+    "Athletics": 70,
+    "Boating": 22,
+    "Brawn": 70,
+    "Conceal": 27,
+    "Customs (Home culture)": 70,
+    "Dance": 24,
+    "Deceit": 30,
+    "Drive": 27,
+    "Endurance": 45,
+    "Evade": 28,
+    "First Aid": 29,
+    "Influence": 55,
+    "Insight": 59,
+    "Locale (Home region)": 40,
+    "Perception": 50,
+    "Ride": 55,
+    "Sing": 18,
+    "Stealth": 29,
+    "Swim": 22,
+    "Unarmed": 30,
+    "Willpower": 50,
+    "Language (Common)": 65,
+    "Courtesy": 53,
+    "Commerce": 30,
+    "Engineering": 40,
+    "Lore (Strategy and Tactics)": 75,
+    "Survival": 50,
+    "Combat Skill (Fighter)": 70,
+    "Lore (Military History)": 70
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+1d2",
+    "initiative_bonus": 14,
+    "magic_points": 8,
+    "luck_points": 4,
+    "movement": "6.096m (20 feet)",
+    "healing_rate": 2,
+    "experience_modifier": 0
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": "01-03",
+      "hp": 7,
+      "ap": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": "04-06",
+      "hp": 7,
+      "ap": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": "07-09",
+      "hp": 8,
+      "ap": 5
+    },
+    {
+      "name": "Chest",
+      "range": "10-12",
+      "hp": 9,
+      "ap": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": "13-15",
+      "hp": 6,
+      "ap": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": "16-18",
+      "hp": 6,
+      "ap": 5
+    },
+    {
+      "name": "Head",
+      "range": "19-20",
+      "hp": 7,
+      "ap": 5
+    }
+  ],
+  "combat_styles": [
+    {
+      "name": "Fighter (all basic and martial weapons, all shields)",
+      "value": 70,
+      "weapons": []
+    },
+    {
+      "name": "Longsword specialist",
+      "value": 75,
+      "weapons": []
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Longsword",
+      "damage": "1d8",
+      "size": "M",
+      "ap": 6,
+      "hp": 12,
+      "traits": [
+        "Bleed",
+        "Impale"
+      ]
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L",
+      "ap": 4,
+      "hp": 12,
+      "traits": [
+        "Bash",
+        "Stun Location",
+        "Ranged Parry",
+        "Passive Block 4 locations"
+      ]
+    },
+    {
+      "name": "Short bow",
+      "damage": "1d6",
+      "size": "L",
+      "range": "45/300/600 feet",
+      "reload": 2,
+      "traits": [
+        "Impale"
+      ]
+    },
+    "Common travelling clothes",
+    "Chainmail (full set, AP 5; worn)",
+    "Quiver with 20 arrows",
+    "Backpack",
+    "Waterskin",
+    "Trail rations (7 days)",
+    "Bedroll",
+    "Small empty sack",
+    "Flint and tinder",
+    "Two six-hour torches",
+    "Belt pouch"
+  ],
+  "powers": [
+    {
+      "name": "Combat Proficiency",
+      "effect": "+5 to Combat Skill and Unarmed, already included."
+    },
+    {
+      "name": "Weapon Specialization (Longsword)",
+      "effect": "+5% with longsword; one bonus parry without spending AP; bonus does not qualify for Rank. Draft weapon choice."
+    },
+    {
+      "name": "Weapon Master (Longsword)",
+      "effect": "Automatic Rank 2 ability with Combat Skill 70 and specialization. Double critical chance and improve damage modifier one step to +1d4 with longsword. Apply situationally; not included in base damage modifier."
+    },
+    {
+      "name": "Mounted Combat",
+      "effect": "Free Rank 1 creation choice; Ride 55 meets prerequisite. Mounted combat skill not capped by Ride; no mounted charge attack penalty; ignore first Ride penalty grade in combat. No mount owned yet."
+    }
+  ],
+  "passions": {
+    "Uphold (Be a good man)": 58,
+    "Seek (Stop the killing)": 48,
+    "Loyalty (The Crown)": 43
+  },
+  "class": "Fighter",
+  "rank": 2,
+  "rank_title": "Fighter",
+  "social_role": "Knight",
+  "race": "Human",
+  "species": "humanoid",
+  "culture": "Civilized",
+  "pronouns": "he/him",
+  "age_category": "Early forties",
+  "build_status": "Mechanical review draft; characteristics approved; no scene opened. Culture, specialization and free ability are proposed build choices. Passions recorded from player; alignment remains open.",
+  "wealth": {
+    "gp": 6,
+    "sp": 0,
+    "cp": 0,
+    "starting_roll": {
+      "expr": "2d4",
+      "rolls": [
+        3,
+        3
+      ],
+      "total": 6,
+      "source": "Mythras CLI"
+    },
+    "basis": "Fighter basic starting kit plus starting purse. No Rank 2 wealth multiplier or mount added."
+  },
+  "background": {
+    "confirmed": "Older knight and campaigner. Honor matters. Tired of fighting; seeks purpose and exploration beyond Purewater. Dislikes its crime and corruption. Works well with people and uses his intelligence; favor people and strategy over engineering. Hrill is resolute. Passions: be a good man; stop the killing; loyalty to the Crown.",
+    "not_assigned": [
+      "order",
+      "liege",
+      "specific wars",
+      "guilt",
+      "family",
+      "estate",
+      "starting location"
+    ]
+  },
+  "skill_allocation": {
+    "base": {
+      "Athletics": 25,
+      "Boating": 22,
+      "Brawn": 27,
+      "Conceal": 22,
+      "Customs (Home culture)": 70,
+      "Dance": 24,
+      "Deceit": 25,
+      "Drive": 22,
+      "Endurance": 22,
+      "Evade": 28,
+      "First Aid": 29,
+      "Influence": 20,
+      "Insight": 23,
+      "Locale (Home region)": 30,
+      "Perception": 23,
+      "Ride": 22,
+      "Sing": 18,
+      "Stealth": 29,
+      "Swim": 22,
+      "Unarmed": 25,
+      "Willpower": 16,
+      "Language (Common)": 65,
+      "Courtesy": 25,
+      "Commerce": 25,
+      "Engineering": 30,
+      "Lore (Strategy and Tactics)": 30,
+      "Survival": 19,
+      "Combat Skill (Fighter)": 25,
+      "Lore (Military History)": 30
+    },
+    "culture": {
+      "Conceal": 5,
+      "Deceit": 5,
+      "Drive": 5,
+      "Influence": 15,
+      "Insight": 15,
+      "Locale (Home region)": 10,
+      "Willpower": 15,
+      "Courtesy": 10,
+      "Commerce": 5,
+      "Lore (Military History)": 15
+    },
+    "class": {
+      "Combat Skill (Fighter)": 10,
+      "Brawn": 13,
+      "Athletics": 15,
+      "Lore (Strategy and Tactics)": 15,
+      "Ride": 15,
+      "Endurance": 13,
+      "Survival": 14,
+      "Lore (Military History)": 5
+    },
+    "bonus": {
+      "Combat Skill (Fighter)": 30,
+      "Brawn": 30,
+      "Athletics": 30,
+      "Lore (Military History)": 20,
+      "Lore (Strategy and Tactics)": 30,
+      "Influence": 20,
+      "Insight": 21,
+      "Courtesy": 18,
+      "Perception": 27,
+      "Survival": 17,
+      "Ride": 18,
+      "Endurance": 10,
+      "Engineering": 10,
+      "Willpower": 19
+    },
+    "ability_bonus": {
+      "Combat Skill (Fighter)": 5,
+      "Unarmed": 5
+    },
+    "culture_professional": [
+      "Courtesy",
+      "Commerce",
+      "Lore (Military History)"
+    ],
+    "class_professional": [
+      "Lore (Military History)",
+      "Lore (Strategy and Tactics)",
+      "Survival"
+    ],
+    "rank_qualifying_skills": {
+      "Athletics": 70,
+      "Brawn": 70,
+      "Combat Skill (Fighter)": 70,
+      "Lore (Military History)": 70,
+      "Lore (Strategy and Tactics)": 75
+    },
+    "pools": {
+      "culture": 100,
+      "class": 100,
+      "experienced_bonus": 300
+    },
+    "unspent_hobby_selection": false,
+    "hobby_professional": "Engineering"
+  },
+  "pending_player_choices": [
+    "Alignment",
+    "Home region and affiliation",
+    "Review draft culture, longsword specialization and Mounted Combat",
+    "Horse and additional travelling equipment if desired"
+  ],
+  "notes": "Hrill Helmdance, older human knight, Rank 2 Fighter. Characteristics approved. Mechanical review draft; no arrival, accepted commission or other in-world event. No secrets of Halla or Nimras granted.",
+  "rules_source": "Vendored CFI SRD: Characters (experienced creation, derived attributes), Civilized culture, Fighter class and starting equipment. Fixed CFI base 2 AP + Rank 2 bonus 1. Five class skills at 70 excluding specialization. Two pools of 100 plus 300 experienced points.",
+  "age": 42,
+  "aging_modifiers_applied": false,
+  "build_revision": "Player requested Willpower50: transfer another5 points from Influence and4 from Insight. Current Influence55,Insight59,Willpower50; budgets unchanged.",
+  "passion_creation": {
+    "priority": "Player list order used as working priority",
+    "base_types": {
+      "Uphold (Be a good man)": "Personal trait/commitment: POW8+CHA10+40=58",
+      "Seek (Stop the killing)": "Personal commitment, using personality-trait base: POW8+CHA10+30=48",
+      "Loyalty (The Crown)": "Organization: POW8+INT15+20=43"
+    },
+    "player_wording": [
+      "Be a good man",
+      "Stop the killing",
+      "Loyalty to the Crown"
+    ],
+    "interpretation": "Character commitments; player decides their expression and resolves hard choices. No particular official oath or military appointment inferred."
+  }
+}

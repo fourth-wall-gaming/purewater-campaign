@@ -1,0 +1,172 @@
+{
+  "id": "myth-char-d25e7fa48211",
+  "name": "Lady Ilyra Voss",
+  "type": "npc",
+  "status": "active",
+  "description": "She/her. Established independent master of binding and bargaining; wealthy High Isle household, estates and civic connections. No relationship to Maelin Voss inferred.",
+  "narrative": "LOOKS:mature woman in a well-cut plum gown, dark hair dressed simply with a few silver strands, fine hands, no ostentatious wand. CORE:a household survives by knowing exactly what it gives and what it owes. NATURE:gracious, interested in capable people, practical hospitality before business. WOUND:inherited obligations make even her wealth feel conditional. WANTS:competent independent help and trustworthy judgement about difficult old obligations. PRESSURE:uses family contacts and bargaining before force; seeks a precise offer rather than issuing threats. KEY:easy cultivated host, unhurried questions, no ominous riddles or obsession with wording every sentence.",
+  "characteristics": {
+    "STR": 9,
+    "CON": 12,
+    "SIZ": 11,
+    "DEX": 12,
+    "INT": 17,
+    "POW": 18,
+    "CHA": 17
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "-1d2",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 14,
+    "luck_points": 0,
+    "magic_points": 18,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 21,
+    "Boating": 21,
+    "Brawn": 20,
+    "Conceal": 30,
+    "Dance": 29,
+    "Deceit": 65,
+    "Drive": 30,
+    "Endurance": 24,
+    "Evade": 24,
+    "First Aid": 29,
+    "Influence": 85,
+    "Insight": 75,
+    "Locale": 34,
+    "Perception": 60,
+    "Ride": 30,
+    "Sing": 35,
+    "Stealth": 29,
+    "Swim": 21,
+    "Unarmed": 21,
+    "Willpower": 85,
+    "Customs": 74,
+    "Native Tongue": 74,
+    "Arcane Casting": 90,
+    "Arcane Knowledge": 90,
+    "Courtesy": 85,
+    "Commerce": 65
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {},
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "she/her",
+    "score": {
+      "want": "Find trustworthy independent help",
+      "ought": "Protect household without imposing its burdens on unwilling people",
+      "driver": "Release from an inherited obligation",
+      "stated_reason": "Manage complicated household interests",
+      "focus": "A visitor competence and reliability",
+      "status": "Gracious host, prospective client, no automatic superior authority over guest",
+      "tactics": [
+        "Offer ordinary hospitality",
+        "Ask references and practical abilities",
+        "Discuss specific work and terms when prepared",
+        "Use existing contacts and negotiate if refused"
+      ],
+      "when_lied_to": "No automatic lie detection; Insight only for actual consequential lies",
+      "blind_spot": "May see a broad bargain as acceptable before others do",
+      "rhythm": "Cultivated plain questions, warm and unhurried",
+      "physical": "Comfortable in own house, composed without theatrical gestures",
+      "secret": "Inherited compact terms and private remedies not disclosed by first meeting",
+      "observed": []
+    },
+    "casting_preparation": "Established formidable master; exact CFI repertoire/rank benefits must be prepared before casting or combat. No magic cast in this courtesy scene.",
+    "resources": {
+      "household": 1,
+      "garden": 1,
+      "outside_estate_income": "Established, not an unlimited cash reserve",
+      "private_guards_in_scene": 0
+    },
+    "compact_preparation": "Older lake-power compact exists in lore; exact parties, conditions and remedies remain unresolved preparation. No obligation transfers through ordinary hospitality."
+  },
+  "actor_notes": "LOOKS:mature woman in a well-cut plum gown, dark hair dressed simply with a few silver strands, fine hands, no ostentatious wand. CORE:a household survives by knowing exactly what it gives and what it owes. NATURE:gracious, interested in capable people, practical hospitality before business. WOUND:inherited obligations make even her wealth feel conditional. WANTS:competent independent help and trustworthy judgement about difficult old obligations. PRESSURE:uses family contacts and bargaining before force; seeks a precise offer rather than issuing threats. KEY:easy cultivated host, unhurried questions, no ominous riddles or obsession with wording every sentence.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 18,
+  "experience_rolls": 0,
+  "location": "myth-loc-2419c1b119d6",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-26T16:25:44"
+}

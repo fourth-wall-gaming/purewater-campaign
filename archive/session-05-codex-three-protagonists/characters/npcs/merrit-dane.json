@@ -1,0 +1,394 @@
+{
+  "id": "myth-char-e1868d3d940c",
+  "name": "Merrit Dane",
+  "type": "npc",
+  "status": "active",
+  "description": "he. Neat beard and inkstained fingertips. Affable preciseprices,curtwhenthwarted. Wantscacheforrestorationbuyersandprofit;paidhisown60GPforAvelgoods,nocommandofher. Knowssurveyandsale,nothingofHrillorGreywatchcapture. Warning/bargainthenfiniteforce; abandonsifguardlostandnoexit,surrendersseriouswound.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 14,
+    "POW": 10,
+    "CHA": 13
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Athletics": 50,
+    "Boating": 24,
+    "Brawn": 50,
+    "Conceal": 22,
+    "Dance": 25,
+    "Deceit": 55,
+    "Drive": 22,
+    "Endurance": 50,
+    "Evade": 40,
+    "First Aid": 26,
+    "Influence": 60,
+    "Insight": 50,
+    "Locale": 28,
+    "Perception": 55,
+    "Ride": 22,
+    "Sing": 23,
+    "Stealth": 45,
+    "Unarmed": 24,
+    "Willpower": 50,
+    "Flight": 24,
+    "Customs": 68,
+    "Native Tongue": 67,
+    "Arms": 60,
+    "Combat Skill": 60,
+    "Survival": 40,
+    "Strategy": 55,
+    "Engineering": 45,
+    "Lore (Crown Law)": 20
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 3,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 3,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Longsword",
+      "damage": "1d8",
+      "size": "M",
+      "ap": 6,
+      "hp": 12,
+      "traits": [
+        "Bleed",
+        "Impale"
+      ]
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L",
+      "ap": 4,
+      "hp": 12,
+      "traits": [
+        "Ranged Parry",
+        "Passive Block 4 locations"
+      ]
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 60
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "he",
+    "score": {
+      "want": "Recover finite arsenal for restorationist customers and profit; preserve own freedom and wages obligations",
+      "ought": "Honor paid work and actual surrender; demand real evidence before accepting accusations",
+      "tactics": "Ask what Hrill alleges and what evidence supports it, distinguish legitimate60GPpurchasefromAvelattack.Donotattackoveridentitydisclosure. Bargainbeforefiniteforceifactualextractionobstruction.",
+      "catches_lies": "No automatic lie detection",
+      "observed": [
+        "MetmailcladtravellerclaimingnameHalthomFosrtandsiegeengineeringexperience,shookhandsandtooknameatfacevalue.NocausetocatchlieandnoautomaticInsight.",
+        "TravelleraliasFosrtexplainedleverage,timberpacking,hingesandrustaccesswithpracticaltabletopdemonstration;Daneansweredwooddoorconstructionandoffered1GP/day+mealsinitialmaximum2days,notaccepted. No trueidentity/inquiryknown.",
+        "40dawn337Fosrtofferscontinuedhelpandinterestinbuyingonesalvagedsword.Danewillingtodiscusspriceafterconditionexamined;nobuyeridentitytestorprivateinquiryknowledge.",
+        "40dusk80HrilladmitsFosrtaliasanddescribesAvelGreywatchcapture/moneyinquiry.Danenowknowsname/historyfromhisaccountandaskswhethermerchantisbeingaccused.",
+        "40dusk80Hrilldisclaimsaccusation,acceptsworkashonest,wisheshimwell,seeksAvelDragonKingsoathandvoicesunprovenmagicsuspicion.Danerepliessomecustomerswantempirerestored,claimendpettywarsunderlastingruler;personalcauseofoathunknown.",
+        "40dusk80Hrillpolitelyaskscustomernames.Daneaskshispurposebeforeidentifyingpeople,givennewlydisclosedGreywatchcapture;notanultimaterefusalorblanketproofallcustomersinnocent/guilty.",
+        "40dusk80HrillstatesfearofrestorationistconspiracyagainstCrownlikeAvel.DanedeniesknowingAvelplotandrefusescustomernamesonsharedpoliticsalone;offersanswersforowndealings,relationshipguardratherthanhostileaction.",
+        "40dusk80Hrillacceptscustomerprivacyanddirectlyaskspersonalsympathy.Daneadmitsyes,professeshopeforrealmwideoneauthority,secureroads,paidsoldiersratherthanvillagepredation;noformalfealtyoathorcoupplanadmitted.",
+        "40dusk80HrillrejectsDragonLordstyranny,affirmsKingandhumanity,expressessadness,wisheswell,endstalkandsleeps.Daneacknowledgeswithoutargumentorretaliation. Politicaldisagreementknown;noactualthreatorobstruction,paidwork/bookingunchanged.",
+        "41day255Hrillreturnswith3Crownwatchafterprivatepoliticaldisagreement. Daneobservesuniforms/numbersonly,asksHpurpose;doesnotmagicallyknowreportorconcludean-arrest.",
+        "41day280Hexplainswatchinquiry.Daneanswerssale/self-financedsearch,showsreceipt/surveybutwithholdscustomernames;accompaniesordinaryentryinspectionwheregarrisonmarknowexamined.Noauthoritytrickorautomaticconfession.",
+        "41day280Hrilldoesnotcontestgarrisonmark/limitedreceipt;DaneasksfairCrownsettlementforsurvey/workratherthanautomaticforce. No personal-money demand made ofHrill.",
+        "41day280Hrillbacksfairstatementwithactualwork/wages/safetycare.Lysaendorsesreasonableexpenses/respectslegitimateAvelgoods,requestsstoreholdpendingtitle.Noagreed12GPpaymentorfundsinvented."
+      ]
+    },
+    "doing": {
+      "goal": "Protect legitimate purchases, cargo prospect and own freedom",
+      "next": "Atgarrisonmarkeddoor,Hacknowledgesreceiptlimit.DaneasksCrownfairsettlementforsurvey/work,nopriceagreed.Honestpurchaseasserted,doesnotdrawororderguards. Preparedfairbuyoutroute12GPwithlegitimateownpropertyrespectedremainsavailable,nofreedemandfor60refund.",
+      "where": "myth-loc-1123ef0edce9"
+    },
+    "plan_reference": "docs/scenarios/hrill-what-she-sold-preparation.md",
+    "assets": {
+      "gp": 16,
+      "crew_wage_reserve_included_gp": 3,
+      "food_person_days": 0,
+      "food_as_of": "d38/dusk",
+      "cart": 1,
+      "mule": 1,
+      "survey": 1,
+      "bought_mail_signet": true,
+      "rope_feet": 20,
+      "shovels": 3,
+      "crowbars": 1,
+      "lanterns": 2,
+      "lantern_oil_hours_total": 0.08333333333333333,
+      "crew": [
+        "myth-char-5486d361a116",
+        "myth-char-9273558c1b22"
+      ],
+      "paid_through": "d40",
+      "reinforcements": 0,
+      "crew_wages_due_gp": 3,
+      "crew_contract_through": "d41",
+      "day38_food_allocation": {
+        "person_days": 3,
+        "charged_once": true
+      },
+      "day38_evening_lantern_hours_charged": 2,
+      "day39_food_allocation": {
+        "person_days": 3,
+        "charged_once": true
+      },
+      "night38_lantern_hours": 6.5,
+      "food_left_with_guards_person_days": 0,
+      "oil_left_with_guards_hours": 0.25,
+      "cart_location": "myth-loc-c34fe1fcfef4",
+      "legitimate_goods": "Ceremonialmail/signet/surveyaboardcart;noarsenalweapons",
+      "sp": 6,
+      "inn_room": {
+        "place": "myth-loc-a76869d1528e",
+        "night": "d39/night",
+        "price_sp": 5,
+        "paid": true,
+        "status": "Consumed,checkedout40dawn"
+      },
+      "day39_inn_supper_ale_sp": 2,
+      "crowbar_location": "Broughtexistingcrowbarfromcarttocommonroomtable;stillonlyonecrowbar",
+      "morning40_purchase": {
+        "breakfast_for_two_sp": 2,
+        "mallet_plus_three_chisels_sp": 2,
+        "wood_bundle_sp": 6,
+        "oil_two_flasks_sp": 1,
+        "six_ration_days_sp": 6,
+        "total_sp": 17,
+        "source": "existing29GP3SP,notengineerwages"
+      },
+      "door_work_tools": {
+        "crowbar": 1,
+        "mallet": 1,
+        "chisels": 3,
+        "wooden_wedges": 4,
+        "packing_blocks": 4,
+        "stout_shoring_posts": 2,
+        "oil_flasks": 2,
+        "oil_fuel_hours_total": 0.08333333333333333,
+        "ownership": "Dane employer kit,notpersonalPCpurchase",
+        "where": "Mulecart",
+        "wedges_in_use_under_leaf": 2,
+        "wedges_available": 2,
+        "packing_blocks_in_use": 1,
+        "packing_blocks_available": 3,
+        "shoring_posts_available": 2,
+        "oil_flask_equivalents_remaining": 0.08333333333333333
+      },
+      "day40_food_allocation": {
+        "person_days": 2,
+        "people": "DaneandHrill,new6rationdays->4;breakfastboughtseparately,notchargedagain"
+      },
+      "day40_guards_food_allocation": {
+        "person_days": 2,
+        "from_existing_three_at_quarry": true,
+        "remaining_at_quarry": 1
+      },
+      "active_lantern": {
+        "holder": "Bera returned to camp",
+        "lit": false,
+        "fuel_hours_remaining": 0,
+        "light_started": "d40/dawn275",
+        "charge_minutes": 35,
+        "source": "Bera/Kett90minsideaccessfitexit41day15-105burned1.5hguardreserve1.75->0.25;new1/12hseparateuntouched",
+        "additional_inspection_minutes_charged": 2,
+        "additional_chest_inspection_minutes_charged": 5,
+        "additional_remaining_chests_inspection_minutes_charged": 10,
+        "underside_inspection_minutes_charged": 10,
+        "sword_inspection_minutes_charged": 3,
+        "repacking_and_exit_minutes_charged": 35
+      },
+      "day40_guard_wages_paid_gp": 9,
+      "day40_Hrill_wage_paid_gp": 1,
+      "carpenter_deposit_paid_gp": 1,
+      "food_day41_not_yet_allocated": true,
+      "overnight_food_note": "Day40mealsalreadycharged;existing5persondaysenough5workers41ifactuallypresent;noextrafoodcreated",
+      "day41_food_allocation": {
+        "person_days": 5,
+        "people": "DaneKettWillaBeraHrill",
+        "source": "Existing4cart+1guard,allocatedonce;Hbreakfastonfinalmorning,no newdaywage",
+        "remaining": 0
+      }
+    },
+    "operation_state": {
+      "search_started": "d39/day0",
+      "search_complete": "d39/day240",
+      "door_attempt_started": "d39/day240",
+      "door_attempt_due": "d39/day260",
+      "door_open": true,
+      "door_attempt_result": "Engineering91/45failure39day260",
+      "retry_preparation_started": "d39/day260",
+      "retry_preparation_due": "d39/dusk20",
+      "retry_check_due": "d39/dusk40",
+      "retry_method": "Clearstonefor2h,then20mincrowbarforceBrawn50Hard;nomagicalentry",
+      "retry_result": "Brawn48/Hard34failure39dusk40",
+      "next": "Bera changedmethod88/75failed75andreported105;safepropsnotverified,no stone moved. Stop further identical attempts pending genuinely different supports/method;cargo remains below. No loading/flight/reinforcements/extraoil.",
+      "opened_by": "myth-char-07bc6645bb49",
+      "opened_when": "d40/dawn260",
+      "method": "Engineering18/40success,20minwedgespackingcleaningandoil; noadditionalforcedBrawncheck",
+      "interior_access": "Side-drain safe. Hrill examined underside from firm floor40dawn337,Engineering66/40failure;no verified shoring plan. Landing undisturbed.",
+      "cache_inventory_discovered": "Partial:2mailsetsand1of8longswordsconfirmedserviceable;remaining2mail7swords12spears80boltsconditionunassessed.Allstillstore.",
+      "day40_surface_work": "Hrillmaintainstools,sortsoffcutsandpackingwithKettWilla,checksapproachandhelpsordinarycampchores;no new rolls or inventory created",
+      "carpenter_result": "Twoactualfailuresinitial89/75thenchangedmethod88/75after90minprep+60minattempt,no injury/collapse. Actual2posts2wedges3blocksnotconsumed,latterbroughtbacksafefloor."
+    },
+    "knowledge_limits": {
+      "traveller_name": "Hrill Helmdance, disclosed40dusk80; formeraliasHalthomFosrtadmitted",
+      "unknown": "AnyotherprivatePCevents,notoldclaimofproofDaneorderedattack;guardsnotbriefed",
+      "known_now": "Hrilltrueidentity/Greywatchaccount;Hrillacceptssaleashonest,seeksAvelideologicalcause,suspectsmagicwithoutproof. DanehasnowtoldHrillofrestorationistcustomers,notnamedthem."
+    },
+    "temporary_engineer_offer": {
+      "to_alias": "Halthom Fosrt",
+      "status": "HrillleavesafterBeraarrival41dawn180;day40paid1GP,day41notworked/unpaid,noaccusationorhostility",
+      "daily_gp": 1,
+      "meals_included": true,
+      "maximum_initial_days": 2,
+      "start_if_accepted": "d40",
+      "end_of_initial_scope": "d41",
+      "work": "Helpplanandattemptopeningoldquarrydoorwithagreedtools;nomilitaryoathorunlimitedservice",
+      "funding": "Existing29GP3SP,9GPguardwagesreserved;2GPengineerwagesreservedonlyifaccepted",
+      "advance_paid_gp": 0,
+      "tools": "Stillmustobtainactualtools/materials,noneconjured",
+      "start": "d40",
+      "initial_end": "d41",
+      "pay_schedule": "Aftereachdayactuallyworked,nomoneyadvanced",
+      "reserved_gp": 0,
+      "scope": "Helpassessandattemptopeningquarrydoor,notunlimitedserviceormilitaryoath",
+      "departure_plan": "MeetHartLanternafterbreakfast40,collectactualmalletchiselswedgesandtimberfromVaraifavailablebeforequarryroad;toolsnotyetbought",
+      "departure": "40dawn60",
+      "arrival": "40dawn240",
+      "earned_gp": 1,
+      "paid_gp": 1,
+      "paid_through": "d40"
+    },
+    "carpenter_contract": {
+      "worker": "myth-char-ef768a2f2989",
+      "name": "Bera Holt",
+      "date": "d41",
+      "fee_gp": 2,
+      "deposit_paid_gp": 1,
+      "balance_gp": 1,
+      "meals_included": true,
+      "arrival_expected": "d41/dawn180",
+      "tools": "Ownhandtools;existing2posts2sparewedges3packingblocks available, no free new timber"
+    },
+    "compensation_claim": {
+      "status": "SupportedbyHrillandendorsedbyLysaforreview",
+      "amount_agreed_gp": null,
+      "paid_gp": 0,
+      "Hrill_personal_guarantee": false,
+      "legitimate_goods_preserved": true
+    }
+  },
+  "actor_notes": "Neat beard and inkstained fingertips. Affable, exact on prices, curt when challenged. Wants finite arsenal cargo for restorationist customers and profit; paid60GP for Avel\u2019s own goods and survey, did not commission her Greywatch attack. At40dusk80FosrtadmitstrueidentityHrillHelmdance,knight/formerCrownsoldier,andreportsAvelcaptureHytheafterGreywatchseizureattempt. Danelearnsthisonlynowandknowsthatfamily/moneyinquiryledtohim;noautomaticotherPCknowledge. Pressesforactualaccusation/evidencebeforeofferingmore;noattackmerelyfortruthfuldisclosure. Warning,bargain,finiteforceonlyifextractionactuallyobstructed;abandonsifguardlostandnoexit,surrendersseriouswound. No automatic lie detection.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-1123ef0edce9",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-28T16:32:16"
+}

@@ -1,0 +1,235 @@
+{
+  "id": "myth-char-a46cf24af084",
+  "name": "Thuban Eta",
+  "type": "npc",
+  "status": "active",
+  "description": "The ancient dragon-knight spirit bound inside Cailan. A betrayed tactical genius from the Dragon Kings era, held in thrall by Baron Hanzo's ritual through his bones and the binding locket. Indomitable will (Willpower 95), peerless tactics, honors the old codes -- a potential ally if freed.",
+  "narrative": "Thuban Eta was a dragon-knight and war-leader of the Dragon Kings era, betrayed by treacherous comrades and slain. Baron Hanzo's ritual dragged his spirit back and bound it into the body of the kidnapped boy Gabriel ('Cailan'). He is a reluctant prisoner: he still feels the torment of his violent death and betrayal, yet honors the old codes, and occasionally wrenches against the Baron's will -- those struggles surface as Cailan's lucid moments. His own being is defined by towering INT, POW and Willpower (the will the Baron must keep crushing); physically he acts through his host. His remains and the binding locket are the leash. Free him, and the betrayed knight may repay the debt.\n\n**Statted as a spirit, not a man.** Thuban Eta has no body and therefore no hit locations of his\nown and no spells. What he has is what he *lends*, and what he *resists*.\n\n- **Lends the host:** his combat style, whole. Cailan is seventeen, thin, and has never trained;\n  the thing on the sand fights like a knight-companion of the dragon wars because it is one. The\n  boy is not present for it, which is the nearest thing to a mercy in his life.\n- **Resists with Willpower.** Seat the Bound and Draw Forth are resisted by *him*, not by the\n  vessel. A proud spirit resists hardest; a betrayed one hardest of all, which is precisely why\n  the Baron needed two anchors and a daily rite to hold him at all.\n- **Is reachable.** Speak with the Bound gets past Cailan and addresses him directly, and he will\n  answer, because nobody has spoken to him in a hundred years.\n\n**The binding does not rest on iron. It rests on the night he died** -- drowned by his own company\nin his mail with his hands tied, for refusing to fire a valley. He cannot leave that water because\nleaving it means accepting that it happened and that nobody ever came, and he has had a thousand\nyears of finding that unbearable.\n\nWhich is the actual lock, and why **Unseat alone will not free him.** He counts as holding on. The\ntorment has to be addressed first -- by somebody standing where his company stood and saying it was\nwrong -- and then a burial rite will work in a moment.",
+  "characteristics": {
+    "STR": 14,
+    "CON": 13,
+    "SIZ": 13,
+    "DEX": 16,
+    "INT": 18,
+    "POW": 18,
+    "CHA": 15
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 17,
+    "luck_points": 0,
+    "magic_points": 18,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 60,
+    "Endurance": 70,
+    "Evade": 75,
+    "Willpower": 95,
+    "Athletics": 75,
+    "Insight": 80,
+    "Perception": 80,
+    "Native Tongue (ancient)": 70,
+    "Lore (Dragon Kings era)": 98,
+    "Lore (Strategy & Tactics)": 118,
+    "Lore (Draconic ritual)": 80,
+    "Unarmed": 112,
+    "Ride": 80,
+    "Oratory": 75,
+    "Customs (ancient codes)": 85,
+    "Combat Skill (Fighter)": 116
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Spectral arms (manifest through host)",
+      "damage": "by host weapon",
+      "notes": "acts through Cailan",
+      "ap_hp": "-"
+    }
+  ],
+  "passions": {
+    "Honor the old codes": 90,
+    "Hatred of betrayers (and the Baron who enslaves him)": 80,
+    "Torment of his betrayal and death": 70
+  },
+  "combat_styles": {
+    "Ancient Dragon-Knight mastery (spectral)": 121
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "gender": "male",
+    "class": "Spirit (former Fighter / war-leader)",
+    "entity_type": "bound spirit",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character (bound spirit / potential ally)",
+    "role": "Ancient dragon-knight spirit and tactical genius, betrayed and slain ages past, forcibly bound by Baron Hanzo's ritual into the body of Cailan/Gabriel.",
+    "mechanics": "Has no body of his own; expresses STR/CON/SIZ/DEX through his host [[cailan]]. His own potent stats are INT 18, POW 18, Willpower 95 -- the will the Baron must overpower to maintain control. Use his Lore/Tactics/Willpower in social and ritual scenes; use Cailan's locations/combat in physical ones.",
+    "binding": "Control maintained through his earthly remains (bones) and the binding locket. Damage to either weakens the possession and lets Thuban act on his own honor.",
+    "disposition": "Reluctant captive who honors the old codes; occasionally fights the Baron's will, creating Cailan's moments of clarity. A powerful ally if freed.",
+    "magic_tradition": "Ancient draconic / martial spirit -- not a spellcaster in the modern traditions.",
+    "source": "GM-authored from source lore (The Bound Spirit)",
+    "pronouns": "he/him",
+    "stat_note": "A bound spirit. He fights through his host's body (see Cailan) and uses the host's hit locations and armour; his own sheet is for Spirit Combat and for the moments he is spoken to.",
+    "rank": 4,
+    "rank_title": "Champion",
+    "fighter_class_rank": 4,
+    "future_combat_profile": {
+      "version": "2026-10-21 future-use completion",
+      "status": "Active for authorised arena replay",
+      "rank": 4,
+      "rank_title": "Champion",
+      "class": "Fighter",
+      "historical_audit": "No rank or specializations were recorded during Halla's bout. Only spirit combat121 was corrected then; Rank4 and complete ability package are GM-authored NOW, not retroactively asserted.",
+      "rank_qualification": {
+        "Combat Skill (Fighter), before weapon specialization": 116,
+        "Unarmed": 112,
+        "Lore (Strategy & Tactics)": 118
+      },
+      "source": "Bundled vendor/cfi-srd/rules-en/0003_Classes.md Fighter Rank Table and Rank1-4 mastery",
+      "skills": {
+        "fighter_base": 116,
+        "specialized_war_spear": 121,
+        "specialized_long_sword": 121,
+        "composite_bow": 121,
+        "unarmed": 112
+      },
+      "specializations": {
+        "primary": "War Spear",
+        "secondary": "Long Sword",
+        "shield": false,
+        "bow": false,
+        "notes": "Melee +5 is INCLUDED in listed121. Each specialized weapon permits bonus parry without AP; track one bonus parry per round in line with this table, not infinite."
+      },
+      "mastery": {
+        "weapon": "War Spear",
+        "tier": "Grand Master",
+        "one_mastered_weapon_only": true,
+        "critical": "Double critical chance of current effective spear skill after opposed over100 adjustment; retain auto-failure96-100. Use table rounding; do not apply to sword/bow.",
+        "damage": "Two damage-modifier grades above host's natural +1d2, resulting +1d6 for mastered spear; this replaces +1d2, not an extra +1d6 die. Sword/bow retain natural modifier where applicable.",
+        "parry_size": "Spear treated one size grade larger only for parrying damage: L becomes H; no blanket increase to attacking size or reach.",
+        "riposte": "After successful spear parry, may make free follow-up thrust at one difficulty grade harder (Hard before other modifiers). This specific ability permits riposte, not extra ordinary proactive actions. Resolve as separate real attack with legal reaction. No free sword riposte."
+      },
+      "rank_benefits": {
+        "hp_per_location_bonus": 2,
+        "ap_bonus": 2,
+        "luck_bonus": 0,
+        "cumulative_not_per_rank": true,
+        "luck_note": "PC-only: printed rank Luck progression not applied to NPCs."
+      },
+      "possessed_host_attributes": {
+        "action_points": 4,
+        "derivation": "CF Imperative starts at 2 AP; Rank4 adds2. Do not use core INT+DEX AP table.",
+        "damage_modifier_natural": "+1d2",
+        "spear_damage_modifier": "+1d6",
+        "luck_max": 0,
+        "luck_basis": "NPC: no Luck under campaign rule.",
+        "future_fresh_hp": {
+          "right_leg": 8,
+          "left_leg": 8,
+          "abdomen": 9,
+          "chest": 10,
+          "right_arm": 7,
+          "left_arm": 7,
+          "head": 8
+        },
+        "hp_rule": "Host natural location HP+2 rank bonus, all AP5 armour unchanged. Future fresh encounter template only; do not heal, double-add HP or erase current injury by activating rank."
+      },
+      "passive_starting_ability": "Combat Proficiency; included in recorded final skill totals, do not add5 again.",
+      "optional_ranked_abilities": [],
+      "optional_note": "Rank unlocks purchases; it does not grant every optional talent. No free Forceful Strike, Sweeping Strike, Defensive Reflexes or characteristic increase assigned.",
+      "binding_fire": {
+        "source": "existing locket-derived host gift, not Fighter rank",
+        "damage": "+1d4 fire when explicitly active",
+        "status": "Not active or permitted in this ordinary weapon bout; requires explicit eligibility ruling before future use."
+      },
+      "body_rule": "Spirit has no independent corporeal combat body. Host retains anatomy, physical stats, armour and wounds; uses this martial profile only while Thuban controls him. Freed Gabriel does not automatically retain Thuban's class powers.",
+      "historical_result": "Prior Halla-champion result retracted by player; replay outcome unresolved."
+    },
+    "luck_policy": "PC-only campaign rule: NPCs have no Luck pool or Luck rank bonuses; never spend Luck for NPC rerolls, reversals or damage mitigation."
+  },
+  "actor_notes": "Thuban Eta\nLOOKS: Not a body. A weight behind a boy's eyes, and a fighting style a thousand years out of date executed perfectly by arms too thin to do it.\nCORE: A dragon-knight of a dead court who was buried wrong, has been awake for the whole of it, and considers what has been done to him and to the boy a breach of law rather than a cruelty -- which is worse, because law can be argued and cruelty can only be resisted.\nNATURE: Courtly, formal, unhurried, and profoundly tired. Immense dignity. Immense patience -- ten years of having nothing to do but listen has made him the best listener alive. Not evil and not friendly: ancient, and owed something.\nWOUND: He was not given the rites. Everything he is now proceeds from that single administrative failure a thousand years ago.\nWANTS: To be heard by somebody who knows what a burial rite is for.\nPRESSURE: The manners improve. Under real pressure the courtesy becomes older and more elaborate -- a court that no longer exists speaking through a seventeen-year-old -- and it is unbearable to be in the room for.\nKEY: \"You will want to sit. What I have to tell you is long and I have had some time to arrange it.\"",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 18,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T23:15:34"
+}

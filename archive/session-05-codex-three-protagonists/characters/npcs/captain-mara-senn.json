@@ -1,0 +1,268 @@
+{
+  "id": "myth-char-0023133728c0",
+  "name": "Captain Mara Senn",
+  "type": "npc",
+  "status": "active",
+  "description": "Independent recovery captain. Cropped hair, well-cut patched coat, short offers and dockside humour. Commands exactly five other company members; no institutional immunity.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 14,
+    "SIZ": 12,
+    "DEX": 14,
+    "INT": 14,
+    "POW": 11,
+    "CHA": 14
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 2,
+    "healing_rate": 3,
+    "initiative_bonus": 14,
+    "luck_points": 0,
+    "magic_points": 11,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Company Arms": 70,
+    "Evade": 60,
+    "Endurance": 65,
+    "Willpower": 60,
+    "Influence": 65,
+    "Deceit": 55,
+    "Insight": 60,
+    "Perception": 65,
+    "Boating": 65,
+    "Streetwise": 65
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Padded coat"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {},
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "score": {
+      "want": "Make a profitable exit with saleable constructs",
+      "ought": "Honour the limited demonstration agreement",
+      "driver": "Refusal to become an unpaid retainer",
+      "stated_reason": "Make a profitable exit with saleable constructs",
+      "focus": "promotion",
+      "status": {
+        "Nimras": "Unknown visiting professional; no awareness of his thoughts or commission until learned."
+      },
+      "tactics": [
+        "Offer purchase",
+        "Leverage custody",
+        "Order restraint",
+        "Withdraw if outmatched"
+      ],
+      "when_lied_to": "miss",
+      "blind_spot": "Trusts familiar professional habits.",
+      "rhythm": "Short plain offers; dockside humour.",
+      "observed": [
+        "d6/night: received Bess\u2019s visitor Harcourt, asked his business with Vaur; no identity or allegiance discovered.",
+        "d6/night: Harcourt alleges Vaur took another\u2019s property, gives no details. Senn stated live recovery and satchel objectives and asked whether his instructions conflict. No agreement yet.",
+        "d6/night: Harcourt smiled and proposed taking Vaur after Senn is finished; she counteroffered d8-afternoon handover while retaining satchel. Counteroffer awaits acceptance, no forced betrayal planned.",
+        "d6/night: Harcourt accepted spoken body/satchel terms. Senn confirmed, showed whistle attention response and explained fresh-trace tracking, without disclosing intended captive demonstration.",
+        "d6/night: demonstrated return/hold to Harcourt without loading a trace or threatening him; asked whether he had a fresh magical trace, without knowing his abilities.",
+        "d6/night: Harcourt declined trace and offered field information. Senn supplied Doria at Furnace Court as a maker contact and requested word on Vaur; no claim to know refuge.",
+        "d6/night: Harcourt returned and walked openly to annealing room door. Senn asked for news of Vaur without obstructing him or commanding the hound. No answer yet.",
+        "d6/night: Harcourt walked back from annealing door and reported Vaur asked Flint about hounds, questioning inquiry priorities. Senn stated lodging priority and asked for specifics. No hidden motive discovered.",
+        "d6/night: Harcourt says Vaur asked after Kest, asks who he is. Senn identifies maker and room; no suspicion roll or discovery of concealed knowledge.",
+        "d6/night: Harcourt asked who employs Senn and whom to speak to. Senn stated independent company role and business authority, offered Kest for technical questions; no buyer named or automatic suspicion.",
+        "d6/night: Harcourt requested Kest conversation; Senn assented and let him approach without an escort or hound command.",
+        "d6/night corrected by player-authorized Luck and Passion: Harcourt cover07/70critical beats Insight65/60failure. Senn accepts the visible quarrel as genuine; asks cause without discovering collusion.",
+        "d6/night: Harcourt kept quarrel details private and asked hire/investment questions. Senn offered handler-accompanied hire negotiations, entertained investment, disclosed existing deposit and asked contribution. No deal or funds established.",
+        "d6/night: Harcourt asks competitive market terms. Senn quotes existing total50GP for pack/control notes, temptation60GP, and trial2GP per hound-plus-handler for one watch. No acceptance, funds demonstrated or transfer.",
+        "d6/night: Harcourt offered Vaur help before potential investment, asked lodging. Senn recommended Three Steps and offered news delivery if he confirms room. No booking or investment commitment.",
+        "d7/dawn: corrected by player Luck reversal09/60 success. Harcourt introduces companion as boss Vitger Gor. Bess admits them and introduces Gor to Senn in yard. Claimed cover accepted for access, no true identity/Assay discovery. Senn asks for Rennic news.",
+        "d7/dawn: Harcourt claims he knows Vaur whereabouts but gives no location; defers to Gor. Gor requests control demonstration. Senn demonstrates recall/hold then requests fresh trace. Buyer cover stands; no hunt/purchase.",
+        "d7/dawn: loaned own brass command whistle to buyer Gor for on-site trial, not sale. Asked Harcourt for Vaur whereabouts so Bess could collect him; no address or new trace received, Bess still present.",
+        "d7/dawn: loaded one blank lens with Harcourt Repair shaving into HoundI;3blanks remain. Hound tracks him09/60 and halts under Gor whistle. Offered takedown test; no consent or attack yet.",
+        "d7/dawn: buyer Gor displays sealed warrant and identifies as Conall Bjornlasch King\u2019s Assay, announcing binding inspection/private maker interview. Challenged Harcourt: Is this what you call a buyer? Knows companion true office now; Harcourt real identity/R refuge still unknown.",
+        "d7/dawn: Harcourt renounces alias, visibly holds lightning and warns noninterference. Influence63/70beatsWill54/60 bothsuccess; Senn raisesemptyhands andpermitsinspection, wantschargeawaycrew. No surrender/attack, truePCname/Rrefugeunknown.",
+        "d7/dawn: N demanded weaponsground/handsvisible; resistedhardInfluence78/47withWill48/60success. Keepshandsraised andswordsheathed, permitsinspection, refusesdisarmament. Bessretainscudgel; noattackordered.",
+        "d7/dawn: Nimras exposed platformchest/key/papers. Responded to Conall inspectionrequest by handingkey toConall, without disarming or confession. Whistle also remains Conall fromearlier loan.",
+        "d7/dawn: Conall reads deliveredletter and ordersconstructsremainpendinginvestigation. To regain control rather than surrender sale assets, calls Iven Call them back. Ivenstartsreaching, no order completed. No attack or killing intent assumed.",
+        "d7/dawn R1C1 houndcontrolstandoff: Delays; no attack or surrender.",
+        "d7/dawn R1C2 drewshortswordin standoff; witnessedNlightning strikeIven+bothactivehounds, no crewdeath or magical immunity.",
+        "d7/dawn: aftertwoactivehoundsleg-disabled/Ivenburned/Bessdisarmed, Conallinterposesrapier. Sennvoluntarilydropsswordandorderscrew Drop them. We\u2019re done. Not magicallycompelled, not confession, detainedunrestrainedpendingactualcustody."
+      ]
+    },
+    "assets": {
+      "company_total": 6,
+      "pay_chest_gp": 18,
+      "completed_hounds": 4,
+      "inert_bodies": 2,
+      "blank_lenses": 4,
+      "whistles_total": 4,
+      "whistles_senn": 1,
+      "whistles_iven": 1,
+      "whistles_chest": 2,
+      "replacement_bodies_days": 3
+    },
+    "doing": {
+      "goal": "Survive the failed confrontation and preserve any defensible claim to her property",
+      "next": "Comply with standdown under Assay supervision; crewweaponsground, unrestrained, no newattack/hunt/exportorder",
+      "where": "myth-loc-8bbc5a0606ad",
+      "as_of_session": 6
+    },
+    "pronouns": "she/her",
+    "handover_proposal": {
+      "recipient_cover": "Damien Harcourt",
+      "earliest": "d8/day after actual business",
+      "retained_by_senn": "Rennic satchel",
+      "status": "verbally accepted by both",
+      "limits": "Conditional on actual custody and completion; no guaranteed outcome or forced future PC compliance"
+    },
+    "temporary_command_whistle": {
+      "owner": "myth-char-0023133728c0",
+      "holder": "myth-char-06f87a379bbf",
+      "purpose": "On-site buyer handling demonstration; no command yet",
+      "as_of": "d7/dawn"
+    },
+    "demo_sample_stock": {
+      "blank_lenses_in_locked_chest": 3,
+      "loaded_lens": "myth-char-0f7136e1ac47",
+      "sample": "Harcourt fresh Repair signature",
+      "expires": "end of d7/dawn"
+    },
+    "temporary_inspection_key": {
+      "owner": "myth-char-0023133728c0",
+      "holder": "myth-char-4fc52ae14026",
+      "purpose": "Opened platform chest for official inspection",
+      "as_of": "d7/dawn"
+    },
+    "platform_chest_state": {
+      "locked": false,
+      "open": true,
+      "coins_gp": 18,
+      "spare_whistles": 0,
+      "blank_lenses": 3,
+      "papers": "Separate Varro agreement and copied control notes remain; Varro letter delivered to Conall",
+      "key_holder": "myth-char-4fc52ae14026"
+    },
+    "combat_state": {
+      "encounter": "myth-enc-1740f49c69f5",
+      "round": 1,
+      "cycle_completed": 1,
+      "initiative": 19,
+      "ap": 1,
+      "max_ap": 2,
+      "last_action": "R1C2 ownTurn19 ReadyShortsword1AP beforeNrelease, no attack or ordertokill yet",
+      "ap_ledger_authoritative": true,
+      "engine_note": "CLIencounterAPbaseline excludes casting/ready/movement; use this ledger and no-ap attackcalls then persistAPhere. Houndinit+1corrects engine treating naturalAP1 as wornarmor; original dice preserved.",
+      "cycle_2_status": "DefensiveDisarmresolved, JoryDelay, ConallMove1AP tointerpose, thenvoluntarysurrender; encounterendedwithoutRound2",
+      "readied_weapon": null,
+      "active": false,
+      "ended_reason": "Company captain voluntarily yields afterlostactivehounds, woundedhandler, disarmedBess andAssayrapier intervention; weaponsdropped, no physicalrestraints yet",
+      "surrendered": true,
+      "physically_restrained": false
+    },
+    "ground_weapons_at_feet": {
+      "where": "myth-loc-8bbc5a0606ad",
+      "items": [
+        {
+          "name": "Shortsword",
+          "damage": "1d6",
+          "size": "M"
+        }
+      ],
+      "owner": "myth-char-0023133728c0",
+      "recover_cost_if_combat": "2Actions: reach then ready; no instantpickup"
+    },
+    "current_surrender": {
+      "voluntary": true,
+      "weapons_dropped": true,
+      "restraints": false,
+      "knows_pc_true_name": false,
+      "as_of": "d7/dawn"
+    }
+  },
+  "actor_notes": "LOOKS: Independent recovery captain. Cropped hair, well-cut patched coat, short offers and dockside humour. Commands exactly five other company members; no institutional immunity. CORE/WANTS: Make a profitable exit with saleable constructs. PRESSURE: follows tactics in score; no lie detection. KEY: Short plain offers; dockside humour.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "location": "myth-loc-8bbc5a0606ad",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-23T21:54:02"
+}

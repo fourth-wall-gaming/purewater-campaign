@@ -1,0 +1,160 @@
+{
+  "id": "myth-char-4e94f430d7cc",
+  "name": "Dena Reed",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult human woman in her twenties, local message runner with a worn coat, practical boots and small satchel. Occasionally carries messages for Thorne; no weapons or armour.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 10,
+    "CON": 12,
+    "SIZ": 10,
+    "DEX": 14,
+    "INT": 12,
+    "POW": 10,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "-1d2",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 13,
+    "luck_points": 0,
+    "magic_points": 10,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 45,
+    "Boating": 45,
+    "Brawn": 20,
+    "Conceal": 24,
+    "Dance": 25,
+    "Deceit": 23,
+    "Drive": 24,
+    "Endurance": 24,
+    "Evade": 28,
+    "First Aid": 26,
+    "Influence": 22,
+    "Insight": 22,
+    "Locale": 50,
+    "Perception": 45,
+    "Ride": 24,
+    "Sing": 21,
+    "Stealth": 40,
+    "Swim": 22,
+    "Unarmed": 24,
+    "Willpower": 35,
+    "Customs": 64,
+    "Native Tongue": 63
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Work coat and boots"
+    },
+    {
+      "name": "Small messenger satchel"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {},
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "she/her",
+    "occupation": "local message runner",
+    "current_errand": {
+      "for": "Thorne",
+      "task": "Accompany Halla to Marda at Dredgers' Hall and carry her agreed answer back to Thorne",
+      "status": "delivered to Thorne at Oyster d-2/night; one-message errand complete",
+      "fee": "one-message favour arranged by Thorne; no charge or debt to Halla",
+      "combat_role": "none; messenger only",
+      "payload": "Marda offers two guards tomorrow afternoon at Shoals stair after presentation, two gold each after shift, protecting boats and crews. Halla accepted and suggests Rusk as partner, consent pending. Halla will keep his ears open for others needing help and wants those requests routed to Thorne to connect employers and guards.",
+      "recipient_id": "myth-char-e828864471f6",
+      "recruit_candidate_id": "myth-char-069d998e58a6",
+      "delivery_when": "d-2/night"
+    },
+    "luck_policy": "PC-only campaign rule: NPCs have no Luck pool or Luck rank bonuses; never spend Luck for NPC rerolls, reversals or damage mitigation."
+  },
+  "actor_notes": "LOOKS: Adult woman in her twenties, worn working coat, good boots, small satchel. CORE: A local messenger who treats remembering another person's words as skilled work. NATURE: Brisk, ordinary, practical; friendly without fuss. WANTS: Carry the requested answer back accurately and finish the errand. PRESSURE: Asks for a clear message rather than adding guesses. SPEECH: Short plain sentences and names; no moral lectures, confidential insights or political theories.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": "myth-loc-b7741b178ab1",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-12T21:30:55"
+}

@@ -1,0 +1,1962 @@
+{
+  "farm": {
+    "success": true,
+    "id": "myth-loc-b9eb72b5721e",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "staging_farm": {
+    "success": true,
+    "id": "myth-loc-b9eb72b5721e",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "post": {
+    "success": true,
+    "id": "myth-loc-b31a0ced1c1e",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "staging_post": {
+    "success": true,
+    "id": "myth-loc-b31a0ced1c1e",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "quarry": {
+    "success": true,
+    "id": "myth-loc-c34fe1fcfef4",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "staging_quarry": {
+    "success": true,
+    "id": "myth-loc-c34fe1fcfef4",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "arsenal": {
+    "success": true,
+    "id": "myth-loc-1123ef0edce9",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "staging_arsenal": {
+    "success": true,
+    "id": "myth-loc-1123ef0edce9",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "elen": {
+    "success": true,
+    "id": "myth-char-1e3facc43b6a",
+    "characteristics": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 12,
+      "POW": 10,
+      "CHA": 13
+    },
+    "attributes": {
+      "action_points": 2,
+      "damage_modifier": "+0",
+      "experience_modifier": 2,
+      "healing_rate": 2,
+      "initiative_bonus": 12,
+      "luck_points": 2,
+      "magic_points": 10,
+      "movement": "4m walk / 12m fly"
+    },
+    "skills": {
+      "Athletics": 50,
+      "Boating": 24,
+      "Brawn": 50,
+      "Conceal": 22,
+      "Dance": 25,
+      "Deceit": 25,
+      "Drive": 22,
+      "Endurance": 50,
+      "Evade": 40,
+      "First Aid": 24,
+      "Influence": 55,
+      "Insight": 50,
+      "Locale": 24,
+      "Perception": 50,
+      "Ride": 22,
+      "Sing": 23,
+      "Stealth": 45,
+      "Unarmed": 24,
+      "Willpower": 50,
+      "Flight": 24,
+      "Customs": 64,
+      "Native Tongue": 65,
+      "Arms": 25,
+      "Combat Skill": 25,
+      "Survival": 40,
+      "Strategy": 30,
+      "Engineering": 30,
+      "Lore (Crown Law)": 20
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          2
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          3,
+          4
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          5,
+          7
+        ],
+        "ap": 0,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          8,
+          10
+        ],
+        "ap": 0,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Wing",
+        "range": [
+          11,
+          12
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Wing",
+        "range": [
+          13,
+          14
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          15,
+          16
+        ],
+        "ap": 0,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          17,
+          18
+        ],
+        "ap": 0,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "cfg_elen": {
+    "success": true,
+    "id": "myth-char-1e3facc43b6a",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "loc_elen": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "tavin": {
+    "success": true,
+    "id": "myth-char-93ee2cf5bda6",
+    "characteristics": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 12,
+      "POW": 10,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 2,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 2,
+      "initiative_bonus": 12,
+      "luck_points": 2,
+      "magic_points": 10,
+      "movement": "4m walk / 12m fly"
+    },
+    "skills": {
+      "Athletics": 55,
+      "Boating": 24,
+      "Brawn": 60,
+      "Conceal": 22,
+      "Dance": 23,
+      "Deceit": 25,
+      "Drive": 22,
+      "Endurance": 50,
+      "Evade": 40,
+      "First Aid": 24,
+      "Influence": 50,
+      "Insight": 50,
+      "Locale": 24,
+      "Perception": 50,
+      "Ride": 22,
+      "Sing": 21,
+      "Stealth": 45,
+      "Unarmed": 24,
+      "Willpower": 50,
+      "Flight": 24,
+      "Customs": 64,
+      "Native Tongue": 63,
+      "Arms": 45,
+      "Combat Skill": 45,
+      "Survival": 55,
+      "Strategy": 30,
+      "Engineering": 30,
+      "Lore (Crown Law)": 20
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          2
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          3,
+          4
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          5,
+          7
+        ],
+        "ap": 2,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          8,
+          10
+        ],
+        "ap": 2,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Wing",
+        "range": [
+          11,
+          12
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Wing",
+        "range": [
+          13,
+          14
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          15,
+          16
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          17,
+          18
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "cfg_tavin": {
+    "success": true,
+    "id": "myth-char-93ee2cf5bda6",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "loc_tavin": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "merrit": {
+    "success": true,
+    "id": "myth-char-e1868d3d940c",
+    "characteristics": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 14,
+      "POW": 10,
+      "CHA": 13
+    },
+    "attributes": {
+      "action_points": 3,
+      "damage_modifier": "+0",
+      "experience_modifier": 2,
+      "healing_rate": 2,
+      "initiative_bonus": 13,
+      "luck_points": 2,
+      "magic_points": 10,
+      "movement": "4m walk / 12m fly"
+    },
+    "skills": {
+      "Athletics": 50,
+      "Boating": 24,
+      "Brawn": 50,
+      "Conceal": 22,
+      "Dance": 25,
+      "Deceit": 55,
+      "Drive": 22,
+      "Endurance": 50,
+      "Evade": 40,
+      "First Aid": 26,
+      "Influence": 60,
+      "Insight": 50,
+      "Locale": 28,
+      "Perception": 55,
+      "Ride": 22,
+      "Sing": 23,
+      "Stealth": 45,
+      "Unarmed": 24,
+      "Willpower": 50,
+      "Flight": 24,
+      "Customs": 68,
+      "Native Tongue": 67,
+      "Arms": 60,
+      "Combat Skill": 60,
+      "Survival": 40,
+      "Strategy": 55,
+      "Engineering": 45,
+      "Lore (Crown Law)": 20
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          2
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          3,
+          4
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          5,
+          7
+        ],
+        "ap": 3,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          8,
+          10
+        ],
+        "ap": 3,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Wing",
+        "range": [
+          11,
+          12
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Wing",
+        "range": [
+          13,
+          14
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          15,
+          16
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          17,
+          18
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 3,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "cfg_merrit": {
+    "success": true,
+    "id": "myth-char-e1868d3d940c",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "loc_merrit": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "kett": {
+    "success": true,
+    "id": "myth-char-5486d361a116",
+    "characteristics": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 12,
+      "POW": 10,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 2,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 2,
+      "initiative_bonus": 12,
+      "luck_points": 2,
+      "magic_points": 10,
+      "movement": "4m walk / 12m fly"
+    },
+    "skills": {
+      "Athletics": 50,
+      "Boating": 24,
+      "Brawn": 55,
+      "Conceal": 22,
+      "Dance": 23,
+      "Deceit": 25,
+      "Drive": 22,
+      "Endurance": 50,
+      "Evade": 40,
+      "First Aid": 24,
+      "Influence": 50,
+      "Insight": 50,
+      "Locale": 24,
+      "Perception": 50,
+      "Ride": 22,
+      "Sing": 21,
+      "Stealth": 45,
+      "Unarmed": 24,
+      "Willpower": 50,
+      "Flight": 24,
+      "Customs": 64,
+      "Native Tongue": 63,
+      "Arms": 55,
+      "Combat Skill": 55,
+      "Survival": 40,
+      "Strategy": 30,
+      "Engineering": 30,
+      "Lore (Crown Law)": 20
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          2
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          3,
+          4
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          5,
+          7
+        ],
+        "ap": 2,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          8,
+          10
+        ],
+        "ap": 2,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Wing",
+        "range": [
+          11,
+          12
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Wing",
+        "range": [
+          13,
+          14
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          15,
+          16
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          17,
+          18
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "cfg_kett": {
+    "success": true,
+    "id": "myth-char-5486d361a116",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "loc_kett": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "willa": {
+    "success": true,
+    "id": "myth-char-9273558c1b22",
+    "characteristics": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 12,
+      "POW": 10,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 2,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 2,
+      "initiative_bonus": 12,
+      "luck_points": 2,
+      "magic_points": 10,
+      "movement": "4m walk / 12m fly"
+    },
+    "skills": {
+      "Athletics": 50,
+      "Boating": 24,
+      "Brawn": 50,
+      "Conceal": 22,
+      "Dance": 23,
+      "Deceit": 25,
+      "Drive": 22,
+      "Endurance": 50,
+      "Evade": 40,
+      "First Aid": 24,
+      "Influence": 50,
+      "Insight": 50,
+      "Locale": 24,
+      "Perception": 55,
+      "Ride": 22,
+      "Sing": 21,
+      "Stealth": 50,
+      "Unarmed": 24,
+      "Willpower": 50,
+      "Flight": 24,
+      "Customs": 64,
+      "Native Tongue": 63,
+      "Arms": 55,
+      "Combat Skill": 55,
+      "Survival": 40,
+      "Strategy": 30,
+      "Engineering": 30,
+      "Lore (Crown Law)": 20
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          2
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          3,
+          4
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          5,
+          7
+        ],
+        "ap": 2,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          8,
+          10
+        ],
+        "ap": 2,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Wing",
+        "range": [
+          11,
+          12
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Wing",
+        "range": [
+          13,
+          14
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          15,
+          16
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          17,
+          18
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "cfg_willa": {
+    "success": true,
+    "id": "myth-char-9273558c1b22",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "loc_willa": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "lysa": {
+    "success": true,
+    "id": "myth-char-9566e8a59e69",
+    "characteristics": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 12,
+      "POW": 10,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 2,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 2,
+      "initiative_bonus": 12,
+      "luck_points": 2,
+      "magic_points": 10,
+      "movement": "4m walk / 12m fly"
+    },
+    "skills": {
+      "Athletics": 50,
+      "Boating": 24,
+      "Brawn": 50,
+      "Conceal": 22,
+      "Dance": 23,
+      "Deceit": 25,
+      "Drive": 22,
+      "Endurance": 50,
+      "Evade": 40,
+      "First Aid": 24,
+      "Influence": 50,
+      "Insight": 50,
+      "Locale": 24,
+      "Perception": 55,
+      "Ride": 22,
+      "Sing": 21,
+      "Stealth": 45,
+      "Unarmed": 24,
+      "Willpower": 50,
+      "Flight": 24,
+      "Customs": 64,
+      "Native Tongue": 63,
+      "Arms": 60,
+      "Combat Skill": 60,
+      "Survival": 40,
+      "Strategy": 55,
+      "Engineering": 30,
+      "Lore (Crown Law)": 55
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          2
+        ],
+        "ap": 3,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          3,
+          4
+        ],
+        "ap": 3,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          5,
+          7
+        ],
+        "ap": 3,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          8,
+          10
+        ],
+        "ap": 3,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Wing",
+        "range": [
+          11,
+          12
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Wing",
+        "range": [
+          13,
+          14
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          15,
+          16
+        ],
+        "ap": 3,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          17,
+          18
+        ],
+        "ap": 3,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 3,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "cfg_lysa": {
+    "success": true,
+    "id": "myth-char-9566e8a59e69",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "loc_lysa": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "jo": {
+    "success": true,
+    "id": "myth-char-7c728910b049",
+    "characteristics": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 12,
+      "POW": 10,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 2,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 2,
+      "initiative_bonus": 12,
+      "luck_points": 2,
+      "magic_points": 10,
+      "movement": "4m walk / 12m fly"
+    },
+    "skills": {
+      "Athletics": 50,
+      "Boating": 24,
+      "Brawn": 50,
+      "Conceal": 22,
+      "Dance": 23,
+      "Deceit": 25,
+      "Drive": 22,
+      "Endurance": 50,
+      "Evade": 40,
+      "First Aid": 24,
+      "Influence": 50,
+      "Insight": 50,
+      "Locale": 24,
+      "Perception": 50,
+      "Ride": 22,
+      "Sing": 21,
+      "Stealth": 45,
+      "Unarmed": 24,
+      "Willpower": 50,
+      "Flight": 24,
+      "Customs": 64,
+      "Native Tongue": 63,
+      "Arms": 50,
+      "Combat Skill": 50,
+      "Survival": 40,
+      "Strategy": 30,
+      "Engineering": 30,
+      "Lore (Crown Law)": 20
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          2
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          3,
+          4
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          5,
+          7
+        ],
+        "ap": 2,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          8,
+          10
+        ],
+        "ap": 2,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Wing",
+        "range": [
+          11,
+          12
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Wing",
+        "range": [
+          13,
+          14
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          15,
+          16
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          17,
+          18
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "cfg_jo": {
+    "success": true,
+    "id": "myth-char-7c728910b049",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "loc_jo": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "ivo": {
+    "success": true,
+    "id": "myth-char-ce3d6f00a912",
+    "characteristics": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 12,
+      "POW": 10,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 2,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 2,
+      "initiative_bonus": 12,
+      "luck_points": 2,
+      "magic_points": 10,
+      "movement": "4m walk / 12m fly"
+    },
+    "skills": {
+      "Athletics": 50,
+      "Boating": 24,
+      "Brawn": 50,
+      "Conceal": 22,
+      "Dance": 23,
+      "Deceit": 25,
+      "Drive": 22,
+      "Endurance": 50,
+      "Evade": 40,
+      "First Aid": 24,
+      "Influence": 50,
+      "Insight": 50,
+      "Locale": 24,
+      "Perception": 50,
+      "Ride": 22,
+      "Sing": 21,
+      "Stealth": 45,
+      "Unarmed": 24,
+      "Willpower": 50,
+      "Flight": 24,
+      "Customs": 64,
+      "Native Tongue": 63,
+      "Arms": 50,
+      "Combat Skill": 50,
+      "Survival": 40,
+      "Strategy": 30,
+      "Engineering": 30,
+      "Lore (Crown Law)": 20
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          2
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          3,
+          4
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          5,
+          7
+        ],
+        "ap": 2,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          8,
+          10
+        ],
+        "ap": 2,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Wing",
+        "range": [
+          11,
+          12
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Wing",
+        "range": [
+          13,
+          14
+        ],
+        "ap": 0,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          15,
+          16
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          17,
+          18
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "cfg_ivo": {
+    "success": true,
+    "id": "myth-char-ce3d6f00a912",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "loc_ivo": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "sale": {
+    "success": true,
+    "id": "myth-fact-db9d6615f9b8",
+    "status": "established",
+    "truth": "true",
+    "when": "d36/day",
+    "about": [],
+    "from": null,
+    "learned_by": [
+      "myth-char-87c2db0593fc",
+      "myth-char-1e3facc43b6a",
+      "myth-char-93ee2cf5bda6",
+      "myth-char-e1868d3d940c"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "cachefact": {
+    "success": true,
+    "id": "myth-fact-2ee707b85994",
+    "status": "established",
+    "truth": "true",
+    "when": "d36/day",
+    "about": [],
+    "from": null,
+    "learned_by": [
+      "myth-char-e1868d3d940c"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "merrit_assets": {
+    "success": true,
+    "id": "myth-char-e1868d3d940c",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "family_assets": {
+    "success": true,
+    "id": "myth-char-1e3facc43b6a",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "agenda": {
+    "success": true,
+    "id": "myth-agenda-c17b99147807",
+    "holder": "myth-char-e1868d3d940c",
+    "holder_type": "myth-character",
+    "targets": [],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "s1": {
+    "success": true,
+    "id": "myth-beat-c42261b4101a",
+    "when": "d38/dusk",
+    "time_index": 218,
+    "cast": [
+      "myth-char-1e3facc43b6a",
+      "myth-char-93ee2cf5bda6"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "op1": {
+    "success": true,
+    "id": "myth-beat-ca017433a3b8",
+    "when": "d39/day",
+    "time_index": 221,
+    "cast": [
+      "myth-char-e1868d3d940c",
+      "myth-char-5486d361a116",
+      "myth-char-9273558c1b22"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "op2": {
+    "success": true,
+    "id": "myth-beat-e6c2af0a344c",
+    "when": "d39/dusk",
+    "time_index": 222,
+    "cast": [
+      "myth-char-e1868d3d940c",
+      "myth-char-5486d361a116",
+      "myth-char-9273558c1b22"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "op3": {
+    "success": true,
+    "id": "myth-beat-ae406befcefb",
+    "when": "d40/day",
+    "time_index": 225,
+    "cast": [
+      "myth-char-e1868d3d940c",
+      "myth-char-5486d361a116",
+      "myth-char-9273558c1b22"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "prep": {
+    "success": true,
+    "id": "myth-lore-5e1cbf4d337f",
+    "linked_subjects": [
+      {
+        "id": "myth-char-07bc6645bb49",
+        "type": "myth-character"
+      },
+      {
+        "id": "myth-loc-b9eb72b5721e",
+        "type": "myth-location"
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "arc": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    }
+  },
+  "preference": {
+    "success": true,
+    "id": "myth-char-07bc6645bb49",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "audit": {
+    "success": true,
+    "id": "myth-event-0ae27189d778",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d36/day",
+      "minute_in_watch": 60,
+      "scene": "d36/day60 HYTHE WATCHYARD afterinitialGreywatchhearing. Hdidfirsthandwitnessduty, attack/capture/surrender/AvelDragonKingsclaim/Pikesafe-returncooperation; noproofofHanzoordersclaimed. Mardenretains10captivespendingproceedings,no verdict/pardon,newhireorcompulsorystay. HnowinvestigatingAvelfinancesWITHOUTspeakingher. Supervisedpapersinspection: recruitmentpromisessignedAvelownname,nopaymasternamed,quaystoresandsignalsketchonly. CashinventoryAvel24GPremainingpersonalproperty,Hnotgivenit. Pike says8GPadvance12promiseduponoccupation,paidbyAvelpersonally,nopayingpatronseen. SourcecashUNKNOWN; nopersonalfundprooforsponsorproof. EnnasfamilyreportmotherbrotherholdingoutsideAshwickavailable, names/reaction/arrestknowledgeunconfirmed,no contactbegun. Hcash26GP7SPafter0.3GPnightbunkbreakfast,originalservicepaid7GPcomplete,noextension,HPfullFreshMP8Luck1bow18. OtherPCclocksunchanged. Nextactualfamilytravelorwiderinvestigationrequiresselectedpreparedscenario,notyetopened.",
+      "session": 8
+    },
+    "world_high_water": "d36/day"
+  },
+  "retry1": {
+    "success": true,
+    "id": "myth-beat-ed1a2131a378",
+    "when": "d39/dusk",
+    "time_index": 222,
+    "cast": [
+      "myth-char-e1868d3d940c",
+      "myth-char-5486d361a116",
+      "myth-char-9273558c1b22"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d39/day",
+      "minute_in_watch": 260,
+      "scene": "d39/day250 RELLAN VOSS FLETCHING STALL ASHWICKMARKET. HfoundlocalfletcherbowyerRellan,ordinarycraft75/75,Arms55. Benchfeathersshaftsandwaxthread,bowsbehindcounter. Rellansaysmakesarrows/worksbows,townbowmenusebuttsbeyondwestgate10minwalk. Attendance/hireavailabilitynotestablished,nofreeguards. Nopurchase/inspection/commissionyet,Hcash26GPfullHPFreshMP8Luck1ownshortbow18arrows,swordmailshield. Stock60arrows6strings2shortbows1longbowownedmerchant,prices/rulesonlyonactualrequest. Quarryindependentdoorattemptstart240due260in10min,rollEngineering45Standardthenactualoutcome,notyetresolved. OtherPCclocksunchanged;Dane/Avelinquiryprivate,localfletchernoprivateknowledge. ServicesIDsdocs/scenarios/ashwick-services-ids.json.",
+      "session": 8
+    },
+    "world_high_water": "d39/day"
+  }
+}

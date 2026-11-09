@@ -1,0 +1,85 @@
+{
+  "success": true,
+  "attacker": "Hrill Helmdance",
+  "defender": "Joric Vane",
+  "weapon": "Longsword",
+  "attack_roll": {
+    "roll": 92,
+    "skill": 86,
+    "difficulty": "standard",
+    "effective": 86,
+    "critical_range": 18,
+    "level": "failure"
+  },
+  "defense": "parry",
+  "defense_roll": {
+    "roll": 26,
+    "skill": 44,
+    "difficulty": "standard",
+    "effective": 44,
+    "critical_range": 5,
+    "level": "success"
+  },
+  "special_effects": 1,
+  "effects_to": "Joric Vane",
+  "available_effects": [
+    {
+      "id": "damage-weapon",
+      "name": "Damage Weapon",
+      "phase": "post-damage",
+      "one_line": "wreck the thing in their hand"
+    },
+    {
+      "id": "scar-foe",
+      "name": "Scar Foe",
+      "phase": "post-damage",
+      "one_line": "leave a mark they keep"
+    },
+    {
+      "id": "prepare-counter",
+      "name": "Prepare Counter",
+      "phase": "post-damage",
+      "one_line": "set up the answer"
+    },
+    {
+      "id": "withdraw",
+      "name": "Withdraw",
+      "phase": "post-damage",
+      "one_line": "break off clean"
+    },
+    {
+      "id": "trip",
+      "name": "Trip",
+      "phase": "followup",
+      "one_line": "take their legs",
+      "contest": "Brawn or Evade or Acrobatics"
+    },
+    {
+      "id": "disarm",
+      "name": "Disarm",
+      "phase": "followup",
+      "one_line": "knock it out of their hand",
+      "contest": "Combat Style"
+    }
+  ],
+  "ap_remaining": {
+    "Orrin Fell": 0,
+    "Sergeant Brann Tarrow": 0,
+    "Dain Sedge": 1,
+    "Hrill Helmdance": 0,
+    "Joric Vane": 2
+  },
+  "next": "resolve-effects --encounter myth-enc-c39553875931 [--effect <id> ...]",
+  "storyline": {
+    "id": "myth-storyline-0fea5d34980f",
+    "name": "Hrill",
+    "pcs": [
+      "myth-char-07bc6645bb49"
+    ],
+    "now": "d29/day",
+    "minute_in_watch": 201,
+    "scene": "d29/day201 NORTHCOPPICEPATH myth-loc-2e76f65fe09a HrillclosedfastperuserstandingorderShieldParryanyxbowshot. ShotresolvedDain45/28Formidablemiss,Hshield31/81success,noinjury/usablefarmeleeSE. Dain11boltsunloadedcrossbowNOWDROPPEDat35ftaheadH,noextrabolt/reload. Actualone-minchaseH47/81vsJoric94/45successPCcatchesgroup; JoricfailedexertionNOWWINDEDskillsHard. H640yardsnorthkiln;Joric650yardsnorth=>30ftaheadbyoakreadyswordshield, visiblyheavingbreathcalls Back! Dain35ftaheadnexttohimreachestobeltknifeNOTREADYyet. Brann60ftBEHINDHreadyswordshield,Orrin90ftBEHINDHloaded17bolts. Openingmissileencounterc8febb1dd9edENDED; no newclosecombatinitiative/attackyet. AskPCaction, thenfreshcloseinitiative, properCFIAPonesignificantproactiveperTURN. HswordrightRoundShieldLEFTREADYfullHPFreshMP8Luck2cash20, freeLongswordparryavailablepernewroundonlyswordnotshield, masterydamage1d4totalSizeMordinary, chargeifexplicitHardandDM1d6. Passion11ongoingwhenapplicable; shieldFighter70+11=81, sword75+11=86. Dainordinaryleather2Joricarmor3torso2limbs; noextramen/nosecretHanzo. EnemyNPCnamesnotknownPC. BennoholdsprisonerMossdisarmedunboundculvert/Pella/cartmule8woolsafe, seizedunloadedMossbow11bolts+spearfinite. Kellunselectednow480yardseastkiln,gearrope2food, noconflict. Weekhire29-35foodcharged1sixdaysleft,wagesnotpaidtodayyet, no rest/Luckrefresh/HPchange;otherPCclocksunchanged.",
+    "session": 8
+  },
+  "world_high_water": "d29/day"
+}

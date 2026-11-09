@@ -1,0 +1,183 @@
+{
+  "id": "myth-char-703e25b4d09d",
+  "name": "Nessa Rill",
+  "type": "npc",
+  "status": "active",
+  "description": "Recover her own tool-case and resume appraising",
+  "narrative": "LOOKS:stocky woman in her forties, ink-stained cuffs, brass-rimmed spectacles. CORE:good work deserves good pay. NATURE:absorbed in craft, direct and sociable over work. WOUND:previous unpaid commissions make her insist on clear scope. WANTS:recover her working tools. PRESSURE:becomes blunt, offers practical compromises. KEY:short concrete sentences, no portent or provenance lecture.",
+  "characteristics": {
+    "STR": 10,
+    "CON": 11,
+    "SIZ": 11,
+    "DEX": 12,
+    "INT": 14,
+    "POW": 11,
+    "CHA": 12
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 13,
+    "luck_points": 0,
+    "magic_points": 11,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 22,
+    "Boating": 21,
+    "Brawn": 21,
+    "Conceal": 23,
+    "Dance": 24,
+    "Deceit": 25,
+    "Drive": 23,
+    "Endurance": 22,
+    "Evade": 35,
+    "First Aid": 26,
+    "Influence": 50,
+    "Insight": 55,
+    "Locale": 28,
+    "Perception": 55,
+    "Ride": 23,
+    "Sing": 23,
+    "Stealth": 26,
+    "Swim": 21,
+    "Unarmed": 22,
+    "Willpower": 22,
+    "Customs": 68,
+    "Native Tongue": 66,
+    "Commerce": 65,
+    "Evaluate": 65,
+    "Arcane Knowledge": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Walking stick",
+      "damage": "1d6",
+      "size": "M"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Personal Defence": 30
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "score": {
+      "want": "Recover her own tool-case and resume appraising",
+      "ought": "Keep promises to customers and respect other people's property.",
+      "driver": "Maintain an independent livelihood.",
+      "stated_reason": "Recover her own tool-case and resume appraising",
+      "focus": "Practical work currently in front of them.",
+      "status": "Independent trader; treats clients as equals.",
+      "tactics": [
+        "Answer directly",
+        "Offer practical assistance",
+        "Negotiate actual costs",
+        "Seek help or withdraw if threatened"
+      ],
+      "when_lied_to": "Does not detect lies automatically; use actual Insight against consequential deception.",
+      "blind_spot": "Assumes ordinary trade errors until evidence warrants suspicion.",
+      "rhythm": "Nessa uses plain short workshop language; Tobin warm, conversational, no riddles.",
+      "physical": "Work-worn hands and ordinary clothes.",
+      "secret": "No secret faction membership or knowledge of demonology.",
+      "observed": []
+    },
+    "pronouns": "she/her",
+    "prepared_spells": {},
+    "casting": "None",
+    "resources": {
+      "fee_purse_gp": 0,
+      "tool_case_returned": true
+    },
+    "doing": {
+      "goal": "Resume appraising with recovered tools",
+      "next": "Thank the returning contractor and ask his name for future referrals",
+      "where": "myth-loc-66041be74c51",
+      "as_of_session": 8
+    }
+  },
+  "actor_notes": "LOOKS:stocky woman in her forties, ink-stained cuffs, brass-rimmed spectacles. CORE:good work deserves good pay. NATURE:absorbed in craft, direct and sociable over work. WOUND:previous unpaid commissions make her insist on clear scope. WANTS:recover her working tools. PRESSURE:becomes blunt, offers practical compromises. KEY:short concrete sentences, no portent or provenance lecture.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "location": "myth-loc-66041be74c51",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-25T19:53:45"
+}

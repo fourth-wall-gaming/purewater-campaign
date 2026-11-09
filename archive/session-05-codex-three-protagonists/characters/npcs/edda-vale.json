@@ -1,0 +1,437 @@
+{
+  "id": "myth-char-56116fd29c52",
+  "name": "Edda Vale",
+  "type": "npc",
+  "status": "active",
+  "description": "she/her. Knows Maelin professionally and reports of unsafe landings; has not seen reedback, secret inner channels, Garr plan, Hrill history or other PCs.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 11,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Boating": 70,
+    "Commerce": 60,
+    "Influence": 45,
+    "Insight": 45,
+    "Willpower": 50,
+    "Perception": 55,
+    "Survival": 45,
+    "Swim": 55,
+    "Combat Skill": 40,
+    "Athletics": 35,
+    "Brawn": 35,
+    "Endurance": 45,
+    "Evade": 35,
+    "First Aid": 25
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Knife",
+      "damage": "1d4+1",
+      "size": "S"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 40
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Human",
+    "score": {
+      "want": "Keep her supply contracts, crew and boat alive",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Keep her precarious business and boat from failing",
+      "stated_reason": "Customers need dependable deliveries",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Weathered woman, cropped silvering hair, tar-darkened cuffs. Brisk and warm, occasional affectionate profanity; names concrete jobs. Makes fair bounded offers and retreats from losing battles. Wants her boat and customers to outlast a bad season.",
+      "physical": "Weathered woman, cropped silvering hair, tar-darkened cuffs",
+      "secret": "Knows Maelin professionally and reports of unsafe landings; has not seen reedback, secret inner channels, Garr plan, Hrill history or other PCs.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": [
+        "d18/day: Hrill accepts and volunteers poor swimming. Paid2GP advance, recommended safetyline/stowingmail, asked priorboatwork. No compelledgear change."
+      ],
+      "focus": "prevention"
+    },
+    "role": "edda",
+    "pronouns": "she/her",
+    "doing": {
+      "goal": "Settle completed relief voyage and own business",
+      "next": "Hythecash24.9food0crewpaid38; twoownedsupplybalesstoredunsold,Selith8GPreceivableoverdueunreceived. NoHrillhireorvoyage.",
+      "where": "myth-loc-894191c86c72",
+      "as_of_session": 8
+    },
+    "plan_reference": "docs/scenarios/hrill-edda-preparation.md",
+    "assets": {
+      "gp": 24.9,
+      "boat": "myth-loc-b3f72f0269af",
+      "boat_name": "Grey Heron",
+      "crew": [
+        "myth-char-56116fd29c52",
+        "myth-char-e783c7b8dbfb",
+        "myth-char-a1eff2fb2fc7",
+        "myth-char-bbc3b6ca8e8b"
+      ],
+      "food_person_days": 0,
+      "supply_bales": 0,
+      "supply_bales_wholesale_gp": 6,
+      "ropes_sixty_feet": 1,
+      "tender_capacity": 3,
+      "hull_sections": [
+        {
+          "name": "Bow",
+          "ap": 4,
+          "hp": 20,
+          "current_hp": 20
+        },
+        {
+          "name": "Midships",
+          "ap": 4,
+          "hp": 20,
+          "current_hp": 20
+        },
+        {
+          "name": "Stern",
+          "ap": 4,
+          "hp": 20,
+          "current_hp": 20
+        }
+      ],
+      "tender": {
+        "ap": 3,
+        "hp": 10,
+        "current_hp": 10,
+        "where": "Recovered atGreyHeron afterBellReedtransfer",
+        "occupants": "Empty"
+      },
+      "crew_daily_gp": 0.9,
+      "crew_wages_paid_through": "d38/night",
+      "reserves_included_in_cash": {
+        "crew_up_to14days_gp": 13,
+        "hrill10days_gp": 10,
+        "fees_and_road_gp": 4,
+        "repairs_gp": 6
+      },
+      "location": "myth-loc-894191c86c72",
+      "food_distribution": {
+        "boat": 18,
+        "edda_carried": 0
+      },
+      "wage_payments": [
+        {
+          "for_day": "d17",
+          "total_gp": 0.9,
+          "Ressa_gp": 0.5,
+          "Perrin_gp": 0.2,
+          "Tovin_gp": 0.2
+        },
+        {
+          "for_days": "d18-d21",
+          "total_gp": 3.6,
+          "Ressa_gp": 2,
+          "Perrin_gp": 0.8,
+          "Tovin_gp": 0.8
+        },
+        {
+          "for_day": "d22",
+          "total_gp": 0.9,
+          "Ressa_gp": 0.5,
+          "Perrin_gp": 0.2,
+          "Tovin_gp": 0.2
+        },
+        {
+          "for_day": "d23",
+          "total_gp": 0.9,
+          "Ressa_gp": 0.5,
+          "Perrin_gp": 0.2,
+          "Tovin_gp": 0.2
+        },
+        {
+          "for_day": "d24",
+          "total_gp": 0.9,
+          "Ressa_gp": 0.5,
+          "Perrin_gp": 0.2,
+          "Tovin_gp": 0.2
+        },
+        {
+          "for_day": "d25",
+          "total_gp": 0.9,
+          "Ressa_gp": 0.5,
+          "Perrin_gp": 0.2,
+          "Tovin_gp": 0.2
+        },
+        {
+          "for_day": "d26",
+          "total_gp": 0.9,
+          "Ressa_gp": 0.5,
+          "Perrin_gp": 0.2,
+          "Tovin_gp": 0.2
+        },
+        {
+          "for_day": "d27",
+          "total_gp": 0.9,
+          "Ressa_gp": 0.5,
+          "Perrin_gp": 0.2,
+          "Tovin_gp": 0.2
+        },
+        {
+          "for_day": "d28",
+          "total_gp": 0.9,
+          "Ressa_gp": 0.5,
+          "Perrin_gp": 0.2,
+          "Tovin_gp": 0.2
+        },
+        {
+          "for_days": "d29-d32",
+          "total_gp": 3.6,
+          "Ressa_gp": 2,
+          "Perrin_gp": 0.8,
+          "Tovin_gp": 0.8
+        },
+        {
+          "for_days": "d33-d35",
+          "total_gp": 2.7,
+          "Ressa_gp": 1.5,
+          "Perrin_gp": 0.6,
+          "Tovin_gp": 0.6
+        },
+        {
+          "for_days": "d36-d38",
+          "total_gp": 2.7,
+          "Ressa_gp": 1.5,
+          "Perrin_gp": 0.6,
+          "Tovin_gp": 0.6
+        }
+      ],
+      "road_expenses": [
+        {
+          "lodging_gp": 1.2,
+          "provisions_gp": 0.3,
+          "food_person_days_bought": 3,
+          "period": "d18-d21",
+          "basis": "Three nights for two at2SP each pernight;3persondays provisions at1SP each"
+        }
+      ],
+      "voyage_expenses": [
+        {
+          "day": "d22/dawn",
+          "berth_dues_gp": 0.2
+        },
+        {
+          "day": "d29/dawn",
+          "berth_dues_gp": 0.2,
+          "place": "myth-loc-894191c86c72"
+        },
+        {
+          "day": "d35/dusk",
+          "berth_dues_gp": 0.2,
+          "place": "myth-loc-894191c86c72"
+        }
+      ],
+      "deliveries": [
+        {
+          "day": "d23/day",
+          "site": "myth-loc-7abe80664c9d",
+          "bales": 2,
+          "status": "Cleanly delivered via sound innersteps byHrill/Ressa beforewind"
+        },
+        {
+          "day": "d25/dusk",
+          "site": "myth-loc-7352c04bb679",
+          "bales": 2,
+          "status": "Accepted by Selith on8GP trade credit,due35;unloaded safely,no cash received"
+        }
+      ],
+      "supply_bales_ashore": {
+        "site": "myth-loc-894191c86c72",
+        "bales": 2,
+        "wholesale_gp": 6,
+        "owner": "Edda Vale",
+        "status": "Stored ashore at Hythe for relief charter, not sold"
+      },
+      "receivables": [
+        {
+          "debtor": "Selith An, Listening Reeds store",
+          "debtor_id": "myth-char-65109cb24a47",
+          "gp": 8,
+          "for": "Two ordinary supply bales,wholesale6GP",
+          "agreed": "d25/dusk",
+          "due": "d35",
+          "status": "Outstanding, not cash"
+        }
+      ],
+      "day26_food_allocation": {
+        "person_days": 5,
+        "people": "four crew plus Hrill",
+        "reason": "Agreed board/return passage, charged once"
+      },
+      "day27_food_allocation": {
+        "person_days": 5,
+        "charged_once": true
+      },
+      "day28_food_allocation": {
+        "person_days": 5,
+        "charged_once": true
+      },
+      "day29_food_allocation": {
+        "person_days": 5,
+        "charged_once": true,
+        "includes": "Hrillboardthroughreturnarrival"
+      },
+      "relief_charter": {
+        "received_gp": 24,
+        "ration_purchase_person_days": 60,
+        "ration_cost_gp": 6,
+        "outward_food_days": 24,
+        "people": 8,
+        "dates": "d30-d32",
+        "return_reserve_food_days": 0,
+        "capacity_agreement": "Edda accepts four crew and four escort outward; ten additional disarmed prisoners for return only with deck cleared and safe loading verified",
+        "signal": "Hrill white cloth held overhead from quay when inspected clear; absence of signal means hold offshore",
+        "status": "Paid24GP6sailingdayscompleted35dusk; nofurtherhire"
+      },
+      "custody_rope_lengths_six_feet": 10,
+      "charter_loading": {
+        "people": 18,
+        "crew": 4,
+        "escort": 4,
+        "prisoners": 10,
+        "status": "All10prisonersdisembarkedHythe, Crownescortoffchartercompleted",
+        "safety": "Prisoners supervised above deck, seatedforpassage; frontrestraintsquickrelease and not securedtohull",
+        "departure": "d33/dawn",
+        "overnight": "MooredGreywatch, alreadyallocatedday32foodnotchargedagain",
+        "food_person_days_return_reserve": 54
+      },
+      "return_food_allocation": {
+        "dates": "d33-d35",
+        "person_days": 54,
+        "people": 18,
+        "charged_once": true
+      },
+      "provision_purchase36": {
+        "person_days": 12,
+        "gp": 1.2,
+        "consumed_dates": "d36-d38",
+        "people": 4
+      }
+    },
+    "hiring_offer": {
+      "status": "Initial ten days18-27 completed/paid10GPtotal; return to Hythe still included; no further hire agreed",
+      "daily_gp": 1,
+      "initial_days": 10,
+      "advance_gp": 2,
+      "food_and_lodging": true,
+      "scope": "Travel from hospice, landing inspections/supply work; no policing or mandatory fight; safe return if ends remotely",
+      "accepted": "d18/day",
+      "paid_advance_gp": 2,
+      "further_wages_paid_gp": 6
+    }
+  },
+  "actor_notes": "Weathered woman, cropped silvering hair, tar-darkened cuffs. Brisk and warm, occasional affectionate profanity; names concrete jobs. Makes fair bounded offers and retreats from losing battles. Wants her boat and customers to outlast a bad season.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-894191c86c72",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-27T01:28:21"
+}

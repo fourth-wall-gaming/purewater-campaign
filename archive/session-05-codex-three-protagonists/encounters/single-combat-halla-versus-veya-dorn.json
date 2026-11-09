@@ -1,0 +1,29 @@
+{
+  "id": "myth-enc-edd427abf3eb",
+  "name": "Single Combat: Halla versus Veya Dorn",
+  "description": "d1/day next tournament bout after Halla defeated Cailan. Marshal stoppage or concession; one proactive action per round, otherAP reactions; Halla first battleaxeparry free, mastery doublescritical and adds1d2. Halla axe onehanded3/8HP shield held LeftArm4/6 Luck1; no passion augment yet declared. Veya mace shield riveted armour.",
+  "summary": "Halla wins by marshalstoppage round13. ChooseLocationLeftArm+Bleed, net3 to-1Serious, Endurance26 loses attack28 disables shieldarm, Bleed95fails. Healers intervene; no furthercombat.",
+  "status": "retracted",
+  "round": 13,
+  "combatants": [
+    {
+      "id": "myth-char-628f22b9a9cb",
+      "name": "Veya Dorn",
+      "initiative": 17,
+      "ap": 3,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 14
+    },
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "initiative": 12,
+      "ap": 3,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 11
+    }
+  ],
+  "created_at": "2026-10-14T20:58:49"
+}

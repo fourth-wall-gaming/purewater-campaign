@@ -1,0 +1,338 @@
+[
+  {
+    "fact": "myth-fact-07085e355199",
+    "source": "witnessed",
+    "certainty": "knows",
+    "knower": "myth-char-1aa1d6892d3a",
+    "knower_name": "Rennic Vaur",
+    "since": 91
+  },
+  {
+    "certainty": "knows",
+    "knower_name": "Nimras",
+    "fact": "myth-fact-07085e355199",
+    "knower": "myth-char-4fc52ae14026",
+    "source": "witnessed",
+    "since": 91
+  },
+  {
+    "since": 91,
+    "source": "witnessed",
+    "certainty": "knows",
+    "fact": "myth-fact-2ddbb75ef3a4",
+    "knower": "myth-char-1aa1d6892d3a",
+    "knower_name": "Rennic Vaur"
+  },
+  {
+    "knower_name": "Nimras",
+    "fact": "myth-fact-2ddbb75ef3a4",
+    "knower": "myth-char-4fc52ae14026",
+    "source": "witnessed",
+    "since": 91,
+    "certainty": "knows"
+  },
+  {
+    "since": 91,
+    "source": "witnessed",
+    "certainty": "knows",
+    "knower": "myth-char-4fc52ae14026",
+    "fact": "myth-fact-34ea4c88ee39",
+    "knower_name": "Nimras"
+  },
+  {
+    "source": "witnessed",
+    "knower": "myth-char-4fc52ae14026",
+    "certainty": "knows",
+    "fact": "myth-fact-3ff9ab2f0fb3",
+    "knower_name": "Nimras",
+    "since": 90
+  },
+  {
+    "certainty": "knows",
+    "knower_name": "Oren Vey",
+    "since": 90,
+    "knower": "myth-char-fd2973412ca1",
+    "fact": "myth-fact-3ff9ab2f0fb3",
+    "source": "witnessed"
+  },
+  {
+    "fact": "myth-fact-4630eb8edc28",
+    "knower": "myth-char-1aa1d6892d3a",
+    "since": 91,
+    "knower_name": "Rennic Vaur",
+    "certainty": "knows",
+    "source": "witnessed"
+  },
+  {
+    "source": "witnessed",
+    "since": 91,
+    "certainty": "knows",
+    "knower": "myth-char-4fc52ae14026",
+    "fact": "myth-fact-4630eb8edc28",
+    "knower_name": "Nimras"
+  },
+  {
+    "source": "witnessed",
+    "fact": "myth-fact-4a1cc8a16d40",
+    "knower_name": "Rennic Vaur",
+    "knower": "myth-char-1aa1d6892d3a",
+    "certainty": "knows",
+    "since": 91
+  },
+  {
+    "knower": "myth-char-4fc52ae14026",
+    "source": "witnessed",
+    "fact": "myth-fact-4a1cc8a16d40",
+    "certainty": "knows",
+    "since": 91,
+    "knower_name": "Nimras"
+  },
+  {
+    "fact": "myth-fact-4a1cc8a16d40",
+    "knower": "myth-char-612df6919d83",
+    "source": "witnessed",
+    "since": 91,
+    "certainty": "knows",
+    "knower_name": "Tovin Beck"
+  },
+  {
+    "source": "witnessed",
+    "fact": "myth-fact-4a1cc8a16d40",
+    "certainty": "knows",
+    "since": 91,
+    "knower": "myth-char-d59737d53831",
+    "knower_name": "Hedda Rook"
+  },
+  {
+    "certainty": "knows",
+    "knower": "myth-char-1aa1d6892d3a",
+    "knower_name": "Rennic Vaur",
+    "since": 91,
+    "source": "witnessed",
+    "fact": "myth-fact-52a9571258c9"
+  },
+  {
+    "since": 91,
+    "knower": "myth-char-4fc52ae14026",
+    "knower_name": "Nimras",
+    "fact": "myth-fact-52a9571258c9",
+    "certainty": "knows",
+    "source": "witnessed"
+  },
+  {
+    "knower": "myth-char-1aa1d6892d3a",
+    "certainty": "knows",
+    "fact": "myth-fact-5555dfbc9970",
+    "knower_name": "Rennic Vaur",
+    "source": "witnessed",
+    "since": 91
+  },
+  {
+    "fact": "myth-fact-5555dfbc9970",
+    "knower_name": "Nimras",
+    "since": 91,
+    "knower": "myth-char-4fc52ae14026",
+    "certainty": "knows",
+    "source": "witnessed"
+  },
+  {
+    "knower_name": "Rennic Vaur",
+    "knower": "myth-char-1aa1d6892d3a",
+    "since": 90,
+    "certainty": "knows",
+    "source": "witnessed",
+    "fact": "myth-fact-5fdb10aa9e2b"
+  },
+  {
+    "fact": "myth-fact-5fdb10aa9e2b",
+    "knower": "myth-char-4fc52ae14026",
+    "knower_name": "Nimras",
+    "certainty": "knows",
+    "since": 90,
+    "source": "witnessed"
+  },
+  {
+    "knower_name": "Oren Vey",
+    "since": 90,
+    "fact": "myth-fact-5fdb10aa9e2b",
+    "source": "witnessed",
+    "knower": "myth-char-fd2973412ca1",
+    "certainty": "knows"
+  },
+  {
+    "certainty": "knows",
+    "source": "witnessed",
+    "since": 90,
+    "knower_name": "Rennic Vaur",
+    "fact": "myth-fact-7f10f7f8bde9",
+    "knower": "myth-char-1aa1d6892d3a"
+  },
+  {
+    "knower": "myth-char-4fc52ae14026",
+    "source": "told",
+    "fact": "myth-fact-7f10f7f8bde9",
+    "knower_name": "Nimras",
+    "since": 90,
+    "certainty": "knows"
+  },
+  {
+    "knower": "myth-char-fd2973412ca1",
+    "fact": "myth-fact-7f10f7f8bde9",
+    "certainty": "knows",
+    "knower_name": "Oren Vey",
+    "since": 90,
+    "source": "witnessed"
+  },
+  {
+    "since": 91,
+    "fact": "myth-fact-99e64df12a05",
+    "certainty": "knows",
+    "knower_name": "Rennic Vaur",
+    "knower": "myth-char-1aa1d6892d3a",
+    "source": "witnessed"
+  },
+  {
+    "knower": "myth-char-4fc52ae14026",
+    "certainty": "knows",
+    "fact": "myth-fact-99e64df12a05",
+    "knower_name": "Nimras",
+    "since": 91,
+    "source": "witnessed"
+  },
+  {
+    "knower_name": "Rennic Vaur",
+    "since": 91,
+    "source": "witnessed",
+    "fact": "myth-fact-ba3282b0c33b",
+    "knower": "myth-char-1aa1d6892d3a",
+    "certainty": "knows"
+  },
+  {
+    "fact": "myth-fact-ba3282b0c33b",
+    "source": "witnessed",
+    "knower": "myth-char-4fc52ae14026",
+    "knower_name": "Nimras",
+    "since": 91,
+    "certainty": "knows"
+  },
+  {
+    "knower": "myth-char-1aa1d6892d3a",
+    "since": 90,
+    "knower_name": "Rennic Vaur",
+    "source": "witnessed",
+    "certainty": "knows",
+    "fact": "myth-fact-cb08ed08d996"
+  },
+  {
+    "source": "witnessed",
+    "since": 91,
+    "fact": "myth-fact-cd0619aa67b4",
+    "knower_name": "Rennic Vaur",
+    "knower": "myth-char-1aa1d6892d3a",
+    "certainty": "knows"
+  },
+  {
+    "fact": "myth-fact-cd0619aa67b4",
+    "knower": "myth-char-4fc52ae14026",
+    "source": "witnessed",
+    "knower_name": "Nimras",
+    "certainty": "knows",
+    "since": 91
+  },
+  {
+    "certainty": "knows",
+    "fact": "myth-fact-e25cf767ef7e",
+    "since": 91,
+    "knower": "myth-char-1aa1d6892d3a",
+    "knower_name": "Rennic Vaur",
+    "source": "witnessed"
+  },
+  {
+    "knower_name": "Nimras",
+    "fact": "myth-fact-e25cf767ef7e",
+    "source": "witnessed",
+    "knower": "myth-char-4fc52ae14026",
+    "since": 91,
+    "certainty": "knows"
+  },
+  {
+    "knower": "myth-char-612df6919d83",
+    "since": 91,
+    "fact": "myth-fact-e25cf767ef7e",
+    "certainty": "knows",
+    "knower_name": "Tovin Beck",
+    "source": "witnessed"
+  },
+  {
+    "fact": "myth-fact-e25cf767ef7e",
+    "source": "witnessed",
+    "certainty": "knows",
+    "knower": "myth-char-d59737d53831",
+    "since": 91,
+    "knower_name": "Hedda Rook"
+  },
+  {
+    "source": "witnessed",
+    "certainty": "knows",
+    "knower_name": "Rennic Vaur",
+    "since": 91,
+    "knower": "myth-char-1aa1d6892d3a",
+    "fact": "myth-fact-ea8699efdf66"
+  },
+  {
+    "certainty": "knows",
+    "knower": "myth-char-4fc52ae14026",
+    "since": 91,
+    "source": "witnessed",
+    "fact": "myth-fact-ea8699efdf66",
+    "knower_name": "Nimras"
+  },
+  {
+    "certainty": "knows",
+    "fact": "myth-fact-f184d028897a",
+    "knower_name": "Rennic Vaur",
+    "since": 91,
+    "knower": "myth-char-1aa1d6892d3a",
+    "source": "witnessed"
+  },
+  {
+    "knower": "myth-char-4fc52ae14026",
+    "knower_name": "Nimras",
+    "since": 91,
+    "source": "witnessed",
+    "certainty": "knows",
+    "fact": "myth-fact-f184d028897a"
+  },
+  {
+    "fact": "myth-fact-f184d028897a",
+    "since": 91,
+    "source": "witnessed",
+    "knower": "myth-char-612df6919d83",
+    "knower_name": "Tovin Beck",
+    "certainty": "knows"
+  },
+  {
+    "certainty": "knows",
+    "since": 91,
+    "knower": "myth-char-d59737d53831",
+    "knower_name": "Hedda Rook",
+    "source": "witnessed",
+    "fact": "myth-fact-f184d028897a"
+  },
+  {
+    "fact": "myth-fact-fff277b98b3e",
+    "certainty": "knows",
+    "knower": "myth-char-1aa1d6892d3a",
+    "since": 91,
+    "knower_name": "Rennic Vaur",
+    "source": "witnessed"
+  },
+  {
+    "certainty": "knows",
+    "source": "witnessed",
+    "knower": "myth-char-4fc52ae14026",
+    "since": 91,
+    "fact": "myth-fact-fff277b98b3e",
+    "knower_name": "Nimras"
+  }
+]

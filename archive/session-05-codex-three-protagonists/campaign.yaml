@@ -1,0 +1,11 @@
+format: "mythras-gm-campaign"
+format_version: "1.2"
+id: "myth-campaign-purewater-s1"
+name: "And Then the Dragons Came: Purewater"
+description: "A Classic Fantasy Imperative port of 'And then the Dragons Came', relocated to Purewater -- a Venice-like canal city where the sacred waters of the Lake Lady meet the sea. Baron Hanzo di Teufel arrives with his Dragon Knights for the Lake Lady's Tourney, his possessed champion concealed among them. Four strangers arrive the same week. Built as a living world: every NPC and faction runs its own agenda on a clock, and what the party does not witness happens anyway."
+game_date: "d7/day"
+current_scene: "NIMRAS locald8/day; sharedglobald23unchanged. Temple courtesy to Nerissa complete. In Lullwater after shortwalk wearing genericChangeAppearance:04/71critical,I3cost0MP,total15min,2minremain. ReturnedRepairdismissed, morningrestMP15/15 Luck3/5 purse23GP3SP8CPafter2CPpublicboatfares. No jobs accepted or new contact approached; Nessa stillneedsbaseaddress. Local timeline retained in characterextras; preserveHrill later worldfacts, no sharedrewind."
+time_index: 229
+session_number: 8
+created_at: "2026-09-05T12:00:00"
+exported_at: "2026-10-28T22:39:35"

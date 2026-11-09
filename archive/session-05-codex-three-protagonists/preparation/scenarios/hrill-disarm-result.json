@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "a_name": "Hrill Helmdance",
+  "b_name": "Joric Vane",
+  "winner": "a",
+  "a": {
+    "roll": 36,
+    "skill": 86,
+    "difficulty": "standard",
+    "effective": 86,
+    "critical_range": 18,
+    "level": "success"
+  },
+  "b": {
+    "roll": 89,
+    "skill": 44,
+    "difficulty": "standard",
+    "effective": 44,
+    "critical_range": 5,
+    "level": "failure"
+  },
+  "storyline": {
+    "id": "myth-storyline-0fea5d34980f",
+    "name": "Hrill",
+    "pcs": [
+      "myth-char-07bc6645bb49"
+    ],
+    "now": "d29/day",
+    "minute_in_watch": 201,
+    "scene": "d29/day201 NORTHPATH COMBAT myth-enc-c39553875931 R1cycle3 JoriccounterattackFROZENwaitingHDEFENSIVE1SECHOICE. NativeJoricLongsword90/Hard44FAIL vsHfreeLongswordparry45/86SUCCESSmasterycrit18;1SEtoH. PendingnativeattackNOTRESOLVED. AVAILABLEDisarm/Trip/DamageWeapon/ScarFoe/PrepareCounter/Withdraw, userchooses. Hstandingx25engagedJoricx30swordrightshieldleft0AP, freeLongswordparryNOWUSED R1, HPfullFreshMP8Luck1cash20. JoricWindedRoadArms65Hard44,swordshieldready1APleftaftercounterattackcharged; Dainx35treeReadydagger1APleftunloadedxbowdropped11bolts,Brannx0(25behindH)0AP,Orrinx-30(55behind)0APloaded17bolts. Nativeattackrolled--no-ap aftermanualJoricspendonly; donotchargeagain/freeparryagain. IfHchoosesDisarm/Trip then resolve-effects selectedeffect returnsfollowup, attackerofspecialeffectHskill86vsNPCWindHard44styleforDisarm; engineactualresistchoiceNPCform Trip Brawn60Hard40 orEvade40Hard27,etc. DoNOTinventresultrerollforfrozenattack. DefensiveDamageWeapon needsactualweapondamage/APnotHPonperson; ordinaryHlongswordmasteryDM1d4total. No injury,Luckorclockchange. Priorattack92Luck->29shield26blocked, oldNPCTripcancelledpermanently. OtherNPCcycle4pendingafterHspecialeffectfirst. Weekhire29-35boardcharged1sixleftnopayyet;Benno/prisonerPella/cartculvert;Kell480ydEastkiln;otherPCclocksunchanged.",
+    "session": 8
+  },
+  "world_high_water": "d29/day"
+}

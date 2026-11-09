@@ -1,0 +1,85 @@
+{
+  "success": true,
+  "attacker": "Joric Vane",
+  "defender": "Hrill Helmdance",
+  "weapon": "Longsword",
+  "attack_roll": {
+    "roll": 90,
+    "skill": 44,
+    "difficulty": "standard",
+    "effective": 44,
+    "critical_range": 5,
+    "level": "failure"
+  },
+  "defense": "parry",
+  "defense_roll": {
+    "roll": 45,
+    "skill": 86,
+    "difficulty": "standard",
+    "effective": 86,
+    "critical_range": 18,
+    "level": "success"
+  },
+  "special_effects": 1,
+  "effects_to": "Hrill Helmdance",
+  "available_effects": [
+    {
+      "id": "damage-weapon",
+      "name": "Damage Weapon",
+      "phase": "post-damage",
+      "one_line": "wreck the thing in their hand"
+    },
+    {
+      "id": "scar-foe",
+      "name": "Scar Foe",
+      "phase": "post-damage",
+      "one_line": "leave a mark they keep"
+    },
+    {
+      "id": "prepare-counter",
+      "name": "Prepare Counter",
+      "phase": "post-damage",
+      "one_line": "set up the answer"
+    },
+    {
+      "id": "withdraw",
+      "name": "Withdraw",
+      "phase": "post-damage",
+      "one_line": "break off clean"
+    },
+    {
+      "id": "trip",
+      "name": "Trip",
+      "phase": "followup",
+      "one_line": "take their legs",
+      "contest": "Brawn or Evade or Acrobatics"
+    },
+    {
+      "id": "disarm",
+      "name": "Disarm",
+      "phase": "followup",
+      "one_line": "knock it out of their hand",
+      "contest": "Combat Style"
+    }
+  ],
+  "ap_remaining": {
+    "Orrin Fell": 0,
+    "Sergeant Brann Tarrow": 0,
+    "Dain Sedge": 1,
+    "Hrill Helmdance": 0,
+    "Joric Vane": 1
+  },
+  "next": "resolve-effects --encounter myth-enc-c39553875931 [--effect <id> ...]",
+  "storyline": {
+    "id": "myth-storyline-0fea5d34980f",
+    "name": "Hrill",
+    "pcs": [
+      "myth-char-07bc6645bb49"
+    ],
+    "now": "d29/day",
+    "minute_in_watch": 201,
+    "scene": "d29/day201 NORTHPATH COMBAT myth-enc-c39553875931 R1cycle3 JORICOWNINITIATIVE11 counterattackDECLARED, PCDEFENSECHOICEPENDING beforeanynewroll/APspend. Hrillstandingx25engagedJoricx30, swordRIGHTshieldLEFTREADY0AP, freeLongswordparryUNUSEDR1, fullHPFreshMP8Luck1cash20. PlayerLucktheattack usedpriorpreferdigits92->29success86, frozenJoricshield26/44success,NOSE. Nativeblockdamage7fullyabsorbed,zeroHPchange. OldTripCANCELLEDunrolled; doNOTrollBrawn/Evade orknockdown. NowJoricownturnslasheswithLongswordatH, WIndedHardRoadArms65=>44,2APcurrentlyattacknotpaidyet. ASKPCDEFENSE. FreeLongswordparrycanbeuseddespite0AP: ifchosenchargeJoric1APmanuallyonlythenattack-roll--no-ap withHparryLongswordstyle86/masterycrit18(nocharge)andmarkfreeparryused. Nativeordinaryattack-rollwithoutoverridewouldwronglytreatHnodefenseat0AP; doNOTdoit. ShieldparryrequiresAP/Luck, do notchooseforplayer. Preauthorizedshieldparrycrossbowonly. NativependingattackisCLEAREDafterLuckblock. Brannx0(25behindH)0AP,Orrinx-30(55behindH)0APloaded17,Dainx35tree1APdaggerreadyandemptyxbowground11bolts. OtherNPCcycle4actionsnotyet. Gear/masterybaseunchangedordinaryLongswordDM1d4totalMsize,mastcrit18whenstyle86,passion11ongoingwhereapplicable. Weekhire29-35boardcharged1sixleftnopaytodayyet,no clockrestadvance; otherPCclocksunchanged.",
+    "session": 8
+  },
+  "world_high_water": "d29/day"
+}

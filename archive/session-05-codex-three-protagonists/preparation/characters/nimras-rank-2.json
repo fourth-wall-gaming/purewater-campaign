@@ -1,0 +1,429 @@
+{
+  "name": "Nimras",
+  "stats": {
+    "STR": 11,
+    "CON": 15,
+    "SIZ": 10,
+    "DEX": 12,
+    "INT": 14,
+    "POW": 15,
+    "CHA": 15
+  },
+  "skills": {
+    "Athletics": 35,
+    "Boating": 26,
+    "Brawn": 21,
+    "Conceal": 32,
+    "Customs (Home culture)": 68,
+    "Dance": 27,
+    "Deceit": 60,
+    "Drive": 32,
+    "Endurance": 40,
+    "Evade": 69,
+    "First Aid": 26,
+    "Influence": 70,
+    "Insight": 70,
+    "Locale (Home region)": 40,
+    "Perception": 70,
+    "Ride": 27,
+    "Sing": 30,
+    "Stealth": 56,
+    "Swim": 26,
+    "Unarmed": 23,
+    "Willpower": 70,
+    "Language (Common)": 69,
+    "Commerce": 34,
+    "Courtesy": 39,
+    "Streetwise": 70,
+    "Arcane Casting": 70,
+    "Arcane Knowledge": 70,
+    "Language (Elven)": 29,
+    "Lore (Magical traditions)": 28,
+    "Lore (Dangerous creatures)": 28,
+    "Survival": 60,
+    "Combat Skill (Mage)": 43
+  },
+  "combat_styles": [
+    {
+      "name": "Combat Skill (Mage)",
+      "value": 43,
+      "weapons": [
+        {
+          "name": "Quarterstaff",
+          "damage": "1d8",
+          "size": "M",
+          "hands": 2,
+          "traits": [
+            "Stun Location"
+          ]
+        },
+        {
+          "name": "Dart",
+          "damage": "1d4",
+          "size": "S",
+          "quantity": 3,
+          "range": "15/30/60 ft",
+          "traits": [
+            "Impale"
+          ]
+        }
+      ]
+    }
+  ],
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": "01-03",
+      "hp": 6,
+      "ap": 0
+    },
+    {
+      "name": "Left Leg",
+      "range": "04-06",
+      "hp": 6,
+      "ap": 0
+    },
+    {
+      "name": "Abdomen",
+      "range": "07-09",
+      "hp": 7,
+      "ap": 0
+    },
+    {
+      "name": "Chest",
+      "range": "10-12",
+      "hp": 8,
+      "ap": 0
+    },
+    {
+      "name": "Right Arm",
+      "range": "13-15",
+      "hp": 5,
+      "ap": 0
+    },
+    {
+      "name": "Left Arm",
+      "range": "16-18",
+      "hp": 5,
+      "ap": 0
+    },
+    {
+      "name": "Head",
+      "range": "19-20",
+      "hp": 6,
+      "ap": 0
+    }
+  ],
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "initiative_bonus": 13,
+    "magic_points": 15,
+    "luck_points": 5,
+    "movement": "6.096m (20 feet)",
+    "healing_rate": 3,
+    "experience_modifier": 1
+  },
+  "equipment": [
+    "Common travelling clothes",
+    "Spellbook",
+    "Spell component pouch",
+    "Backpack",
+    "Waterskin",
+    "Trail rations (7 days)",
+    "Bedroll",
+    "Small empty sack",
+    "Flint and tinder",
+    "Two-hour candles (10)",
+    "Parchment pages (10)",
+    "Quill",
+    "Bottle of ink",
+    "Belt pouch",
+    "Hemp rope (30 ft; purchased for 1 GP)"
+  ],
+  "sorcery_spells": [
+    "Read Magic",
+    "Appraise",
+    "Avert",
+    "Befuddle",
+    "Chill",
+    "Cleanse",
+    "Coordination",
+    "Deflect",
+    "Dry",
+    "Ignite",
+    "Magic Tricks",
+    "Might",
+    "Protection",
+    "Repair",
+    "Preserve",
+    "Magic Missile",
+    "Shield",
+    "Invisibility",
+    "Detect Magic",
+    "Sleep",
+    "Change Appearance",
+    "Web",
+    "Dispel Magic",
+    "Lightning Bolt",
+    "Locate Object"
+  ],
+  "powers": [
+    {
+      "name": "Mental Strength",
+      "type": "CFI mage Rank 1 ability",
+      "prerequisite": "Arcane Casting 60%",
+      "cost": "Free character-creation ability",
+      "effect": "Once per day, mental-magic resistance Willpower tests are two difficulty grades easier. Disbelieving illusions and phantasms is one grade easier.",
+      "uses_per_day": 1,
+      "uses_remaining": 1
+    }
+  ],
+  "passions": {
+    "True Neutral (Pragmatic; freedom of action)": 59,
+    "Uphold (My independence)": 70,
+    "Loyalty (The fellowship)": 59,
+    "Respect (Rennic Vaur)": 50
+  },
+  "class": "Magic-User",
+  "rank": 2,
+  "rank_title": "Mage",
+  "race": "Human",
+  "species": "humanoid",
+  "culture": "Civilized",
+  "pronouns": "he/him",
+  "build_status": "Core character mechanics and personality approved; not yet introduced in a scene. Fellowship name and home region remain open.",
+  "notes": "Nimras: human Rank 2 Magic-User, freelance mage hunter trained by an independent fellowship. Left amicably to spread his wings. Review draft; not yet in play.",
+  "background": {
+    "profession": "Freelance mage hunter and battle mage",
+    "training": "An independent magical fellowship, name not yet chosen.",
+    "departure": "Left amicably to spread his wings and choose his own work; no bad blood.",
+    "current_client": "His former fellowship.",
+    "commission": "Find his former teacher Rennic Vaur in Purewater, bring him home alive, and recover the entrusted manuscript he took.",
+    "lead": "An introduction to Oren Vey, proposed as Vaur’s last known correspondent.",
+    "authority": "No Crown warrant; fellowship training does not make him an Assayer.",
+    "style": "Direct battle magic, protection and pursuit; precise skills, spells and abilities unchosen.",
+    "creation_status": "Characteristics and core concept agreed; sheet, spellbook, passions, employer name, payment and personal equipment unfinished.",
+    "continuity": "Join the existing Purewater campaign at d6/dusk after the tournament and Hanzo’s departure. No rewind or advance."
+  },
+  "skill_allocation": {
+    "base": {
+      "Athletics": 23,
+      "Boating": 26,
+      "Brawn": 21,
+      "Conceal": 27,
+      "Customs (Home culture)": 68,
+      "Dance": 27,
+      "Deceit": 29,
+      "Drive": 27,
+      "Endurance": 30,
+      "Evade": 24,
+      "First Aid": 26,
+      "Influence": 30,
+      "Insight": 29,
+      "Locale (Home region)": 28,
+      "Perception": 29,
+      "Ride": 27,
+      "Sing": 30,
+      "Stealth": 26,
+      "Swim": 26,
+      "Unarmed": 23,
+      "Willpower": 30,
+      "Language (Common)": 69,
+      "Commerce": 29,
+      "Courtesy": 29,
+      "Streetwise": 30,
+      "Arcane Casting": 29,
+      "Arcane Knowledge": 28,
+      "Language (Elven)": 29,
+      "Lore (Magical traditions)": 28,
+      "Lore (Dangerous creatures)": 28,
+      "Survival": 30,
+      "Combat Skill (Mage)": 23
+    },
+    "culture": {
+      "Conceal": 5,
+      "Deceit": 10,
+      "Drive": 5,
+      "Influence": 10,
+      "Insight": 15,
+      "Locale (Home region)": 10,
+      "Willpower": 15,
+      "Streetwise": 15,
+      "Courtesy": 10,
+      "Commerce": 5
+    },
+    "class": {
+      "Arcane Casting": 15,
+      "Arcane Knowledge": 15,
+      "Willpower": 15,
+      "Insight": 15,
+      "Influence": 10,
+      "Perception": 15,
+      "Evade": 15
+    },
+    "bonus": {
+      "Arcane Casting": 26,
+      "Arcane Knowledge": 27,
+      "Willpower": 10,
+      "Insight": 11,
+      "Influence": 20,
+      "Perception": 26,
+      "Evade": 30,
+      "Survival": 30,
+      "Streetwise": 25,
+      "Courtesy": 0,
+      "Locale (Home region)": 2,
+      "Endurance": 10,
+      "Athletics": 12,
+      "Combat Skill (Mage)": 20,
+      "Stealth": 30,
+      "Deceit": 21
+    },
+    "culture_professional": [
+      "Streetwise",
+      "Courtesy",
+      "Commerce"
+    ],
+    "class_professional": [
+      "Arcane Casting",
+      "Arcane Knowledge",
+      "Language (Elven)",
+      "Lore (Magical traditions)",
+      "Lore (Dangerous creatures)"
+    ],
+    "hobby_professional": "Survival",
+    "rank_qualifying_skills": {
+      "Influence": 70,
+      "Insight": 70,
+      "Perception": 70,
+      "Willpower": 70,
+      "Arcane Casting": 70,
+      "Arcane Knowledge": 70
+    },
+    "limits": "100 culture (5-15 each), 100 class (max 15), 300 Rank 2 bonus (max 30 each)."
+  },
+  "spell_ranks": {
+    "0": [
+      "Read Magic",
+      "Appraise",
+      "Avert",
+      "Befuddle",
+      "Chill",
+      "Cleanse",
+      "Coordination",
+      "Deflect",
+      "Dry",
+      "Ignite",
+      "Magic Tricks",
+      "Might",
+      "Protection",
+      "Repair",
+      "Preserve"
+    ],
+    "1": [
+      "Magic Missile",
+      "Shield",
+      "Invisibility",
+      "Detect Magic",
+      "Sleep",
+      "Change Appearance",
+      "Web"
+    ],
+    "2": [
+      "Dispel Magic",
+      "Lightning Bolt",
+      "Locate Object"
+    ]
+  },
+  "prepared_spells": {
+    "0": [
+      "Read Magic",
+      "Avert",
+      "Protection",
+      "Coordination",
+      "Repair"
+    ],
+    "1": [
+      "Magic Missile",
+      "Shield",
+      "Detect Magic",
+      "Invisibility",
+      "Change Appearance"
+    ],
+    "2": [
+      "Dispel Magic",
+      "Lightning Bolt",
+      "Locate Object"
+    ]
+  },
+  "spell_memory_capacity": {
+    "0": 5,
+    "1": 5,
+    "2": 3
+  },
+  "spell_learning": "Read Magic plus 14 cantrips and 7 Rank 1 spells at Arcane Knowledge 70; 3 spells gained on reaching Rank 2. No extra spells awarded.",
+  "wealth": {
+    "gp": 6,
+    "sp": 0,
+    "cp": 0,
+    "starting_roll": {
+      "success": true,
+      "expr": "3d6",
+      "rolls": [
+        5,
+        1,
+        1
+      ],
+      "total": 7
+    },
+    "purchases_gp": {
+      "Hemp rope (30 ft)": 1
+    },
+    "contract_advance": "Amount not established; not added to starting wealth."
+  },
+  "cfi_rules_notes": [
+    "Rank 2: base 2 AP +1; base POW Luck 3 + human 1 + Rank 2 table 1 =5.",
+    "CON+SIZ 25: use CFI HP table, then +1 in each location at Rank 2.",
+    "INT/4 memory fractions rounded down following engine skill guidance.",
+    "Rank 2 spells cost normally; lower-rank spell final costs reduced by 2 per rank difference, minimum 1 MP.",
+    "No spell is forgotten merely by successful casting. Arcane casting requires freedom from armour and shields.",
+    "No additional paid Rank abilities granted; no unspent advancement budget invented.",
+    "Locale and Customs refer to his home region, not automatic knowledge of Purewater. Home region and fellowship name remain undecided.",
+    "Navigation and Track are untrained Professional skills and have not been added under other names."
+  ],
+  "pending_player_choices": [
+    "Home region and fellowship name"
+  ],
+  "alignment": {
+    "name": "True Neutral",
+    "elements": [
+      "Pragmatic",
+      "Freedom of action"
+    ],
+    "value": 59,
+    "calculation": "INT 14 + POW 15 + 30"
+  },
+  "outlook": {
+    "player_defined": true,
+    "manner": "Tries to be pleasant and amiable.",
+    "ethics": "Pragmatic; exercises his own judgement.",
+    "boundaries": "Does not tolerate people messing with him.",
+    "lethal_force": "Willing to kill when he thinks it necessary; the player decides when that is."
+  },
+  "confirmed_personal_passions": {
+    "Uphold (My independence)": 70,
+    "Loyalty (The fellowship)": 59,
+    "Respect (Rennic Vaur)": 50
+  },
+  "portrait": {
+    "path": "/Users/gullyburns/Documents/ChatGPT/mythras/docs/characters/nimras-portrait-v1.png",
+    "workspace_relative_path": "docs/characters/nimras-portrait-v1.png",
+    "status": "Approved by the player as Nimras’s appearance reference.",
+    "generation": "Built-in image generation; graphite and ink character sketch.",
+    "appearance": "Compact, healthy human man around thirty, dark tousled hair, light stubble, amiable self-possessed expression; worn practical travelling coat over ordinary unarmoured clothes, boots, spellbook satchel and component pouch. Plain wooden quarterstaff and a small suggestion of lightning.",
+    "scope": "Appearance reference only; no added powers or equipment. Quarterstaff is already on the mechanical sheet.",
+    "prompt": "Quick expressive graphite and ink character sketch on warm off-white paper of Nimras, a compact human male freelance mage hunter around thirty, healthy and moderately athletic, intelligent personable face, small easy smile, steady gaze, practical worn travelling coat over plain unarmoured clothes, boots, component pouch, well-used spellbook in a weatherproof satchel, plain wooden quarterstaff and a small fork of lightning at his free hand. Loose canal-city background inspired by Venice, confident hatching, natural human anatomy. No armour, shield, pointed hat, ornate robes, fireball, glowing eyes, text or watermark."
+  },
+  "appearance": "Compact, healthy human man around thirty, dark tousled hair, light stubble, amiable self-possessed expression; worn practical travelling coat over ordinary unarmoured clothes, boots, spellbook satchel and component pouch. Plain wooden quarterstaff and a small suggestion of lightning."
+}

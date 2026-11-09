@@ -1,0 +1,29 @@
+{
+  "id": "myth-enc-b4ebac13564e",
+  "name": "Champion opening bout: Cailan versus Garran Holt",
+  "description": "Halla observes from competitors' rail, Perception55/65 success. Champion war spear long sword AP5 full armour, Garran sword shield AP4 mail helm. One proactive action per round, remaining AP defence; both3AP. Yield or marshal stoppage. Outcome rolled honestly; this is champion's first bout, not entire tournament result.",
+  "summary": "Champion wins first bout against Garran Holt by voluntary yield after trip and disarm in round3. Initiative Garran13 champion11. R1 Garran attack25/72 vs spear parry21/92 both success no damage; champion spear55/92 vs shield4/72 critical, Garran Disarm and champion resistance50/92 loses to critical4, spear dropped. R2 Garran sword39/72 vs champion Evade96/78 fails, Choose Location Right Arm damage9 minus armour5=4, champion arm1/5 Minor. Champion spends sole proactive turn drawing Long Sword, no return attack. R3 Garran attack76/72 fails vs sword parry43/92 success, champion Trip vs Garran Brawn23/60 success; original43 beats23, Garran prone. Champion sword64/92 vs prone shield84/48 fails, Disarm vs prone resistance25/48 success; original64 wins, sword dropped. Damage3 minus mail4=0. Garran yields prone/disarmed; no injuries. Champion remains right arm1/5 Minor. Halla observes with Perception55/65 success. Entire tournament champion result not yet resolved.",
+  "status": "resolved",
+  "round": 3,
+  "combatants": [
+    {
+      "id": "myth-char-1af9e243d02a",
+      "name": "Garran Holt",
+      "initiative": 13,
+      "ap": 1,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 13
+    },
+    {
+      "id": "myth-char-cac22cc2cbf6",
+      "name": "Cailan",
+      "initiative": 11,
+      "ap": 1,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 17
+    }
+  ],
+  "created_at": "2026-10-14T14:10:09"
+}

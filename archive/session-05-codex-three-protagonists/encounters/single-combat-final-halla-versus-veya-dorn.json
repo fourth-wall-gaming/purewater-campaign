@@ -1,0 +1,29 @@
+{
+  "id": "myth-enc-0acf071f5ca3",
+  "name": "Single Combat Final: Halla versus Veya Dorn",
+  "description": "Live replay final at Lists. Both full HP Fresh. Halla axe two-handed, shield slung, Luck3. Honour augment expired; base axe81. Veya existing authored guard profile, no newly assigned class powers, NPC Luck0. Stop on surrender or medical stoppage.",
+  "summary": "Veya voluntarily yields after thrownhandaxe woundsabdomen2HP and Bleed opposedEndurance26 loses originalattack40 ordinarysuccess. Shieldlowered calls Hold Yourbout. Marshal accepts surrender beforeR3; healerattention required Bleednotyettreatmentrolled, nofatigueadvance orfurtherattacks. Halla winsfinal andSingleCombat. HallaRightArm5/6 Luck2. Battleaxeheldnotready, handaxethrownon sandnearVeya; shieldwithkit. No prize paid orCrownjobassumed.",
+  "status": "resolved",
+  "round": 2,
+  "combatants": [
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "initiative": 15,
+      "ap": 0,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 11
+    },
+    {
+      "id": "myth-char-628f22b9a9cb",
+      "name": "Veya Dorn",
+      "initiative": 13,
+      "ap": 1,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 14
+    }
+  ],
+  "created_at": "2026-10-21T16:29:38"
+}

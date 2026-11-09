@@ -1,0 +1,190 @@
+{
+  "id": "myth-char-fcfb7401ec8a",
+  "name": "Garran Holt",
+  "type": "npc",
+  "status": "retired",
+  "description": "Unused setup record: default avian species was incorrect. Never introduced in play; superseded by humanoid Garran Holt.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 14,
+    "CON": 14,
+    "SIZ": 13,
+    "DEX": 13,
+    "INT": 12,
+    "POW": 11,
+    "CHA": 10
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 0,
+    "healing_rate": 3,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 11,
+    "movement": "4m walk / 12m fly"
+  },
+  "skills": {
+    "Athletics": 27,
+    "Boating": 28,
+    "Brawn": 60,
+    "Conceal": 24,
+    "Dance": 23,
+    "Deceit": 22,
+    "Drive": 24,
+    "Endurance": 65,
+    "Evade": 55,
+    "First Aid": 25,
+    "Influence": 20,
+    "Insight": 23,
+    "Locale": 24,
+    "Perception": 23,
+    "Ride": 24,
+    "Sing": 21,
+    "Stealth": 25,
+    "Unarmed": 27,
+    "Willpower": 55,
+    "Flight": 27,
+    "Customs": 64,
+    "Native Tongue": 62,
+    "Combat Skill (Sword and shield)": 72
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 4,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 4,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 4,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 4,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 4,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 4,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 4,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Longsword",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "M",
+      "hands": 1,
+      "ap": 6,
+      "hp": 12,
+      "effects": [
+        "bleed",
+        "impale"
+      ]
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L",
+      "hands": 1,
+      "ap": 4,
+      "hp": 12
+    },
+    {
+      "name": "Mail and helm",
+      "armor": true,
+      "ap": 4
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Sword and shield": 72
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "luck_policy": "PC-only campaign rule: NPCs have no Luck pool or Luck rank bonuses; never spend Luck for NPC rerolls, reversals or damage mitigation."
+  },
+  "actor_notes": null,
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "location": null,
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-14T14:09:27"
+}

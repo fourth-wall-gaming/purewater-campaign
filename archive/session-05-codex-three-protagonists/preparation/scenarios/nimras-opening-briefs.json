@@ -1,0 +1,92 @@
+{
+  "vey": {
+    "success": true,
+    "id": "myth-char-fd2973412ca1",
+    "name": "Oren Vey",
+    "pronouns": "NOT RECORDED -- do not guess, and do not infer from the name. Set extras.pronouns first.",
+    "gender_note": null,
+    "status": "active",
+    "description": "Established independent master of divination, illusion and old texts, resident at the House of Small Windows on High Isle. Private library and patronage support a pursuit of a vanished magician’s dispersed library. Has limited professional exchanges with Hesper; does not know Hesper’s private allegiance. No Crown office.",
+    "location": "The House of Small Windows",
+    "actor_notes": "LOOKS: elderly man in a pale grey coat, ink at a cuff, silver-mounted spectacles. CORE: a hospitable collector who believes access to knowledge depends on someone keeping it safe. NATURE: sociable with scholars, patient with questions, pleased by an exact observation. WOUND: discoveries which were lost because he could not obtain them in time. WANTS: useful exchanges without losing custody of what he already has. PRESSURE: formality replaces warmth; he protects his own property and retreats before risking his life. KEY: register is cultivated and conversational; he does not enumerate or issue military commands.",
+    "notes_source": "actor-notes",
+    "agendas": [
+      "Preserve a library worth finding (active)"
+    ],
+    "believes": [],
+    "guidance": null
+  },
+  "house": {
+    "success": true,
+    "id": "myth-loc-1f1ed691536c",
+    "kind": "location",
+    "name": "The House of Small Windows",
+    "type": "house",
+    "world_constraints": "Campaign rules: Luck is PC-only; all NPC current/max Luck and rank Luck bonuses are0. Classic Fantasy Imperative combat: repeat initiative cycles while usable AP remain, one proactive Action per TURN not per round. Delay conserves actions, paid when used. Engaged Regain Footing costs1AP and requires opposed Brawn or Athletics; no rank exemption. Nearby dropped weapon recovery costs2Actions (reach then ready). Fightingwhileprone is Formidable. Rank4 CFI AP=2base+2rank=4. Track specific mastery free parries/ripostes distinctly; do not doublecharge them. No free standing or pickup.",
+    "description": "Oren Vey’s private house, library and workrooms on High Isle, entered from a footbridge or a small canal landing.",
+    "staging_notes": "SENSE: beeswax, warm paper, canal water and hulls knocking below the open window. SHAPE: front workroom with table, low canal window, front door to footbridge and inner passage to rear stair; the front and rear exits are ordinary physical exits. LIVES: Oren Vey; household staff remain offstage unless needed. HANDS: cedar case, waxed cord, lamp, blotting paper, chair. COSTS: private property and Vey’s ordinary consent; no compulsory admission fee or spell toll. TURNS: shutters can close and objects can be carried off, but no new wards appear without preparation. KEY: daylight admitted through many small windows to keep it off the books.",
+    "present": [
+      "Nimras",
+      "Oren Vey"
+    ],
+    "guidance": null
+  },
+  "n1": {
+    "success": true,
+    "kind": "beat",
+    "id": "myth-beat-7ad1023ca609",
+    "title": "The case at the House of Small Windows",
+    "summary": "Vey offers a sealed case Vaur left for an agent of the fellowship; Nimras decides how to handle it.",
+    "status": "pending",
+    "when": "d6/dusk",
+    "time_index": 90,
+    "trigger": "time",
+    "onscreen_if": "Nimras is actually present or has earned contact with this opportunity; otherwise inspect prerequisites and current outcomes. A late date does not force a scene.",
+    "branches": null,
+    "result": null,
+    "narrative": "Run N1 in docs/scenarios/nimras-the-missing-teacher.md. Do not reveal case contents before opening. Ordinary voluntary handover requires no roll; contested actions do. The case contains a cracked surveying lens and a note to the Lantern Float Market. Offering the case does not prove the teacher innocent.",
+    "agenda": "myth-agenda-10c0c31e38ad",
+    "agenda_title": "Preserve a library worth finding",
+    "priority": 2,
+    "place": "myth-loc-1f1ed691536c",
+    "place_name": "The House of Small Windows",
+    "cast": [
+      "myth-char-fd2973412ca1"
+    ],
+    "cast_names": [
+      "Oren Vey"
+    ],
+    "around_it": [
+      {
+        "when": "d6/day",
+        "title": "A favour in the Prince's colours",
+        "status": "pending",
+        "id": "myth-beat-941ad01aa70b",
+        "summary": "Crowbill requests patrol timing and leniency for a dusk unlicensed cloth lighter. Neri independently requests protection from armed interference. Halla has accepted nothing."
+      },
+      {
+        "when": "d6/dusk",
+        "title": "The cloth lighter",
+        "status": "preempted",
+        "id": "myth-beat-70d41ec5c7a6",
+        "summary": "Four mercenaries attempt seizure of rival cloth and coercion of its adult crew."
+      }
+    ],
+    "guidance": "This is the catalog entry. `story.md` says what this beat is FOR in the act it belongs to -- read that too before you run it. If play has moved past what is written here, do not narrate around the mismatch: `revise-beat` it and rewrite the plan."
+  },
+  "nimras_view": {
+    "success": true,
+    "character": "myth-char-4fc52ae14026",
+    "name": "Nimras",
+    "knows": [
+      {
+        "statement": "Nimras has been commissioned by his former independent fellowship to find Rennic Vaur alive and recover an entrusted manuscript; his first introduction is to Oren Vey.",
+        "certainty": "knows",
+        "source": "told",
+        "since": "d6/dusk",
+        "truth": "true"
+      }
+    ],
+    "reads": []
+  }
+}

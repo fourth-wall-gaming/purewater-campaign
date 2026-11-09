@@ -1,0 +1,144 @@
+{
+  "id": "myth-char-a51ffd8d3f6b",
+  "name": "Vantt mill landing watchman",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult human man in a patched mail shirt holding a hooded lantern. Vantt's paid mill watchman; wants unauthorised boats kept outside the loading channel, will not knowingly attack identified Crown guards over a shipment.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 11,
+    "INT": 10,
+    "POW": 10,
+    "CHA": 10
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 10,
+    "luck_points": 0,
+    "magic_points": 10,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 23,
+    "Boating": 24,
+    "Brawn": 24,
+    "Conceal": 21,
+    "Dance": 21,
+    "Deceit": 20,
+    "Drive": 21,
+    "Endurance": 24,
+    "Evade": 22,
+    "First Aid": 21,
+    "Influence": 30,
+    "Insight": 35,
+    "Locale": 20,
+    "Perception": 45,
+    "Ride": 21,
+    "Sing": 20,
+    "Stealth": 21,
+    "Swim": 24,
+    "Unarmed": 23,
+    "Willpower": 40,
+    "Customs": 60,
+    "Native Tongue": 60
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {
+    "Hired mill guard (spear, club)": 55
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "he/him",
+    "gender": "male",
+    "luck_policy": "NPC Luck current and maximum zero; no rerolls."
+  },
+  "actor_notes": "CORE: Paid watchman keeping strangers out of Vantt's mill, not a Dragon Knight. NATURE: Workaday, impatient at night, plain dockside words. WANTS: Finish loading without theft or a fight. REFUSES: Attack identified Crown soldiers for a merchant's private shipment. EDGE: Vantt employs him at the grain mill. Physical fact: patched mail and a hooded lantern.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": "myth-loc-db22859b65d2",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-22T03:47:24"
+}

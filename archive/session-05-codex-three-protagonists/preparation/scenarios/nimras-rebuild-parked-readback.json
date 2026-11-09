@@ -1,0 +1,1271 @@
+{
+  "success": true,
+  "campaign": {
+    "name": "And Then the Dragons Came: Purewater",
+    "id": "myth-campaign-purewater-s1",
+    "myth-system": "classic-fantasy",
+    "description": "A Classic Fantasy Imperative port of 'And then the Dragons Came', relocated to Purewater -- a Venice-like canal city where the sacred waters of the Lake Lady meet the sea. Baron Hanzo di Teufel arrives with his Dragon Knights for the Lake Lady's Tourney, his possessed champion concealed among them. Four strangers arrive the same week. Built as a living world: every NPC and faction runs its own agenda on a clock, and what the party does not witness happens anyway.",
+    "content": null,
+    "myth-game-date": "d6/night",
+    "myth-current-scene": "OOC adventure rebuild. The rejected southern intake surveying scene is withdrawn and its future beats cancelled. Do not continue it. Nimras remains the active played character with his approved sheet, full resources and fellowship commission; Purewater remains post-tournament, Baron gone, shared clock d6/night unchanged. Twelve seeds and five proposals are prepared in docs/scenarios/nimras-adventure-brainstorm.md. Await selection from nimras-five-adventure-pitches.md, then complete consequence-driven design and live setup before resuming narration. Historical episode records are retained for audit; do not treat their surveying premise as the replacement adventure.",
+    "myth-session-number": 6,
+    "myth-time-index": 91
+  },
+  "player_characters": [
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "type": "pc",
+      "status": "active",
+      "characteristics": {
+        "STR": 15,
+        "CON": 18,
+        "SIZ": 10,
+        "DEX": 11,
+        "INT": 11,
+        "POW": 7,
+        "CHA": 5
+      },
+      "attributes": {
+        "action_points": 3,
+        "damage_modifier": "+0",
+        "initiative_bonus": 11,
+        "movement": "4.572m (15 feet)",
+        "healing_rate": 3
+      },
+      "fatigue": "Fresh",
+      "luck_current": 3,
+      "magic_current": 7,
+      "hit_locations": [
+        {
+          "name": "Right Leg",
+          "range": [
+            1,
+            3
+          ],
+          "ap": 5,
+          "hp": 7,
+          "current_hp": 7
+        },
+        {
+          "name": "Left Leg",
+          "range": [
+            4,
+            6
+          ],
+          "ap": 5,
+          "hp": 7,
+          "current_hp": 7
+        },
+        {
+          "name": "Abdomen",
+          "range": [
+            7,
+            9
+          ],
+          "ap": 5,
+          "hp": 8,
+          "current_hp": 8
+        },
+        {
+          "name": "Chest",
+          "range": [
+            10,
+            12
+          ],
+          "ap": 5,
+          "hp": 9,
+          "current_hp": 9
+        },
+        {
+          "name": "Right Arm",
+          "range": [
+            13,
+            15
+          ],
+          "ap": 5,
+          "hp": 6,
+          "current_hp": 6
+        },
+        {
+          "name": "Left Arm",
+          "range": [
+            16,
+            18
+          ],
+          "ap": 5,
+          "hp": 6,
+          "current_hp": 6
+        },
+        {
+          "name": "Head",
+          "range": [
+            19,
+            20
+          ],
+          "ap": 5,
+          "hp": 7,
+          "current_hp": 7
+        }
+      ],
+      "combat_styles": {
+        "Fighter (all basic and martial weapons, all shields)": 76,
+        "Battleaxe specialist": 81
+      },
+      "passions": {
+        "Good (Kind; protects innocents)": 48,
+        "Lawful (Honourable; keeps his word)": 48,
+        "Love (Sister)": 70,
+        "Seek (Freedom from Crowbill)": 50,
+        "Uphold (Honour through mastery of combat)": 60
+      },
+      "powers": [
+        "Combat Proficiency",
+        "Weapon Specialization (Battleaxe)",
+        "Weapon Master (Battleaxe)",
+        "Forceful Strike"
+      ],
+      "location": "myth-loc-941ec73f1da6",
+      "location_name": "The Forge Quarter"
+    },
+    {
+      "id": "myth-char-4fc52ae14026",
+      "name": "Nimras",
+      "type": "pc",
+      "status": "active",
+      "characteristics": {
+        "STR": 11,
+        "CON": 15,
+        "SIZ": 10,
+        "DEX": 12,
+        "INT": 14,
+        "POW": 15,
+        "CHA": 15
+      },
+      "attributes": {
+        "action_points": 3,
+        "damage_modifier": "+0",
+        "initiative_bonus": 13,
+        "movement": "6.096m (20 feet)",
+        "healing_rate": 3
+      },
+      "fatigue": "Fresh",
+      "luck_current": 5,
+      "magic_current": 15,
+      "hit_locations": [
+        {
+          "name": "Right Leg",
+          "range": [
+            1,
+            3
+          ],
+          "ap": 0,
+          "hp": 6,
+          "current_hp": 6
+        },
+        {
+          "name": "Left Leg",
+          "range": [
+            4,
+            6
+          ],
+          "ap": 0,
+          "hp": 6,
+          "current_hp": 6
+        },
+        {
+          "name": "Abdomen",
+          "range": [
+            7,
+            9
+          ],
+          "ap": 0,
+          "hp": 7,
+          "current_hp": 7
+        },
+        {
+          "name": "Chest",
+          "range": [
+            10,
+            12
+          ],
+          "ap": 0,
+          "hp": 8,
+          "current_hp": 8
+        },
+        {
+          "name": "Right Arm",
+          "range": [
+            13,
+            15
+          ],
+          "ap": 0,
+          "hp": 5,
+          "current_hp": 5
+        },
+        {
+          "name": "Left Arm",
+          "range": [
+            16,
+            18
+          ],
+          "ap": 0,
+          "hp": 5,
+          "current_hp": 5
+        },
+        {
+          "name": "Head",
+          "range": [
+            19,
+            20
+          ],
+          "ap": 0,
+          "hp": 6,
+          "current_hp": 6
+        }
+      ],
+      "combat_styles": {
+        "Combat Skill (Mage)": 43
+      },
+      "passions": {
+        "True Neutral (Pragmatic; freedom of action)": 59,
+        "Uphold (My independence)": 70,
+        "Loyalty (The fellowship)": 59,
+        "Respect (Rennic Vaur)": 50
+      },
+      "powers": [
+        "Mental Strength"
+      ],
+      "location": "myth-loc-17bfb40605a4",
+      "location_name": "Southern intake stair"
+    }
+  ],
+  "npcs": [
+    {
+      "type": "npc",
+      "name": "Conall Bjornlasch",
+      "status": "active",
+      "id": "myth-char-06f87a379bbf"
+    },
+    {
+      "status": "active",
+      "type": "npc",
+      "name": "Gardwen",
+      "id": "myth-char-5c39daf64e36"
+    },
+    {
+      "name": "Magda",
+      "id": "myth-char-d8b643d61817",
+      "status": "active",
+      "type": "npc"
+    },
+    {
+      "name": "Randall",
+      "status": "active",
+      "type": "npc",
+      "id": "myth-char-5aa2aad55f3b"
+    },
+    {
+      "id": "myth-char-961c2a36ac27",
+      "type": "npc",
+      "name": "Abel Weir",
+      "status": "active"
+    },
+    {
+      "status": "active",
+      "id": "myth-char-4b90c7e1d235",
+      "type": "npc",
+      "name": "Alderic Vantt",
+      "doing": "Restore credit through outward grain shipments without public exposure; next: Load the mixed cargo at East Tidal Mill for dawn sailing  [s5\u2026"
+    },
+    {
+      "status": "active",
+      "type": "npc",
+      "name": "Asphodel",
+      "id": "myth-char-4b75598941c7"
+    },
+    {
+      "type": "npc",
+      "status": "active",
+      "id": "myth-char-dbb5fdad535d",
+      "name": "Blau",
+      "doing": "Withdraw with Hanzo's household; Purewater chapter closed.; next: Remain offstage pending a newly authorised adventure.  [s5, 1 session sta\u2026"
+    },
+    {
+      "type": "npc",
+      "status": "active",
+      "name": "Cailan",
+      "id": "myth-char-cac22cc2cbf6",
+      "doing": "Withdraw with Hanzo's household; Purewater chapter closed.; next: Remain offstage pending a newly authorised adventure.  [s5, 1 session sta\u2026"
+    },
+    {
+      "name": "Cassian Bree",
+      "id": "myth-char-6d2b81f7c904",
+      "type": "npc",
+      "status": "active"
+    },
+    {
+      "type": "npc",
+      "id": "myth-char-49ee20e7a554",
+      "status": "active",
+      "name": "Constantine"
+    },
+    {
+      "status": "active",
+      "name": "Corvin",
+      "type": "npc",
+      "id": "myth-char-3f0a6fbaf68c"
+    },
+    {
+      "status": "active",
+      "id": "myth-char-e303e68fea08",
+      "type": "npc",
+      "name": "Crowbill",
+      "doing": "Preserve smuggling routes and protection income against Marr's concern.; next: Seek ordinary Guard protection for cloth boat after Halla pa\u2026"
+    },
+    {
+      "type": "npc",
+      "status": "active",
+      "name": "Emmeralda",
+      "id": "myth-char-b713577f61eb"
+    },
+    {
+      "type": "npc",
+      "id": "myth-char-46bd3d314355",
+      "status": "active",
+      "name": "Guildmaster Torval Bluehand"
+    },
+    {
+      "status": "active",
+      "id": "myth-char-cee57a7f5de2",
+      "type": "npc",
+      "name": "Hanzo di Teufel",
+      "doing": "Withdraw with Hanzo's household; Purewater chapter closed.; next: Remain offstage pending a newly authorised adventure.  [s5, 1 session sta\u2026"
+    },
+    {
+      "status": "active",
+      "name": "Harbormaster Velen Deepkeel",
+      "id": "myth-char-d648a23d9c77",
+      "type": "npc"
+    },
+    {
+      "id": "myth-char-e8a35f0c7719",
+      "status": "active",
+      "name": "Hesketh Pyle",
+      "type": "npc"
+    },
+    {
+      "id": "myth-char-156265245397",
+      "type": "npc",
+      "name": "Hesper",
+      "status": "active"
+    },
+    {
+      "id": "myth-char-1f1bcc8ed954",
+      "name": "High Priestess Nerissa",
+      "type": "npc",
+      "status": "active"
+    },
+    {
+      "name": "Ila",
+      "id": "myth-char-2cabe8ce1bf4",
+      "type": "npc",
+      "status": "active"
+    },
+    {
+      "type": "npc",
+      "name": "Ivo Calder",
+      "id": "myth-char-b74e0a3c1d58",
+      "status": "active"
+    },
+    {
+      "name": "Kag",
+      "status": "active",
+      "id": "myth-char-npc-kag",
+      "type": "npc"
+    },
+    {
+      "name": "Kerrin (brown coat)",
+      "type": "npc",
+      "status": "active",
+      "id": "myth-char-0d4f52aa41bb"
+    },
+    {
+      "name": "Lilura Deepcurrent",
+      "type": "npc",
+      "status": "active",
+      "id": "myth-char-0299f408c181"
+    },
+    {
+      "name": "Marda Blackwater",
+      "id": "myth-char-7b078f2349da",
+      "status": "active",
+      "type": "npc",
+      "doing": "Find boat owners willing to fund protective guards for crews and boats; next: Ask other boat owners about hiring paid guards; direct willin\u2026"
+    },
+    {
+      "status": "active",
+      "id": "myth-char-e2628befaaee",
+      "type": "npc",
+      "name": "Mariarta"
+    },
+    {
+      "id": "myth-char-28320448049e",
+      "type": "npc",
+      "status": "active",
+      "name": "Marisette"
+    },
+    {
+      "type": "npc",
+      "status": "active",
+      "id": "myth-char-1f6ab2d5c803",
+      "name": "Maro Quist"
+    },
+    {
+      "type": "npc",
+      "id": "myth-char-2e299ed60112",
+      "status": "active",
+      "name": "Murgeroch"
+    },
+    {
+      "status": "active",
+      "id": "myth-char-df4b5d854459",
+      "name": "Nus",
+      "type": "npc",
+      "doing": "Steal Hanzo's locket from the DragonBarge and get out alive; next: Prepare his route and kit; wait for Crowbill's go after Halla's bout, an\u2026"
+    },
+    {
+      "status": "active",
+      "type": "npc",
+      "name": "Orrin Sculle",
+      "id": "myth-char-6ecea7177538",
+      "doing": "Withdraw with Hanzo's household; Purewater chapter closed.; next: Remain offstage pending a newly authorised adventure.  [s5, 1 session sta\u2026"
+    },
+    {
+      "status": "active",
+      "name": "Prince Emeric",
+      "id": "myth-char-eb79260a2a9b",
+      "type": "npc"
+    },
+    {
+      "id": "myth-char-77eeb2d15196",
+      "type": "npc",
+      "name": "Ravella",
+      "status": "active"
+    },
+    {
+      "id": "myth-char-5c4adf003312",
+      "name": "Sana",
+      "type": "npc",
+      "status": "active"
+    },
+    {
+      "type": "npc",
+      "id": "myth-char-1ebc75c92e6a",
+      "name": "Santo di Teufel",
+      "status": "active",
+      "doing": "Withdraw with Hanzo's household; Purewater chapter closed.; next: Remain offstage pending a newly authorised adventure.  [s5, 1 session sta\u2026"
+    },
+    {
+      "status": "active",
+      "type": "npc",
+      "name": "Sinnit",
+      "id": "myth-char-33c0da8d53fe"
+    },
+    {
+      "name": "Tat Atarer",
+      "id": "myth-char-fff1e79e219c",
+      "status": "active",
+      "type": "npc"
+    },
+    {
+      "id": "myth-char-a34f0237a753",
+      "type": "npc",
+      "status": "active",
+      "name": "Temerach Nebulo"
+    },
+    {
+      "status": "active",
+      "type": "npc",
+      "id": "myth-char-e828864471f6",
+      "name": "Thorne",
+      "doing": "Fill Bera funded second morning guard place with a willing guard; next: Contact Rusk tonight about Bera d0 dawn-noon grainboat guard job, S\u2026"
+    },
+    {
+      "type": "npc",
+      "status": "active",
+      "id": "myth-char-a46cf24af084",
+      "name": "Thuban Eta"
+    },
+    {
+      "type": "creature",
+      "id": "myth-char-96bf9d3d61eb",
+      "name": "Ruhi",
+      "status": "active"
+    },
+    {
+      "id": "myth-char-430ec3949de1",
+      "type": "npc",
+      "name": "Crowbill's runner",
+      "status": "active"
+    },
+    {
+      "name": "Stand-builder at the Lists",
+      "id": "myth-char-46dbad6b8f72",
+      "type": "npc",
+      "status": "active"
+    },
+    {
+      "name": "Herald house clerk",
+      "id": "myth-char-62c26c4026a5",
+      "type": "npc",
+      "status": "active"
+    },
+    {
+      "status": "active",
+      "id": "myth-char-069d998e58a6",
+      "name": "Rusk",
+      "type": "npc"
+    },
+    {
+      "id": "myth-char-1bc113dbd471",
+      "status": "active",
+      "type": "npc",
+      "name": "Dragon Knight at the inspection cover"
+    },
+    {
+      "type": "npc",
+      "id": "myth-char-66ecf4781be1",
+      "name": "Warehouse intruder",
+      "status": "active"
+    },
+    {
+      "name": "Irena",
+      "type": "npc",
+      "id": "myth-char-9dec6cf124d8",
+      "status": "active"
+    },
+    {
+      "type": "npc",
+      "name": "Nessa",
+      "status": "active",
+      "id": "myth-char-74a5e19d92ae"
+    },
+    {
+      "id": "myth-char-e1719b602c86",
+      "name": "Dagna",
+      "type": "npc",
+      "status": "active",
+      "doing": "Keep her independent repair yard solvent and complete customer repairs.; next: Finish the day's work, then share Halla's celebratory supper\u2026"
+    },
+    {
+      "id": "myth-char-e8b4708f4e28",
+      "type": "npc",
+      "status": "active",
+      "name": "Perrin Cale"
+    },
+    {
+      "type": "npc",
+      "status": "active",
+      "id": "myth-char-d9468d5223e4",
+      "name": "Dragon Knight boat-sergeant",
+      "doing": "Withdraw with Hanzo's household; Purewater chapter closed.; next: Remain offstage pending a newly authorised adventure.  [s5, 1 session sta\u2026"
+    },
+    {
+      "id": "myth-char-b416943b0941",
+      "status": "active",
+      "type": "npc",
+      "name": "Dragon Knight beside the mooring ring"
+    },
+    {
+      "type": "npc",
+      "status": "active",
+      "id": "myth-char-7e2675c70c21",
+      "name": "Merrit"
+    },
+    {
+      "type": "npc",
+      "name": "Dragon Knight at the Copper Oar",
+      "id": "myth-char-138e5343a228",
+      "status": "active"
+    },
+    {
+      "id": "myth-char-4e94f430d7cc",
+      "status": "active",
+      "type": "npc",
+      "name": "Dena Reed"
+    },
+    {
+      "status": "active",
+      "type": "npc",
+      "name": "Dragon Knight provisioning corporal",
+      "id": "myth-char-19ba91d45d76"
+    },
+    {
+      "status": "active",
+      "type": "npc",
+      "id": "myth-char-420d053a214a",
+      "name": "Dragon Knight provisioning escort woman"
+    },
+    {
+      "id": "myth-char-c3fe7be58017",
+      "type": "npc",
+      "status": "active",
+      "name": "Dragon Knight provisioning escort man"
+    },
+    {
+      "id": "myth-char-eafd6a46f0e2",
+      "type": "npc",
+      "status": "active",
+      "name": "Bera Lowkeel"
+    },
+    {
+      "status": "active",
+      "name": "Bera's lead boatman",
+      "type": "npc",
+      "id": "myth-char-e1e00a034204"
+    },
+    {
+      "id": "myth-char-6a1b68088dc4",
+      "status": "active",
+      "name": "Household archer at the Long Butts",
+      "type": "npc"
+    },
+    {
+      "status": "active",
+      "name": "Pell Nettles",
+      "id": "myth-char-f85fdf2477ae",
+      "type": "npc"
+    },
+    {
+      "type": "npc",
+      "status": "active",
+      "id": "myth-char-2038d552c3ab",
+      "name": "Joss Fen"
+    },
+    {
+      "status": "active",
+      "type": "npc",
+      "name": "Garran Holt",
+      "id": "myth-char-1af9e243d02a"
+    },
+    {
+      "type": "npc",
+      "status": "active",
+      "id": "myth-char-628f22b9a9cb",
+      "name": "Veya Dorn"
+    },
+    {
+      "type": "npc",
+      "name": "Tournament healer",
+      "status": "active",
+      "id": "myth-char-438787aca5d4"
+    },
+    {
+      "name": "Captain Elian Ward",
+      "type": "npc",
+      "status": "active",
+      "id": "myth-char-bf26a5fa5342"
+    },
+    {
+      "id": "myth-char-47c2fb6813a1",
+      "name": "High Isle Watch duty officer",
+      "status": "active",
+      "type": "npc"
+    },
+    {
+      "type": "npc",
+      "id": "myth-char-71b58394e88e",
+      "status": "active",
+      "name": "Jessa Fen"
+    },
+    {
+      "type": "npc",
+      "name": "Orren Pike",
+      "status": "active",
+      "id": "myth-char-09efa305554e"
+    },
+    {
+      "id": "myth-char-a51ffd8d3f6b",
+      "type": "npc",
+      "name": "Vantt mill landing watchman",
+      "status": "active"
+    },
+    {
+      "status": "active",
+      "name": "Sergeant Drell",
+      "id": "myth-char-dfda426b7fd6",
+      "type": "npc"
+    },
+    {
+      "id": "myth-char-3475f9fef63f",
+      "type": "npc",
+      "name": "Nella Venn",
+      "status": "active"
+    },
+    {
+      "status": "active",
+      "name": "Davin Kett",
+      "id": "myth-char-10471db8b563",
+      "type": "npc"
+    },
+    {
+      "type": "npc",
+      "name": "DragonBarge gangplank sentry",
+      "status": "active",
+      "id": "myth-char-882b48a1c467",
+      "doing": "Withdraw with Hanzo's household; Purewater chapter closed.; next: Remain offstage pending a newly authorised adventure.  [s5, 1 session sta\u2026"
+    },
+    {
+      "status": "active",
+      "name": "Ward escort, bow guard",
+      "type": "npc",
+      "id": "myth-char-1bb835195b61"
+    },
+    {
+      "id": "myth-char-b45ceb0451e4",
+      "type": "npc",
+      "status": "active",
+      "name": "Ward escort, stern guard"
+    },
+    {
+      "type": "npc",
+      "status": "active",
+      "name": "Ward escort, port oarsman",
+      "id": "myth-char-6021758a286d"
+    },
+    {
+      "status": "active",
+      "id": "myth-char-344195fa6a53",
+      "name": "Ward escort, starboard oarsman",
+      "type": "npc"
+    },
+    {
+      "status": "active",
+      "id": "myth-char-ca999408a219",
+      "type": "npc",
+      "name": "Sella Marr",
+      "doing": "Secure exclusive waterfront carriage.; next: Prepare the disputed cloth seizure; use the fixed reserve and assigned company.  [s5, 1 sessio\u2026"
+    },
+    {
+      "name": "Captain Oth Bren",
+      "status": "active",
+      "type": "npc",
+      "id": "myth-char-ffb6efbcc93b",
+      "doing": "Establish a permanent armed toll command.; next: Assign two veterans and two recruits to dusk interception; keep four at chainworks.  [s5,\u2026"
+    },
+    {
+      "name": "Neri Pell",
+      "type": "npc",
+      "id": "myth-char-1d6d8d7c0f97",
+      "status": "active",
+      "doing": "Keep independent crews and boats safe and free.; next: Seek Crown protection for armed interference; Halla not yet contacted.  [s5, 1 sessi\u2026"
+    },
+    {
+      "type": "npc",
+      "status": "active",
+      "id": "myth-char-1ccecab9ce1b",
+      "name": "Edra Venn"
+    },
+    {
+      "id": "myth-char-fd2973412ca1",
+      "status": "active",
+      "type": "npc",
+      "name": "Oren Vey"
+    },
+    {
+      "name": "Rennic Vaur",
+      "type": "npc",
+      "id": "myth-char-1aa1d6892d3a",
+      "status": "active"
+    },
+    {
+      "name": "Hedda Rook",
+      "status": "active",
+      "id": "myth-char-d59737d53831",
+      "type": "npc"
+    },
+    {
+      "type": "npc",
+      "status": "active",
+      "name": "Tovin Beck",
+      "id": "myth-char-612df6919d83"
+    }
+  ],
+  "locations": [
+    {
+      "id": "myth-loc-b46458cc59e8",
+      "name": "Caravan Square"
+    },
+    {
+      "id": "myth-loc-85a0d71a0693",
+      "name": "High Isle"
+    },
+    {
+      "id": "myth-loc-69e2657b23c6",
+      "name": "Lost Isle"
+    },
+    {
+      "id": "myth-loc-93c75b267cb2",
+      "name": "Purewater"
+    },
+    {
+      "name": "Temple Isle",
+      "id": "myth-loc-6f1056d77024"
+    },
+    {
+      "id": "myth-loc-d7201945f52a",
+      "name": "The Ashwick Road"
+    },
+    {
+      "id": "myth-loc-3e03305b5abb",
+      "name": "The Catacombs"
+    },
+    {
+      "name": "The DragonBarge",
+      "id": "myth-loc-0900adc8395d"
+    },
+    {
+      "name": "The Ford",
+      "id": "myth-loc-e68bde0d7264"
+    },
+    {
+      "id": "myth-loc-941ec73f1da6",
+      "name": "The Forge Quarter"
+    },
+    {
+      "name": "The Lists",
+      "id": "myth-loc-eb0e6fbaed52"
+    },
+    {
+      "name": "The Long Butts",
+      "id": "myth-loc-95b0d058ff45"
+    },
+    {
+      "id": "myth-loc-d09bf7a910cb",
+      "name": "The Lullwater"
+    },
+    {
+      "name": "The Merchant's Quarter",
+      "id": "myth-loc-477fc558c083"
+    },
+    {
+      "name": "The Moist Oyster",
+      "id": "myth-loc-b7741b178ab1"
+    },
+    {
+      "id": "myth-loc-4b28a14a4b91",
+      "name": "The Mother of Pearl"
+    },
+    {
+      "name": "The Northern Isles",
+      "id": "myth-loc-ec677c07203d"
+    },
+    {
+      "id": "myth-loc-6062ee281912",
+      "name": "The Pearl"
+    },
+    {
+      "id": "myth-loc-e4becf72aa90",
+      "name": "The Shoals"
+    },
+    {
+      "name": "The Siren's Call",
+      "id": "myth-loc-adbcda5c3828"
+    },
+    {
+      "name": "The Sylph's Embrace",
+      "id": "myth-loc-d70253b09da8"
+    },
+    {
+      "name": "The Vantt Estate",
+      "id": "myth-loc-7c1e9a4d0b62"
+    },
+    {
+      "id": "myth-loc-487e7f0191de",
+      "name": "The Copper Oar"
+    },
+    {
+      "name": "Fishmarket Bridge warehouse",
+      "id": "myth-loc-3977fac86816"
+    },
+    {
+      "name": "Crowbill\u2019s waterside office",
+      "id": "myth-loc-f23f1e97b500"
+    },
+    {
+      "id": "myth-loc-ac24047e76f7",
+      "name": "Arms stall outside the Lists"
+    },
+    {
+      "name": "Watercrafters Guild water-stair",
+      "id": "myth-loc-8cc360dd7d4c"
+    },
+    {
+      "id": "myth-loc-fbe28872df23",
+      "name": "Copper Oar kitchen courtyard"
+    },
+    {
+      "id": "myth-loc-ebe6b0e8b15b",
+      "name": "The Dredgers' Hall"
+    },
+    {
+      "name": "Governor's Palazzo water-stair and guard entrance",
+      "id": "myth-loc-225915e707fe"
+    },
+    {
+      "name": "Governor's Palazzo guardroom",
+      "id": "myth-loc-1cc05ece2d3c"
+    },
+    {
+      "name": "Palazzo working chamber",
+      "id": "myth-loc-83a7b16936b5"
+    },
+    {
+      "name": "High Isle Watch post",
+      "id": "myth-loc-50ef7563cb14"
+    },
+    {
+      "id": "myth-loc-db22859b65d2",
+      "name": "Vantt East Tidal Mill"
+    },
+    {
+      "name": "Hanzo's Household Beyond Purewater",
+      "id": "myth-loc-e9a79ae1a9f2"
+    },
+    {
+      "name": "Old Chainworks",
+      "id": "myth-loc-632f42d674b6"
+    },
+    {
+      "name": "Lantern Float Market",
+      "id": "myth-loc-aca5cfa7ff7c"
+    },
+    {
+      "name": "Old Customs Cisterns",
+      "id": "myth-loc-e8c76cddd3ea"
+    },
+    {
+      "id": "myth-loc-a334a744624d",
+      "name": "Harbour Customs Quay and Store"
+    },
+    {
+      "id": "myth-loc-1f1ed691536c",
+      "name": "The House of Small Windows"
+    },
+    {
+      "id": "myth-loc-17bfb40605a4",
+      "name": "Southern intake stair"
+    }
+  ],
+  "factions": [
+    {
+      "name": "Crowbill's Underworld",
+      "id": "myth-faction-b13b4eec5c17"
+    },
+    {
+      "id": "myth-faction-c0a9a96aa980",
+      "name": "The Awake the Dragon Movement"
+    },
+    {
+      "id": "myth-faction-82436b58c490",
+      "name": "The City Watch"
+    },
+    {
+      "id": "myth-faction-f54dfb1a03b4",
+      "name": "The Currents"
+    },
+    {
+      "name": "The Dragon Knights",
+      "id": "myth-faction-37a5ba90873e"
+    },
+    {
+      "id": "myth-faction-b6384f17d338",
+      "name": "The Dredgers"
+    },
+    {
+      "name": "The Harbor Masters",
+      "id": "myth-faction-3f3c69cd7854"
+    },
+    {
+      "id": "myth-faction-97541b57307e",
+      "name": "The King's Assay"
+    },
+    {
+      "id": "myth-faction-f5c4a0122bf5",
+      "name": "The Mermaid's Court"
+    },
+    {
+      "id": "myth-faction-2b6cfc142c63",
+      "name": "The Order of the Lake Lady"
+    },
+    {
+      "id": "myth-faction-c22ef5f70cb3",
+      "name": "The Pleasure Houses of the Pearl"
+    },
+    {
+      "id": "myth-faction-56e45a44c14b",
+      "name": "The Quiet Hand"
+    },
+    {
+      "name": "The Swords of the Lake",
+      "id": "myth-faction-7f7c8ecee7f5"
+    },
+    {
+      "name": "The Watercrafters Guild",
+      "id": "myth-faction-072453a4a6c9"
+    },
+    {
+      "id": "myth-faction-fdc97be93c16",
+      "name": "Nimras\u2019s independent fellowship"
+    }
+  ],
+  "encounters": [],
+  "recent_events": [
+    {
+      "type": "scene",
+      "session": 6,
+      "at": "2026-10-23T21:20:43.000000000",
+      "summary": "Nimras keeps Invisibility prepared without casting and watches Rennic while they enter by the known intact footing. They find chalk marks at an old intake grille.",
+      "id": "myth-event-ababbbb05652",
+      "visibility": null,
+      "canon": null,
+      "who": [
+        "Nimras",
+        "Rennic Vaur"
+      ]
+    },
+    {
+      "visibility": null,
+      "id": "myth-event-e2c8e7faa05a",
+      "summary": "Nimras watches as Rennic checks the chalk and leads towards a measuring crew in the adjoining bay.",
+      "canon": null,
+      "at": "2026-10-23T21:25:17.000000000",
+      "type": "scene",
+      "session": 6,
+      "who": [
+        "Nimras",
+        "Rennic Vaur",
+        "Hedda Rook",
+        "Tovin Beck"
+      ]
+    },
+    {
+      "visibility": null,
+      "session": 6,
+      "summary": "Nimras joins Rennic in the work light. The fitter asks whether they are from Marr\u2019s and describes the proposed lockable gate.",
+      "type": "scene",
+      "id": "myth-event-84551ac19e01",
+      "at": "2026-10-23T21:27:33.000000000",
+      "canon": null,
+      "who": [
+        "Nimras",
+        "Rennic Vaur",
+        "Hedda Rook",
+        "Tovin Beck"
+      ]
+    },
+    {
+      "type": "scene",
+      "summary": "At Nimras\u2019s pause Rennic answers truthfully; the fitter explains she is estimating and offers the order.",
+      "session": 6,
+      "at": "2026-10-23T21:30:23.000000000",
+      "canon": null,
+      "id": "myth-event-6db0ebe25139",
+      "visibility": null,
+      "who": [
+        "Nimras",
+        "Rennic Vaur",
+        "Hedda Rook",
+        "Tovin Beck"
+      ]
+    },
+    {
+      "summary": "OOC rebuild requested by player: withdraw the rejected Nimras surveying adventure. Its preparation is archived; retain approved Nimras, his fellowship commission and relationship with Rennic, established Purewater history and the shared d6/night clock. Five replacement pitches prepared; selection pending.",
+      "at": "2026-10-23T21:42:36.000000000",
+      "visibility": null,
+      "type": "gm-note",
+      "id": "myth-event-266ee10995fd",
+      "canon": null,
+      "session": null,
+      "who": []
+    }
+  ],
+  "pacing": {
+    "scenes_since_a_roll": 4,
+    "warning": "4 scenes since anything was rolled. Consider cutting to something physical, with jeopardy, happening to somebody they care about -- a scene where nothing can go wrong is a summary, not a scene.",
+    "committee_scenes": 3,
+    "committee_warning": "3 scenes in a row with three or more NPCs present. Ask what the player character can do here that nobody else in the room can -- and if the answer is 'walk to the next room', cut."
+  },
+  "offscreen_since": [
+    {
+      "summary": "WatchrunnerreachesDragonKnightcommandandgivesBlau/Vasknotification: Halla fromForgeQuarterfuriousaboutattemptedframe requestHanzoattendance Watchholdsmanandsilver, actualreportedorderpatrolsergeantNOTBlauconfirmed. BlauchoosestohandlecommandcomplaintpersonallyanddepartsforWatchpost, notgrantHanzowillattend. Baronnotyetestablishedtoldbyrunner; nocompulsorysummonsorBaronappearance. NoCrowbillautomaticpendantlocationknowledgeandnothefttriggeredbyVaskaloneashore.",
+      "session": 5
+    },
+    {
+      "summary": "VaskforwardsHallaspersonaldenialofferbyrunnerfromDragonBargecommandtoHanzowhostillattListsaftertournament; noassumedteleportHanzoalreadybarge. HanzolearnsWatchholdsKnight/silverandsergeantorderallegation, Hallaofferstowithdrawbroaderaccusationifpersonaldenial, intentionraisebeforePrince. Hanzochoosestocomeanswerpersonally ongroundsreputationalandhospitableopportunity, noInfluencerollneededacceptnormalinvitation. VaskmeetshimandaccompaniestoWatchpost. Hanzo wearsownlocketonchain, doesNOTleaveitaboardtoforceheist. NoNPCadmissionorPCmindread. NoNusattemptyet.",
+      "session": 5
+    },
+    {
+      "summary": "Price of Bread begins d3/night: Vantt Commerce65/85 hires lighter, Vask Deceit85/65 fails concealing Drell transfer preparations, Marda Locale16/72 traces reported boat/name to East Tidal Mill. Separate knowledge facts saved. None knows Halla military past; no actual cargo departure or Drell confession resolved.",
+      "session": 5
+    }
+  ],
+  "agendas": [
+    {
+      "id": "myth-agenda-c447b43512d4",
+      "title": "Find who carved Emmeralda",
+      "holder": "Marisette",
+      "clock": "2/6",
+      "priority": 4,
+      "status": "active"
+    },
+    {
+      "id": "myth-agenda-8ae3c076d6a9",
+      "title": "Make Randall say it",
+      "holder": "Sinnit",
+      "clock": "2/6",
+      "priority": 3,
+      "status": "active"
+    },
+    {
+      "id": "myth-agenda-2439f19d6b5c",
+      "title": "Make them pay for one of ours",
+      "holder": "Marda Blackwater",
+      "clock": "1/4",
+      "priority": 3,
+      "status": "active"
+    },
+    {
+      "id": "myth-agenda-f93874c7f74f",
+      "title": "Quiet War: an armed toll command",
+      "holder": "Captain Oth Bren",
+      "clock": "0/3",
+      "priority": 3,
+      "status": "active"
+    },
+    {
+      "id": "myth-agenda-9b6168a74ea9",
+      "title": "Quiet War: bind the waterfront to protection",
+      "holder": "Crowbill",
+      "clock": "0/3",
+      "priority": 3,
+      "status": "active"
+    },
+    {
+      "id": "myth-agenda-6e953b69b276",
+      "title": "Quiet War: exclusive waterfront carriage",
+      "holder": "Sella Marr",
+      "clock": "0/4",
+      "priority": 3,
+      "status": "active"
+    },
+    {
+      "id": "myth-agenda-aa7c6a03fc20",
+      "title": "Shield the boy, unmask the house",
+      "holder": "Temerach Nebulo",
+      "clock": "1/6",
+      "priority": 3,
+      "status": "active"
+    },
+    {
+      "id": "myth-agenda-a253870b6526",
+      "title": "Get paid, keep the company whole",
+      "holder": "Tat Atarer",
+      "clock": "0/4",
+      "priority": 2,
+      "status": "active"
+    },
+    {
+      "id": "myth-agenda-50cad32306f1",
+      "title": "Keep the Lady's water clean",
+      "holder": "High Priestess Nerissa",
+      "clock": "0/6",
+      "priority": 2,
+      "status": "active"
+    },
+    {
+      "id": "myth-agenda-fa6bf991c984",
+      "title": "One big score, and a name",
+      "holder": "Nus",
+      "clock": "0/4",
+      "priority": 2,
+      "status": "active"
+    },
+    {
+      "id": "myth-agenda-10c0c31e38ad",
+      "title": "Preserve a library worth finding",
+      "holder": "Oren Vey",
+      "clock": "0/6",
+      "priority": 2,
+      "status": "active"
+    },
+    {
+      "id": "myth-agenda-41e89fd9ad38",
+      "title": "Notice resistance from local guards",
+      "holder": "Tat Atarer",
+      "clock": "2/6",
+      "priority": 1,
+      "status": "active"
+    },
+    {
+      "id": "myth-agenda-kag-works-it-out",
+      "title": "The one who works it out",
+      "holder": "Kag",
+      "clock": "0/4",
+      "priority": 1,
+      "status": "active"
+    }
+  ],
+  "world_clock": "d6/night",
+  "arc": {
+    "acts": [
+      {
+        "act": "I",
+        "when": "d6 to d7",
+        "title": "THE FAVOUR AND THE ERRAND",
+        "for": "Expose the waterfront's competing organisations through consequential choices about people, cargo and authority. Bring Nimras's outside commission into that city through Vey's offered case and an independently reachable teacher at Lantern Float Market. Let Nimras decide how to approach recovery rather than require loyalty to a particular patron.",
+        "takes": "At risk: cargo, safe access, independent livelihoods, trust between teacher and pupil, and possession of the entrusted manuscript. Actual losses require events and failed resistance; nothing is forfeited merely for entering the act.",
+        "index_from": 88,
+        "index_to": 95
+      },
+      {
+        "act": "II",
+        "when": "d8 to d10",
+        "title": "THE WATERFRONT DIVIDES",
+        "for": "Offer physical objectives involving money, boats, armed control and closed routes. If the teacher's survey or recovery remains live, braid Nimras's hunt into existing Q5 at the Old Customs Cisterns. His magic, investigation, social work and fieldcraft can alter access and protect or obstruct actual people. Opponents use surviving resources and earned knowledge.",
+        "takes": "At risk: free passage, homes, market safety, research access and lives during any actual armed clearance. Effective intervention can prevent these consequences. No necessary casualty, teacher betrayal or PC setback.",
+        "index_from": 96,
+        "index_to": 107
+      },
+      {
+        "act": "III",
+        "when": "d11 to d12",
+        "title": "WHO HOLDS THE WATER",
+        "for": "Resolve control of the waterfront using the assets and opportunities that survived play. If Nimras's commission is still open, make any agreed return or handover a concrete operation along actual available routes. Give him authority over his own promises and report to his employer. Support victory, negotiated settlement, partial success, defeat or withdrawal without a predetermined ending.",
+        "takes": "At risk: lasting freedom of carriage, displaced crews' futures, the manuscript's custody and Nimras's professional relationships. None must be lost by design; actual outcomes determine the price.",
+        "index_from": 108,
+        "index_to": 115
+      }
+    ],
+    "now": "I"
+  },
+  "due_beats": [
+    {
+      "id": "myth-beat-012be842c9dd",
+      "title": "Maro Quist reads it to the end",
+      "when": "d-1/day",
+      "place": null,
+      "agenda": null,
+      "staging": "offscreen"
+    },
+    {
+      "id": "myth-beat-e9920d8ddf8e",
+      "title": "Ivo Calder folds",
+      "when": "d0/day",
+      "place": null,
+      "agenda": null,
+      "staging": "offscreen"
+    }
+  ]
+}

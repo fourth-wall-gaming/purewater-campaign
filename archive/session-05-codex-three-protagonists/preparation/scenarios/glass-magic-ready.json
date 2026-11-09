@@ -1,0 +1,225 @@
+{
+  "brief": {
+    "success": true,
+    "id": "myth-loc-138a1f53167f",
+    "kind": "location",
+    "name": "West Lantern Landing",
+    "type": "public-quay",
+    "world_constraints": "Campaign rules: Luck is PC-only; all NPC current/max Luck and rank Luck bonuses are0. Classic Fantasy Imperative combat: repeat initiative cycles while usable AP remain, one proactive Action per TURN not per round. Delay conserves actions, paid when used. Engaged Regain Footing costs1AP and requires opposed Brawn or Athletics; no rank exemption. Nearby dropped weapon recovery costs2Actions (reach then ready). Fightingwhileprone is Formidable. Rank4 CFI AP=2base+2rank=4. Track specific mastery free parries/ripostes distinctly; do not doublecharge them. No free standing or pickup.",
+    "description": "Public ferry landing at the edge of the Merchant Quarter, with boat berths, unloading platform and covered route-board.",
+    "staging_notes": "SENSE: wet rope, hulls knocking, lamps in canal water. SHAPE: ferry steps to open landing, covered route-board and public footbridge exit; ordinary boat berths. HANDS: mooring post, route-board marking High Isle and House of Small Windows water-stair. COSTS: ordinary public landing; no compulsory fee or confrontation. TURNS: visitors can arrange transport or approach by footbridges. KEY: a new city opens across black water.",
+    "present": [
+      "Nimras"
+    ],
+    "guidance": null
+  },
+  "view": {
+    "success": true,
+    "character": "myth-char-4fc52ae14026",
+    "name": "Nimras",
+    "knows": [
+      {
+        "statement": "Nimras arrives in Purewater for the first time at West Lantern Landing during d6/night. His fellowship introduction names Oren Vey at the House of Small Windows, High Isle. He is a freelance mage hunter seeking Rennic alive and the entrusted manuscript; no local warrant or state employment is supplied.",
+        "certainty": "knows",
+        "source": "told",
+        "since": "d6/night",
+        "truth": "true"
+      },
+      {
+        "statement": "Rennic taught Nimras a warning convention during their earlier work: three chalk strokes under a latch mean an appointment is unsafe. No such mark has yet been observed in Purewater.",
+        "certainty": "knows",
+        "source": "told",
+        "since": "d6/night",
+        "truth": "true"
+      },
+      {
+        "statement": "Nimras has been commissioned by his former independent fellowship to find Rennic Vaur alive and recover an entrusted manuscript; his first introduction is to Oren Vey.",
+        "certainty": "knows",
+        "source": "told",
+        "since": "d6/dusk",
+        "truth": "true"
+      }
+    ],
+    "reads": []
+  },
+  "consistency": {
+    "success": true,
+    "facts": 291,
+    "knowledge_edges": 617,
+    "problems": [],
+    "ok": true,
+    "established_but_unheld": [
+      {
+        "id": "myth-fact-06137f48f0cc",
+        "statement": "The Baron's champion is Gardwen's brother, taken in the border raid"
+      },
+      {
+        "id": "myth-fact-668c7b66be36",
+        "statement": "The man who carved Emmeralda was Randall the Pearl thief"
+      },
+      {
+        "id": "myth-fact-da37b55597b3",
+        "statement": "GM-only: Vantt had undertaken to compensate the original owners of goods seized by Dragon Knights. This proposition is FALSE: Vask knowingly invents this undertaking to shift responsibility; genuine supply credit and quartermaster receipts do not include this alleged compensation promise. Actual Deceit10/65success defeats WardInsight94/60fail and HallaInsight38/18fail on delivery, not on documentary truth. Failed Insight does not force player belief. No previous established agreement altered."
+      }
+    ],
+    "agendas_ready_to_activate": []
+  },
+  "tick": {
+    "success": true,
+    "from": "d6/night",
+    "now": "d6/night",
+    "time_index": 91,
+    "activated_agendas": [],
+    "cancelled_beats": [],
+    "retired_facts": [],
+    "pc_locations": [
+      "myth-loc-138a1f53167f"
+    ],
+    "arc": {
+      "acts": [
+        {
+          "act": "I",
+          "when": "d6 to d7",
+          "title": "THE HUNT",
+          "for": "Introduce a freelance mage hunter arriving in Purewater. Contact Vey, investigate Rennic\u2019s old lodging and contacts, navigate unfamiliar districts and discover competing hunters. A1\u2013A4 offer searches, surveillance, dangerous encounters and a reachable teacher. Earn the glass-hound reveal through pursuit; do not start beside Rennic.",
+          "takes": "At risk are the teacher's freedom, the manuscript and people in the hunt's path. No injury, capture or escape is predetermined.",
+          "index_from": 88,
+          "index_to": 95
+        },
+        {
+          "act": "II",
+          "when": "d7 to d8",
+          "title": "THE PACK",
+          "for": "Expose Senn\u2019s coercive capture business and the buyer\u2019s demand for an unwilling living demonstration. B1\u2013B3 offer a hound hunt, maker recovery, workshop infiltration and evidence of the deal. Threats arise from actual enemy knowledge and resources. Allies and city powers can act on earned evidence.",
+          "takes": "At risk are control of the constructs, custody of useful research and the ability to prevent coercive export. No compulsory betrayal or compensating defeat.",
+          "index_from": 92,
+          "index_to": 99
+        },
+        {
+          "act": "III",
+          "when": "d8 to d10",
+          "title": "WHO KEEPS THE HOUNDS",
+          "for": "C1\u2013C2 contest loading, an actual captive if one was taken, and Varro\u2019s conditional payment. Settle surviving transport, research, teacher and manuscript. No captive, demonstration, export or payment succeeds by date alone. Early recovery or decisive defeat stands; recalculate the finale from surviving means.",
+          "takes": "At risk are lasting availability of mage-hunting tools and professional relationships. Clear victory, partial victory, negotiated settlement, failure and withdrawal have distinct concrete results in the GM plan.",
+          "index_from": 96,
+          "index_to": 107
+        }
+      ],
+      "now": "I"
+    },
+    "due_beats": [
+      {
+        "id": "myth-beat-012be842c9dd",
+        "title": "Maro Quist reads it to the end",
+        "summary": "The magistrate reads everything put in front of him, at his own pace, while you wait -- and then explains accurately why it is not his to act on",
+        "status": "pending",
+        "when": "d-1/day",
+        "time_index": 61,
+        "trigger": "contact",
+        "onscreen_if": "On an actual petition presented to Maro Quist; date is opportunity backstop, not an invented offscreen petitioner.",
+        "branches": null,
+        "result": null,
+        "narrative": "**The wall, in the person of a decent man.**\n\nSeventy-one, upright, chain always worn. He does not interrupt and cannot be\ninterrupted. He reads the whole thing -- actually reads it, in front of you, at\nhis own pace, while you stand there -- and then repeats your position back to\nyou more accurately than you put it.\n\nAnd then tells you exactly why it is not his.\n\nThe watch is under a written standing order. He is not corrupt, he is not\nfrightened, and he is not persuadable, because he is **right**. A baron's son\nwith a knife is weather, and you do not sue the weather.\n\nIf he reads it twice, he has changed his mind, and the room should know it.",
+        "agenda": null,
+        "agenda_title": null,
+        "priority": 3,
+        "place": null,
+        "place_name": null,
+        "cast": [
+          "myth-char-1f6ab2d5c803"
+        ],
+        "cast_names": [
+          "Maro Quist"
+        ],
+        "staging": "offscreen"
+      },
+      {
+        "id": "myth-beat-e9920d8ddf8e",
+        "title": "Ivo Calder folds",
+        "summary": "The assayer who signed what he should not have has kept his original notes, moved them twice, and collapses completely the moment an independent reading appears",
+        "status": "pending",
+        "when": "d0/day",
+        "time_index": 65,
+        "trigger": "contact",
+        "onscreen_if": "Any PC present",
+        "branches": null,
+        "result": null,
+        "narrative": "Fifty, distinguished, guild indigo, instruments kept beautifully, and he has\nnot slept properly in six weeks.\n\nHe has the whole defence prepared and wants to deliver it; a question he has not\nanticipated stops him dead. What he wants is to be told that what he signed was\nreasonable.\n\n**There is no middle with him.** Vigorous defence, and then everything, in one\nbreath, the moment an independent reading appears. He has not destroyed the\noriginal notes and has moved them twice.\n\nWhat this buys is **a name** -- who is actually paying the Baron -- not a\nconviction. The man who is paying is not in this city and does not die on the\nsand.",
+        "agenda": null,
+        "agenda_title": null,
+        "priority": 3,
+        "place": null,
+        "place_name": null,
+        "cast": [
+          "myth-char-b74e0a3c1d58"
+        ],
+        "cast_names": [
+          "Ivo Calder"
+        ],
+        "staging": "offscreen"
+      }
+    ],
+    "onscreen": [],
+    "offscreen": [
+      "myth-beat-012be842c9dd",
+      "myth-beat-e9920d8ddf8e"
+    ],
+    "silent_agendas": [
+      {
+        "id": "myth-agenda-c447b43512d4",
+        "title": "Find who carved Emmeralda",
+        "holder": "Marisette",
+        "clock": {
+          "filled": 2,
+          "size": 6
+        }
+      },
+      {
+        "id": "myth-agenda-50cad32306f1",
+        "title": "Keep the Lady's water clean",
+        "holder": "High Priestess Nerissa",
+        "clock": {
+          "filled": 0,
+          "size": 6
+        }
+      },
+      {
+        "id": "myth-agenda-fa6bf991c984",
+        "title": "One big score, and a name",
+        "holder": "Nus",
+        "clock": {
+          "filled": 0,
+          "size": 4
+        }
+      },
+      {
+        "id": "myth-agenda-aa7c6a03fc20",
+        "title": "Shield the boy, unmask the house",
+        "holder": "Temerach Nebulo",
+        "clock": {
+          "filled": 1,
+          "size": 6
+        }
+      },
+      {
+        "id": "myth-agenda-kag-works-it-out",
+        "title": "The one who works it out",
+        "holder": "Kag",
+        "clock": {
+          "filled": 0,
+          "size": 4
+        }
+      },
+      {
+        "id": "myth-agenda-10c0c31e38ad",
+        "title": "Preserve a library worth finding",
+        "holder": "Oren Vey",
+        "clock": {
+          "filled": 0,
+          "size": 6
+        }
+      }
+    ]
+  },
+  "opening": "Purewater, after nightfall. The ferry nudges West Lantern Landing beneath a clatter of mooring chains. Beyond the quay, bridges climb between crowded houses and lanterns tremble on black canal water. Your fellowship\u2019s introduction is addressed to Oren Vey, House of Small Windows, High Isle. Under the landing\u2019s awning, a public route-board marks High Isle and its crossings. You have a contact\u2019s address, your staff, and a city you have never visited."
+}

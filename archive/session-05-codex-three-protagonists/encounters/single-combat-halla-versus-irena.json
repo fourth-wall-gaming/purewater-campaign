@@ -1,0 +1,29 @@
+{
+  "id": "myth-enc-52300e0fdb84",
+  "name": "Single Combat: Halla versus Irena",
+  "description": "Opening elimination bout at d1/day Lists. Live inspected weapons. Victory by concession or marshal stoppage when unable to continue; immediate halt at surrender, no striking a helpless opponent. Halla full chainmail and helm, battleaxe and round shield; handaxe and dagger at belt. Irena unarmoured in travelling coat, spear two hands, dagger sheathed. Start at spear reach with both ready. One proactive action per combat round; remaining AP reactions only. Halla3AP Irena2AP. No automatic champion result.",
+  "summary": "Halla wins opening Single Combat against Irena by marshal stoppage in round1. Axe71/81 hit vs parry87/68 fail; Disarm resistance79/68 fails vs original71. Spear drops on sand. Damage6 plus mastery2 totals8 to Right Leg, HP5 to -3 Serious. Endurance87/55 fails; leg disabled, unable to attack2turns. Halla uninjured Luck3. Healers approach; no treatment yet resolved.",
+  "status": "resolved",
+  "round": 1,
+  "combatants": [
+    {
+      "id": "myth-char-9dec6cf124d8",
+      "name": "Irena",
+      "initiative": 16,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 14
+    },
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "initiative": 12,
+      "ap": 3,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 11
+    }
+  ],
+  "created_at": "2026-10-14T13:26:08"
+}

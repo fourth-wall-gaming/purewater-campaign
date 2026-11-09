@@ -1,0 +1,189 @@
+{
+  "id": "myth-char-ca1b4ec2bfad",
+  "name": "Brenna Tull",
+  "type": "npc",
+  "status": "active",
+  "description": "Broad woman with rolled sleeves and a linen apron. Brisk ordinary speech; wants guests fed, beds paid for and peace in commonroom. Knows local craftspeople and personally recommends Vara\u2019s sound work, no privateknowledgeofAvel/quarry. Answersdirectionsplainly;doesnotdemandanorderfirst.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 11,
+    "CON": 12,
+    "SIZ": 13,
+    "DEX": 13,
+    "INT": 14,
+    "POW": 9,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 13,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "4m walk / 12m fly"
+  },
+  "skills": {
+    "Athletics": 24,
+    "Boating": 23,
+    "Brawn": 24,
+    "Conceal": 22,
+    "Dance": 24,
+    "Deceit": 25,
+    "Drive": 22,
+    "Endurance": 24,
+    "Evade": 26,
+    "First Aid": 27,
+    "Influence": 50,
+    "Insight": 40,
+    "Locale": 28,
+    "Perception": 45,
+    "Ride": 22,
+    "Sing": 20,
+    "Stealth": 27,
+    "Unarmed": 24,
+    "Willpower": 18,
+    "Flight": 24,
+    "Customs": 68,
+    "Native Tongue": 65,
+    "Commerce": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {},
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "she/her",
+    "score": {
+      "want": "Broad woman with rolled sleeves and a linen apron. Brisk ordinary speech; wants guests fed, beds paid for and peace in commonroom. Knows local craftspeople and personally recommends Vara\u2019s sound work, no privateknowledgeofAvel/quarry. Answersdirectionsplainly;doesnotdemandanorderfirst.",
+      "ought": "Honestlocaltrade,ordinaryconduct",
+      "catches_lies": "Noautomaticliedetection",
+      "observed": [
+        "39day220HrillfriendlyinquiryaboutDane;gavepersonaltradeobservationsandguardnames,priorVarareferral,noprivatecaseknowledgesupplied",
+        "39day220Hrillaskedprivacyandrevealedinquiryintolocalwoman/GreywatchbeaconincidentandpossibleDanelink;Brennaagreednottorepeatconversation,nopaymentasked. No AvelnameorproofDaneorderedattackgiven.",
+        "39dusk230HrillfollowsDaneinsideandasksroom;quoted5SPprivateone-nightroom,nopaymentfromHrill. Keptconfidentialinquiryprivate;Daneordersmeal/bookspaid7SP."
+      ]
+    },
+    "doing": {
+      "goal": "Ordinarybusiness",
+      "next": "Servingguests",
+      "where": "myth-loc-a76869d1528e"
+    },
+    "knowledge_limits": {
+      "greywatch": "Hrillreportedlocalwomanbeaconincidentandpossibledealerconnection;noindependentverificationorprivateplotknowledge",
+      "confidence": "KeepHrillconversationprivateasagreed;noautomaticgossippropagation"
+    },
+    "assets": {
+      "private_rooms_total": 4,
+      "private_rooms_occupied": 0,
+      "private_rooms_available": 4,
+      "night39_receipts_sp": 12,
+      "private_room_price_sp": 5,
+      "simple_supper_ale_price_sp": 2,
+      "day40_breakfast_receipts_sp": 2
+    }
+  },
+  "actor_notes": "Broad woman with rolled sleeves and a linen apron. Brisk ordinary speech; wants guests fed, beds paid for and peace in commonroom. Knows local craftspeople and personally recommends Vara\u2019s sound work, no privateknowledgeofAvel/quarry. Answersdirectionsplainly;doesnotdemandanorderfirst.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-a76869d1528e",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-28T17:34:25"
+}

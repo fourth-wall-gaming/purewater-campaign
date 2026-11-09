@@ -1,0 +1,1592 @@
+[
+  {
+    "name": "Edda Vale",
+    "stats": {
+      "STR": 11,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Boating": 70,
+      "Commerce": 60,
+      "Influence": 45,
+      "Insight": 45,
+      "Willpower": 50,
+      "Perception": 55,
+      "Survival": 45,
+      "Swim": 55,
+      "Combat Skill": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 0
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 40,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Knife",
+        "damage": "1d4+1",
+        "size": "S"
+      }
+    ],
+    "notes": "she/her. Knows Maelin professionally and reports of unsafe landings; has not seen reedback, secret inner channels, Garr plan, Hrill history or other PCs.",
+    "race": "Human",
+    "passions": {},
+    "score": {
+      "want": "Keep her supply contracts, crew and boat alive",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Keep her supply contracts, crew and boat alive",
+      "stated_reason": "Keep her supply contracts, crew and boat alive",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Weathered woman, cropped silvering hair, tar-darkened cuffs. Brisk and warm, occasional affectionate profanity; names concrete jobs. Makes fair bounded offers and retreats from losing battles. Wants her boat and customers to outlast a bad season.",
+      "physical": "Weathered woman, cropped silvering hair, tar-darkened cuffs",
+      "secret": "Knows Maelin professionally and reports of unsafe landings; has not seen reedback, secret inner channels, Garr plan, Hrill history or other PCs.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "edda",
+    "pronouns": "she/her"
+  },
+  {
+    "name": "Perrin Moss",
+    "stats": {
+      "STR": 11,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Boating": 45,
+      "Engineering": 55,
+      "Perception": 60,
+      "Swim": 50,
+      "Influence": 35,
+      "Willpower": 40,
+      "Combat Skill": 30
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 0
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 30,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Knife",
+        "damage": "1d4+1",
+        "size": "S"
+      }
+    ],
+    "notes": "he/him. Knows old chart and local depths, not uncharted northern channels or magical answers.",
+    "race": "Human",
+    "passions": {},
+    "score": {
+      "want": "Make a reliable chart and keep his job",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Make a reliable chart and keep his job",
+      "stated_reason": "Make a reliable chart and keep his job",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Young chartmaker with pencil smudges. Curious, asks literal useful questions, sketches while listening. Can be distracted by a measurement but wants living crew more than fame.",
+      "physical": "Young chartmaker with pencil smudges",
+      "secret": "Knows old chart and local depths, not uncharted northern channels or magical answers.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "perrin",
+    "pronouns": "he/him"
+  },
+  {
+    "name": "Ressa Dain",
+    "stats": {
+      "STR": 11,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Boating": 75,
+      "Perception": 65,
+      "Survival": 60,
+      "Swim": 70,
+      "Brawn": 45,
+      "Athletics": 50,
+      "Influence": 35,
+      "Willpower": 55,
+      "Combat Skill": 50
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 0
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 50,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Knife",
+        "damage": "1d4+1",
+        "size": "S"
+      }
+    ],
+    "notes": "she/her. Knows lake shelters and sailing, recent storm; no northern enclave secret or hunter plan.",
+    "race": "Human",
+    "passions": {},
+    "score": {
+      "want": "Bring crew home and earn wages",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Bring crew home and earn wages",
+      "stated_reason": "Bring crew home and earn wages",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Broad-shouldered pilot with a knitted cap. Laconic, blunt about weather, dry amusement at landfolk. Recommends shelter and acts on ropes rather than lecturing. No wish to command Hrill's life.",
+      "physical": "Broad-shouldered pilot with a knitted cap",
+      "secret": "Knows lake shelters and sailing, recent storm; no northern enclave secret or hunter plan.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "ressa",
+    "pronouns": "she/her"
+  },
+  {
+    "name": "Tovin Reed",
+    "stats": {
+      "STR": 11,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Boating": 45,
+      "Brawn": 45,
+      "Athletics": 55,
+      "Swim": 60,
+      "Perception": 45,
+      "Influence": 35,
+      "Willpower": 40,
+      "Combat Skill": 35
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 0
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 35,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Knife",
+        "damage": "1d4+1",
+        "size": "S"
+      }
+    ],
+    "notes": "they/them. Knows cargo and own duties, dock gossip only; no hidden loyalties.",
+    "race": "Human",
+    "passions": {},
+    "score": {
+      "want": "Earn a share in a boat and be useful",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Earn a share in a boat and be useful",
+      "stated_reason": "Earn a share in a boat and be useful",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Lanky deckhand with neatly spliced rope bracelet. Eager, good at accepting teasing, practical under instruction. Will drop cargo to save someone; not a compulsory victim.",
+      "physical": "Lanky deckhand with neatly spliced rope bracelet",
+      "secret": "Knows cargo and own duties, dock gossip only; no hidden loyalties.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "tovin",
+    "pronouns": "they/them"
+  },
+  {
+    "name": "Nera Quill",
+    "stats": {
+      "STR": 11,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Boating": 65,
+      "Survival": 65,
+      "Perception": 60,
+      "Swim": 65,
+      "Influence": 45,
+      "Willpower": 50,
+      "Combat Skill": 35
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 0
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 35,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Knife",
+        "damage": "1d4+1",
+        "size": "S"
+      }
+    ],
+    "notes": "she/her. Has seen animal grazing and hunter questions, knows broken landing; uncertain whether fish are displaced permanently. No imperial secrets.",
+    "race": "Human",
+    "passions": {},
+    "score": {
+      "want": "Keep fishers supplied and waters usable",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Keep fishers supplied and waters usable",
+      "stated_reason": "Keep fishers supplied and waters usable",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Net-mender with broad laugh and weather-split fingers. Earthy jokes, ordinary commercial sense, no solemn philosophy. Wants safe nets and meals; suspicious of costly schemes.",
+      "physical": "Net-mender with broad laugh and weather-split fingers",
+      "secret": "Has seen animal grazing and hunter questions, knows broken landing; uncertain whether fish are displaced permanently. No imperial secrets.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "nera",
+    "pronouns": "she/her"
+  },
+  {
+    "name": "Garr Hew",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 65,
+      "Boating": 65,
+      "Brawn": 60,
+      "Athletics": 55,
+      "Swim": 60,
+      "Perception": 60,
+      "Influence": 55,
+      "Deceit": 45,
+      "Insight": 40,
+      "Willpower": 55,
+      "Survival": 60
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 65,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Billhook",
+        "damage": "1d8",
+        "size": "M"
+      },
+      {
+        "name": "Short bow",
+        "damage": "1d6",
+        "size": "L",
+        "range": "45/300/600 feet",
+        "reload": 2,
+        "traits": [
+          "Impale"
+        ]
+      }
+    ],
+    "notes": "he/him. Knows last grazing area, his harpoons, crew, buyer estimate. Does not know Hrill exists or the safe enclave channel.",
+    "race": "Human",
+    "passions": {},
+    "score": {
+      "want": "Take valuable horn plates and build his hunting reputation",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Take valuable horn plates and build his hunting reputation",
+      "stated_reason": "Take valuable horn plates and build his hunting reputation",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Square hunter with an easy grin and a sunburnt nose. Jovial over business, direct when refused, short threats when cornered. Wants profit and reputation, will endanger an obstructing boat when a hunt is genuinely at stake; surrenders or retreats if outmatched. No secret imperial employer.",
+      "physical": "Square hunter with an easy grin and a sunburnt nose",
+      "secret": "Knows last grazing area, his harpoons, crew, buyer estimate. Does not know Hrill exists or the safe enclave channel.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "garr",
+    "pronouns": "he/him"
+  },
+  {
+    "name": "Berrin Holt",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 50,
+      "Boating": 50,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Swim": 55,
+      "Perception": 50,
+      "Willpower": 40,
+      "Influence": 30
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 50,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Short bow",
+        "damage": "1d6",
+        "size": "L",
+        "range": "45/300/600 feet",
+        "reload": 2,
+        "traits": [
+          "Impale"
+        ]
+      }
+    ],
+    "notes": "they/them. Knows announced hunt and wages, not inner channel or broader history.",
+    "race": "Human",
+    "passions": {},
+    "score": {
+      "want": "Take promised pay and share, return alive",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Take promised pay and share, return alive",
+      "stated_reason": "Take promised pay and share, return alive",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Working bow hand with repaired leather sleeve. Plain practical answers, watches ropes when others boast. Will cut dangerous towline and surrender rather than die for horn.",
+      "physical": "Working bow hand with repaired leather sleeve",
+      "secret": "Knows announced hunt and wages, not inner channel or broader history.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "berrin",
+    "pronouns": "they/them"
+  },
+  {
+    "name": "Ula Marrick",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 55,
+      "Boating": 55,
+      "Engineering": 50,
+      "Brawn": 50,
+      "Swim": 60,
+      "Perception": 50,
+      "Willpower": 45,
+      "Influence": 35
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 55,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Short bow",
+        "damage": "1d6",
+        "size": "L",
+        "range": "45/300/600 feet",
+        "reload": 2,
+        "traits": [
+          "Impale"
+        ]
+      }
+    ],
+    "notes": "she/her. Knows lines/harpoons and Garr announced hunt. No enclave route.",
+    "race": "Human",
+    "passions": {},
+    "score": {
+      "want": "Get paid and keep brother Dorr alive",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Get paid and keep brother Dorr alive",
+      "stated_reason": "Get paid and keep brother Dorr alive",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Stocky harpoon rigger with a patched glove. Clipped operational speech. Prefers a workable rig to a brave speech, refuses plainly suicidal ramming when shown its danger.",
+      "physical": "Stocky harpoon rigger with a patched glove",
+      "secret": "Knows lines/harpoons and Garr announced hunt. No enclave route.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "ula",
+    "pronouns": "she/her"
+  },
+  {
+    "name": "Dorr Marrick",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 45,
+      "Boating": 40,
+      "Athletics": 45,
+      "Brawn": 40,
+      "Swim": 50,
+      "Perception": 40,
+      "Willpower": 35,
+      "Influence": 30
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 45,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Short bow",
+        "damage": "1d6",
+        "size": "L",
+        "range": "45/300/600 feet",
+        "reload": 2,
+        "traits": [
+          "Impale"
+        ]
+      }
+    ],
+    "notes": "he/him. Knows own hunt duties and sister Ula, not all Garr intentions.",
+    "race": "Human",
+    "passions": {},
+    "score": {
+      "want": "Prove useful and get paid",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Prove useful and get paid",
+      "stated_reason": "Prove useful and get paid",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Young crew hand whose tunic is too large. Jokes when nervous, follows clear instructions, can surrender and learn. No automatic betrayal or last stand.",
+      "physical": "Young crew hand whose tunic is too large",
+      "secret": "Knows own hunt duties and sister Ula, not all Garr intentions.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "dorr",
+    "pronouns": "he/him"
+  },
+  {
+    "name": "Ilyen",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 60,
+      "Boating": 65,
+      "Perception": 70,
+      "Survival": 70,
+      "Stealth": 60,
+      "Swim": 65,
+      "Influence": 50,
+      "Insight": 50,
+      "Willpower": 60,
+      "Lore (Lake History)": 55
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 60,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Short bow",
+        "damage": "1d6",
+        "size": "L",
+        "range": "45/300/600 feet",
+        "reload": 2,
+        "traits": [
+          "Impale"
+        ]
+      }
+    ],
+    "notes": "they/them. Knows seasonal animal route, own scouts/enclave and Selith records existence; not all records, Hrill mind or current imperial plots.",
+    "race": "Elf",
+    "passions": {},
+    "score": {
+      "want": "Protect independent shore households and breeding shallows",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Protect independent shore households and breeding shallows",
+      "stated_reason": "Protect independent shore households and breeding shallows",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Lean elf in reed-brown coat, hands usually occupied with boat pole. Courteous, direct hospitality terms, no courtly riddles. Can welcome peaceful outsiders and bargain; uses force against an actual dangerous intrusion, not an accent.",
+      "physical": "Lean elf in reed-brown coat, hands usually occupied with boat pole",
+      "secret": "Knows seasonal animal route, own scouts/enclave and Selith records existence; not all records, Hrill mind or current imperial plots.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "ilyen",
+    "pronouns": "they/them"
+  },
+  {
+    "name": "Leth Aren",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 50,
+      "Boating": 50,
+      "Perception": 60,
+      "Survival": 60,
+      "Stealth": 55,
+      "Swim": 60,
+      "Willpower": 45,
+      "Influence": 30
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 50,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Short bow",
+        "damage": "1d6",
+        "size": "L",
+        "range": "45/300/600 feet",
+        "reload": 2,
+        "traits": [
+          "Impale"
+        ]
+      }
+    ],
+    "notes": "she/her. Knows local patrol paths and Ilyen orders only, not Selith records.",
+    "race": "Elf",
+    "passions": {},
+    "score": {
+      "want": "Guard the shore and return alive",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Guard the shore and return alive",
+      "stated_reason": "Guard the shore and return alive",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Young elf with a short bow and worn river boots. Few words, attentive to signals; obeys limited patrol instructions, will withdraw from a needless losing fight.",
+      "physical": "Young elf with a short bow and worn river boots",
+      "secret": "Knows local patrol paths and Ilyen orders only, not Selith records.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "leth",
+    "pronouns": "she/her"
+  },
+  {
+    "name": "Siv Orr",
+    "stats": {
+      "STR": 13,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 50,
+      "Boating": 55,
+      "Perception": 55,
+      "Survival": 55,
+      "Stealth": 50,
+      "Swim": 65,
+      "Willpower": 45,
+      "Influence": 30
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 50,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Short bow",
+        "damage": "1d6",
+        "size": "L",
+        "range": "45/300/600 feet",
+        "reload": 2,
+        "traits": [
+          "Impale"
+        ]
+      }
+    ],
+    "notes": "he/him. Knows patrol route and orders, not hidden regional politics.",
+    "race": "Human",
+    "passions": {},
+    "score": {
+      "want": "Keep households safe and avoid needless fighting",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Keep households safe and avoid needless fighting",
+      "stated_reason": "Keep households safe and avoid needless fighting",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Older human scout with a sun-faded scarf. Sparse matter-of-fact speech, offers a pole before advice. Patrol allegiance is to neighbours, not an empire.",
+      "physical": "Older human scout with a sun-faded scarf",
+      "secret": "Knows patrol route and orders, not hidden regional politics.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "siv",
+    "pronouns": "he/him"
+  },
+  {
+    "name": "Selith An",
+    "stats": {
+      "STR": 11,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Lore (Lake History)": 75,
+      "Lore (Imperial History)": 70,
+      "Courtesy": 55,
+      "Influence": 55,
+      "Insight": 55,
+      "Willpower": 65,
+      "Perception": 50,
+      "First Aid": 60,
+      "Swim": 45,
+      "Combat Skill": 25
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 0
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 25,
+        "weapons": []
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Knife",
+        "damage": "1d4+1",
+        "size": "S"
+      }
+    ],
+    "notes": "she/her. Knows historical imperial shore names, resistance/refuge channels and own community; no other PCs or current restorationist operations.",
+    "race": "Elf",
+    "passions": {},
+    "score": {
+      "want": "Keep the community free to teach and live",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Keep the community free to teach and live",
+      "stated_reason": "Keep the community free to teach and live",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Older elf with short greying hair, ink on one thumb, mended domestic clothes. Patient plain answers and genuine curiosity about visitors. Can keep records private without playing a mysterious oracle. No automatic spells or omniscience.",
+      "physical": "Older elf with short greying hair, ink on one thumb, mended domestic clothes",
+      "secret": "Knows historical imperial shore names, resistance/refuge channels and own community; no other PCs or current restorationist operations.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "selith",
+    "pronouns": "she/her"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "id": "myth-enc-f4dc3d1b1b92",
+  "name": "Intruder in the repair shed, round two",
+  "description": "Continuation after corrected first round. Initiative remains Knight before Halla because both rolled 9 and Knight DEX12 exceeds Halla DEX11. Neither is injured. Knight has broadsword; Halla has battleaxe and handaxe.",
+  "summary": "Superseded before round two: Halla spent Luck retroactively on the prior legal exchange, reversing the Knight parry 57 to75. Continuation restarts after the corrected hit.",
+  "status": "resolved",
+  "round": 1,
+  "combatants": [
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "initiative": null,
+      "ap": 3,
+      "max_ap": 3,
+      "conditions": []
+    },
+    {
+      "id": "myth-char-138e5343a228",
+      "name": "Dragon Knight at the Copper Oar",
+      "initiative": null,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": []
+    }
+  ],
+  "created_at": "2026-10-14T01:54:34"
+}

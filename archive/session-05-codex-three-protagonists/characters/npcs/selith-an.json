@@ -1,0 +1,210 @@
+{
+  "id": "myth-char-65109cb24a47",
+  "name": "Selith An",
+  "type": "npc",
+  "status": "active",
+  "description": "she/her. Knows historical imperial shore names, resistance/refuge channels and own community; no other PCs or current restorationist operations.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 11,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Lore (Lake History)": 75,
+    "Lore (Imperial History)": 70,
+    "Courtesy": 55,
+    "Influence": 55,
+    "Insight": 55,
+    "Willpower": 65,
+    "Perception": 50,
+    "First Aid": 60,
+    "Swim": 45,
+    "Combat Skill": 25,
+    "Athletics": 35,
+    "Brawn": 35,
+    "Endurance": 45,
+    "Evade": 35,
+    "Boating": 25
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Knife",
+      "damage": "1d4+1",
+      "size": "S"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 25
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Elf",
+    "score": {
+      "want": "Keep the community free to teach and live",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Keep the community free to teach and live",
+      "stated_reason": "Keep the community free to teach and live",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Older elf with short greying hair, ink on one thumb, mended domestic clothes. Patient plain answers and genuine curiosity about visitors. Can keep records private without playing a mysterious oracle. No automatic spells or omniscience.",
+      "physical": "Older elf with short greying hair, ink on one thumb, mended domestic clothes",
+      "secret": "Knows historical imperial shore names, resistance/refuge channels and own community; no other PCs or current restorationist operations.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "selith",
+    "pronouns": "she/her",
+    "doing": {
+      "goal": "Preserve community autonomy and historical records",
+      "next": "Consented to peaceful regular trading, accepted2balesoncredit. Has reported Garr refusal to Ilyen; now showing Hrill old refuge chart as goodwill, no military undertaking demanded.",
+      "where": "myth-loc-7352c04bb679",
+      "as_of_session": 8
+    },
+    "plan_reference": "docs/scenarios/hrill-edda-preparation.md",
+    "assets": {
+      "adult_households_population": 12,
+      "children": 4,
+      "food_days": 2.6875,
+      "historical_record_chests": 1,
+      "food_person_days": 43,
+      "food_accounting": "At24day64afterallocatedhome13. Day25SelithaboardEddafood,12homeconsume12=>52;actual9persondaypatrolresupplyloadedonGreyHeronat25dawn=>43. No supplybales converted to food.",
+      "received_supply_bales": 2,
+      "supply_bales_food_accounting": "Ordinary bundled supplies, not converted into person-day food without itemised inventory",
+      "teaching_house_shortsword": {
+        "owned": 1,
+        "available": 0,
+        "loaned": 1,
+        "borrower": "myth-char-55eac4f06b3f",
+        "item": {
+          "name": "Shortsword",
+          "damage": "1d6",
+          "size": "M",
+          "ap": 6,
+          "hp": 8,
+          "traits": [
+            "Bleed",
+            "Impale"
+          ],
+          "carried": "Borrowed from Selith teaching-house store for return to Greywatch; belongs to Selith, not Hrill"
+        },
+        "provenance": "One ordinary stored household defensive shortsword, supplied on explicit request to find a sword from someone else; separate from imported supply bales",
+        "return": "Halwen responsible to return or arrange collection after reaching Greywatch; Hrill has no personal weapon or money pledged"
+      }
+    },
+    "trade_debt": {
+      "creditor": "Edda Vale",
+      "creditor_id": "myth-char-56116fd29c52",
+      "gp": 8,
+      "for": "Two supply bales accepted into Listening Reeds store",
+      "agreed": "d25/dusk",
+      "due": "d35",
+      "status": "Outstanding,no payment yet"
+    }
+  },
+  "actor_notes": "Older elf with short greying hair, ink on one thumb, mended domestic clothes. Patient plain answers and genuine curiosity about visitors. Can keep records private without playing a mysterious oracle. No automatic spells or omniscience.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-7352c04bb679",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-27T01:28:21"
+}

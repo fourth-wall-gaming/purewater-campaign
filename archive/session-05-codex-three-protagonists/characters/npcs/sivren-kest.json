@@ -1,0 +1,241 @@
+{
+  "id": "myth-char-542371b53c4f",
+  "name": "Sivren Kest",
+  "type": "npc",
+  "status": "active",
+  "description": "Independent arcane artificer; apprentice of no newly invented city institution. Clipped technical speech, stained hands, battered spectacles. Full selected plan in Glass Hounds GM lore.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 13,
+    "INT": 16,
+    "POW": 16,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 14,
+    "luck_points": 0,
+    "magic_points": 16,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Arcane Casting": 80,
+    "Arcane Knowledge": 80,
+    "Willpower": 75,
+    "Craft (Glass bindings)": 95,
+    "Mechanisms": 75,
+    "Evade": 55,
+    "Stealth": 55,
+    "Perception": 65,
+    "Influence": 45,
+    "Insight": 50
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Dagger",
+      "damage": "1d4",
+      "size": "S"
+    },
+    {
+      "name": "Service key"
+    },
+    {
+      "name": "Original binding notebook"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {},
+  "spells": {
+    "sorcery": [
+      "Read Magic",
+      "Repair",
+      "Protection",
+      "Avert",
+      "Magic Tricks",
+      "Shield",
+      "Detect Magic",
+      "Invisibility",
+      "Magic Missile",
+      "Change Appearance",
+      "Web",
+      "Dispel Magic",
+      "Locate Object",
+      "Mirror Image"
+    ]
+  },
+  "powers": [],
+  "extras": {
+    "score": {
+      "want": "Recover original research and end human hunting conversion",
+      "ought": "Warn the people endangered by his invention",
+      "driver": "Professional independence",
+      "stated_reason": "Recover original research and end human hunting conversion",
+      "focus": "promotion",
+      "status": {
+        "Nimras": "Unknown visiting professional; no awareness of his thoughts or commission until learned."
+      },
+      "tactics": [
+        "Propose safe dismantling",
+        "Trade service key for original notebook",
+        "Refuse destruction of originals",
+        "Defend escape and surrender before fatal injury"
+      ],
+      "when_lied_to": "miss",
+      "blind_spot": "Trusts familiar professional habits.",
+      "rhythm": "Clipped technical statements, impatient with praise.",
+      "observed": [
+        "d6/night: answered unknown visitor knock by unbolting and opening narrowly, asked whether on Senn business. No identity, allegiance or powers learned.",
+        "d6/night: visitor claims another interested party without naming it. Kest opened door wider, spoke quietly against Senn man-hunting use; no visitor motive or name discovered.",
+        "d6/night: visitor blinked, queried man-hunting and stated aim to find Rennic and bring him home. Kest confirmed their disabling discussion and asked who sent visitor. No answer, identity or powers inferred.",
+        "d6/night: visitor privately claims alliance retrieval mission, mentor relationship and no-harm intention; proposes angry departure. Kest agrees to raise voice and shut him out on cue. Performance not yet enacted.",
+        "d6/night: on visitor angry cue, shouted Then take your business elsewhere and slammed/bolted door as privately agreed cover.",
+        "d7/dawn: accepted genuine Conall Assaywarrant atdoor, gave private maker account and showed original notebook, volunteered testimony; walked into yard withConall notebook+servicekey retained. No knowledge of buyer/contractlocation/PCtrue name or Sennprivatebargain.",
+        "d7/dawn R1C1 houndcontrolstandoff: Delays; no attack or surrender."
+      ]
+    },
+    "class": "Magic-User",
+    "rank": 2,
+    "prepared_spells": {
+      "0": [
+        "Read Magic",
+        "Repair",
+        "Protection",
+        "Avert",
+        "Magic Tricks",
+        "Read Magic",
+        "Repair",
+        "Protection",
+        "Avert",
+        "Magic Tricks"
+      ],
+      "1": [
+        "Shield",
+        "Detect Magic",
+        "Invisibility",
+        "Magic Missile",
+        "Change Appearance",
+        "Shield",
+        "Detect Magic",
+        "Invisibility",
+        "Magic Missile",
+        "Web"
+      ],
+      "2": [
+        "Dispel Magic",
+        "Locate Object",
+        "Web",
+        "Dispel Magic",
+        "Locate Object",
+        "Mirror Image"
+      ]
+    },
+    "doing": {
+      "goal": "Give evidence and preserve original salvage research",
+      "next": "Returned from successful Watch errand with Weir and duty officer; keep notebook/service key and remain available as witness.",
+      "where": "myth-loc-8bbc5a0606ad",
+      "as_of_session": 6
+    },
+    "pronouns": "he/him",
+    "combat_state": {
+      "encounter": "myth-enc-1740f49c69f5",
+      "round": 1,
+      "cycle_completed": 1,
+      "initiative": 22,
+      "ap": 3,
+      "max_ap": 3,
+      "last_action": "Delay, conserveActions; no attack or other proactiveAction",
+      "ap_ledger_authoritative": true,
+      "engine_note": "CLIencounterAPbaseline excludes casting/ready/movement; use this ledger and no-ap attackcalls then persistAPhere. Houndinit+1corrects engine treating naturalAP1 as wornarmor; original dice preserved.",
+      "active": false,
+      "ended_reason": "Company captain voluntarily yields afterlostactivehounds, woundedhandler, disarmedBess andAssayrapier intervention; weaponsdropped, no physicalrestraints yet",
+      "cycle_2_status": "DefensiveDisarmresolved, JoryDelay, ConallMove1AP tointerpose, thenvoluntarysurrender; encounterendedwithoutRound2"
+    }
+  },
+  "actor_notes": "LOOKS: Independent arcane artificer; apprentice of no newly invented city institution. Clipped technical speech, stained hands, battered spectacles. Full selected plan in Glass Hounds GM lore. CORE/WANTS: Recover original research and end human hunting conversion. PRESSURE: follows tactics in score; no lie detection. KEY: Clipped technical statements, impatient with praise.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 16,
+  "experience_rolls": 0,
+  "location": "myth-loc-8bbc5a0606ad",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-23T21:54:02"
+}

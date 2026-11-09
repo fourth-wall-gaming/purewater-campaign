@@ -1,0 +1,20 @@
+{
+  "chainworks": "myth-loc-632f42d674b6",
+  "market": "myth-loc-aca5cfa7ff7c",
+  "cisterns": "myth-loc-e8c76cddd3ea",
+  "sella": "myth-char-ca999408a219",
+  "oth": "myth-char-ffb6efbcc93b",
+  "neri": "myth-char-1d6d8d7c0f97",
+  "marrAgenda": "myth-agenda-6e953b69b276",
+  "othAgenda": "myth-agenda-f93874c7f74f",
+  "crowAgenda": "myth-agenda-9b6168a74ea9",
+  "beats": {
+    "Q1": "myth-beat-941ad01aa70b",
+    "Q2": "myth-beat-70d41ec5c7a6",
+    "Q3": "myth-beat-d31bcff937c6",
+    "Q4": "myth-beat-cedaaec4a9c1",
+    "Q5": "myth-beat-5eb5f7f64743",
+    "Q6": "myth-beat-d1de9a3707bf",
+    "Q7": "myth-beat-0daf0356be83"
+  }
+}

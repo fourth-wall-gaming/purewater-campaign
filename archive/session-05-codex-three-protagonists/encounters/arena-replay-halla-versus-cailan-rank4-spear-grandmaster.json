@@ -1,0 +1,31 @@
+{
+  "id": "myth-enc-282a00fd85e2",
+  "name": "Arena Replay: Halla versus Cailan, Rank4 spear grandmaster",
+  "description": "Player-authorised full timeline rewind d1/day. Earlier Halla wins stand; both fighters fully healed. Halla3AP Luck3 Honouraugment93/88 axe/shield; champion4AP NPC Luck0 spear121 GrandMaster. One ordinary proactive per round, specific free riposte exception, one free specialist parry each round. No predetermined victory; previous outcome discarded.",
+  "summary": "Halla wins by marshal stoppage R3: critical18, BypassArmour+Bleed, Head10damage, Endurance15 ordinarysuccess losescritical18; unconscious. Bleed84fails. FirstAid40/70success staunches and heals2, Head-2to0, no repeatedFirstAid allowed for this injury. Champion alive under treatment.",
+  "status": "resolved",
+  "round": 3,
+  "combatants": [
+    {
+      "id": "myth-char-cac22cc2cbf6",
+      "name": "Cailan",
+      "initiative": 17,
+      "ap": 2,
+      "max_ap": 4,
+      "conditions": [
+        "prone"
+      ],
+      "dex": 17
+    },
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "initiative": 9,
+      "ap": 2,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 11
+    }
+  ],
+  "created_at": "2026-10-21T14:33:36"
+}

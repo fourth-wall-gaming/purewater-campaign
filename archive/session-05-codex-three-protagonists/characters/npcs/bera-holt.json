@@ -1,0 +1,216 @@
+{
+  "id": "myth-char-ef768a2f2989",
+  "name": "Bera Holt",
+  "type": "npc",
+  "status": "active",
+  "description": "Bera Holt, she,51. Ashwick carpenter, square hands and a grey work braid. Plain practical speech. Wants fair pay and sound work; refuses unsupported stonework and needless risk. Knows only Dane has a cracked landing support in an old quarry store. Does not know Avel, Dragon politics, Hrill identity or military ownership claims. Will inspect with lantern and actual tools, devise shoring using real materials via Craft(Carpentry)75, uncertain damaged masonry Engineering55; never automatic repair. Fee2GP for day41 plus meals,1GP deposit received40day255,1GP balance after work. Departs Ashwick41dawn0 with own hand tools, reaches quarry41dawn180 after actual3hwalk. No guards, combat mission, magical repair or teleport.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 13,
+    "INT": 14,
+    "POW": 10,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 14,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Athletics": 40,
+    "Boating": 24,
+    "Brawn": 55,
+    "Conceal": 23,
+    "Dance": 24,
+    "Deceit": 25,
+    "Drive": 23,
+    "Endurance": 45,
+    "Evade": 30,
+    "First Aid": 27,
+    "Influence": 35,
+    "Insight": 24,
+    "Locale": 28,
+    "Perception": 55,
+    "Ride": 23,
+    "Sing": 21,
+    "Stealth": 27,
+    "Unarmed": 25,
+    "Willpower": 20,
+    "Flight": 25,
+    "Customs": 68,
+    "Native Tongue": 65,
+    "Craft (Carpentry)": 75,
+    "Engineering": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Carpenter hand-tool roll",
+      "contents": "saw, mallet, chisels, auger, square, measuring cord",
+      "owned": true
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Work tools and staff": 30
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "she",
+    "score": {
+      "want": "Paid craft work, sound support, safe return",
+      "ought": "Warn of uncertain loads; do not risk bystanders for profit",
+      "tactics": "Inspect from safe position, measure, shore before shifting; refuse if materials insufficient, ask for more rather than improvise guaranteed safety",
+      "catches_lies": "No automatic lie detection"
+    },
+    "assets": {
+      "gp": 3,
+      "food_person_days": 1,
+      "own_tools": "Saw mallet chisels auger square cord, ownednotDaneorHrillgear"
+    },
+    "doing": {
+      "goal": "Prepare paid day41 quarry support inspection",
+      "next": "After90mindryfit,attemptsafepropswithKettandactualmaterials;nativeCraftCarpentry75Standardat41day75. No magical guaranteedrepairorautomaticdamage.",
+      "where": "myth-loc-1123ef0edce9"
+    },
+    "contract": {
+      "employer": "myth-char-e1868d3d940c",
+      "date": "d41",
+      "daily_gp": 2,
+      "meals_included": true,
+      "deposit_gp": 1,
+      "balance_gp": 1,
+      "scope": "Assess and attempt safe timber support; no guaranteed success or military service",
+      "deposit_received": "d40/day255",
+      "travel_started": "d41/dawn0",
+      "arrival_due": "d41/dawn180"
+    },
+    "inspection": {
+      "started": "d41/dawn180",
+      "sidecrawl_minutes": 30,
+      "inspection_minutes": 45,
+      "resolved": "d41/dawn255",
+      "skill": "Craft (Carpentry)",
+      "effective": 75,
+      "roll": 89,
+      "result": "failure",
+      "roll_timing_note": "Generatedearlyat41dawn0,heldfrozen,nofictionaloutcomeapplieduntilactualarrivaland75minaccess/inspection. Notrerolled.",
+      "consequence": "Changed90mindaylightmeasure/dryfit+60minaccess/controlledfitstilldoesnotproducedependableshoring;60minworkspent,nofall/materialloss/noverifiedprops. Stops loading and exits safe route30min withKett. No extra identicalretryplanned.",
+      "changed_method": "Afterreportat41dawn285,90minmeasuringanddryfittingactual2posts/3packingblocks/2sparewedgesinDAYLIGHTupperchamber,trialseatsandtrimsthemwithoutloadinglanding. Completed41day15. Then30mincrawlwithKettcarryingpostsoneatatime,30mincontrolledfitfromfirmlowerfloor,checkdue41day75. Notanidenticalassessmentretry;actualmaterials,helpersand90minpreparationplus60minwork.",
+      "shoring_attempt_due": "d41/day75",
+      "shoring_roll": 88,
+      "shoring_effective": 75,
+      "shoring_result": "failure",
+      "shoring_resolved": "d41/day75"
+    }
+  },
+  "actor_notes": "Bera Holt, she,51. Ashwick carpenter, square hands and a grey work braid. Plain practical speech. Wants fair pay and sound work; refuses unsupported stonework and needless risk. Knows only Dane has a cracked landing support in an old quarry store. Does not know Avel, Dragon politics, Hrill identity or military ownership claims. Will inspect with lantern and actual tools, devise shoring using real materials via Craft(Carpentry)75, uncertain damaged masonry Engineering55; never automatic repair. Fee2GP for day41 plus meals,1GP deposit received40day255,1GP balance after work. Departs Ashwick41dawn0 with own hand tools, reaches quarry41dawn180 after actual3hwalk. No guards, combat mission, magical repair or teleport.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-c34fe1fcfef4",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-28T20:49:46"
+}

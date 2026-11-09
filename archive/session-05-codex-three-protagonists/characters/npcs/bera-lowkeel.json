@@ -1,0 +1,192 @@
+{
+  "id": "myth-char-eafd6a46f0e2",
+  "name": "Bera Lowkeel",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult human woman in her forties, owner of two small working cargo boats carrying grain and provisions. Coarse grey coat, salt-stiff cuffs, practical boots. A Shoals boat owner whom Marda approaches about paid protective guards.",
+  "narrative": "A working boat owner who earns by delivering cargo rather than holding office. She has money for necessary protective work but is cautious about a wage with no clear job. No hidden plot role, no prior relationship with Halla, and no private knowledge of his debt or sister.",
+  "characteristics": {
+    "STR": 11,
+    "CON": 12,
+    "SIZ": 11,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 11,
+    "CHA": 12
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 11,
+    "movement": "4m walk / 12m fly"
+  },
+  "skills": {
+    "Athletics": 23,
+    "Boating": 65,
+    "Brawn": 22,
+    "Conceal": 23,
+    "Dance": 24,
+    "Deceit": 25,
+    "Drive": 23,
+    "Endurance": 24,
+    "Evade": 24,
+    "First Aid": 25,
+    "Influence": 40,
+    "Insight": 45,
+    "Locale": 26,
+    "Perception": 45,
+    "Ride": 23,
+    "Sing": 23,
+    "Stealth": 25,
+    "Unarmed": 23,
+    "Willpower": 45,
+    "Flight": 23,
+    "Customs": 66,
+    "Native Tongue": 65,
+    "Commerce": 60
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {},
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "she/her",
+    "age_note": "adult",
+    "possible_guard_job": {
+      "when": "d0 dawn to noon",
+      "scope": "Protect two grain boats and crews during morning deliveries",
+      "budget_gp_per_guard": 2,
+      "pay_timing": "after delivery",
+      "status": "completed and paid to Halla and Rusk",
+      "guards_requested": 2,
+      "meeting": "Shoals water-stair at dawn",
+      "critical_enquiry_benefit": "Breakfast included",
+      "paid": true,
+      "guards_confirmed": [
+        "myth-char-77a79270f637",
+        "myth-char-069d998e58a6"
+      ],
+      "second_guard_candidate": "myth-char-069d998e58a6"
+    },
+    "knowledge_limits": "No private Halla debt, sister, captain report, Vask identity or hidden plot information.",
+    "referral_source": "Marda Blackwater",
+    "knows_thorne_broker": "Marda told her to discuss guard work with Thorne at Moist Oyster",
+    "morning_guard_job": {
+      "status": "completed",
+      "guards": [
+        "myth-char-77a79270f637",
+        "myth-char-069d998e58a6"
+      ],
+      "paid_gp_each": 2,
+      "paid": true,
+      "result": "both boats, crews and cargo delivered safely"
+    },
+    "luck_policy": "PC-only campaign rule: NPCs have no Luck pool or Luck rank bonuses; never spend Luck for NPC rerolls, reversals or damage mitigation."
+  },
+  "actor_notes": "LOOKS: Adult woman in her forties, coarse grey coat, salt-stiff cuffs, practical boots. CORE: A boat owner who measures promises against a crew actually getting home and a cargo actually delivered. NATURE: Brisk, plain-speaking, neither suspicious of everyone nor generous with unearned wages. WANTS: Her boats and crews to complete tomorrow morning deliveries without commandeering. PRESSURE: Narrows the job and its price rather than offering broad promises; will listen to someone who has done the work. SPEECH: Short concrete job terms, a single practical question, no speeches about courage or interpretation of motives.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "location": "myth-loc-e4becf72aa90",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-13T01:02:10"
+}

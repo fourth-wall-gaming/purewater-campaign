@@ -1,0 +1,110 @@
+{
+  "id": "myth-enc-1740f49c69f5",
+  "name": "Drowned Kiln: contested hound control",
+  "description": "Round1: Nimras declares I2Lightning2Actionspreparation; Ivenreaches ownwhistle atSennorder. Conallholds3whistles. Noautomaticattacks/hostilitybysupportguards. NPCordersandreactionsrequireturns. CustomAPledgerincharacterextrascombat_state governsnonattackActions; use no-apattackcallsandthisledger, engineAPbaselineonly.",
+  "summary": "Bessdisarmed afterresistance11losesoriginal29. Conallinterposesrapier, Sennvoluntarilydropsswordandorderscrewstanddown; visibleweaponsground, no bindings/captivetransport yet. NHPfullMP10Luck1;Ivenalivewounded;twohoundsimmobileanimated. Whistle4stillIvenneck, other3Conall.",
+  "status": "resolved",
+  "round": 1,
+  "combatants": [
+    {
+      "id": "myth-char-542371b53c4f",
+      "name": "Sivren Kest",
+      "initiative": 22,
+      "ap": 3,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 13
+    },
+    {
+      "id": "myth-char-fb0ddb2b8fe0",
+      "name": "Pell Dask",
+      "initiative": 20,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-0023133728c0",
+      "name": "Captain Mara Senn",
+      "initiative": 19,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 14
+    },
+    {
+      "id": "myth-char-3ef61b30ce48",
+      "name": "Nel Aster",
+      "initiative": 19,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-fa32af8326d2",
+      "name": "Bess Arl",
+      "initiative": 18,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-764c91ce4e27",
+      "name": "Glass Hound 2",
+      "initiative": 17,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 15
+    },
+    {
+      "id": "myth-char-375dd5281882",
+      "name": "Iven Toll",
+      "initiative": 17,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-0f7136e1ac47",
+      "name": "Glass Hound 1",
+      "initiative": 16,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 15
+    },
+    {
+      "id": "myth-char-4fc52ae14026",
+      "name": "Nimras",
+      "initiative": 16,
+      "ap": 3,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-159c09995891",
+      "name": "Jory Fen",
+      "initiative": 15,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-06f87a379bbf",
+      "name": "Conall Bjornlasch",
+      "initiative": 12,
+      "ap": 3,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 14
+    }
+  ],
+  "created_at": "2026-10-24T06:04:54"
+}

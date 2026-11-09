@@ -1,0 +1,17 @@
+{
+  "clock": {
+    "id": "myth-storyline-b6753554ddd0",
+    "name": "Nimras",
+    "pcs": [
+      "myth-char-4fc52ae14026"
+    ],
+    "now": "d9/day",
+    "minute_in_watch": 0,
+    "scene": "d9/day minute0, ThreeSteps ownroom after fullsafe8hsleep and waitingforwork. Elna knocked and delivered Vey note: auctionconsignment may contain papersfromlostlibrary;4GP forindependentexamination/report,nobidding/recovery;comeSmallWindows todayifinterested. No contractaccepted,advancepaid ortravel. VeyatSmallWindows. MP15/15 Luck5 fullHP Fresh,noactivespells,purse23GP3SP4CP. Lastpaidnightd8 consumed,currentbreakfastincluded;d9nightunbooked. AwaitNimrasresponse.",
+    "session": 9
+  },
+  "offered_fact": "myth-fact-61325597c766",
+  "contract_accepted": false,
+  "private_facts_hidden": true,
+  "resources_unchanged_except_authorised_rest": true
+}

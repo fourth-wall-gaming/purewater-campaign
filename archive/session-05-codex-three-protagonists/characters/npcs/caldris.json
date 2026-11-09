@@ -1,0 +1,172 @@
+{
+  "id": "myth-char-7c6a9c5d5bc7",
+  "name": "Caldris",
+  "type": "npc",
+  "status": "active",
+  "description": "He/him. Established independent master, scholar of passage and distance; shipping and salvage partnerships fund expeditions. Exact lost-place project remains private, not active travel capability.",
+  "narrative": "LOOKS:tall lean man with unruly greying hair, worn embroidered waistcoat and rolled sleeves, chalk on his trousers. CORE:discovery is worth organising the world around, even when others insist on discussing the boat hire. NATURE:expansive, curious, warm with people who can do useful things, easily absorbed in possibilities. WOUND:expeditions have left expensive gaps between promises and results. WANTS:reliable field collaborators and access to recoveries without surrendering his whole project. PRESSURE:proposes a larger plan before noticing practical constraints; can accept a clear refusal. KEY:enthusiastic concrete possibilities, ordinary humour, no mystic riddles.",
+  "characteristics": {
+    "STR": 10,
+    "CON": 12,
+    "SIZ": 13,
+    "DEX": 12,
+    "INT": 18,
+    "POW": 18,
+    "CHA": 15
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 15,
+    "luck_points": 0,
+    "magic_points": 18,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 22,
+    "Boating": 45,
+    "Brawn": 23,
+    "Conceal": 30,
+    "Dance": 27,
+    "Deceit": 33,
+    "Drive": 30,
+    "Endurance": 24,
+    "Evade": 24,
+    "First Aid": 30,
+    "Influence": 75,
+    "Insight": 55,
+    "Locale": 36,
+    "Perception": 65,
+    "Ride": 30,
+    "Sing": 33,
+    "Stealth": 30,
+    "Swim": 22,
+    "Unarmed": 22,
+    "Willpower": 80,
+    "Customs": 76,
+    "Native Tongue": 73,
+    "Arcane Casting": 90,
+    "Arcane Knowledge": 95,
+    "Navigation": 75,
+    "Commerce": 45
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {},
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "he/him",
+    "score": {
+      "want": "Competent independent field collaborators",
+      "ought": "Honour actual promises to crews and investors",
+      "driver": "Reach lost knowledge and places",
+      "stated_reason": "Make expeditions and research work",
+      "focus": "What a practical magician could contribute",
+      "status": "Prospective scholarly client, not owner of contractors",
+      "tactics": [
+        "Discuss useful capabilities",
+        "Offer bounded exploratory work when ready",
+        "Negotiate costs and shares",
+        "Scale back when resources or consent absent"
+      ],
+      "when_lied_to": "No automatic detection; actual Insight for consequential deception",
+      "blind_spot": "Underestimates ordinary work and budgets",
+      "rhythm": "Expansive, concrete, enthusiastic",
+      "physical": "More comfortable over charts than dressed for a court",
+      "secret": "Private lost-route research is not automatically disclosed",
+      "observed": []
+    },
+    "casting_preparation": "Master expertise established; exact CFI spells/rank benefits require preparation before use. No casting in courtesy visit.",
+    "resources": {
+      "observatory": 1,
+      "ready_expeditions": 0,
+      "personal_armed_retinue": 0,
+      "funding": "Specific partnerships, not infinite money or ships"
+    },
+    "private_research": "Passage to lost place, destination unchosen; no existing open portal or automatic journey granted."
+  },
+  "actor_notes": "LOOKS:tall lean man with unruly greying hair, worn embroidered waistcoat and rolled sleeves, chalk on his trousers. CORE:discovery is worth organising the world around, even when others insist on discussing the boat hire. NATURE:expansive, curious, warm with people who can do useful things, easily absorbed in possibilities. WOUND:expeditions have left expensive gaps between promises and results. WANTS:reliable field collaborators and access to recoveries without surrendering his whole project. PRESSURE:proposes a larger plan before noticing practical constraints; can accept a clear refusal. KEY:enthusiastic concrete possibilities, ordinary humour, no mystic riddles.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 18,
+  "experience_rolls": 0,
+  "location": "myth-loc-ce627816a76f",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-26T16:52:09"
+}

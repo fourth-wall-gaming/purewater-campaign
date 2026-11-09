@@ -1,0 +1,27 @@
+{
+  "id": "myth-enc-e9665cb4dc9d",
+  "name": "Intruder wounded in the repair shed",
+  "description": "Round two after Halla spent Luck to reverse the Knight parry 57 to75. Halla attack62/81 succeeds, Choose Location sends the existing3 damage to the unarmored head. Knight Head is3/6. Initiative remains Knight before Halla.",
+  "summary": "Halla stopped a Dragon Knight caught planting a tarred parcel beneath a repair hull. After wounding him in the head and seriously disabling his left arm, Halla accepted his surrender and took him into the house. Halla is uninjured; the Knight is unarmed and compliant. Broadsword remains on shed floor; parcel remains beside the opened hull.",
+  "status": "resolved",
+  "round": 3,
+  "combatants": [
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "initiative": null,
+      "ap": 2,
+      "max_ap": 3,
+      "conditions": []
+    },
+    {
+      "id": "myth-char-138e5343a228",
+      "name": "Dragon Knight at the Copper Oar",
+      "initiative": null,
+      "ap": 1,
+      "max_ap": 2,
+      "conditions": []
+    }
+  ],
+  "created_at": "2026-10-14T01:55:06"
+}

@@ -1,0 +1,385 @@
+{
+  "id": "myth-char-cac22cc2cbf6",
+  "name": "Cailan",
+  "type": "npc",
+  "status": "active",
+  "description": "Gardwen's possessed brother (birth name Gabriel) -- the Baron's tournament champion, host to the ancient dragon-knight spirit Thuban Eta. Dragon-scale armor fused to his skin; eyes flicker reptilian when possessed; fights with uncanny ancient skill and minor fire.",
+  "narrative": "Kidnapped as a child a decade ago, Gabriel was subjected to Baron Hanzo's possession ritual and bound to Thuban Eta, an ancient dragon-knight spirit. Now called Cailan, he is the Baron's unbeaten tournament champion: unnatural precision with bow and spear, ancient fighting techniques drawn from Thuban's memories, and minor fire abilities channeled through the binding locket. Years of shared consciousness have fractured his mind -- moments of clarity surface between possessions, and Thuban himself sometimes fights the Baron's will. Freeing him is the emotional core of his sister Gardwen's quest.",
+  "characteristics": {
+    "STR": 16,
+    "CON": 14,
+    "SIZ": 13,
+    "DEX": 17,
+    "INT": 13,
+    "POW": 14,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 4,
+    "damage_modifier": "+1d6",
+    "experience_modifier": 1,
+    "healing_rate": 3,
+    "initiative_bonus": 15,
+    "luck_points": 0,
+    "magic_points": 14,
+    "movement": "6"
+  },
+  "skills": {
+    "Brawn": 70,
+    "Endurance": 72,
+    "Evade": 78,
+    "Willpower": 58,
+    "Athletics": 80,
+    "Conceal": 40,
+    "Customs": 30,
+    "Deceit": 35,
+    "First Aid": 35,
+    "Influence": 30,
+    "Insight": 45,
+    "Locale": 30,
+    "Native Tongue": 55,
+    "Perception": 78,
+    "Ride": 70,
+    "Stealth": 65,
+    "Swim": 55,
+    "Unarmed": 112,
+    "Lore (Dragon Knights, ancient)": 85,
+    "Lore (Tactics)": 75,
+    "Survival": 50,
+    "Possessed Warrior (spear, bow, sword)": 121,
+    "Combat Skill (Fighter)": 116,
+    "Lore (Strategy & Tactics)": 118
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 5,
+      "hp": 8,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 5,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 5,
+      "hp": 9,
+      "current_hp": 9
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 5,
+      "hp": 10,
+      "current_hp": 10
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 5,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 5,
+      "hp": 8,
+      "current_hp": 0
+    }
+  ],
+  "equipment": [
+    {
+      "name": "War Spear",
+      "damage": "1d10+1",
+      "size": "L",
+      "reach": "VL",
+      "notes": "Impale; ancient technique",
+      "ap_hp": "4/10",
+      "effects": [
+        "impale"
+      ],
+      "hands": 2,
+      "ap": 4,
+      "hp": 10,
+      "current_hp": 10,
+      "max_hp": 10
+    },
+    {
+      "name": "Composite Bow",
+      "type": "ranged",
+      "damage": "1d8",
+      "range": "15/90/180",
+      "notes": "Impale; unnatural precision",
+      "ap_hp": "4/8",
+      "effects": "Impale",
+      "force": "H"
+    },
+    {
+      "name": "Long Sword",
+      "damage": "1d8",
+      "size": "M",
+      "reach": "L",
+      "notes": "Bleed, Impale",
+      "ap_hp": "6/12",
+      "effects": [
+        "bleed",
+        "impale"
+      ],
+      "ap": 6,
+      "hp": 12
+    },
+    {
+      "name": "Dragon-scale armor (fused, all locations)",
+      "armor": true,
+      "ap": 5,
+      "notes": "AP 5; partially fused to skin; no penalty"
+    }
+  ],
+  "passions": {
+    "Buried self -- 'I am Gabriel'": 45,
+    "Compelled loyalty to Baron Hanzo (ritual)": 70
+  },
+  "combat_styles": {
+    "Possessed Warrior (spear, bow, sword)": 121
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "gender": "male",
+    "class": "Fighter",
+    "real_name": "Gabriel (birth name; 'Cailan' is the Baron's title for him)",
+    "game_system": "Classic Fantasy",
+    "character_type": "Major Character (tragic antagonist)",
+    "role": "Baron Hanzo's tournament champion; Gardwen's younger brother, kidnapped as a child ~10 years ago and possessed by the bound spirit Thuban Eta.",
+    "possession": "Shares his mind with [[thuban-eta]]. Eyes shift human<->reptilian under full possession; experiences moments of clarity between possessions; fragmented dual consciousness.",
+    "abilities": [
+      "Ancient dragon-knight fighting techniques (from Thuban's memories)",
+      "Unnatural precision with bow and spear",
+      "Minor fire abilities (channeled through the binding)"
+    ],
+    "minor_fire": "Can wreathe weapon/limbs in flame for +1d4 fire on a successful hit, a few times per scene (Baron's ritual gift). Tied to the binding locket.",
+    "vulnerability": "Weakening or removing the binding locket / Thuban's remains can free him; appeals to his true identity ('Gabriel') can surface clarity.",
+    "magic_tradition": "None of his own; fire is the Baron's grafted gift via the binding.",
+    "source": "GM-authored from source lore (Key Supporting Characters)",
+    "pronouns": "he/him",
+    "tournament_state": {
+      "opening_bout": "won versus Garran by yield; result retained",
+      "result": "Defeated by Halla, marshal stoppage",
+      "current_bout_status": "ended",
+      "injury": "Head0/8 Serious after firstaid2, rightleg4/8 Minor; leftarmarmour2; no further healing assumed",
+      "current_loadout": "Unarmed; spear on arena sand; longsword sheathed",
+      "arm_disabled": false,
+      "current_bout": "myth-enc-282a00fd85e2",
+      "current_opponent": "Halla",
+      "position": "Resting under tournament medical care; not fit for strenuous action",
+      "spear_damage": {
+        "armour": 4,
+        "max_hp": 10,
+        "current_hp": 10,
+        "dropped": true
+      },
+      "bonus_parry_used": false,
+      "ordinary_proactive_used": true,
+      "pending_riposte": null,
+      "pending_regain_footing": {
+        "spent": true,
+        "cost_ap": 1,
+        "result": "R3Athletics48lostBrawn53"
+      },
+      "last_hit": {
+        "attack_roll": 6,
+        "effects": [
+          "bypass-armor",
+          "sunder"
+        ],
+        "weapon_damage": 2,
+        "mastery_damage": 2,
+        "raw_total": 4,
+        "location": "Right Leg",
+        "bypassed_ap": 5,
+        "hp_before": 8,
+        "hp_after": 4,
+        "armor_before": 5,
+        "armor_after": 5,
+        "sunder_note": "Four damage doesnotexceed fiveAP, so no surplus to reducearmour. Bypass bodydamage mustnotbe diverted intoAP."
+      },
+      "deferred_recovery_roll": {
+        "athletics_roll": 95,
+        "athletics_rating": 80,
+        "opposition_brawn_roll": 57,
+        "opposition_brawn_rating": 71,
+        "winner": "Halla",
+        "status": "Applied once R2thirdcycle: Athletics95fails vsBrawn57success; spent1AP; remainsprone."
+      },
+      "last_armour_damage": {
+        "location": "Left Arm",
+        "before": 5,
+        "after": 2,
+        "hp_unchanged": 7
+      },
+      "bleeding": {
+        "active": false,
+        "roll": 84,
+        "resisted": false,
+        "treatment": "FirstAid40/70success staunches; no strenuous activity until healed"
+      },
+      "first_aid": {
+        "injury": "HallaR3headhit",
+        "used": true,
+        "roll": 40,
+        "skill": 70,
+        "healed": 2,
+        "before": -2,
+        "after": 0
+      },
+      "unconscious": {
+        "active": false,
+        "reason": "The rolled ten-minute loss of consciousness has elapsed during final, travel and waiting; no additional HP recovery",
+        "duration_minutes": 10
+      }
+    },
+    "possessed_combat_profile": {
+      "authoritative_skill": "Possessed Warrior (spear, bow, sword)",
+      "rating": 121,
+      "source_character": "myth-char-a46cf24af084",
+      "source_style": "Ancient Dragon-Knight mastery (spectral)",
+      "reason": "Established spirit narrative lends whole combat style to host; cached host style92 superseded for possessed combat",
+      "physical_characteristics": "host values retained",
+      "over_100_excess": 21,
+      "future_rank": 4,
+      "future_profile": {
+        "version": "2026-10-21 future-use completion",
+        "status": "Active for authorised arena replay",
+        "rank": 4,
+        "rank_title": "Champion",
+        "class": "Fighter",
+        "historical_audit": "No rank or specializations were recorded during Halla's bout. Only spirit combat121 was corrected then; Rank4 and complete ability package are GM-authored NOW, not retroactively asserted.",
+        "rank_qualification": {
+          "Combat Skill (Fighter), before weapon specialization": 116,
+          "Unarmed": 112,
+          "Lore (Strategy & Tactics)": 118
+        },
+        "source": "Bundled vendor/cfi-srd/rules-en/0003_Classes.md Fighter Rank Table and Rank1-4 mastery",
+        "skills": {
+          "fighter_base": 116,
+          "specialized_war_spear": 121,
+          "specialized_long_sword": 121,
+          "composite_bow": 121,
+          "unarmed": 112
+        },
+        "specializations": {
+          "primary": "War Spear",
+          "secondary": "Long Sword",
+          "shield": false,
+          "bow": false,
+          "notes": "Melee +5 is INCLUDED in listed121. Each specialized weapon permits bonus parry without AP; track one bonus parry per round in line with this table, not infinite."
+        },
+        "mastery": {
+          "weapon": "War Spear",
+          "tier": "Grand Master",
+          "one_mastered_weapon_only": true,
+          "critical": "Double critical chance of current effective spear skill after opposed over100 adjustment; retain auto-failure96-100. Use table rounding; do not apply to sword/bow.",
+          "damage": "Two damage-modifier grades above host's natural +1d2, resulting +1d6 for mastered spear; this replaces +1d2, not an extra +1d6 die. Sword/bow retain natural modifier where applicable.",
+          "parry_size": "Spear treated one size grade larger only for parrying damage: L becomes H; no blanket increase to attacking size or reach.",
+          "riposte": "After successful spear parry, may make free follow-up thrust at one difficulty grade harder (Hard before other modifiers). This specific ability permits riposte, not extra ordinary proactive actions. Resolve as separate real attack with legal reaction. No free sword riposte."
+        },
+        "rank_benefits": {
+          "hp_per_location_bonus": 2,
+          "ap_bonus": 2,
+          "luck_bonus": 0,
+          "cumulative_not_per_rank": true,
+          "luck_note": "PC-only: printed rank Luck progression not applied to NPCs."
+        },
+        "possessed_host_attributes": {
+          "action_points": 4,
+          "derivation": "CF Imperative starts at 2 AP; Rank4 adds2. Do not use core INT+DEX AP table.",
+          "damage_modifier_natural": "+1d2",
+          "spear_damage_modifier": "+1d6",
+          "luck_max": 0,
+          "luck_basis": "NPC: no Luck under campaign rule.",
+          "future_fresh_hp": {
+            "right_leg": 8,
+            "left_leg": 8,
+            "abdomen": 9,
+            "chest": 10,
+            "right_arm": 7,
+            "left_arm": 7,
+            "head": 8
+          },
+          "hp_rule": "Host natural location HP+2 rank bonus, all AP5 armour unchanged. Future fresh encounter template only; do not heal, double-add HP or erase current injury by activating rank."
+        },
+        "passive_starting_ability": "Combat Proficiency; included in recorded final skill totals, do not add5 again.",
+        "optional_ranked_abilities": [],
+        "optional_note": "Rank unlocks purchases; it does not grant every optional talent. No free Forceful Strike, Sweeping Strike, Defensive Reflexes or characteristic increase assigned.",
+        "binding_fire": {
+          "source": "existing locket-derived host gift, not Fighter rank",
+          "damage": "+1d4 fire when explicitly active",
+          "status": "Not active or permitted in this ordinary weapon bout; requires explicit eligibility ruling before future use."
+        },
+        "body_rule": "Spirit has no independent corporeal combat body. Host retains anatomy, physical stats, armour and wounds; uses this martial profile only while Thuban controls him. Freed Gabriel does not automatically retain Thuban's class powers.",
+        "historical_result": "Prior Halla-champion result retracted by player; replay outcome unresolved."
+      },
+      "activation": "Active; Rank4 combat/HP/AP loaded on host. NPC Luck0."
+    },
+    "tournament_eligibility": {
+      "champion_winner": false,
+      "old_rite_access_as_winner": false
+    },
+    "luck_policy": "PC-only campaign rule: NPCs have no Luck pool or Luck rank bonuses; never spend Luck for NPC rerolls, reversals or damage mitigation.",
+    "runtime_damage_modifier": {
+      "natural": "+1d2",
+      "active_spear_grand_mastery": "+1d6",
+      "instruction": "Do not add mastery twice; revert to +1d2 for longsword/bow."
+    },
+    "doing": {
+      "goal": "Withdraw with Hanzo's household; Purewater chapter closed.",
+      "next": "Remain offstage pending a newly authorised adventure.",
+      "where": "myth-loc-e9a79ae1a9f2",
+      "as_of_session": 5
+    }
+  },
+  "actor_notes": "Cailan -- born Gabriel, called Bird by his sister\nLOOKS: Seventeen and far too thin for the harness. Dragon-scale growing out of the skin of his throat and jaw with no strap or edge, the flesh around it raised and weeping. A fresh dressing inside the right elbow over years of older scarring.\nCORE: A boy who was seven when he was taken and has been a room somebody else lives in ever since, and who is still -- intermittently, briefly, at enormous cost -- there.\nNATURE: What is left of him is stubborn and funny and fond of his sister, and none of those have had anywhere to go in ten years. What you mostly meet is an absence wearing his face and doing what it is told.\nWOUND: Everything. There is no part of him that is not the wound. He is not permitted to guard anything, and that is the horror of him.\nWANTS: To get one thing out that is his.\nPRESSURE: Exhaustion, or his own name, and he surfaces -- the way a swimmer comes up under ice, for a second or two, with no time to do anything with it -- and is pulled back down.\nKEY: \"I'm still -- \" (and that is all he gets out, and it is the most valuable thing in the scene)",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 14,
+  "experience_rolls": 0,
+  "location": "myth-loc-e9a79ae1a9f2",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-06-24T23:15:34"
+}

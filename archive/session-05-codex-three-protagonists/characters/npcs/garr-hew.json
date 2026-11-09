@@ -1,0 +1,296 @@
+{
+  "id": "myth-char-551810ff1633",
+  "name": "Garr Hew",
+  "type": "npc",
+  "status": "active",
+  "description": "he/him. Hunter at White Shingle; knows his own crew, buyer estimate and25morningreedbackfeedinglocation. Recognises Hrill as visitor who refused hunt; does not know his name/backstory or Selith\u2019s identity yet, or safe enclave channel.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Combat Skill": 65,
+    "Boating": 65,
+    "Brawn": 60,
+    "Athletics": 55,
+    "Swim": 60,
+    "Perception": 60,
+    "Influence": 55,
+    "Deceit": 45,
+    "Insight": 40,
+    "Willpower": 55,
+    "Survival": 60,
+    "Endurance": 45,
+    "Evade": 35,
+    "First Aid": 25
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Billhook",
+      "damage": "1d8",
+      "size": "M"
+    },
+    {
+      "name": "Short bow",
+      "damage": "1d6",
+      "size": "L",
+      "range": "45/300/600 feet",
+      "reload": 2,
+      "traits": [
+        "Impale"
+      ]
+    },
+    {
+      "name": "Heavy harpoon",
+      "damage": "1d10",
+      "size": "M",
+      "traits": [
+        "Impale"
+      ],
+      "range": "30/60 feet",
+      "reload": 2,
+      "quantity": 2
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 65
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Human",
+    "score": {
+      "want": "Take valuable horn plates and build his hunting reputation",
+      "ought": "Keep agreed duties while protecting people actually in their care.",
+      "driver": "Take valuable horn plates and build his hunting reputation",
+      "stated_reason": "Take valuable horn plates and build his hunting reputation",
+      "blind_spot": "May overvalue own familiar methods; does not automatically read deception.",
+      "rhythm": "Square hunter with an easy grin and a sunburnt nose. Jovial over business, direct when refused, short threats when cornered. Wants profit and reputation, will endanger an obstructing boat when a hunt is genuinely at stake; surrenders or retreats if outmatched. No secret imperial employer.",
+      "physical": "Square hunter with an easy grin and a sunburnt nose",
+      "secret": "Knows last grazing area, his harpoons, crew, buyer estimate. Does not know Hrill exists or the safe enclave channel.",
+      "status": {
+        "Hrill": "Unknown; no prior relationship."
+      },
+      "tactics": [
+        "ordinary request or warning",
+        "concrete bargain",
+        "protect or withdraw",
+        "force only when actual motive and means justify it"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    },
+    "role": "garr",
+    "pronouns": "he/him",
+    "doing": {
+      "goal": "Find genuinely fresh reedback report before another hunt",
+      "next": "Needsfoodresupplyandwagearrangement,cash0.2debt6GP, nofreshbeastlead ornewhuntresolved. No harm declared from unmodelled35meal.",
+      "where": "myth-loc-bd72f2702234",
+      "as_of_session": 8
+    },
+    "plan_reference": "docs/scenarios/hrill-edda-preparation.md",
+    "assets": {
+      "gp": 0.2,
+      "crew": [
+        "myth-char-551810ff1633",
+        "myth-char-c72ea833da98",
+        "myth-char-bd211f3c4f0b",
+        "myth-char-df862a86d989"
+      ],
+      "hunting_boats": 1,
+      "heavy_harpoons": 2,
+      "sixty_foot_towlines": 2,
+      "bows": 2,
+      "arrows": 40,
+      "food_person_days": 0,
+      "hull_sections": [
+        {
+          "name": "Bow",
+          "ap": 3,
+          "hp": 18,
+          "current_hp": 18
+        },
+        {
+          "name": "Stern",
+          "ap": 3,
+          "hp": 18,
+          "current_hp": 18
+        }
+      ],
+      "initial_crew_wage_reserve_included_gp": 6,
+      "crew_total_daily_gp": 1,
+      "wages_paid_through": "d29/night",
+      "repair_reserve_included_gp": 3,
+      "crew_wage_payments": [
+        {
+          "for_day": "d17",
+          "gp": 1
+        },
+        {
+          "for_days": "d18-d21",
+          "gp": 4
+        },
+        {
+          "for_day": "d22",
+          "gp": 1
+        },
+        {
+          "for_day": "d23",
+          "gp": 1
+        },
+        {
+          "for_day": "d24",
+          "gp": 1
+        },
+        {
+          "for_days": "d25-d26",
+          "gp": 2,
+          "note": "Existing1GP/daycrewtotal, unpaid25regularsettlementaccountedonce"
+        },
+        {
+          "for_day": "d27",
+          "gp": 1
+        },
+        {
+          "for_day": "d28",
+          "gp": 1
+        },
+        {
+          "for_day": "d29",
+          "gp": 1
+        }
+      ],
+      "provision_purchase": {
+        "day": "d21",
+        "seller": "Nera Quill's Bell Reed fishing/market stores",
+        "person_days": 24,
+        "cost_gp": 2.4,
+        "transport": "Berrin/Dorr actual halfday sail eachway, whole d21; returned dusk"
+      },
+      "harpoon_state": "One mounted in hunting boat after morning scouting, second available with own line; neither fired.",
+      "resupply27": {
+        "food_person_days": 24,
+        "cost_gp": 2.4,
+        "source": "BellReedordinaryfishingprovisions",
+        "bought": "d27/day240",
+        "returned": "d27/dusk180",
+        "transport": "BerrinDorrinonlyhuntingboat,actual4h+1hloading+4hreturn"
+      },
+      "crew_wage_arrears_gp": 6,
+      "arrears_for_days": "d30-d35",
+      "day29_to32_food_allocation": {
+        "person_days": 16,
+        "charged_once": true
+      },
+      "day33_to34_food_allocation": {
+        "person_days": 8,
+        "charged_once": true
+      },
+      "day35_food_status": "Existingstockemptyafter34; resupplyoperationnotresolved,noautomaticinjury"
+    },
+    "hiring_offer": {
+      "to": "myth-char-07bc6645bb49",
+      "payment_gp": 6,
+      "scope": "Help take greatshelledbeast; exact role/payment conditions still discussable",
+      "status": "Offered24day, not accepted or paid, reserve not added to cash"
+    }
+  },
+  "actor_notes": "Square hunter with an easy grin and a sunburnt nose. Jovial over business, direct when refused, short threats when cornered. Wants profit and reputation, will endanger an obstructing boat when a hunt is genuinely at stake; surrenders or retreats if outmatched. No secret imperial employer.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-bd72f2702234",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-27T01:28:21"
+}

@@ -1,0 +1,205 @@
+{
+  "id": "myth-char-138e5343a228",
+  "name": "Dragon Knight at the Copper Oar",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult male human Dragon Knight, one of the pair Halla spotted at Copper Oar door earlier. Now at kitchenyard duskfooddelivery with patrolpartner. Easy entitled tone, short bland commands, calls supplies Baron's provisions and expects his name to obtain them. No personal knowledge of Halla or guildstair incident. Wants food supplies for comrades without payment; this is his unilateral demand, not a lawful proven title.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 13,
+    "SIZ": 13,
+    "DEX": 12,
+    "INT": 10,
+    "POW": 11,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 0,
+    "healing_rate": 3,
+    "initiative_bonus": 11,
+    "luck_points": 0,
+    "magic_points": 11,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 25,
+    "Boating": 26,
+    "Brawn": 55,
+    "Conceal": 23,
+    "Dance": 23,
+    "Deceit": 21,
+    "Drive": 23,
+    "Endurance": 55,
+    "Evade": 40,
+    "First Aid": 22,
+    "Influence": 22,
+    "Insight": 21,
+    "Locale": 20,
+    "Perception": 45,
+    "Ride": 23,
+    "Sing": 22,
+    "Stealth": 22,
+    "Swim": 26,
+    "Unarmed": 50,
+    "Willpower": 50,
+    "Customs": 60,
+    "Native Tongue": 61,
+    "Intimidation": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 5,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 5,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 5,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 5,
+      "hp": 5,
+      "current_hp": -1
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 3
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Broadsword",
+      "damage": "1d8",
+      "size": "M",
+      "ap": 6,
+      "hp": 12
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L",
+      "ap": 4,
+      "hp": 12
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Sword and shield": 65
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "he/him",
+    "gender_note": "adult man",
+    "current_state": {
+      "position": "Beside Halla at Watch counter",
+      "food_claim": "abandoned after losing opposed intimidation",
+      "response": "removes hand from sack, says Keep your flour, then, leaves without attack",
+      "knows": "has seen axe-bearing dwarf guard here, does not know name/debt/guildincident",
+      "activity": "Awaiting custody handover",
+      "weapon": "Unarmed",
+      "shield": "none",
+      "actions_remaining_round": 1
+    },
+    "recognition": {
+      "character_id": "myth-char-77a79270f637",
+      "description": "unnamed dwarf with two axes who protected Copper Oar flour delivery",
+      "how": "recognised earlier at Forge landing and now caught approaching in the yard",
+      "when": "d0/dusk",
+      "knows_name": false,
+      "knows_home": true,
+      "knows_guild_incident": false
+    },
+    "current_activity": "keeps temper under Halla challenge, declines fight and resumes ordinary High Isle patrol; no pursuit",
+    "last_challenge": {
+      "when": "d-2/night",
+      "skill": "Willpower",
+      "target": 50,
+      "roll": 17,
+      "level": "success",
+      "outcome": "does not draw or attack"
+    },
+    "combat_state": {
+      "when": "d0/dusk",
+      "encounter": "myth-enc-e9665cb4dc9d",
+      "left_arm": "Serious Wound at -1/5 HP; Endurance76/55 failed against attack17, arm unusable",
+      "unable_to_attack_turns_remaining": 3,
+      "weapon_hand": "broadsword remains in right hand",
+      "position": "cornered against repair hull; Halla blocks gate"
+    },
+    "luck_policy": "PC-only campaign rule: NPCs have no Luck pool or Luck rank bonuses; never spend Luck for NPC rerolls, reversals or damage mitigation.",
+    "custody": {
+      "holder": "City Watch",
+      "transferred_from": "Crowbill",
+      "when": "d1/day",
+      "destination_intended": "City Watch for honest complaint about planted baronial silver",
+      "released": false,
+      "location": "High Isle Watch post receiving room",
+      "status": "Duty officer accepts custody pending investigation and medical assessment"
+    }
+  },
+  "actor_notes": "Short bland entitled commands; casualratherthanbellowing. ExpectsBaronname toget supplies withoutpaying. Prioritisesconvenience, notkillingfolk. DoesnotknowHalla,guildincidentorCrowbill. No free recognition or insight; reagrees onlyif persuaded/thwarted throughplay. Hispartnerstaysatgate nonspeakingbackground untilactionsneedstatblock.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "location": "myth-loc-50ef7563cb14",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-12T19:29:40"
+}

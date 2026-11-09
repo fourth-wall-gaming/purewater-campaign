@@ -1,0 +1,29 @@
+{
+  "id": "myth-enc-f5c88a530dd9",
+  "name": "Halla and Rusk: practice bout",
+  "description": "Controlled practice with blunted weapons, first three clean touches, stop after touch. No damaging follow-through. Player Halla chooses own actions and defences. Resolve skill exchanges with engine; touches and training effects do not cause HP damage. Both consented. Halla sized Rusk up with Perception 63 roll 9 success: Rusk stands right foot forward, sword on that side, shield tucked across left ribs; front knee exposed beneath shield.",
+  "summary": null,
+  "status": "resolved",
+  "round": 4,
+  "combatants": [
+    {
+      "id": "myth-char-069d998e58a6",
+      "name": "Rusk",
+      "initiative": 21,
+      "ap": 0,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "initiative": 12,
+      "ap": 0,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 11
+    }
+  ],
+  "created_at": "2026-10-12T00:52:06"
+}

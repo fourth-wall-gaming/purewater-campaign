@@ -1,0 +1,151 @@
+{
+  "id": "myth-char-47c2fb6813a1",
+  "name": "High Isle Watch duty officer",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult human duty officer at High Isle Watch post. Ink on right cuff, worn uniform, direct ordinary questions. Has been indoors on receiving duty, not a spectator at final.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 11,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 12,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 23,
+    "Boating": 24,
+    "Brawn": 24,
+    "Conceal": 23,
+    "Dance": 22,
+    "Deceit": 24,
+    "Drive": 23,
+    "Endurance": 24,
+    "Evade": 22,
+    "First Aid": 24,
+    "Influence": 45,
+    "Insight": 50,
+    "Locale": 26,
+    "Perception": 55,
+    "Ride": 23,
+    "Sing": 23,
+    "Stealth": 24,
+    "Swim": 24,
+    "Unarmed": 23,
+    "Willpower": 50,
+    "Customs": 66,
+    "Native Tongue": 64,
+    "Streetwise": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {
+    "Watch training": 60
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "he/him",
+    "gender_note": "adult man",
+    "luck_policy": "NPC no Luck under campaign rule",
+    "doing": {
+      "goal": "Assist Weir at Kiln and attend wounded Iven",
+      "next": "Attend conscious stable Iven and arrange appropriate dressing and transport; no healing roll applied yet.",
+      "where": "myth-loc-8bbc5a0606ad",
+      "as_of_session": 6
+    }
+  },
+  "actor_notes": "LOOKS: Adult human with ink on a worn uniform cuff. CORE: Receiving officer who wants injured people attended and actual complaints stated before deciding jurisdiction. VOICE: Direct plain questions, no speeches and no instant deductions. PRESSURE: Calls senior officer when title exceeds authority; neither promises justice nor dismisses evidence because of noble rank. WANTS: Find out what happened and keep counter safe. No knowledge of current tournament result until told or hears reliable report.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": "myth-loc-8bbc5a0606ad",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-21T18:23:36"
+}

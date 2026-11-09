@@ -1,0 +1,261 @@
+{
+  "id": "myth-char-fd2973412ca1",
+  "name": "Oren Vey",
+  "type": "npc",
+  "status": "active",
+  "description": "Established independent master of divination, illusion and old texts, resident at the House of Small Windows on High Isle. Private library and patronage support a pursuit of a vanished magician\u2019s dispersed library. Has limited professional exchanges with Hesper; does not know Hesper\u2019s private allegiance. No Crown office.",
+  "narrative": "Established independent master of divination, illusion and old texts, resident at the House of Small Windows on High Isle. Private library and patronage support a pursuit of a vanished magician\u2019s dispersed library. Has limited professional exchanges with Hesper; does not know Hesper\u2019s private allegiance. No Crown office.",
+  "characteristics": {
+    "STR": 8,
+    "CON": 11,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 18,
+    "POW": 18,
+    "CHA": 15
+  },
+  "attributes": {
+    "action_points": 4,
+    "damage_modifier": "-1d2",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 15,
+    "luck_points": 0,
+    "magic_points": 18,
+    "movement": "6.096m (20 feet)"
+  },
+  "skills": {
+    "Arcane Casting": 120,
+    "Arcane Knowledge": 120,
+    "Willpower": 115,
+    "Insight": 85,
+    "Perception": 90,
+    "Influence": 95,
+    "Courtesy": 95,
+    "Streetwise": 55,
+    "Evade": 55,
+    "Language (Common)": 90,
+    "Lore (Arcane history)": 120,
+    "Lore (Old manuscripts)": 115
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 9,
+      "current_hp": 9
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Pale grey coat"
+    },
+    {
+      "name": "Silver-mounted spectacles"
+    },
+    {
+      "name": "Correspondence case"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {},
+  "spells": {
+    "sorcery": [
+      "Read Magic",
+      "Avert",
+      "Protection",
+      "Magic Tricks",
+      "Repair",
+      "Preserve",
+      "Appraise",
+      "Detect Magic",
+      "Identify",
+      "Shield",
+      "Armor",
+      "Change Appearance",
+      "Illusion",
+      "Invisibility",
+      "Sleep",
+      "Magic Missile",
+      "Dispel Magic",
+      "Detect Invisibility",
+      "Locate Object",
+      "Mage Lock",
+      "Mirror Image",
+      "Fly",
+      "Hold Person",
+      "Dimension Door",
+      "Invisibility, Greater",
+      "Wizard Sight",
+      "Confusion",
+      "Enchant Item",
+      "Permanency"
+    ]
+  },
+  "powers": [
+    {
+      "name": "Mental Strength",
+      "effect": "Once per day, mental magic resistance two grades easier; disbelieve illusions one grade easier."
+    }
+  ],
+  "extras": {
+    "class": "Magic-User",
+    "rank": 4,
+    "rank_title": "Arch Mage",
+    "prepared_spells": {
+      "0": [
+        "Read Magic",
+        "Avert",
+        "Protection",
+        "Magic Tricks",
+        "Repair",
+        "Preserve",
+        "Appraise"
+      ],
+      "1": [
+        "Detect Magic",
+        "Identify",
+        "Shield",
+        "Armor",
+        "Change Appearance",
+        "Illusion",
+        "Invisibility",
+        "Sleep",
+        "Magic Missile"
+      ],
+      "2": [
+        "Dispel Magic",
+        "Detect Invisibility",
+        "Locate Object",
+        "Mage Lock",
+        "Mirror Image",
+        "Fly",
+        "Hold Person"
+      ],
+      "3": [
+        "Dimension Door",
+        "Invisibility, Greater",
+        "Wizard Sight",
+        "Confusion"
+      ],
+      "4": [
+        "Enchant Item",
+        "Permanency"
+      ]
+    },
+    "score": {
+      "want": "Have visiting scholars entrust rare material to his care.",
+      "ought": "Return another person\u2019s property when asked, even if he could preserve it better.",
+      "driver": "Fear that the most important work of his life will leave his reach.",
+      "stated_reason": "Good scholarship needs dry rooms and responsible custodians.",
+      "focus": "prevention",
+      "status": {
+        "Nimras": "Established host addressing a younger professional; becomes more formal if treated as an obstacle.",
+        "Rennic Vaur": "Colleague whose impatience he indulges."
+      },
+      "tactics": [
+        "Offer ordinary hospitality and useful access",
+        "Offer an exchange or ask for a copy",
+        "Withhold his own private material",
+        "Withdraw and protect himself if attacked"
+      ],
+      "when_lied_to": "miss",
+      "blind_spot": "Calls his own collecting preservation and other collectors possessive.",
+      "rhythm": "Unhurried complete sentences, occasional scholarly digressions; answers ordinary questions readily.",
+      "physical": "Handles papers and spectacles carefully; attire is worn comfortably rather than displayed.",
+      "secret": "A prized fragment in his private collection is only a copy; he has not admitted the mistake.",
+      "observed": []
+    },
+    "actor_notes": "LOOKS: elderly man in a pale grey coat, ink at a cuff, silver-mounted spectacles. CORE: a hospitable collector who believes access to knowledge depends on someone keeping it safe. NATURE: sociable with scholars, patient with questions, pleased by an exact observation. WOUND: discoveries which were lost because he could not obtain them in time. WANTS: useful exchanges without losing custody of what he already has. PRESSURE: formality replaces warmth; he protects his own property and retreats before risking his life. KEY: register is cultivated and conversational; he does not enumerate or issue military commands.",
+    "pronouns": "he/him",
+    "gender": "male",
+    "auction_examination_commission": {
+      "reserved_initial_gp": 5,
+      "advance_paid_gp": 1,
+      "fee_remaining_gp": 0,
+      "expenses_reserve_gp": 1,
+      "funds_remaining_gp": 4,
+      "contractor": "myth-char-4fc52ae14026",
+      "accepted": true,
+      "report_received": true,
+      "final_payment_gp": 3,
+      "fee_paid_total_gp": 4,
+      "expenses_paid_gp": 0,
+      "unspent_reserve_gp": 1,
+      "status": "completed"
+    }
+  },
+  "actor_notes": "LOOKS: elderly man in a pale grey coat, ink at a cuff, silver-mounted spectacles. CORE: a hospitable collector who believes access to knowledge depends on someone keeping it safe. NATURE: sociable with scholars, patient with questions, pleased by an exact observation. WOUND: discoveries which were lost because he could not obtain them in time. WANTS: useful exchanges without losing custody of what he already has. PRESSURE: formality replaces warmth; he protects his own property and retreats before risking his life. KEY: register is cultivated and conversational; he does not enumerate or issue military commands.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 18,
+  "experience_rolls": 0,
+  "location": "myth-loc-1f1ed691536c",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-23T17:51:30"
+}

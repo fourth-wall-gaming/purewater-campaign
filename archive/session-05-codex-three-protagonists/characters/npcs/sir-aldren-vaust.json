@@ -1,0 +1,290 @@
+{
+  "id": "myth-char-0d84d89645ea",
+  "name": "Sir Aldren Vaust",
+  "type": "npc",
+  "status": "active",
+  "description": "Wants personal permanence; owes lawful road protection. Aid is real, coercion is chosen. Bargains or surrenders when survival requires it.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 12,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Combat Skill": 75,
+    "Athletics": 60,
+    "Brawn": 60,
+    "Endurance": 65,
+    "Evade": 50,
+    "Influence": 65,
+    "Deceit": 60,
+    "Insight": 50,
+    "Willpower": 65,
+    "Perception": 55,
+    "Lore (Strategy and Tactics)": 70,
+    "Ride": 65
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 5,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 5,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 5,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 5,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 5,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 5,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Longsword",
+      "damage": "1d8",
+      "size": "M"
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 75
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Human",
+    "score": {
+      "want": "Control Wind Stair and secure restorationist patronage",
+      "ought": "Wants personal permanence; owes lawful road protection. Aid is real, coercion is chosen. Bargains or surrenders when survival requires it.",
+      "focus": "promotion",
+      "status": {
+        "Hrill": "Knight who secured workable voluntary lookout agreement and restitution; cordial acquaintance, no oath/employment"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": [
+        "d11/dusk: Hrill questioned Serevan persecution and called it unfair/dishonourable. Stated desire to control both approaches and remove Serevan by withholding hospice aid; no invented charge, crime by Serevan or relic disclosure. Await Hrill reply; no duel challenge assumed.",
+        "d11/dusk: Hrill accused unjust displacement without crime for a defensible position. Admitted no charge against Serevan, invited another way to secure ravine. Has not accepted alternative or withdrawn terms.",
+        "d11/dusk: Hrill won opposed Influence48/55vs74/65, arguing fair payment/consent/recompense. Struck exclusion clause, committed to voluntary rent for patrol post. Asked what injury needs redress. Must honour concession; no automatic renewed eviction.",
+        "d11/dusk: Hrill added conditional promise to escort Serevan to reeve if no fair resolution. Answered within same concession: exclusion withdrawn and voluntary rent; asked which injury requires redress. No threat of violence or new test.",
+        "d11/dusk: Hrill named Serevan allegation about taken burial item. Admitted men brought burial standard from dig and opened chest for identification. Did not disclose buyer, letter or concede ownership.",
+        "d11/dusk: Hrill won restitution negotiation52/55vs42/65 bothsuccess. Released standard unconditionally, asked him convey voluntary rental offer independently. Sale abandoned, gains must stand.",
+        "d13/dusk: After signing limited lease, Hrill shook hand and thanked me as Lord. Replied Sir Aldren will do, offered supper. No oath, appointment or new contract.",
+        "d13/night: Hrill offered extra sword for roadwork. Explained payroll burden, offered1GP for tomorrow's lease handover/lookout setup alongside Cessa, awaiting answer."
+      ]
+    },
+    "role": "vaust",
+    "doing": {
+      "goal": "Maintain bounded lawful roadwork within actual remaining resources",
+      "next": "Received crew and completed lower-road report, ordinary payroll remains underfunded; no renewed coercion or new deployment",
+      "where": "myth-loc-1518aa5a203b",
+      "as_of_session": 8
+    },
+    "assets": {
+      "retainers": [
+        "myth-char-7f6b84d0f737",
+        "myth-char-7e9437535c60",
+        "myth-char-62efe8322f45",
+        "myth-char-78aa9a268aad",
+        "myth-char-4e41f259956f",
+        "myth-char-c066ed2537f9"
+      ],
+      "officers": [
+        "myth-char-0d84d89645ea",
+        "myth-char-eea349d4bec5"
+      ],
+      "labourers": 4,
+      "riding_horses": 2,
+      "draft_horses": 2,
+      "carts": 4,
+      "grain_sacks": 20,
+      "aid_sacks_reserved": 6,
+      "gp": 0.8,
+      "relic_chests": 1,
+      "retainer_daily_gp": 1,
+      "labourer_daily_sp": 2,
+      "deployment": {
+        "cessa_aid": {
+          "departed": "d9/dawn",
+          "at": "myth-loc-1518aa5a203b",
+          "personnel": [
+            "myth-char-eea349d4bec5",
+            "myth-char-7f6b84d0f737",
+            "myth-char-7e9437535c60"
+          ],
+          "carts": 1,
+          "draft_horses": 1,
+          "grain_sacks": 6,
+          "status": "returned d11/dusk with all cargo"
+        },
+        "at_camp": {
+          "officers": 2,
+          "retainers": 4,
+          "labourers": 4,
+          "carts": 4,
+          "draft_horses": 2,
+          "riding_horses": 2,
+          "grain_sacks": 20
+        }
+      },
+      "relic_chest_contents": "Empty; standard released for restitution",
+      "rent_in_courier_custody_gp": 0,
+      "wages_ledger": {
+        "paid_through": "d14",
+        "days": "d7-d14 inclusive",
+        "guard_gp": 48,
+        "labour_gp": 6.4,
+        "total_gp": 54.4,
+        "starting_gp": 60,
+        "next_due": "d15 requires actual new funds or reduced payroll, no infinite army",
+        "hrill_day14_advance_gp": 1,
+        "rent_separate_gp": 3,
+        "day15": "6.8GP ordinary payroll due and unpaid; liquid1.6GP insufficient, no automatic disbursement"
+      },
+      "command_tents": {
+        "total": 1,
+        "at_camp": 0,
+        "deployed": "Erected at Alder Hame lookout; Harl/Oda there"
+      },
+      "labourer_deployment": {
+        "where": "Wind Stair",
+        "count": 4,
+        "when": "d16/day",
+        "purpose": "Two half-day clearance work sessions under Maelin,2SP each prepaid total8SP",
+        "tools": "Ordinary camp picks,shovels,levering bars on loan",
+        "status": "Returned White Cairn with borrowed tools d17/dusk after completed prepaid two-session job"
+      }
+    },
+    "plan_reference": "docs/scenarios/hrill-road-preparation.md",
+    "pronouns": "he/him",
+    "terms_revision": {
+      "household_exclusion": "withdrawn d11/dusk, struck from pledge",
+      "ravine_post": "Offer paid rent only by Serevan voluntary consent; no coercive eviction",
+      "rent_gp": 3,
+      "consent": "Signed bounded lease active14dusk->44dusk; post operational",
+      "restitution": "Return of standard independent of any land/patrol consent",
+      "lookout_lease": "All terms of Serevan offer accepted and signed d13/dusk; no occupation before payment and boundary confirmation",
+      "rent_status": "Cessa reports actual3GP payment to Serevan14dusk, reportreceived15dusk",
+      "duration": "30days from acceptance/payment"
+    },
+    "relic_storage": {
+      "location": "Released to Hrill at departure d12/dawn; actual delivery to Serevan d12/dusk not yet reported to Vaust",
+      "key_holder": "myth-char-eea349d4bec5",
+      "item": "Corroded engraved funerary metal standard-head",
+      "transferred": true,
+      "sale_status": "Abandoned, no replacement relic",
+      "transfer_authorised": "Unconditional return to Serevan via Hrill; pickup pending"
+    },
+    "hiring_offer": {
+      "to": "myth-char-07bc6645bb49",
+      "status": "Hrill d14 paid engagement completed",
+      "daily_gp": 1,
+      "day": "d14",
+      "scope": "Accompany Cessa to Alder Hame, uphold signed lease and consent, help set lookout positions; ends there, no unpaid return required",
+      "paid_gp": 1,
+      "reserve_gp": 0,
+      "reserve_included_in_liquid_gp": true
+    },
+    "road_clearance_offer": {
+      "when": "d15/dusk",
+      "labourers": 4,
+      "duration_days": 1,
+      "cost_gp": 0.8,
+      "tools": "Existing ordinary camp tools loaned",
+      "status": "Completed and reported d17/dusk; all borrowed tools returned, no further pay incurred",
+      "requires": "Willing crew and Hrill/Maelin direction; no new authority",
+      "paid_gp": 0.8,
+      "when_paid": "d16/dawn"
+    }
+  },
+  "actor_notes": "LOOKS: tall weathered knight, neatly repaired mail and a plain red cloak. CORE: order belongs to whoever has the nerve to impose it. NATURE: energetic, courteous, enjoys practical accomplishments and competent company. WOUND: royal employers discarded his service when peace made it inconvenient. WANTS: a permanent command and recognition. PRESSURE: turns bargains into tests of obedience, then force. KEY: confident soldierly brevity, makes tangible offers.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": "myth-loc-1518aa5a203b",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-25T21:09:17"
+}

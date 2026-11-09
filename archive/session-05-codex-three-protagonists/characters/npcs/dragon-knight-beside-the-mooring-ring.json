@@ -1,0 +1,160 @@
+{
+  "id": "myth-char-b416943b0941",
+  "name": "Dragon Knight beside the mooring ring",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult human Dragon Knight, square-faced, standing behind boat-sergeant on guild water-stair. He keeps hand on sword hilt while two fellow soldiers reach for fallen sergeant. A short-speaking soldier concerned with retrieving his leader, wary of nearby axes, no appetite for gratuitous public fight. Does not volunteer stories.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 13,
+    "CON": 13,
+    "SIZ": 13,
+    "DEX": 11,
+    "INT": 10,
+    "POW": 11,
+    "CHA": 10
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 0,
+    "healing_rate": 3,
+    "initiative_bonus": 10,
+    "luck_points": 0,
+    "magic_points": 11,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 24,
+    "Boating": 26,
+    "Brawn": 55,
+    "Conceal": 22,
+    "Dance": 21,
+    "Deceit": 20,
+    "Drive": 22,
+    "Endurance": 55,
+    "Evade": 35,
+    "First Aid": 21,
+    "Influence": 20,
+    "Insight": 21,
+    "Locale": 20,
+    "Perception": 45,
+    "Ride": 22,
+    "Sing": 21,
+    "Stealth": 21,
+    "Swim": 26,
+    "Unarmed": 24,
+    "Willpower": 50,
+    "Customs": 60,
+    "Native Tongue": 60,
+    "Intimidation": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 5,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 5,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 5,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 5,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 6
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Broadsword",
+      "damage": "1d8",
+      "size": "M",
+      "ap": 6,
+      "hp": 12
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L",
+      "ap": 4,
+      "hp": 12
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Sword and shield": 65
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "he/him",
+    "gender_note": "adult man",
+    "luck_policy": "PC-only campaign rule: NPCs have no Luck pool or Luck rank bonuses; never spend Luck for NPC rerolls, reversals or damage mitigation."
+  },
+  "actor_notes": "Clipped practical soldier speech, short direct instructions, no enumeration. First priority retrieve sergeant from water; keep axe-bearing stranger at distance, hand stays hilt, no unnecessary fight. Has not established whether fall deliberate.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 11,
+  "experience_rolls": 0,
+  "location": "myth-loc-85a0d71a0693",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-12T18:57:03"
+}

@@ -1,0 +1,152 @@
+{
+  "id": "myth-char-0317e24c9137",
+  "name": "Elna Pike",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult keeper of Three Steps Rooms; plain-spoken, commercially shrewd, wants safe guests and a solvent lodging. Does not hide useful leads behind riddles.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 10,
+    "CON": 12,
+    "SIZ": 11,
+    "DEX": 12,
+    "INT": 14,
+    "POW": 12,
+    "CHA": 14
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 2,
+    "healing_rate": 2,
+    "initiative_bonus": 13,
+    "luck_points": 0,
+    "magic_points": 12,
+    "movement": "6m"
+  },
+  "skills": {
+    "Influence": 60,
+    "Insight": 65,
+    "Willpower": 55,
+    "Perception": 60,
+    "Streetwise": 65,
+    "Evade": 40
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Three Steps Rooms small-room key",
+      "temporary": true
+    }
+  ],
+  "passions": {},
+  "combat_styles": {},
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "score": {
+      "want": "Protect guests and keep the lodging open",
+      "ought": "Protect guest privacy",
+      "driver": "Independent livelihood and personal control",
+      "stated_reason": "Protect guests and keep the lodging open",
+      "tactics": [
+        "Ask business plainly",
+        "Refuse intrusive strangers",
+        "Seek help when threatened",
+        "Retreat from lethal force"
+      ],
+      "when_lied_to": "miss",
+      "rhythm": "Plain practical replies.",
+      "observed": [
+        "d6/night: answered unknown visitor knock, offered small room at2silver/night including breakfast and asked duration. No booking or name yet."
+      ]
+    },
+    "doing": {
+      "goal": "Keep guests safe and lodging solvent",
+      "next": "Provide returned guest same prepaid room for remaining two nights; take messages for guests without revealing private details",
+      "where": "myth-loc-ddabdb0593f3",
+      "as_of_session": 8
+    },
+    "pronouns": "she/her"
+  },
+  "actor_notes": "LOOKS: Adult keeper of Three Steps Rooms; plain-spoken, commercially shrewd, wants safe guests and a solvent lodging. Does not hide useful leads behind riddles. CORE/WANTS: Protect guests and keep the lodging open. PRESSURE: Retreat from lethal force. KEY: answers direct questions, no automatic lie detection.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": "myth-loc-ddabdb0593f3",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-23T22:16:24"
+}

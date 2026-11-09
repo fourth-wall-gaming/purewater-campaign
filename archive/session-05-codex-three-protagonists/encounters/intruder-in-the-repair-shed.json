@@ -1,0 +1,29 @@
+{
+  "id": "myth-enc-3658a71c4a7f",
+  "name": "Intruder in the repair shed",
+  "description": "Halla discovered the Dragon Knight from the Copper Oar planting a tarred parcel beneath a repair hull. Halla attempted to approach with both axes drawn; the Knight heard him before striking distance.",
+  "summary": "Rules correction: only the first exchange was legal. Halla attack 62/81 and Knight broadsword parry 57/65 both succeeded; the blow was fully parried. Later rolls 100 and 15 were invalid extra proactive attacks, discarded with no Luck spent and no damage.",
+  "status": "resolved",
+  "round": 1,
+  "combatants": [
+    {
+      "id": "myth-char-138e5343a228",
+      "name": "Dragon Knight at the Copper Oar",
+      "initiative": 9,
+      "ap": 1,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "initiative": 9,
+      "ap": 0,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 11
+    }
+  ],
+  "created_at": "2026-10-14T01:52:21"
+}

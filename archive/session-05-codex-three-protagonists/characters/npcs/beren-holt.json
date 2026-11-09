@@ -1,0 +1,189 @@
+{
+  "id": "myth-char-ded24e4e55e4",
+  "name": "Beren Holt",
+  "type": "npc",
+  "status": "active",
+  "description": "Noncasting resident correspondent of the King\u2019s Assay; former instrument-maker. Receives packets, arranges witnesses, preserves copies. No warrant, punch or licensing authority. Rolled sleeves and square working hands; speaks readily about people, reluctantly about interpretations.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 10,
+    "CON": 11,
+    "SIZ": 11,
+    "DEX": 12,
+    "INT": 15,
+    "POW": 12,
+    "CHA": 12
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 13,
+    "luck_points": 0,
+    "magic_points": 12,
+    "movement": "4m walk / 12m fly"
+  },
+  "skills": {
+    "Athletics": 22,
+    "Boating": 21,
+    "Brawn": 21,
+    "Conceal": 24,
+    "Dance": 24,
+    "Deceit": 27,
+    "Drive": 24,
+    "Endurance": 22,
+    "Evade": 24,
+    "First Aid": 27,
+    "Influence": 60,
+    "Insight": 60,
+    "Locale": 30,
+    "Perception": 55,
+    "Ride": 24,
+    "Sing": 24,
+    "Stealth": 27,
+    "Unarmed": 22,
+    "Willpower": 24,
+    "Flight": 22,
+    "Customs": 70,
+    "Native Tongue": 67,
+    "Commerce": 65,
+    "Streetwise": 65,
+    "Lore (Assay correspondence)": 75
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {},
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "they/them",
+    "score": {
+      "want": "Keep local Assay correspondence accessible and reliable",
+      "ought": "Protect witness addresses and keep records independent of favours",
+      "driver": "Protect people who trust the correspondence",
+      "tactics": [
+        "Ask who needs help",
+        "Receive evidence and preserve copies",
+        "Contact an actual warranted investigator",
+        "Protect confidential addresses"
+      ],
+      "when_lied_to": "miss",
+      "rhythm": "Plain, people-focused, ready to name contacts; no rulings beyond authority",
+      "observed": [
+        "d6/night: two apparent strangers arrived; asked What\u2019s happened? No case or identity yet known.",
+        "d6/night: received real names/visible faces and Rennic report with Kest letter. Will seek warranted Assayer, asks if maker still at Kiln. No official finding or dispatch yet.",
+        "d6/night: Nimras estimates Kest still at Kiln and requests morning approach so he can observe. Holt adds request and proposes advance meeting here; no confirmed investigator yet.",
+        "d7/dawn: returning witnesses hear actual last-seen Conall Temple boat lead; Holt puts on coat and invites them to accompany personal report delivery. No investigator contacted yet.",
+        "d7/dawn: personally delivered report and witnesses to Conall at Temple Isle; referral completed, inspection offered."
+      ]
+    },
+    "doing": {
+      "goal": "Deliver the preserved report to a warranted Assayer",
+      "next": "Prepare to take actual report by boat to Temple Isle following last-seen Conall lead, invite witnesses to give direct account. No travel or delivery yet.",
+      "where": "myth-loc-ea72dd061d6f",
+      "as_of_session": 6
+    }
+  },
+  "actor_notes": "LOOKS: rolled sleeves, square working hands. CORE: former instrument-maker and reliable local Assay correspondent. WANTS: accessible correspondence and protected witnesses. KEY: asks about people readily; does not invent rulings or a warrant.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": "myth-loc-6f1056d77024",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-24T03:47:32"
+}

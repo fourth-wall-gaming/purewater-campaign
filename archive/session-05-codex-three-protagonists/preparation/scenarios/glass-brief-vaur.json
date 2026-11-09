@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "id": "myth-char-1aa1d6892d3a",
+  "name": "Rennic Vaur",
+  "pronouns": "he/him",
+  "gender_note": null,
+  "status": "active",
+  "description": "Nimras\u2019s former teacher and experienced mage hunter. Retained an entrusted binding manuscript beyond its loan to help disable a living-caster hunt. Affectionate, practical, independent. Selected Glass Hounds setup supersedes the rejected survey purpose.",
+  "location": "The Glasswalk",
+  "actor_notes": "LOOKS: lean middle-aged traveller, close-cropped grey hair, repaired coat. CORE: practical affectionate teacher who acts before asking permission. WANTS: help Kest stop dangerous conversion, then settle fellowship obligations. PRESSURE: terse, seeks real exits. KEY: plain irreverent answers, no riddles or water-survey explanations.",
+  "notes_source": "actor-notes",
+  "agendas": [
+    "Finish the comparison before returning (abandoned)",
+    "Settle the missing teacher\u2019s commission (active)"
+  ],
+  "believes": [],
+  "guidance": null
+}

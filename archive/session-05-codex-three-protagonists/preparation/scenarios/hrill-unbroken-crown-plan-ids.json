@@ -1,0 +1,1775 @@
+{
+  "doctrine_revision": {
+    "success": true,
+    "fact": {
+      "id": "myth-fact-ed9f33c23a6d",
+      "title": "Unbroken Crown internal oath and coercive purpose \u2014 GM background",
+      "statement": "The Unbroken Crown cell led by Caldus Vane uses a plain-language internal oath renouncing human kings, promising obedience to the inhuman Dragon Kings and accepting the subjection of unwilling humans. Its public appeal is veteran fellowship, rank and order. Vane authorises intimidation, abduction and armed resistance with finite people and resources. There is no cell spellcaster, working compulsion, confirmed living Dragon King or established Hanzo command. This is prepared GM background, not new PC knowledge.",
+      "status": "established",
+      "truth": "true",
+      "time_index": 229,
+      "when": "d41/day",
+      "narrative": "Authoritative details and operations: docs/scenarios/hrill-unbroken-crown-operations.md",
+      "about": [],
+      "about_names": [],
+      "from": null,
+      "from_name": null
+    },
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "customer_revision": {
+    "success": true,
+    "fact": {
+      "id": "myth-fact-3973284f0787",
+      "title": "Dane\u2019s limited knowledge of customer Caldus Vane \u2014 GM background",
+      "statement": "Merrit Dane knows Caldus Vane as an arms customer and veteran-meeting host at Reedgate. Dane has the d43/dusk invitation and heard \u201cbrothers of the oath,\u201d but has not read the internal oath or learned the plan against Mara. Dane\u2019s receipt packet contains Vane\u2019s old introduction asking him to receive Dame Avel Veyr and her ancestral proofs; Dane treated it as a commercial referral and did not know or fund her Greywatch plan. No PC or Lysa has yet been given Vane\u2019s name, place, invitation or introduction.",
+      "status": "established",
+      "truth": "true",
+      "time_index": 229,
+      "when": "d41/day",
+      "narrative": "The specific Vane-Avel introduction is an independent evidence route. It does not make Dane party to Greywatch.",
+      "about": [],
+      "about_names": [],
+      "from": null,
+      "from_name": null
+    },
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "vane_avel_fact": {
+    "success": true,
+    "id": "myth-fact-7abd84a10420",
+    "status": "established",
+    "truth": "true",
+    "when": "d41/day",
+    "about": [
+      "myth-char-87c2db0593fc",
+      "myth-char-9ea95fe01beb"
+    ],
+    "from": null,
+    "learned_by": [
+      "myth-char-87c2db0593fc",
+      "myth-char-9ea95fe01beb"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "relic_propaganda_fact": {
+    "success": true,
+    "id": "myth-fact-5ff48c6853e0",
+    "status": "established",
+    "truth": "true",
+    "when": "d41/day",
+    "about": [
+      "myth-char-87c2db0593fc",
+      "myth-char-1e3facc43b6a"
+    ],
+    "from": null,
+    "learned_by": [
+      "myth-char-87c2db0593fc",
+      "myth-char-1e3facc43b6a",
+      "myth-char-9ea95fe01beb"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "dane_intro_fact": {
+    "success": true,
+    "id": "myth-fact-e797e1a7d2da",
+    "status": "established",
+    "truth": "true",
+    "when": "d41/day",
+    "about": [
+      "myth-char-e1868d3d940c",
+      "myth-char-87c2db0593fc",
+      "myth-char-9ea95fe01beb"
+    ],
+    "from": null,
+    "learned_by": [
+      "myth-char-e1868d3d940c",
+      "myth-char-87c2db0593fc",
+      "myth-char-9ea95fe01beb"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "corl_clue_fact": {
+    "success": true,
+    "id": "myth-fact-2ba55f3fd62c",
+    "status": "established",
+    "truth": "true",
+    "when": "d41/day",
+    "about": [
+      "myth-char-ed1a4282d985",
+      "myth-char-87c2db0593fc",
+      "myth-char-9ea95fe01beb"
+    ],
+    "from": null,
+    "learned_by": [
+      "myth-char-ed1a4282d985"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "pledge_cache_fact": {
+    "success": true,
+    "id": "myth-fact-2d468adaab6d",
+    "status": "established",
+    "truth": "true",
+    "when": "d41/day",
+    "about": [
+      "myth-char-87c2db0593fc",
+      "myth-char-9ea95fe01beb",
+      "myth-loc-e7d28bb092c5"
+    ],
+    "from": null,
+    "learned_by": [
+      "myth-char-9ea95fe01beb",
+      "myth-char-64a3662e6aed"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "avel_current": {
+    "success": true,
+    "id": "myth-char-87c2db0593fc",
+    "score_warnings": [
+      "missing slots: stated_reason, focus, when_lied_to, blind_spot, rhythm, physical, secret",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "vane_current": {
+    "success": true,
+    "id": "myth-char-9ea95fe01beb",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "othin_forgery": {
+    "success": true,
+    "id": "myth-char-64a3662e6aed",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "dane_connection": {
+    "success": true,
+    "id": "myth-char-e1868d3d940c",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "corl_connection": {
+    "success": true,
+    "id": "myth-char-ed1a4282d985",
+    "score_warnings": [
+      "missing slots: stated_reason, focus, tactics, when_lied_to, blind_spot, rhythm, physical, secret"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "tamsin": {
+    "success": true,
+    "id": "myth-char-3d23ff6ae8a5",
+    "characteristics": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 13,
+      "INT": 12,
+      "POW": 13,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 3,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 2,
+      "initiative_bonus": 12,
+      "luck_points": 3,
+      "magic_points": 13,
+      "movement": "6m"
+    },
+    "skills": {
+      "Athletics": 50,
+      "Boating": 24,
+      "Brawn": 24,
+      "Conceal": 26,
+      "Dance": 24,
+      "Deceit": 23,
+      "Drive": 26,
+      "Endurance": 50,
+      "Evade": 40,
+      "First Aid": 25,
+      "Influence": 22,
+      "Insight": 45,
+      "Locale": 24,
+      "Perception": 50,
+      "Ride": 26,
+      "Sing": 24,
+      "Stealth": 25,
+      "Swim": 24,
+      "Unarmed": 25,
+      "Willpower": 55,
+      "Customs": 64,
+      "Native Tongue": 63,
+      "Arms": 50
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          3
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          4,
+          6
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          7,
+          9
+        ],
+        "ap": 2,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          10,
+          12
+        ],
+        "ap": 2,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          13,
+          15
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          16,
+          18
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "tamsin_cfg": {
+    "success": true,
+    "id": "myth-char-3d23ff6ae8a5",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "tamsin_where": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "ruan": {
+    "success": true,
+    "id": "myth-char-0b67710f6dec",
+    "characteristics": {
+      "STR": 11,
+      "CON": 13,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 12
+    },
+    "attributes": {
+      "action_points": 3,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 3,
+      "initiative_bonus": 12,
+      "luck_points": 2,
+      "magic_points": 12,
+      "movement": "6m"
+    },
+    "skills": {
+      "Athletics": 45,
+      "Boating": 24,
+      "Brawn": 23,
+      "Conceal": 24,
+      "Dance": 24,
+      "Deceit": 25,
+      "Drive": 24,
+      "Endurance": 55,
+      "Evade": 40,
+      "First Aid": 25,
+      "Influence": 24,
+      "Insight": 50,
+      "Locale": 26,
+      "Perception": 50,
+      "Ride": 24,
+      "Sing": 24,
+      "Stealth": 25,
+      "Swim": 24,
+      "Unarmed": 23,
+      "Willpower": 50,
+      "Customs": 66,
+      "Native Tongue": 65,
+      "Arms": 45
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          3
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          4,
+          6
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          7,
+          9
+        ],
+        "ap": 2,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          10,
+          12
+        ],
+        "ap": 2,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          13,
+          15
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          16,
+          18
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "ruan_cfg": {
+    "success": true,
+    "id": "myth-char-0b67710f6dec",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "ruan_where": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "edra": {
+    "success": true,
+    "id": "myth-char-6fe6fc2a04e3",
+    "characteristics": {
+      "STR": 11,
+      "CON": 13,
+      "SIZ": 11,
+      "DEX": 14,
+      "INT": 13,
+      "POW": 13,
+      "CHA": 11
+    },
+    "attributes": {
+      "action_points": 3,
+      "damage_modifier": "+0",
+      "experience_modifier": 0,
+      "healing_rate": 3,
+      "initiative_bonus": 13,
+      "luck_points": 3,
+      "magic_points": 13,
+      "movement": "6m"
+    },
+    "skills": {
+      "Athletics": 65,
+      "Boating": 24,
+      "Brawn": 22,
+      "Conceal": 27,
+      "Dance": 25,
+      "Deceit": 24,
+      "Drive": 27,
+      "Endurance": 60,
+      "Evade": 50,
+      "First Aid": 27,
+      "Influence": 22,
+      "Insight": 26,
+      "Locale": 26,
+      "Perception": 55,
+      "Ride": 27,
+      "Sing": 24,
+      "Stealth": 27,
+      "Swim": 24,
+      "Unarmed": 25,
+      "Willpower": 55,
+      "Customs": 66,
+      "Native Tongue": 64,
+      "Arms": 50,
+      "Bureaucracy": 55
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          3
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          4,
+          6
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          7,
+          9
+        ],
+        "ap": 2,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Chest",
+        "range": [
+          10,
+          12
+        ],
+        "ap": 2,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          13,
+          15
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          16,
+          18
+        ],
+        "ap": 2,
+        "hp": 4,
+        "current_hp": 4
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 2,
+        "hp": 5,
+        "current_hp": 5
+      }
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "edra_cfg": {
+    "success": true,
+    "id": "myth-char-6fe6fc2a04e3",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "edra_where": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "strategic_update": {
+    "success": true,
+    "id": "myth-agenda-892c66b201bf",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "u0_watch": {
+    "success": true,
+    "id": "myth-beat-f7634d93119f",
+    "when": "d42/dawn",
+    "time_index": 232,
+    "cast": [
+      "myth-char-64a3662e6aed",
+      "myth-char-937a61a1e9c1"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "u1_revise": {
+    "success": true,
+    "beat": {
+      "id": "myth-beat-ed7adcfed5dd",
+      "title": "U1 \u2014 Attempt to recover Mara and the oath sheet",
+      "summary": "Conditional three-person recovery at causeway; request, grapple or combat, never automatic abduction.",
+      "status": "pending",
+      "when": "d42/day",
+      "time_index": 233,
+      "trigger": "time",
+      "onscreen_if": "Warning/following/protection/interception or actual target encounter. Absence or changed route ends attempt.",
+      "branches": null,
+      "result": null,
+      "narrative": "Requires free trio and route information not disproved by U0. Depart dawn270,walk90,expected day60,wait30,return90. Uses listed gear and rope only. Success may control person or paper; losses, absence or protection cancel. Report requires survivor return. Suppressing evidence earns no strategic milestone.",
+      "agenda": "myth-agenda-892c66b201bf",
+      "agenda_title": "Establish an Unbroken Crown enclave at Reedgate",
+      "priority": 4,
+      "place": "myth-loc-d6eaa9caf9aa",
+      "place_name": "Ashwick west-road causeway",
+      "cast": [
+        "myth-char-85f99a7f28b1",
+        "myth-char-786b3af53c81",
+        "myth-char-64a3662e6aed",
+        "myth-char-937a61a1e9c1"
+      ],
+      "cast_names": [
+        "Harl Dene",
+        "Sella Marr",
+        "Othin Pell",
+        "Mara Fen"
+      ]
+    },
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "u2_recruit": {
+    "success": true,
+    "id": "myth-beat-35eade482f9d",
+    "when": "d42/dusk",
+    "time_index": 234,
+    "cast": [
+      "myth-char-9ea95fe01beb",
+      "myth-char-64a3662e6aed",
+      "myth-char-3d23ff6ae8a5",
+      "myth-char-0b67710f6dec"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "u3_revise": {
+    "success": true,
+    "beat": {
+      "id": "myth-beat-55f48fbe0074",
+      "title": "U3 \u2014 Initiate only actual willing attendees",
+      "summary": "Full plain oath offered to actual attendees; no mind control, captive recruitment or unnamed soldiers.",
+      "status": "pending",
+      "when": "d43/dusk",
+      "time_index": 238,
+      "trigger": "time",
+      "onscreen_if": "Actual attendee, witness, invitation, watch action or PC visit leads to Reedgate.",
+      "branches": null,
+      "result": null,
+      "narrative": "Requires Vane free, hall usable and at least one actual attendee. Two hours. Refusers can leave unless available guards make and resolve an actual detention attempt. A captive Mara never counts as a recruit. Arrest, exposure or no attendees cancels.",
+      "agenda": "myth-agenda-892c66b201bf",
+      "agenda_title": "Establish an Unbroken Crown enclave at Reedgate",
+      "priority": 4,
+      "place": "myth-loc-e7d28bb092c5",
+      "place_name": "Reedgate Tollhouse",
+      "cast": [
+        "myth-char-9ea95fe01beb",
+        "myth-char-85f99a7f28b1",
+        "myth-char-786b3af53c81",
+        "myth-char-64a3662e6aed",
+        "myth-char-3d23ff6ae8a5",
+        "myth-char-0b67710f6dec"
+      ],
+      "cast_names": [
+        "Ser Caldus Vane",
+        "Harl Dene",
+        "Sella Marr",
+        "Othin Pell",
+        "Tamsin Hale",
+        "Ruan Cale"
+      ]
+    },
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "u4_supply": {
+    "success": true,
+    "id": "myth-beat-b499db584ae1",
+    "when": "d44/day",
+    "time_index": 241,
+    "cast": [
+      "myth-char-64a3662e6aed",
+      "myth-char-85f99a7f28b1",
+      "myth-char-786b3af53c81"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "u5_courier": {
+    "success": true,
+    "id": "myth-beat-4c2047fd19ad",
+    "when": "d45/day",
+    "time_index": 245,
+    "cast": [
+      "myth-char-9ea95fe01beb",
+      "myth-char-85f99a7f28b1",
+      "myth-char-786b3af53c81",
+      "myth-char-64a3662e6aed",
+      "myth-char-6fe6fc2a04e3"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "u6_forge": {
+    "success": true,
+    "id": "myth-beat-e89221a244fd",
+    "when": "d45/dusk",
+    "time_index": 246,
+    "cast": [
+      "myth-char-64a3662e6aed",
+      "myth-char-9ea95fe01beb"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "u7_checkpoint": {
+    "success": true,
+    "id": "myth-beat-9e33bafe031e",
+    "when": "d46/dawn",
+    "time_index": 248,
+    "cast": [
+      "myth-char-9ea95fe01beb",
+      "myth-char-85f99a7f28b1",
+      "myth-char-786b3af53c81",
+      "myth-char-64a3662e6aed",
+      "myth-char-3d23ff6ae8a5",
+      "myth-char-0b67710f6dec"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "avel_agenda": {
+    "success": true,
+    "id": "myth-agenda-80fbc2eb8561",
+    "holder": "myth-char-87c2db0593fc",
+    "holder_type": "myth-character",
+    "targets": [
+      "myth-char-9ea95fe01beb"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "avel_letter_request": {
+    "success": true,
+    "id": "myth-beat-0e8dc82e3b70",
+    "when": "d42/dawn",
+    "time_index": 232,
+    "cast": [
+      "myth-char-87c2db0593fc",
+      "myth-char-c15f519326d9"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "courier_agenda": {
+    "success": true,
+    "id": "myth-agenda-f09a9a15b371",
+    "holder": "myth-char-c15f519326d9",
+    "holder_type": "myth-character",
+    "targets": [
+      "myth-char-9566e8a59e69",
+      "myth-loc-e7d28bb092c5"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "courier_depart": {
+    "success": true,
+    "id": "myth-beat-69408f03f6f8",
+    "when": "d42/dawn",
+    "time_index": 232,
+    "cast": [
+      "myth-char-6fe6fc2a04e3",
+      "myth-char-c15f519326d9"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "courier_ashwick": {
+    "success": true,
+    "id": "myth-beat-376fdeeab0cf",
+    "when": "d44/dusk",
+    "time_index": 242,
+    "cast": [
+      "myth-char-6fe6fc2a04e3",
+      "myth-char-9566e8a59e69"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "interference_fact": {
+    "success": true,
+    "id": "myth-fact-4ea176127c3f",
+    "status": "not-yet-true",
+    "truth": "true",
+    "when": null,
+    "about": [
+      "myth-char-9ea95fe01beb"
+    ],
+    "from": null,
+    "learned_by": [],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "reaction_agenda": {
+    "success": true,
+    "id": "myth-agenda-9f4af936e100",
+    "holder": "myth-char-9ea95fe01beb",
+    "holder_type": "myth-character",
+    "targets": [
+      "myth-char-937a61a1e9c1",
+      "myth-char-9566e8a59e69",
+      "myth-char-87c2db0593fc"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "reaction_gate": {
+    "success": true,
+    "agenda": "myth-agenda-9f4af936e100",
+    "requires": "myth-fact-4ea176127c3f",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "reaction_matrix_beat": {
+    "success": true,
+    "id": "myth-beat-448abf3bd32e",
+    "when": null,
+    "time_index": null,
+    "cast": [
+      "myth-char-9ea95fe01beb",
+      "myth-char-85f99a7f28b1",
+      "myth-char-786b3af53c81",
+      "myth-char-64a3662e6aed"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "vane_defeated_fact": {
+    "success": true,
+    "id": "myth-fact-322b4a9b6e57",
+    "status": "not-yet-true",
+    "truth": "true",
+    "when": null,
+    "about": [
+      "myth-char-9ea95fe01beb"
+    ],
+    "from": null,
+    "learned_by": [],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "defeat_thwarts_strategic": {
+    "success": true,
+    "fact": "myth-fact-322b4a9b6e57",
+    "agenda": "myth-agenda-892c66b201bf",
+    "effect": "thwart",
+    "amount": null,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "defeat_thwarts_reaction": {
+    "success": true,
+    "fact": "myth-fact-322b4a9b6e57",
+    "agenda": "myth-agenda-9f4af936e100",
+    "effect": "thwart",
+    "amount": null,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "lore_update": {
+    "success": true,
+    "id": "myth-lore-c82e9705c994",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "arc_update": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    }
+  },
+  "review_note": {
+    "success": true,
+    "id": "myth-event-e4118626775d",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280,AGREEDCORRECTIONPREPARED. Activeprepdocs/scenarios/hrill-unbroken-crown-preparation.md/story. CurrentphysicalH/Lysa/DaneSAFEARSENALENTRY,JoIvoquarrycampwithKettWillaBera. LysaCAMETOINVESTIGATECOERCIVE/RADICALDragonKingsallegianceandCUSTOMERCONTACTSafterAvelarmedattack;DaneexpeditionLEFTALONE. OldGARRISON STORESmarkHISTORICALPROVENANCE,noMODERNCrownclaim/seizure/compensationorhold;withdrawnbranchNOTmemories.HbacksDanehonest/fairtreatment. EarlierDaneorderappealhisrationalisation,notmovementharmlessness. PendingonresumptionLysaaskaboutcustomersarmingmensworntoDragonKings;NOTyetplayed. No newcellnames/oath/witness/plansknownH/Lysa,GMnativeprepready. HknowsAvelown60GPsale,Daneown/customersrestorationistsympathyandnamesrefusal;nocurrentmagic/livingKing/Hanzo/commissionproof. H26GP3SP5CPfullHPFreshMP8Luck1ownmailshieldswordbow20arrows,no swordpurchase. Dane16GP6SPfood0after41allocation,3guard+1Berabalanceunpaidfuture. Allcache4mail8swords12spears80boltsbelow,2mail1swordconfirmedcondition. Beamunsafeunshored,sidecrawl30minsafe,guardoil0.25h+new1/12hspare20minunlit;Bera89and88failuresstandbutH/Lysanotyetbriefed. Salvageattemptsconditional,notfocalcampaigngate.Noweaponsdrawn,otherPCclocksunchanged. Allfuturecelloperationsconditional,noharmdone/newPCknowledge. Playclockhelduntilreviewends.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "scene_hold": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "reedgate_bend": {
+    "success": true,
+    "id": "myth-loc-df7635e9265f",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "u5_place_revision": {
+    "success": true,
+    "beat": {
+      "id": "myth-beat-4c2047fd19ad",
+      "title": "U5 \u2014 Attempt to seize Edra Morn\u2019s Crown route wallet",
+      "summary": "Conditional road interception requiring actual route intelligence and at least two free fighters.",
+      "status": "pending",
+      "when": "d45/day",
+      "time_index": 245,
+      "trigger": "time",
+      "onscreen_if": "Hrill escorts/warns Edra, discovers scout or road position, or investigates a missing courier.",
+      "branches": null,
+      "result": null,
+      "narrative": "At Reedgate road bend: quartermile south of tollhouse, road between three-foot ditch and thorn bank, field path sixty feet before bend and eighty feet open warning unless actual concealment succeeds. Edra departs Hythe d42dawn, expected Ashwick d44dusk, north d45day0, bend about day60. Requires credible route report, actual travel, unaltered route and two free combatants. Thirty-minute wait. Edra may detect, escape, surrender wallet, be rescued or fight. Wallet has specific token/orders, not blank seal. Success alone earns credential milestone; protection/failure removes U6.",
+      "agenda": "myth-agenda-892c66b201bf",
+      "agenda_title": "Establish an Unbroken Crown enclave at Reedgate",
+      "priority": 4,
+      "place": "myth-loc-df7635e9265f",
+      "place_name": "Reedgate road bend",
+      "cast": [
+        "myth-char-9ea95fe01beb",
+        "myth-char-85f99a7f28b1",
+        "myth-char-786b3af53c81",
+        "myth-char-64a3662e6aed",
+        "myth-char-6fe6fc2a04e3"
+      ],
+      "cast_names": [
+        "Ser Caldus Vane",
+        "Harl Dene",
+        "Sella Marr",
+        "Othin Pell",
+        "Edra Morn"
+      ]
+    },
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "lore_refresh_named_cast_and_bend": {
+    "success": true,
+    "id": "myth-lore-c82e9705c994",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "vane_join_movement": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "relic_demonology_revision": {
+    "success": true,
+    "fact": {
+      "id": "myth-fact-5ff48c6853e0",
+      "title": "The Veyr heirlooms are imperial propaganda for human subjection",
+      "statement": "Avel\u2019s inherited ceremonial mail reads PEACE THROUGH OBEDIENCE and praises an ancestor for returning reed households to their appointed lord. Beneath the inner collar, THE CROWNED BREATH ENTERS THE WORTHY CAPTAIN is a historical possession dedication, not an active spell or usable ritual. Her dragon signet shows a kneeling human whose worn lower edge retains a collar-chain. The Veyr chronicle calls refugees strayed dependants, forced levies restored households and executions the quieting of disorder. These objects are authentic propaganda, not enchanted mind control.",
+      "status": "established",
+      "truth": "true",
+      "time_index": 229,
+      "when": "d41/day",
+      "narrative": "The inner formula made literal return seem plausible to Avel. Vane and Cassian recognized its historical connection to captain-possession while withholding every practical dependency.",
+      "about": [
+        "myth-char-87c2db0593fc",
+        "myth-char-1e3facc43b6a"
+      ],
+      "about_names": [
+        "Dame Avel Veyr",
+        "Elen Veyr"
+      ],
+      "from": null,
+      "from_name": null
+    },
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "cassian_knows_relic_formula": {
+    "success": true,
+    "knowers": [
+      "myth-char-6d2b81f7c904"
+    ],
+    "fact": "myth-fact-5ff48c6853e0",
+    "certainty": "knows",
+    "source": "told",
+    "since": 229,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "pledge_movement_revision": {
+    "success": true,
+    "fact": {
+      "id": "myth-fact-2d468adaab6d",
+      "title": "Vane\u2019s box contains Avel\u2019s preliminary pledge and his draft disavowal",
+      "statement": "The locked travelling box at Reedgate holds Vane\u2019s counterpart of Avel\u2019s preliminary Unbroken Crown pledge, his written promise of permanent command, a draft disavowal to use if she failed, and Cassian Bree\u2019s Ember-watermarked introduction and coded road instruction. None has yet been removed or shown to the Crown or Hrill.",
+      "status": "established",
+      "truth": "true",
+      "time_index": 229,
+      "when": "d41/day",
+      "narrative": "Cassian\u2019s instruction says establish a lawful face at Reedgate, keep a roster of suitable veterans and report when the road can receive the old campaign dead. It proves a wider Movement link but contains no ritual procedure.",
+      "about": [
+        "myth-char-87c2db0593fc",
+        "myth-char-9ea95fe01beb",
+        "myth-loc-e7d28bb092c5"
+      ],
+      "about_names": [
+        "Dame Avel Veyr",
+        "Ser Caldus Vane",
+        "Reedgate Tollhouse"
+      ],
+      "from": null,
+      "from_name": null
+    },
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "movement_link_fact": {
+    "success": true,
+    "id": "myth-fact-ab24675b44be",
+    "status": "established",
+    "truth": "true",
+    "when": "d41/day",
+    "about": [
+      "myth-char-9ea95fe01beb",
+      "myth-char-6d2b81f7c904",
+      "myth-faction-c0a9a96aa980"
+    ],
+    "from": null,
+    "learned_by": [
+      "myth-char-9ea95fe01beb",
+      "myth-char-6d2b81f7c904"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "cassian_letter_fact": {
+    "success": true,
+    "id": "myth-fact-390829fc693b",
+    "status": "established",
+    "truth": "true",
+    "when": "d41/day",
+    "about": [
+      "myth-char-9ea95fe01beb",
+      "myth-char-6d2b81f7c904",
+      "myth-char-64a3662e6aed",
+      "myth-loc-e7d28bb092c5"
+    ],
+    "from": null,
+    "learned_by": [
+      "myth-char-9ea95fe01beb",
+      "myth-char-6d2b81f7c904",
+      "myth-char-64a3662e6aed"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "vane_movement_role": {
+    "success": true,
+    "id": "myth-char-9ea95fe01beb",
+    "score_warnings": [
+      "missing slots: driver, stated_reason, focus, status, when_lied_to, blind_spot, rhythm, physical, secret, observed",
+      "tactics must be an ordered list"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "cassian_vane_file": {
+    "success": true,
+    "id": "myth-char-6d2b81f7c904",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "strategic_movement_refresh": {
+    "success": true,
+    "id": "myth-agenda-892c66b201bf",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "u8_report": {
+    "success": true,
+    "id": "myth-beat-f6bd7b11fdc5",
+    "when": null,
+    "time_index": null,
+    "cast": [
+      "myth-char-9ea95fe01beb",
+      "myth-char-64a3662e6aed"
+    ],
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "reaction_matrix_movement_refresh": {
+    "success": true,
+    "beat": {
+      "id": "myth-beat-448abf3bd32e",
+      "title": "Apply the saved report-and-capacity reaction matrix",
+      "summary": "No reaction until Vane actually knows interference; then use only surviving assets and cancel impossible operations.",
+      "status": "pending",
+      "when": null,
+      "time_index": null,
+      "trigger": "clock>=0",
+      "onscreen_if": "Actual report reaches Vane and produces movement, negotiation, evidence destruction or retreat observable in play.",
+      "branches": null,
+      "result": null,
+      "narrative": "Mara protected: abort U1 after survivor report; max2GP public offer/bribe, never storm staffed post. Dane cuts contact: lose sales/cache route, no revenge. Lost follower: reduce force after actual report/missed rendezvous, no replacements. Watch exposed:20min burn specified hall copies,1h move portable cash/pledge/seal with present people; external copies survive, no new hideout. Infiltrator detected: challenge/disarm/detain only with actual guards. Recruit refuses: withdraw/persuade or actual detention, no mind control. Courier protected: cancel U5/U6; open blockade only with three fighters/food. Avel capture: only after letter/report, draft disavowal and max2GP lawful visitor/bribe; no raid/assassin. Awake-the-Dragon link exposed: burn only the local Cassian letter if still held, cancel U8; Cassian is not warned and his Purewater counterpart survives. Defeat: surrender/retreat, all Vane-led operations cease.",
+      "agenda": "myth-agenda-9f4af936e100",
+      "agenda_title": "Respond only to interference Vane actually learns",
+      "priority": 5,
+      "place": "myth-loc-e7d28bb092c5",
+      "place_name": "Reedgate Tollhouse",
+      "cast": [
+        "myth-char-9ea95fe01beb",
+        "myth-char-85f99a7f28b1",
+        "myth-char-786b3af53c81",
+        "myth-char-64a3662e6aed"
+      ],
+      "cast_names": [
+        "Ser Caldus Vane",
+        "Harl Dene",
+        "Sella Marr",
+        "Othin Pell"
+      ]
+    },
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "lore_refresh_movement_link": {
+    "success": true,
+    "id": "myth-lore-c82e9705c994",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  },
+  "scene_hold_movement_link": {
+    "success": true,
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d41/day",
+      "minute_in_watch": 280,
+      "scene": "OOC REVIEW HOLD d41/day280, FULL UNBROKEN CROWN REBUILD SAVED. Active GM docs: hrill-unbroken-crown-preparation.md, -operations.md, -story.md. Physical state unchanged: H/Lysa/Dane safe arsenal entry; Jo/Ivo at quarry camp with Kett/Willa/Bera; no weapons drawn; salvage left alone. Pending in-play exchange remains Lysa asking Dane whether customers arm sworn Dragon-King adherents; not yet spoken. GM truth now includes authentic Veyr propaganda, Vane recruitment without command/funding of Greywatch, Avel custody letter intention, and U0-U7 finite conditional operations/reaction matrix. NONE of Vane/Avel connection, relic details, named cell/witness/recruits/courier or operations is new Hrill/Lysa knowledge. H fullHP Fresh MP8 Luck1 26GP3SP5CP own mail/sword/shield/bow20. Other PC clocks untouched. Play/time held. GM-only expansion: Vane is a compartmented lay Awake-the-Dragon organizer recruited by Cassian Bree; Veyr inner-collar possession dedication is inert historical evidence; U8 physical report only after actual U7 success. No new Hrill/Lysa knowledge or global operation outcome.",
+      "session": 8
+    },
+    "world_high_water": "d41/day"
+  }
+}

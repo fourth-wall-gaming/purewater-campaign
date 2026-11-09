@@ -1,0 +1,187 @@
+{
+  "id": "myth-char-204f2c8a7099",
+  "name": "Rusk depot retainer 2",
+  "type": "npc",
+  "status": "active",
+  "description": "they/them. One of four retainers staying at Ashwick; no simultaneous deployment.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 12,
+    "POW": 10,
+    "CHA": 12
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 10,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 24,
+    "Boating": 30,
+    "Brawn": 24,
+    "Conceal": 22,
+    "Dance": 24,
+    "Deceit": 40,
+    "Drive": 22,
+    "Endurance": 24,
+    "Evade": 50,
+    "First Aid": 24,
+    "Influence": 40,
+    "Insight": 50,
+    "Locale": 24,
+    "Perception": 55,
+    "Ride": 22,
+    "Sing": 22,
+    "Stealth": 40,
+    "Swim": 24,
+    "Unarmed": 24,
+    "Willpower": 55,
+    "Customs": 64,
+    "Native Tongue": 64,
+    "Commerce": 30,
+    "Streetwise": 45
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Short Sword",
+      "damage": "1d6",
+      "size": "M",
+      "reach": "S",
+      "ap": 6,
+      "hp": 6
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Dockside weapons": 55
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "they/them",
+    "rank": 0,
+    "preparation": "midnight-exchange-auction-live.md",
+    "resources_and_intentions": {
+      "goal": "Guard paid depot post.",
+      "limits": "Not activated for a Purewater encounter; travel/order/pay needed before redeployment."
+    },
+    "score": {
+      "want": "Guard paid depot post.",
+      "ought": "Keep agreements without sacrificing ordinary people.",
+      "driver": "Guard paid depot post.",
+      "stated_reason": "This is the work I agreed to do.",
+      "focus": "promotion",
+      "status": {
+        "Nimras": "Unknown at opening"
+      },
+      "tactics": [
+        "Seek agreement",
+        "Use actual leverage",
+        "Withdraw or surrender at stated limit"
+      ],
+      "when_lied_to": "miss",
+      "blind_spot": "Overestimates own familiar trade.",
+      "rhythm": "Plain words; no exposition speech.",
+      "physical": "Practical working clothes and kit.",
+      "secret": "No additional secret beyond documented own knowledge."
+    },
+    "doing": {
+      "goal": "Guard paid depot post.",
+      "next": "Follow actual operation prerequisites in midnight-exchange-auction-live.md; no automatic victory or knowledge.",
+      "where": "myth-loc-0e776de1adf7",
+      "as_of_session": 8
+    }
+  },
+  "actor_notes": "LOOKS:Adult paid professional, practical travel clothes; details may vary with actual scene. CORE:Values a workable agreement within personal limits. NATURE:Businesslike in work,ordinary in company; no compulsive interrogation. WANTS:Guard paid depot post. PRESSURE:Not activated for a Purewater encounter; travel/order/pay needed before redeployment. KEY:Venn uses warm direct sales talk; Marek asks pointed provenance questions; Rusk gives clipped instructions; agents speak plainly; guards give short warnings.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": "myth-loc-0e776de1adf7",
+  "factions": [
+    "myth-faction-ee84218d1518"
+  ],
+  "from_template": null,
+  "created_at": "2026-10-27T18:47:03"
+}

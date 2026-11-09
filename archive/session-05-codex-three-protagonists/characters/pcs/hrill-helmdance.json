@@ -1,0 +1,792 @@
+{
+  "id": "myth-char-07bc6645bb49",
+  "name": "Hrill Helmdance",
+  "type": "pc",
+  "status": "active",
+  "description": "Hrill Helmdance, he/him, human knight aged 42, Rank 2; honorable veteran of Crown service seeking purpose beyond fighting.",
+  "narrative": "Hrill Helmdance is a human knight aged 42, Rank 2, and a veteran of about twenty years of Crown service through a regional lord's company. Born into lesser gentry with limited wealth, he entered a knightly household as a youth and was knighted in early adulthood after reliable service. He learned to keep his word, care for those in his charge and answer the Crown's call; these convictions endure. His work included supply escorts, road protection, garrison duty and occasional campaigns. He eventually led a small body of soldiers, earning trust through sound judgement, planning, provisions, negotiation and bringing people home. His world-weariness accumulated as villages were burned and rebuilt and disputed boundaries changed hands repeatedly. During a successful assault on a fortified crossing a valued younger comrade was killed; within a season a settlement restored almost the former border. Hrill performed his duty competently but struggled to explain what that death achieved. He left his last service honorably when his term ended, declining another term. His aging campaign horse retired before he tried life in Purewater, and he bought no replacement. He currently has neither horse nor squire; no tragic history for a former squire is established. Purewater was an attempt at a different life. After a few months, its crime and dishonor, culminating in Baron Di Teufel's knights bullying the town, prompted him to leave. He witnessed the baron's champion defeated by Halla, a dwarf fighter from the Forge Quarter, and found it unpleasant yet satisfying. Hrill seeks hope and useful purpose in the broader realm. He is personable, intelligent, resolute and tired of repeated costly fighting, while remaining willing to protect people and use necessary force. His passions are to be a good man, stop the killing and remain loyal to the Crown. Family names, former lord and company, particular wars, the crossing and fallen comrade's names, and former squire history remain open. No disgrace, atrocity, imposed personal culpability, formal knightly order or new obligation is established.",
+  "characteristics": {
+    "STR": 11,
+    "CON": 11,
+    "SIZ": 16,
+    "DEX": 14,
+    "INT": 15,
+    "POW": 8,
+    "CHA": 10
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+1d2",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 14,
+    "luck_points": 4,
+    "magic_points": 8,
+    "movement": "6.096m (20 feet)"
+  },
+  "skills": {
+    "Athletics": 70,
+    "Boating": 22,
+    "Brawn": 70,
+    "Conceal": 27,
+    "Customs (Home culture)": 70,
+    "Dance": 24,
+    "Deceit": 30,
+    "Drive": 27,
+    "Endurance": 45,
+    "Evade": 28,
+    "First Aid": 29,
+    "Influence": 55,
+    "Insight": 59,
+    "Locale (Home region)": 40,
+    "Perception": 50,
+    "Ride": 55,
+    "Sing": 18,
+    "Stealth": 29,
+    "Swim": 22,
+    "Unarmed": 30,
+    "Willpower": 50,
+    "Language (Common)": 65,
+    "Courtesy": 53,
+    "Commerce": 30,
+    "Engineering": 40,
+    "Lore (Strategy and Tactics)": 75,
+    "Survival": 50,
+    "Combat Skill (Fighter)": 70,
+    "Lore (Military History)": 70
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 5,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 5,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 5,
+      "hp": 8,
+      "current_hp": 8
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 5,
+      "hp": 9,
+      "current_hp": 9
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 5,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 5,
+      "hp": 7,
+      "current_hp": 7
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L",
+      "ap": 4,
+      "hp": 12,
+      "traits": [
+        "Bash",
+        "Stun Location",
+        "Ranged Parry",
+        "Passive Block 4 locations"
+      ],
+      "storage": "Set beside pack immediately beside doorway working position,notreadiedwhileusingengineeringtools"
+    },
+    {
+      "name": "Short bow",
+      "damage": "1d6",
+      "size": "L",
+      "range": "45/300/600 feet",
+      "reload": 2,
+      "traits": [
+        "Impale"
+      ],
+      "storage": "Slung and unloaded whileworking,20arrowsinownquiver"
+    },
+    {
+      "name": "Common travelling clothes"
+    },
+    {
+      "name": "Chainmail (full set, AP 5)",
+      "worn": true,
+      "storage": "Worn, all pieces fastened"
+    },
+    {
+      "name": "Quiver with 20 arrows",
+      "storage": "18 existing arrows plus2boughtfromRellan,quiverfull; no shots duringmarketvisit",
+      "quantity": 20
+    },
+    {
+      "name": "Backpack"
+    },
+    {
+      "name": "Waterskin"
+    },
+    {
+      "name": "Bedroll"
+    },
+    {
+      "name": "Small empty sack"
+    },
+    {
+      "name": "Flint and tinder"
+    },
+    {
+      "name": "Two six-hour torches"
+    },
+    {
+      "name": "Belt pouch"
+    },
+    {
+      "name": "Greywatch maintenance key",
+      "carried": "Borrowed from Halwen at northern landing, opens dry cistern hatch; carried at belt"
+    },
+    {
+      "name": "Longsword",
+      "damage": "1d8",
+      "size": "M",
+      "ap": 6,
+      "hp": 12,
+      "traits": [
+        "Bleed",
+        "Impale"
+      ],
+      "carried": "Sheathed at belt by player order",
+      "storage": "Sheathed"
+    }
+  ],
+  "passions": {
+    "Uphold (Be a good man)": 58,
+    "Seek (Stop the killing)": 48,
+    "Loyalty (The Crown)": 43
+  },
+  "combat_styles": {
+    "Fighter (all basic and martial weapons, all shields)": 70,
+    "Longsword specialist": 75
+  },
+  "spells": {},
+  "powers": [
+    {
+      "name": "Combat Proficiency",
+      "effect": "+5 to Combat Skill and Unarmed, already included."
+    },
+    {
+      "name": "Weapon Specialization (Longsword)",
+      "effect": "+5% with longsword; one bonus parry without spending AP; bonus does not qualify for Rank. Draft weapon choice."
+    },
+    {
+      "name": "Weapon Master (Longsword)",
+      "effect": "Automatic Rank 2 ability with Combat Skill 70 and specialization. Double critical chance and improve damage modifier one step to +1d4 with longsword. Apply situationally; not included in base damage modifier."
+    },
+    {
+      "name": "Mounted Combat",
+      "effect": "Free Rank 1 creation choice; Ride 55 meets prerequisite. Mounted combat skill not capped by Ride; no mounted charge attack penalty; ignore first Ride penalty grade in combat. No mount owned yet."
+    }
+  ],
+  "extras": {
+    "class": "Fighter",
+    "rank": 2,
+    "rank_title": "Fighter",
+    "social_role": "Knight",
+    "race": "Human",
+    "species": "humanoid",
+    "culture": "Civilized",
+    "pronouns": "he/him",
+    "age_category": "Early forties",
+    "build_status": "In play. Player accepted characteristics and refined skills, age and Passions; current default Fighter kit, Civilized culture, longsword specialization and Mounted Combat used. Alignment and home/affiliation remain open.",
+    "wealth": {
+      "gp": 26,
+      "sp": 3,
+      "cp": 5,
+      "starting_roll": {
+        "expr": "2d4",
+        "rolls": [
+          3,
+          3
+        ],
+        "total": 6,
+        "source": "Mythras CLI"
+      },
+      "basis": "Fighter basic starting kit plus starting purse. No Rank 2 wealth multiplier or mount added."
+    },
+    "background": {
+      "confirmed": "Older knight and campaigner. Honor matters. Tired of fighting; seeks purpose and exploration beyond Purewater. Dislikes its crime and corruption. Works well with people and uses his intelligence; favor people and strategy over engineering. Hrill is resolute. Passions: be a good man; stop the killing; loyalty to the Crown.",
+      "not_assigned": [
+        "order",
+        "liege",
+        "specific wars",
+        "guilt",
+        "family",
+        "estate",
+        "starting location"
+      ],
+      "table_play": "Player says Hrill likes people, is communicative and chatty, while keeping watch; do not script his speech.",
+      "confirmed_recent_history": "Player says he had lived in Purewater for a few months; crime/dishonor and latest activity around the tourney prompted desire for change and departure. Specific witnessed events remain to be described."
+    },
+    "skill_allocation": {
+      "base": {
+        "Athletics": 25,
+        "Boating": 22,
+        "Brawn": 27,
+        "Conceal": 22,
+        "Customs (Home culture)": 70,
+        "Dance": 24,
+        "Deceit": 25,
+        "Drive": 22,
+        "Endurance": 22,
+        "Evade": 28,
+        "First Aid": 29,
+        "Influence": 20,
+        "Insight": 23,
+        "Locale (Home region)": 30,
+        "Perception": 23,
+        "Ride": 22,
+        "Sing": 18,
+        "Stealth": 29,
+        "Swim": 22,
+        "Unarmed": 25,
+        "Willpower": 16,
+        "Language (Common)": 65,
+        "Courtesy": 25,
+        "Commerce": 25,
+        "Engineering": 30,
+        "Lore (Strategy and Tactics)": 30,
+        "Survival": 19,
+        "Combat Skill (Fighter)": 25,
+        "Lore (Military History)": 30
+      },
+      "culture": {
+        "Conceal": 5,
+        "Deceit": 5,
+        "Drive": 5,
+        "Influence": 15,
+        "Insight": 15,
+        "Locale (Home region)": 10,
+        "Willpower": 15,
+        "Courtesy": 10,
+        "Commerce": 5,
+        "Lore (Military History)": 15
+      },
+      "class": {
+        "Combat Skill (Fighter)": 10,
+        "Brawn": 13,
+        "Athletics": 15,
+        "Lore (Strategy and Tactics)": 15,
+        "Ride": 15,
+        "Endurance": 13,
+        "Survival": 14,
+        "Lore (Military History)": 5
+      },
+      "bonus": {
+        "Combat Skill (Fighter)": 30,
+        "Brawn": 30,
+        "Athletics": 30,
+        "Lore (Military History)": 20,
+        "Lore (Strategy and Tactics)": 30,
+        "Influence": 20,
+        "Insight": 21,
+        "Courtesy": 18,
+        "Perception": 27,
+        "Survival": 17,
+        "Ride": 18,
+        "Endurance": 10,
+        "Engineering": 10,
+        "Willpower": 19
+      },
+      "ability_bonus": {
+        "Combat Skill (Fighter)": 5,
+        "Unarmed": 5
+      },
+      "culture_professional": [
+        "Courtesy",
+        "Commerce",
+        "Lore (Military History)"
+      ],
+      "class_professional": [
+        "Lore (Military History)",
+        "Lore (Strategy and Tactics)",
+        "Survival"
+      ],
+      "rank_qualifying_skills": {
+        "Athletics": 70,
+        "Brawn": 70,
+        "Combat Skill (Fighter)": 70,
+        "Lore (Military History)": 70,
+        "Lore (Strategy and Tactics)": 75
+      },
+      "pools": {
+        "culture": 100,
+        "class": 100,
+        "experienced_bonus": 300
+      },
+      "unspent_hobby_selection": false,
+      "hobby_professional": "Engineering"
+    },
+    "pending_player_choices": [
+      "Alignment",
+      "Home region and affiliation",
+      "Review draft culture, longsword specialization and Mounted Combat",
+      "Horse and additional travelling equipment if desired"
+    ],
+    "rules_source": "Vendored CFI SRD: Characters (experienced creation, derived attributes), Civilized culture, Fighter class and starting equipment. Fixed CFI base 2 AP + Rank 2 bonus 1. Five class skills at 70 excluding specialization. Two pools of 100 plus 300 experienced points.",
+    "age": 42,
+    "age_source": "Player requested early 40s; set to 42",
+    "aging_modifiers_applied": false,
+    "build_revision": "Player requested Willpower50: transfer another5 points from Influence and4 from Insight. Current Influence55,Insight59,Willpower50; budgets unchanged.",
+    "passion_creation": {
+      "priority": "Player list order used as working priority",
+      "base_types": {
+        "Uphold (Be a good man)": "Personal trait/commitment: POW8+CHA10+40=58",
+        "Seek (Stop the killing)": "Personal commitment, using personality-trait base: POW8+CHA10+30=48",
+        "Loyalty (The Crown)": "Organization: POW8+INT15+20=43"
+      },
+      "player_wording": [
+        "Be a good man",
+        "Stop the killing",
+        "Loyalty to the Crown"
+      ],
+      "interpretation": "Character commitments; player decides their expression and resolves hard choices. No particular official oath or military appointment inferred."
+    },
+    "active_thread": {
+      "title": "The Long Shore",
+      "scene": "d24/day minute0 White Shingle shallow jetty, Hrill aboard Grey Heron. Returned safely from BellReed beforewind; sheltered squall/no losses, safe8hrrest via nativeCLI, halfday4hrvoyage24morning. Ressa reportedNera's account toEdda/Perrin/Tovin afterreturn. Now twoheavyharpoonsontrestleswithtowlines and onehuntingboatvisible, fourhuntercrew. Square sunburntmanintroducedGarrHew, offersHrill6GP for help takinggreatshelledbeast. Offerunanswered/unpaid; no hunterjob/oath accepted, no provocation/combat. Eddacontractcontinues.16GP after23wages,AP0/mailstowed/weaponpositionsunchanged,fullHP/Fresh/Luck4.4supplybalesaboard,noanimaldirectsighting orfullchannelknown. OtherPCclocksunchanged.",
+      "story": "docs/scenarios/hrill-edda-story.md",
+      "preparation": "docs/scenarios/hrill-edda-preparation.md",
+      "session": 8,
+      "pacing": "Compress ordinary walking and descriptive exploration until another person, monster or actionable hazard; keep narration flowing through scenery.",
+      "presentation_preference": "Compress routine journeys when appropriate, but play requested conversations and player-directed investigation before resolving or jumping to new situations. Hold time during OOC pacing corrections."
+    },
+    "employment": {
+      "employer": "Hythe Crown watch under Reeve Elric Marden",
+      "employer_id": "myth-char-56116fd29c52",
+      "scope": "Initial ten days from d18/day: travel, inspect northern landings, assist supplies/access; no compulsory fight or policing. Board included; safe return to Hythe if work ends remotely.",
+      "daily_gp": 1,
+      "food_included": true,
+      "lodging_included": true,
+      "start": "d29/dawn135",
+      "initial_end": "d27/night",
+      "departure": "Grey Heron sailed Hythe d22/dawn; first landing Bell Reed d23/day",
+      "days_worked": 0,
+      "wages_accrued_gp": 0,
+      "wages_received_gp": 0,
+      "advance_gp": 2,
+      "advance_against_wages": true,
+      "status": "Active: accepted seven days Crown patrol duty in and around Hythe",
+      "advance_remaining_gp": 0,
+      "paid_through": null,
+      "day23_wage": "Current day, next settlement at end of day; not paid twice",
+      "day24_wage": "Settled1GP at24dusk",
+      "day25_wage": "Settled1GP at25dusk",
+      "end": "d35/night",
+      "return_fulfilled": "d29/dawn minute120",
+      "term_days": 7,
+      "board_included": true,
+      "previous_contract": "Edda initial ten days18-27 completed, paid10GP in full, safe return fulfilled29dawn120; purse remains20GP",
+      "conditions": "Daily wages paid after duty; no advance. Voluntary service. Hearing attendance requested, no hearing date fixed."
+    },
+    "past_employment": {
+      "Maelin_survey": {
+        "days_worked": 3,
+        "paid_gp": 3,
+        "status": "Settled d10/day"
+      },
+      "Vaust_lookout": {
+        "employer": "Sir Aldren Vaust",
+        "scope": "One-day d14 escort and consent/lease-compliant lookout setup at Alder Hame; ends at site",
+        "daily_gp": 1,
+        "food_included": false,
+        "days_worked": 1,
+        "wages_received_gp": 1,
+        "departure": "d14/dawn",
+        "wages_accrued_gp": 0,
+        "status": "completed",
+        "wages_accrued": 0,
+        "wages_received": 1
+      }
+    },
+    "history_workshop": {
+      "status": "approved by player; canonical biography",
+      "document": "docs/characters/hrill-history-workshop.md",
+      "clock_held": "d14/night",
+      "proposal": null,
+      "approved_history": "Hrill Helmdance is a human knight aged 42, Rank 2, and a veteran of about twenty years of Crown service through a regional lord's company. Born into lesser gentry with limited wealth, he entered a knightly household as a youth and was knighted in early adulthood after reliable service. He learned to keep his word, care for those in his charge and answer the Crown's call; these convictions endure. His work included supply escorts, road protection, garrison duty and occasional campaigns. He eventually led a small body of soldiers, earning trust through sound judgement, planning, provisions, negotiation and bringing people home. His world-weariness accumulated as villages were burned and rebuilt and disputed boundaries changed hands repeatedly. During a successful assault on a fortified crossing a valued younger comrade was killed; within a season a settlement restored almost the former border. Hrill performed his duty competently but struggled to explain what that death achieved. He left his last service honorably when his term ended, declining another term. His aging campaign horse retired before he tried life in Purewater, and he bought no replacement. He currently has neither horse nor squire; no tragic history for a former squire is established. Purewater was an attempt at a different life. After a few months, its crime and dishonor, culminating in Baron Di Teufel's knights bullying the town, prompted him to leave. He witnessed the baron's champion defeated by Halla, a dwarf fighter from the Forge Quarter, and found it unpleasant yet satisfying. Hrill seeks hope and useful purpose in the broader realm. He is personable, intelligent, resolute and tired of repeated costly fighting, while remaining willing to protect people and use necessary force. His passions are to be a good man, stop the killing and remain loyal to the Crown. Family names, former lord and company, particular wars, the crossing and fallen comrade's names, and former squire history remain open. No disgrace, atrocity, imposed personal culpability, formal knightly order or new obligation is established.",
+      "disclosure": "Known to Hrill; not yet told to Harl or Oda."
+    },
+    "loadout": {
+      "armor_worn": true,
+      "worn_ap": 5,
+      "armor_storage": "Full mail worn, all pieces fastened",
+      "longsword": "Drawn in right hand",
+      "shield": "Readied left arm",
+      "bow_and_arrows": "Bow slung,19arrows carried, none nocked",
+      "initiative_without_mail": 14,
+      "initiative_in_mail": 9,
+      "source": "Player confirms take out two searching beyondbend; standard sword/shield readied during covered approach"
+    },
+    "timed_effects": [],
+    "negotiation_offer": {
+      "scope": "Help Selith discuss keeping Garr hunt outside fishing channels; peaceful talks only, avoid injuring anyone",
+      "accepted": "d24/dusk",
+      "no_guarantee_of_success": true
+    },
+    "adventure_review_2026_10_27": {
+      "status": "Greywatch selected by Continue after recommendation; no PC choice of involvement assumed",
+      "player_preferences": "More dangerous action for a reluctant fighting knight: protection, rescue, tactical combat, exploration; compress routine logistics and negotiation. Conflicts close by or encountered on the current voyage, with immediate credible reasons to intervene. Honor and avoidance of needless killing do not imply pacifism. Preserve previous peaceful outcomes and limited commitments.",
+      "document": "docs/scenarios/hrill-action-brainstorm-2026-10-27.md",
+      "selected_document": "docs/scenarios/hrill-greywatch-preparation.md"
+    },
+    "tactical_position": {
+      "location": "myth-loc-81799d94752d",
+      "posture": "behind last stone bank on side of yard,12yardsfromAvel; stillscreened, finalgravelnotcrossed",
+      "observed": "1crossbowquay;3boatcrew;5yard includingPike/commander/2ladderhands/1doorwatch;1inlandguard",
+      "ground": "Blind narrow inlandbend beyondgate breaks yard/quay support; no lure success assumed",
+      "key": "Borrowedmaintenancekey atbelt",
+      "recon_augmentation": {
+        "passion": "Uphold (Be a good man)",
+        "passion_value": 58,
+        "bonus": 11,
+        "method": "Installed CLI augment uses passion//5; apply to existing dice, no rerolls",
+        "perception": {
+          "base": 50,
+          "effective": 61,
+          "roll": 36,
+          "level": "success"
+        },
+        "strategy": {
+          "base": 75,
+          "effective": 86,
+          "roll": 23,
+          "level": "success"
+        },
+        "time": "d25/dusk minute249",
+        "scope": "These two reconnaissance checks only; not a permanent skill increase"
+      },
+      "player_intent": "Target Avel rather than Pike; draw some soldiers away and attack her only if she holds back. Still planning, no feint or movement yet.",
+      "assessed_feint": "Show a threat near blind inland bend, break sight and circle back through scrub only if pursuit actually drawn; mail, searchers and open final approach create real risk. Do not guarantee Avel stays or sends all followers.",
+      "known_limit": "Even if inland spearman and two yard soldiers pursue, Avel still has Pike and another yard soldier nearby; quay sentry and boat crew remain unless separately changed.",
+      "first_shot": {
+        "roll": 87,
+        "effective": 47,
+        "result": "failed precise diversion aim, arrow struck lower quay, no injury"
+      },
+      "firing_concealment": {
+        "Hrill": 65,
+        "Hrill_effective": 29,
+        "sentry": 89,
+        "sentry_effective": 30,
+        "winner": "none",
+        "result": "general inland bearing inferred from arrow only, no fixed position"
+      },
+      "military_feint": {
+        "Hrill": 74,
+        "Hrill_effective": 75,
+        "Avel": 42,
+        "Avel_effective": 65,
+        "winner": "Hrill",
+        "result": "Corl and Venn sent to search beyond bend; Avel remains with Pike and2soldiers"
+      },
+      "circle_result": {
+        "Hrill_roll": 49,
+        "Hrill_effective": 29,
+        "searcher_roll": 85,
+        "searcher_effective": 30,
+        "winner": "none",
+        "result": "Reroll still fails; screened lastbank12yardsfromAvel, no further closure, no locatedposition",
+        "original_roll": 67,
+        "luck_spent": 1
+      },
+      "remaining_yard": "Avel,Pike,Essa,Jerr (names of two soldiers not PCknown);2searchersbeyondbend,1crossbowquay,3boatcrew",
+      "luck_note": "One point spent on circling only,4->3; oneLuckperaction alreadyused"
+    },
+    "adventure_preferences": {
+      "current_intent": "Reconnoitre, choose own ground and harass/disrupt before larger fight; do not force frontal landing."
+    },
+    "combat_state": {
+      "encounter": "myth-enc-96a35fea27ae",
+      "round": 1,
+      "ap_remaining": 2,
+      "longsword_bonus_parry_available": true,
+      "longsword_mastery_critical_threshold": 16,
+      "longsword_mastery_damage_modifier": "+1d4",
+      "base_damage_modifier": "+1d2",
+      "next_decision": "Venn spear thrust pending: choose defense before attackdice. No APusedforincomingdefenseyet"
+    },
+    "loaned_longsword": {
+      "holder": "myth-char-07bc6645bb49",
+      "purpose": "Correction requested explicitly by player",
+      "return": "Not applicable; Hrill retains it",
+      "item": {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M",
+        "ap": 6,
+        "hp": 12,
+        "traits": [
+          "Bleed",
+          "Impale"
+        ],
+        "carried": "Loan from Hrill for return to Greywatch; leave with Corporal Dera for Hrill"
+      },
+      "status": "RETRACTED GM misinterpretation; Hrill never lent this sword",
+      "active": false
+    },
+    "greywatch_report": {
+      "status": "Delivered to Reeve Elric Marden at Hythe cargo quay",
+      "recipient": "myth-char-c15f519326d9",
+      "when": "d29/dawn135"
+    },
+    "pending_pursuit": {
+      "status": "resolved, closed into melee after Luck digit swap; charge attack missed",
+      "encounter": "myth-enc-c40e604cfc2f",
+      "target": "myth-char-a91a8a3881b5",
+      "hrill_roll": 37,
+      "base_athletics": 70,
+      "passion_bonus": 11,
+      "difficulty": "hard",
+      "effective": 54,
+      "target_roll": 65,
+      "target_effective": 45,
+      "target_level": "failure",
+      "winner": "Hrill",
+      "luck_current": 2,
+      "reroll_policy": "If accepted reroll only Hrill, keep opposing65 frozen. Do not reroll encounter or initiative.",
+      "standing_AP_paid": 1,
+      "movement_AP_not_paid_yet": 1,
+      "original_hrill_roll": 73,
+      "luck_spent": 1,
+      "active": false
+    },
+    "current_combat": {
+      "encounter": "myth-enc-c8febb1dd9ed ended opening missile exchange",
+      "round": 2,
+      "AP_remaining": null,
+      "position": "640yardsnorthofkiln,30ftfromJoric35ftfromDain",
+      "charge_completed": true,
+      "charge_damage_override_active": false,
+      "longsword_free_parry_used": false,
+      "status": "Pursuitclosed, no closequartersattack or newinitiative yet",
+      "standing_defense_order": "Parry any crossbow shots with readied roundshield; player explicitlyauthorized",
+      "last_chase": {
+        "hrill": 47,
+        "effective": 81,
+        "opponent": 94,
+        "opponent_effective": 45,
+        "winner": "Hrill",
+        "duration_minutes": 1
+      }
+    },
+    "crown_service_pay": {
+      "day29_paid_gp": 1,
+      "paid_through_day": 35,
+      "day30_to32_paid_gp": 3,
+      "day33_to35_paid_gp": 3,
+      "seven_day_total_gp": 7,
+      "status": "Original week fully worked and paid; no extension accepted"
+    },
+    "expenses": [
+      {
+        "date": "d35/night-d36/day",
+        "gp": 0.3,
+        "for": "Ordinary bunk2SP and breakfast1SP while awaiting hearing; original board ended35"
+      },
+      {
+        "dates": "d36-d38",
+        "sp": 7,
+        "for": "Threewalkingstagesfood3SP,twoordinarybunks4SP; no newwages"
+      },
+      {
+        "date": "d39/day",
+        "cp": 5,
+        "for": "Twoordinaryarrows,pro-rataCFISRD20for5SP;quiver18to20"
+      },
+      {
+        "date": "d39/day",
+        "sp": 1,
+        "for": "Onehotmarketpie,localordinarymealprice; eatenwhilewaiting"
+      },
+      {
+        "date": "d39/night",
+        "sp": 5,
+        "for": "QuotedprivateHartLanternroom,acceptedbyrequesttorest"
+      }
+    ],
+    "greywatch_testimony": {
+      "given": "d36/day",
+      "status": "Firsthand account given, no invented dialogue",
+      "scope": "Keeper pursuit; Hrill intervention; Avel captured; allten surrender; DragonKings declaration; no witnessedHanzoorders; Pike keptsafe-returnpromise",
+      "further_inquiry": "Avel finances and family, no conversationwithAvel"
+    },
+    "current_inquiry": {
+      "selected": "InvestigateAvelpersonalhistoryandfinances,visitfamilyoutsideAshwickwithouttalkingher",
+      "experience": "Mystery,exploration,personablehonor,realaction/dangerwhereearned,shoe-leathertravel",
+      "document": "docs/scenarios/hrill-what-she-sold-preparation.md",
+      "status": "Avelself-funded60GPsaleestablishedfromfamilyandDane.Daneadmitspersonalsympathyandrestorationistcustomersbutrefusesnames.Noevidencecommission/magic/livingKings/Hanzoalliance. Leftquarryaftercarpenterarrival41dawn180,backAshwick41day0,nextstepopen."
+    },
+    "food_today": {
+      "day39": "Atehotpieatmarket,notcarriedration",
+      "day41": "Daneprovidedbreakfastfromexistingration,Hcountsoneof5day41allocations;nofoodpurchaseandnocarriedrationcreated"
+    },
+    "pending_engineering_plan": {
+      "roll": 8,
+      "effective": 40,
+      "grade": "standard",
+      "result": "success",
+      "scope": "Privategeneralengineeringplanfromdescription,notonsiteinspectionoropeneddoor",
+      "approach": "Determineactualdoormaterial,bar/hingeaccessandmasonrystability;supportlooselintelbeforeleverage;clearcorrosion,oilaccessibleironwork,workhingepins/fasteningswithmallet/chisel/wedges;usecrowbaragainsttimberpackingwithcontrolledleverageandavailablehelpers. Alternateaccesscouldbecheckedifpracticable,notactualdiscoveryofpreparedsidedrain.",
+      "limits": "Needactualsiteandtools; noautomaticopening/bonusorCrownownershipknowledge. Hrillhasnotspokenplanoracceptedhire."
+    },
+    "temporary_quarry_work": {
+      "employer": "myth-char-e1868d3d940c",
+      "accepted_as": "Halthom Fosrt",
+      "accepted": "d39/dusk230",
+      "daily_gp": 1,
+      "meals_included": true,
+      "maximum_initial_days": 2,
+      "start": "d40",
+      "initial_end": "d41",
+      "earned_gp": 1,
+      "advance_gp": 0,
+      "scope": "Doorengineeringonly,actualopeningnotguaranteed",
+      "departure_plan": "Inn40afterbreakfast,toolsbeforequarry",
+      "status": "Finished:day40workedpaid1GP,waitedBeraarrival41dawn180thenleft,no secondworkdayorwage",
+      "tools": "Employer-ownedincartavailableforwork,notPCpersonalgear",
+      "meals_day40": "Employer breakfast+ration charged earlier, no second ration charge",
+      "offered_sword": "Returned to chest; no purchase or new weapon",
+      "received_gp": 1,
+      "paid_through": "d40",
+      "evening": "Quarry camp with Dane Kett Willa; no sleep/rest yet",
+      "day41_work_started": false,
+      "end": "d41/dawn180",
+      "wages_received_gp": 1
+    },
+    "last_insight_check": {
+      "target": "Merrit Dane",
+      "when": "d39/dusk230",
+      "roll": 85,
+      "effective": 59,
+      "grade": "standard",
+      "level": "failure",
+      "luck_spent": false,
+      "scope": "No reliable deeper character read; only witnessed civil conduct and stated terms",
+      "luck_window_closed": "Restandnewdayproceeded,rollnotretroactivelychanged"
+    },
+    "lodging_record": {
+      "place": "myth-loc-a76869d1528e",
+      "paid_sp": 5,
+      "night": "d39/night",
+      "expires": "d40/dawn",
+      "future_credit": false,
+      "status": "Nightusedandcheckedout40dawn,noprepaidfuturecredit"
+    },
+    "current_work_readiness": {
+      "hands": "Free while travelling",
+      "longsword": "Own sword sheathed belt",
+      "shield": "Own shield carried with pack",
+      "bow": "Own bow slung unloaded,20arrows",
+      "mail": "Worn"
+    },
+    "latest_structural_inspection": {
+      "when": "d40/dawn270",
+      "Engineering": 40,
+      "roll": 46,
+      "level": "failure",
+      "result": "Visiblecrackandsagclearlycallforsupport,butcannotreliablyassesstimberremainingstrengthorwhether2postswillsafelytakeload",
+      "safe_position": "Firstchamber15ftinside,safe side5ftbeforestairhead;nosteppinglandingormovingstone",
+      "luck_spent": false
+    },
+    "latest_rest": {
+      "from": "d40/dusk80",
+      "native_full_safe_hours": 8,
+      "native_completed": "d40/night200",
+      "quiet_remaining_night_minutes": 160,
+      "morning": "d41/dawn0",
+      "luck_reset": false,
+      "interruption": false,
+      "lodging_fee": 0,
+      "place": "myth-loc-c34fe1fcfef4"
+    },
+    "travel": {
+      "from": "myth-loc-c34fe1fcfef4",
+      "to": "myth-loc-a76869d1528e",
+      "start": "d41/dawn180",
+      "duration_minutes": 180,
+      "reason": "PlayerheadsbackAshwickaftercarpenterarrival",
+      "status": "Completed",
+      "arrival": "d41/day0"
+    },
+    "Crown_quarry_visit": {
+      "status": "ArrivedwithLysaJoIvoafter60minprep+180minwalk",
+      "accepted": "d41/day15",
+      "paid_hire": false,
+      "preparation_minutes": 60,
+      "journey_minutes": 180,
+      "arrival": "d41/day255"
+    },
+    "table_review": {
+      "status": "OOC play and clock held",
+      "at": "d41/day280",
+      "player_feedback": "This wasn\u2019t what I wanted to happen",
+      "issue_observed": "GM steered Avel/restorationist inquiry into salvage-title/compensation procedure; exact desired correction awaiting player clarification",
+      "constraints": "No future events, claim judgment, seizure, arrest, negotiation or clocks advanced during review; no retcon until correction agreed. Feedback is not PC/NPC knowledge."
+    }
+  },
+  "actor_notes": null,
+  "fatigue": "Fresh",
+  "luck_current": 1,
+  "magic_current": 8,
+  "experience_rolls": 0,
+  "location": "myth-loc-1123ef0edce9",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-25T20:20:41"
+}

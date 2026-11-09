@@ -1,0 +1,167 @@
+{
+  "id": "myth-char-9b35de5039bf",
+  "name": "Mother Anwen",
+  "type": "npc",
+  "status": "active",
+  "description": "Wants immediate stores; owes all guests welcome. Can close and disperse supplies rather than admit a garrison.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 10,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 13,
+    "POW": 12,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 12,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Influence": 60,
+    "Insight": 55,
+    "Willpower": 60,
+    "First Aid": 65,
+    "Commerce": 50,
+    "Perception": 45,
+    "Evade": 30,
+    "Combat Skill": 20
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Dagger",
+      "damage": "1d4+1",
+      "size": "S"
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 20
+  },
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "race": "Human",
+    "score": {
+      "want": "Keep the hospice independent and supplied",
+      "ought": "Wants immediate stores; owes all guests welcome. Can close and disperse supplies rather than admit a garrison.",
+      "focus": "prevention",
+      "status": {
+        "Hrill": "stranger; no prior relationship"
+      },
+      "tactics": [
+        "ordinary specific request",
+        "offer a practical bargain",
+        "withdraw or resist a concrete threat"
+      ],
+      "when_lied_to": "miss",
+      "observed": [
+        "s8: received supplies and Len account of Hrill help; offered Hrill bed and stew and asked whether he sought work. No fee, job, meal or rest accepted yet.",
+        "s8 hearth: Hrill said he came north looking for hope; set out stew and bread, wished him well and asked how long he had been travelling. Did not ask him to work for shelter.",
+        "s8 hearth: heard Hrill say he recently left Purewater after having enough; marked damaged Ashen Span on road map, showed Maelin Wind Stair survey and asked whether he knew the country. Did not infer private military history or reasons beyond his words.",
+        "s8 hearth: on hearing Hrill had never heard of Wind Stair, located pass on map, explained its old use for upper hamlets, and asked if he would walk road with Maelin. No employment or debt imposed.",
+        "s8 hearth: heard Hrill accept survey walk; honestly warned of terrain/weather, disclosed Vaust public repair licence, acknowledged no known threats or knowledge of his attitude; set licence copy before Hrill without claiming royal eviction authority."
+      ]
+    },
+    "role": "anwen",
+    "doing": {
+      "goal": "Keep the hospice independent and supplied",
+      "next": "Hear the aid proposal without promising exclusion",
+      "where": "myth-loc-73eaff6c3e38",
+      "as_of_session": 7
+    },
+    "pronouns": "she/her",
+    "assets": {
+      "additional_food_sacks": 2,
+      "medicine_bundles_received": 4
+    }
+  },
+  "actor_notes": "LOOKS: stout grey-haired woman in a flour-marked apron. CORE: a guest need not agree with her to deserve a bed. NATURE: warm, busy, capable of broad unkind jokes about pretension. WOUND: has seen shelter used to select who deserves to survive. WANTS: supplies and freedom to keep the door open. PRESSURE: becomes immovable over small practical details. KEY: homely directness; no sermon unless asked.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 12,
+  "experience_rolls": 0,
+  "location": "myth-loc-73eaff6c3e38",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-25T21:09:17"
+}

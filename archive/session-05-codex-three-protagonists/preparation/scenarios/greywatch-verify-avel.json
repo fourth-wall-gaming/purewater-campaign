@@ -1,0 +1,195 @@
+{
+  "success": true,
+  "character": {
+    "id": "myth-char-87c2db0593fc",
+    "name": "Dame Avel Veyr",
+    "description": "she. Blunt soldier, convivial off duty. Wants an imperial foothold and permanent command; owes followers survival and promised wages. Knows own plan, not Hrill or cistern. Attempts capture, accepts lawful custody if defeated.",
+    "content": null,
+    "myth-char-type": "npc",
+    "myth-status": "active",
+    "myth-characteristics-json": {
+      "STR": 14,
+      "CON": 13,
+      "SIZ": 14,
+      "DEX": 13,
+      "INT": 14,
+      "POW": 12,
+      "CHA": 13
+    },
+    "myth-attributes-json": {
+      "action_points": 3,
+      "damage_modifier": "+1d2",
+      "experience_modifier": 2,
+      "healing_rate": 2,
+      "initiative_bonus": 14,
+      "luck_points": 0,
+      "magic_points": 0,
+      "movement": "20 feet"
+    },
+    "myth-skills-json": {
+      "Combat Skill": 70,
+      "Athletics": 45,
+      "Brawn": 55,
+      "Perception": 55,
+      "Willpower": 60,
+      "Influence": 55,
+      "Evade": 40,
+      "Endurance": 60,
+      "Boating": 30,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 65,
+      "First Aid": 40
+    },
+    "myth-hit-locations-json": [
+      {
+        "name": "Right Leg",
+        "range": [
+          1,
+          3
+        ],
+        "ap": 5,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Left Leg",
+        "range": [
+          4,
+          6
+        ],
+        "ap": 5,
+        "hp": 6,
+        "current_hp": 6
+      },
+      {
+        "name": "Abdomen",
+        "range": [
+          7,
+          9
+        ],
+        "ap": 5,
+        "hp": 7,
+        "current_hp": 7
+      },
+      {
+        "name": "Chest",
+        "range": [
+          10,
+          12
+        ],
+        "ap": 5,
+        "hp": 8,
+        "current_hp": 8
+      },
+      {
+        "name": "Right Arm",
+        "range": [
+          13,
+          15
+        ],
+        "ap": 5,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Left Arm",
+        "range": [
+          16,
+          18
+        ],
+        "ap": 5,
+        "hp": 5,
+        "current_hp": 5
+      },
+      {
+        "name": "Head",
+        "range": [
+          19,
+          20
+        ],
+        "ap": 5,
+        "hp": 6,
+        "current_hp": 6
+      }
+    ],
+    "myth-equipment-json": [
+      {
+        "name": "Longsword"
+      },
+      {
+        "name": "Shield"
+      },
+      {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M"
+      },
+      {
+        "name": "Shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "myth-passions-json": {},
+    "myth-combat-styles-json": {
+      "Arms": 70
+    },
+    "myth-spells-json": {},
+    "myth-powers-json": [],
+    "myth-extras-json": {
+      "race": "Human",
+      "pronouns": "she",
+      "score": {
+        "want": "Blunt soldier, convivial off duty. Wants an imperial foothold and permanent command; owes followers survival and promised wages. Knows own plan, not Hrill or cistern. Attempts capture, accepts lawful custody if defeated.",
+        "ought": "Keep comrades alive and honor any actual surrender; does not command Hrill.",
+        "driver": "Wants an imperial foothold and permanent command; owes followers survival and promised wages",
+        "status": "Stranger to Hrill; no prior relationship",
+        "tactics_ladder": "Demand or guard first; use force if own feasible objective requires it; retreat or surrender at serious injury or credible defeat. Never infinite resources.",
+        "catches_lies": "No automatic detection; roll only when evidence warrants.",
+        "knowledge_limits": "Blunt soldier, convivial off duty. Wants an imperial foothold and permanent command; owes followers survival and promised wages. Knows own plan, not Hrill or cistern. Attempts capture, accepts lawful custody if defeated.",
+        "observed": []
+      },
+      "doing": {
+        "goal": "Blunt soldier, convivial off duty. Wants an imperial foothold and permanent command; owes followers survival and promised wages. Knows own plan, not Hrill or cistern. Attempts capture, accepts lawful custody if defeated.",
+        "next": "Prepared current placement; no successful attack yet",
+        "where": "myth-loc-c9b08e8a741a"
+      },
+      "plan_reference": "docs/scenarios/hrill-greywatch-preparation.md",
+      "assets": {
+        "gp": 24,
+        "food_person_days": 36,
+        "fighters": [
+          "myth-char-87c2db0593fc",
+          "myth-char-2074bda6383d",
+          "myth-char-ed1a4282d985",
+          "myth-char-99ccdfa133d7",
+          "myth-char-e46d17ad962f",
+          "myth-char-5ef410466d11"
+        ],
+        "ladder_feet": 18,
+        "rope_feet": 60,
+        "pitch_pots": 2,
+        "reinforcements": 0
+      }
+    },
+    "myth-actor-notes": "Blunt soldier, convivial off duty. Wants an imperial foothold and permanent command; owes followers survival and promised wages. Knows own plan, not Hrill or cistern. Attempts capture, accepts lawful custody if defeated.",
+    "myth-fatigue": "Fresh",
+    "myth-luck-current": 0,
+    "myth-magic-current": 0,
+    "myth-experience-rolls": 0
+  },
+  "storyline": {
+    "id": "myth-storyline-0fea5d34980f",
+    "name": "Hrill",
+    "pcs": [
+      "myth-char-07bc6645bb49"
+    ],
+    "now": "d25/dusk",
+    "minute_in_watch": 92,
+    "scene": "d25/dusk minute92 ListeningReeds teaching-house.45minhistorycompressed:HrilllearnsSelithaccountDragonKings/dragonknights,uprising/SwordsLake,shoretraditionsolderwaterpowers/LakeLadyresistance;localhouseholdrefuge/shelter/oldplacenamerecords. No activeimperialplot/Baronritual/otherPCsecret/skillgain. Eddaindoorwayasks We\u2019re sailing south at first light.Will you be aboard? Hanswerpending,noPCdestinationchosen/noovernightrest/day26. Selithrecordsaccessiblebyconsent,route3/3achieved,hunt2/3active. Ilyenreported/preparingreturnwatch,nolatereventassumed. H18GP/paid25/eightdaysinitialtermthrough27/fullHP/Fresh/Luck4/AP0/swordsheathed/bowloweredunnocked20arrows;mail/shieldaboardsoundmooredGreyHeron0bales,2Edda-ownedconsignmentNarrowWater,8GPtradereceivabledue35.",
+    "session": 8
+  },
+  "world_high_water": "d25/dusk"
+}

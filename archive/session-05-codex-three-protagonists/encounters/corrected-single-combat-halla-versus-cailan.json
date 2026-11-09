@@ -1,0 +1,29 @@
+{
+  "id": "myth-enc-1afd159691e8",
+  "name": "Corrected Single Combat: Halla versus Cailan",
+  "description": "Player authorised restart of erroneous bout. Halla HPfull Luck3, axe81+passion12=93 shield76+12=88, AP3 armour5. Champion possessed mastery121, AP3 armour5, prior RightArm1/5 Minor retained. Engine over100 adjusts champion100 vs axe72/shield67. One proactive action per round, remaining AP reactions; Halla first specialised axe parry free each round. Victory yield or marshal stoppage, no predetermined outcome. Player standing tactic axe-parry and axe-attack, pause for effects/injury/Luck decisions.",
+  "summary": "Halla wins by marshal stoppage after masteredaxe critical09, Bypass Armour, rightarm net5 to-1 serious. Champion Endurance73/72failure disables swordarm. Luck1; HallaLeftArm4/6, axe3/8HP, shield on sand.",
+  "status": "retracted",
+  "round": 11,
+  "combatants": [
+    {
+      "id": "myth-char-cac22cc2cbf6",
+      "name": "Cailan",
+      "initiative": 15,
+      "ap": 1,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 17
+    },
+    {
+      "id": "myth-char-77a79270f637",
+      "name": "Halla",
+      "initiative": 14,
+      "ap": 2,
+      "max_ap": 3,
+      "conditions": [],
+      "dex": 11
+    }
+  ],
+  "created_at": "2026-10-14T14:44:54"
+}

@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "storylines": [
+    {
+      "id": "myth-storyline-b6753554ddd0",
+      "name": "Nimras",
+      "pcs": [
+        "myth-char-4fc52ae14026"
+      ],
+      "now": "d9/day",
+      "minute_in_watch": 105,
+      "scene": "d9/day minute105,HouseSmallWindows Veytable. Userauthorisedshoe-leatheracceptedcommissioncompleted: legitimateVelvetHoldinspection,DetectMagic32success ReadMagic42successI1eachcost2MPtotal,ArcaneKnowledge74/70failure meansage/authorshipunverified,typechance96fail. Qualifiedreport,Veyacceptedpaid3GPbalance(4totalincl1advance). OriginalswithVenn,noteswithNimras;receiptSeverinRusk diTeufelestatefactorAshwick,surveyDrakesfallchapel,nameAvarDhal,auraI2M2schoolunknown. Veyrereadscopiedreceipt. No newjob/purchase/recovery agreed. MP13/15 Luck5 fullHP Fresh purse27GP3SP4CP; noactiveeffects. Auction10night,agents10day. AwaitNimrasnextdecision.",
+      "session": 9
+    },
+    {
+      "id": "myth-storyline-a265802a53c9",
+      "name": "Halla",
+      "pcs": [
+        "myth-char-77a79270f637"
+      ],
+      "now": "d6/dusk",
+      "minute_in_watch": 0,
+      "scene": "d6/dusk, Dagna's Forge Quarter workshop after celebratory supper. Halla has told her sister that the Crowbill debt is paid in full. Earlier Crown escort with Ward prevented seizure of six wool bales; goods remain in customs custody pending duty and claims. No subsequent duty or travel undertaken. Play held.",
+      "session": 5
+    },
+    {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d25/dusk",
+      "minute_in_watch": 94,
+      "scene": "d25/dusk minute94, Listening Reeds teaching-house. Edda departure question interrupted, unanswered. Halwen inside at table with Hrill/Selith asks shelter, says they mean to take beacon; Mar drawn sword and Toll cudgel on path10yards from door demand return. Pike/Arlo remain boat30yards beyond doorway, bow available not aimed. No attack or initiative yet; Hrill action pending. Sword sheathed, bow lowered unnocked20arrows, AP0mail/shield stowed GreyHeron40yardsaway; fullHP Fresh Luck4 18GP. No sailing/rest/newservice/equipment assumed. Prior supply success and Garr unresolved hunt preserved. Active arc Crown Last Light.",
+      "session": 8
+    }
+  ],
+  "world_high_water": "d25/dusk"
+}

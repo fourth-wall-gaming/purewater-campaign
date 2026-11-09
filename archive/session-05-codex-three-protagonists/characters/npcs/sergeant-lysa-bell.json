@@ -1,0 +1,224 @@
+{
+  "id": "myth-char-9566e8a59e69",
+  "name": "Sergeant Lysa Bell",
+  "type": "npc",
+  "status": "active",
+  "description": "she. Dark cropped hair, creased watchcoat. Direct ordinaryspeech. Wants safe roadsandCrownstoressecure;owesdistrictguardcoverage. Knowslocalroads,notAvel/privateevents. Takesactualevidence,allowshelp; can bringJoandIvowithpreparationandactualjourney,neverinstant.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 12,
+    "POW": 10,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Athletics": 50,
+    "Boating": 24,
+    "Brawn": 50,
+    "Conceal": 22,
+    "Dance": 23,
+    "Deceit": 25,
+    "Drive": 22,
+    "Endurance": 50,
+    "Evade": 40,
+    "First Aid": 24,
+    "Influence": 50,
+    "Insight": 50,
+    "Locale": 24,
+    "Perception": 55,
+    "Ride": 22,
+    "Sing": 21,
+    "Stealth": 45,
+    "Unarmed": 24,
+    "Willpower": 50,
+    "Flight": 24,
+    "Customs": 64,
+    "Native Tongue": 63,
+    "Arms": 60,
+    "Combat Skill": 60,
+    "Survival": 40,
+    "Strategy": 55,
+    "Engineering": 30,
+    "Lore (Crown Law)": 55
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 3,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 3,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 3,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 3,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Short spear",
+      "damage": "1d8+1",
+      "size": "M",
+      "ap": 4,
+      "hp": 5,
+      "traits": [
+        "Impale"
+      ]
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L",
+      "ap": 4,
+      "hp": 12,
+      "traits": [
+        "Ranged Parry",
+        "Passive Block 4 locations"
+      ]
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 60
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "she",
+    "score": {
+      "want": "Dark cropped hair, creased watchcoat. Direct ordinaryspeech. Wants safe roadsandCrownstoressecure;owesdistrictguardcoverage. Knowslocalroads,notAvel/privateevents. Takesactualevidence,allowshelp; can bringJoandIvowithpreparationandactualjourney,neverinstant.",
+      "ought": "Honor real surrender; no mind-reading or endless resources",
+      "tactics": "Dark cropped hair, creased watchcoat. Direct ordinaryspeech. Wants safe roadsandCrownstoressecure;owesdistrictguardcoverage. Knowslocalroads,notAvel/privateevents. Takesactualevidence,allowshelp; can bringJoandIvowithpreparationandactualjourney,neverinstant.",
+      "catches_lies": "No automatic lie detection",
+      "observed": [
+        "41day15HrillreportspersonalGreywatchrole,saletracetoDane,ownworkquarryfindandmerchantadmittedrestorationistbeliefs/customers.Hehasnoproofcommission/magic/livingKings/Hanzo.LysaresolvesactualinspectionwithJoIvo,asksHshowfinds,doesnotorderhisserviceorarrestmerchantwithoutassessment."
+      ]
+    },
+    "doing": {
+      "goal": "Inspect actual quarry stores and dealer\u2019s claim/buyers",
+      "next": "EndorsesreasonableexpenseclaimafterHrillvouchesforwork;requestsDaneleaveoldmilitarystoresuntouchedpendingtitleassessment. No amount, payment or final surrender agreed.",
+      "where": "myth-loc-1123ef0edce9"
+    },
+    "plan_reference": "docs/scenarios/hrill-what-she-sold-preparation.md",
+    "quarry_inspection": {
+      "report_received": "d41/day15",
+      "available_watch": [
+        "Jo Ren",
+        "Ivo Gell"
+      ],
+      "preparation_minutes": 60,
+      "journey_minutes": 180,
+      "purpose": "Inspectphysicalfinds,verifyclaimtocargo,questionDaneonbuyers;noautomaticguilt/captureorloading",
+      "Hrill_assistance": "Requested,notaccepted/notcompulsory",
+      "status": "Initialquestionsheard,matchingreceiptsurveyseen,atmainentrywithH/Dane41day280",
+      "current_find": "OldcrownedgarrisonstampandGARRISON STORESmarkatinnerdoor,notprivatehousehold. Salepaperdoesnotitselfgrantstores;lawfultitleunderinvestigation",
+      "arrest_declared": false,
+      "Hrill_supports_Dane_compensation": true,
+      "compensation_position": "EndorsereasonableexpensesandrecordHrilltestimony;DanelegitimateAvelpurchasesrespected",
+      "payment_approved": false,
+      "title_verdict": false,
+      "request": "Leaveoldstoresuntouchedwhiletitleestablished,noforfeitureofpersonalgoods"
+    }
+  },
+  "actor_notes": "Dark cropped hair and creased watchcoat; direct ordinary speech. Wants safe roads and legitimate Crown interests secured, must keep three of six watchstaff on duty. Available companions Jo Ren and Ivo Gell, one hour real preparation and three-hour quarry walk. At41day15 hearsHrillfullAvelGreywatchcapture/Hythecustodyandpersonal60GPsale/familyevidence,Daneown/customersrestorationistsympathies,quarryarms/unsafefooting.Hisreportedknowledgeonly,noautomaticverdict,magicproof,Hanzolinkorcachetotal. Takeswitnessaccountseriously,willinspectstoreandDaneclaim/buyerpurpose,questionratherthanpresumeallpoliticalopiniontreason. No compulsoryHrillservice. No mind-reading or arbitrary refusal. Can actwithoutHrillifnecessaryusingknownquarryroad;askshimtoidentifyphysicalfinds.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-1123ef0edce9",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-28T16:32:19"
+}

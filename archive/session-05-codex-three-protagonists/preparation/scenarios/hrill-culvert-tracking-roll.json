@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "character": "Hrill Helmdance",
+  "skill_name": "Survival",
+  "asked_for": null,
+  "base_skill": 50,
+  "augment": {
+    "passion": "Uphold (Be a good man)",
+    "passion_value": 58,
+    "bonus": 11
+  },
+  "roll": 89,
+  "skill": 61,
+  "difficulty": "standard",
+  "effective": 61,
+  "critical_range": 7,
+  "level": "failure",
+  "storyline": {
+    "id": "myth-storyline-0fea5d34980f",
+    "name": "Hrill",
+    "pcs": [
+      "myth-char-07bc6645bb49"
+    ],
+    "now": "d29/day",
+    "minute_in_watch": 182,
+    "scene": "d29/day180 culvertCOMBAT myth-enc-c40e604cfc2f R2afterHrillfreeSurrender/guard,cyle3pendingothers. Hrillstandingx97longswordrightpointonMossPRONEx100;shieldSTILLSLUNG,1APheldDelayfreelongswordparryunused. MossVOLUNTARILYYIELDED: droppedunloadedcrossbowgroundx100handsraised says I yield Dontkillme. Spearstillunreadiedslung, NOTBOUND/SEARCHED/ALLGEARREMOVED,0AP. Hrilldoesnotknownameyet. AwaitHcustodyinstruction/nextaction. No furtherattackorinjury. Corelifeovermoneydoesnotrequiresuicidalroll. Otherpositions/APstillR2: Joric145east1,Kell155east0,Dain140eastloadedxbow2butfoliagedeniesclearshot;Orrin0loaded17bolts1,Brann60cart1Benno60cart0,Pella20safe3. ResolvehigherpendingNPCactionswhenneeded, noautomaticescapeorrecapture. Otherthreewithdrawingwithoutloot, allfourfinite; nocausalHanzo/DragonKingslink. HfullHPFreshMP8Luck2cash20,owngearunchangedexceptdrawnsword. Drivercartmule8woolsaved. LastpursuitLuck73->37caughtsuccess54, chargenew73/58missvs92/40failedEvadecausedMossprone. ChargebonusesENDEDordinarylongswordDM1d4sizeM,passionongoingwhenapplicable. Employment29-35activeboardday29charged1sixdaysleftnopaytodayyet, noclockrestadvance. OtherPCclocksunchanged.",
+    "session": 8
+  },
+  "world_high_water": "d29/day"
+}

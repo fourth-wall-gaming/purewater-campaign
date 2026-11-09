@@ -1,0 +1,1626 @@
+[
+  {
+    "name": "Dame Avel Veyr",
+    "stats": {
+      "STR": 14,
+      "CON": 13,
+      "SIZ": 14,
+      "DEX": 13,
+      "INT": 14,
+      "POW": 12,
+      "CHA": 13
+    },
+    "skills": {
+      "Combat Skill": 70,
+      "Arms": 70,
+      "Athletics": 45,
+      "Brawn": 55,
+      "Perception": 55,
+      "Willpower": 60,
+      "Influence": 55,
+      "Evade": 40,
+      "Endurance": 60,
+      "Boating": 30,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 65,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 3,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 14,
+      "damage_modifier": "+1d2",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 6,
+        "ap": 5
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 6,
+        "ap": 5
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 7,
+        "ap": 5
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 8,
+        "ap": 5
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 5,
+        "ap": 5
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 5,
+        "ap": 5
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 6,
+        "ap": 5
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 70,
+        "weapons": [
+          "Longsword",
+          "Shield"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M"
+      },
+      {
+        "name": "Shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "she. Blunt soldier, convivial off duty. Wants an imperial foothold and permanent command; owes followers survival and promised wages. Knows own plan, not Hrill or cistern. Attempts capture, accepts lawful custody if defeated."
+  },
+  {
+    "name": "Captain Surn Pike",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 55,
+      "Arms": 55,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 60,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 30,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 55,
+        "weapons": [
+          "Longsword"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M"
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "he. Familiar sailor idiom. Wants unpaid12GP and sound boat; owes crew pay. Knows own contract and visible pursuit, not garrison interior. Withdraws rather than lose boat or fight entire village."
+  },
+  {
+    "name": "Corporal Dera Venn",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 60,
+      "Arms": 60,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 30,
+      "Swim": 45,
+      "Engineering": 45,
+      "Stealth": 40,
+      "Strategy": 50,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 3
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 3
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 3
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 3
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 3
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 3
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 3
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 60,
+        "weapons": [
+          "Spear",
+          "Shield"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "she. Short practical directions and ordinary humor. Wants keepers and Crown post safe; owes soldiers sensible orders. Knows cistern and visible besiegers, not contract. Welcomes help, can evacuate instead of last stand."
+  },
+  {
+    "name": "Halwen Tarr",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 30,
+      "Arms": 30,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 50,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 30,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 0
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 30,
+        "weapons": [
+          "Knife"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Knife",
+        "damage": "1d4+1",
+        "size": "S"
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "she. Plain, ordinarily gossipy keeper. Wants shelter and adult sibling Bess safe. Knows pursued route, demand and cistern maintenance; no political secret or enemy roster. Seeks refuge, guides only by consent."
+  },
+  {
+    "name": "Bess Tarr",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 30,
+      "Arms": 30,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 30,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 30,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 0
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 0
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 0
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 0
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 0
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 30,
+        "weapons": [
+          "Knife"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Knife",
+        "damage": "1d4+1",
+        "size": "S"
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "they. Dry working speech. Wants household freedom and tower maintained. Knows cistern/fuel, not enemy contracts. Braces door, helps evacuate; no fighting specialist."
+  },
+  {
+    "name": "Arlo Fen",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 50,
+      "Arms": 50,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 50,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 30,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 50,
+        "weapons": [
+          "Spear",
+          "Short bow"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Short bow",
+        "damage": "1d6",
+        "size": "L",
+        "reload": 2,
+        "traits": [
+          "Impale"
+        ]
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "he. Laconic sailor; wants wages and no drowning. Knows pursuit task only. Bow available in boat with Pike, no shot ordered. Yields if isolated."
+  },
+  {
+    "name": "Mar Lusk",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 55,
+      "Arms": 55,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 50,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 30,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 55,
+        "weapons": [
+          "Longsword",
+          "Short bow"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Longsword",
+        "damage": "1d8",
+        "size": "M"
+      },
+      {
+        "name": "Short bow",
+        "damage": "1d6",
+        "size": "L",
+        "reload": 2,
+        "traits": [
+          "Impale"
+        ]
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "she. Brusque, mocks hesitation; wants Pike respect and pay. Knows custody task only, underestimates lone older knight. Drawn sword approaching house; bow slung. Backs down when outmatched."
+  },
+  {
+    "name": "Toll Reed",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 45,
+      "Arms": 45,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 50,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 30,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 1
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 1
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 1
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 1
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 1
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 1
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 1
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 45,
+        "weapons": [
+          "Cudgel"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Cudgel",
+        "damage": "1d6",
+        "size": "M"
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "he. Repeats captain wording; wants berth and passage home. Knows custody task only. Cudgel ready beside Mar, no attack made. Surrenders at serious threat."
+  },
+  {
+    "name": "Enna Rusk",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 50,
+      "Arms": 50,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 30,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 30,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 50,
+        "weapons": [
+          "Spear",
+          "Crossbow"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Crossbow",
+        "damage": "1d8",
+        "size": "L",
+        "reload": 3,
+        "traits": [
+          "Impale"
+        ]
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "she. Quiet precise crossbow hand; wants contracted pay and comrades alive. Knows employer imperial aspiration, not Hanzo or unrelated people sharing surname. Covers quay after actual deployment."
+  },
+  {
+    "name": "Corl Hen",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 50,
+      "Arms": 50,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 30,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 30,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 50,
+        "weapons": [
+          "Spear",
+          "Shield"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "he. Talkative cook and spearman; wants home money and regular meals. Knows own employer and task only; guards track, yields if cut off."
+  },
+  {
+    "name": "Venn Tal",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 50,
+      "Arms": 50,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 30,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 30,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 50,
+        "weapons": [
+          "Spear",
+          "Shield"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "they. Gruff spear carrier; wants unit intact, dislikes wasted lives. Knows own employer and task only; holds yard, retreats under half strength."
+  },
+  {
+    "name": "Essa Gant",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 50,
+      "Arms": 50,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 30,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 30,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 50,
+        "weapons": [
+          "Spear",
+          "Shield"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "she. Young, direct spear carrier; wants wages, owes comrades cover. Knows own employer and task only; carries ladder, yields at credible defeat."
+  },
+  {
+    "name": "Jerr Low",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 50,
+      "Arms": 50,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 30,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 30,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 2
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 2
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 2
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 2
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 2
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 50,
+        "weapons": [
+          "Spear",
+          "Shield"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "he. Genial spearman off duty; wants recognized military work, fears captivity. Knows own employer and task only; carries ladder, will accept clear safe surrender."
+  },
+  {
+    "name": "Noll Beck",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 50,
+      "Arms": 50,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 30,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 30,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 3
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 3
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 3
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 3
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 3
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 3
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 3
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 50,
+        "weapons": [
+          "Spear",
+          "Shield"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Shield",
+        "damage": "1d4",
+        "size": "L"
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "he. Cautious guard; wants civilians safe and corporal supported. Knows tower and demands only. Holds door with spear and shield; evacuation acceptable."
+  },
+  {
+    "name": "Vela Sorn",
+    "stats": {
+      "STR": 12,
+      "CON": 12,
+      "SIZ": 12,
+      "DEX": 12,
+      "INT": 13,
+      "POW": 12,
+      "CHA": 11
+    },
+    "skills": {
+      "Combat Skill": 55,
+      "Arms": 55,
+      "Athletics": 45,
+      "Brawn": 45,
+      "Perception": 45,
+      "Willpower": 45,
+      "Influence": 40,
+      "Evade": 40,
+      "Endurance": 45,
+      "Boating": 30,
+      "Swim": 45,
+      "Engineering": 40,
+      "Stealth": 40,
+      "Strategy": 30,
+      "First Aid": 40
+    },
+    "attributes": {
+      "action_points": 2,
+      "luck_points": 0,
+      "magic_points": 0,
+      "initiative_bonus": 12,
+      "damage_modifier": "+0",
+      "movement": "20 feet",
+      "healing_rate": 2
+    },
+    "hit_locations": [
+      {
+        "name": "Right Leg",
+        "range": "01-03",
+        "hp": 5,
+        "ap": 3
+      },
+      {
+        "name": "Left Leg",
+        "range": "04-06",
+        "hp": 5,
+        "ap": 3
+      },
+      {
+        "name": "Abdomen",
+        "range": "07-09",
+        "hp": 6,
+        "ap": 3
+      },
+      {
+        "name": "Chest",
+        "range": "10-12",
+        "hp": 7,
+        "ap": 3
+      },
+      {
+        "name": "Right Arm",
+        "range": "13-15",
+        "hp": 4,
+        "ap": 3
+      },
+      {
+        "name": "Left Arm",
+        "range": "16-18",
+        "hp": 4,
+        "ap": 3
+      },
+      {
+        "name": "Head",
+        "range": "19-20",
+        "hp": 5,
+        "ap": 3
+      }
+    ],
+    "combat_styles": [
+      {
+        "name": "Arms",
+        "value": 55,
+        "weapons": [
+          "Spear",
+          "Crossbow"
+        ]
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Spear",
+        "damage": "1d8",
+        "size": "M",
+        "traits": [
+          "Impale"
+        ]
+      },
+      {
+        "name": "Crossbow",
+        "damage": "1d8",
+        "size": "L",
+        "reload": 3,
+        "traits": [
+          "Impale"
+        ]
+      }
+    ],
+    "passions": {},
+    "race": "Human",
+    "notes": "she. Outspoken guard; wants keepers free and Crown flag flying. Knows tower and demands only. Crossbow at shutter, obeys sensible withdrawal."
+  }
+]

@@ -1,0 +1,224 @@
+{
+  "id": "myth-char-9273558c1b22",
+  "name": "Willa Ash",
+  "type": "npc",
+  "status": "active",
+  "description": "she. Cropped hair, stitched quiver. Dry terse talk; wantslivingwages. KnowsDaneexpectsweapons,nobuyeridentity. Warnsnonhostileapproach,takescover,usesactualreload,withdrawswhen cutoff,yieldscredibledefeat.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 12,
+    "POW": 10,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "20 feet"
+  },
+  "skills": {
+    "Athletics": 50,
+    "Boating": 24,
+    "Brawn": 50,
+    "Conceal": 22,
+    "Dance": 23,
+    "Deceit": 25,
+    "Drive": 22,
+    "Endurance": 50,
+    "Evade": 40,
+    "First Aid": 24,
+    "Influence": 50,
+    "Insight": 50,
+    "Locale": 24,
+    "Perception": 55,
+    "Ride": 22,
+    "Sing": 21,
+    "Stealth": 50,
+    "Unarmed": 24,
+    "Willpower": 50,
+    "Flight": 24,
+    "Customs": 64,
+    "Native Tongue": 63,
+    "Arms": 55,
+    "Combat Skill": 55,
+    "Survival": 40,
+    "Strategy": 30,
+    "Engineering": 30,
+    "Lore (Crown Law)": 20
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        2
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        3,
+        4
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        5,
+        7
+      ],
+      "ap": 2,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        8,
+        10
+      ],
+      "ap": 2,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Wing",
+      "range": [
+        11,
+        12
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Wing",
+      "range": [
+        13,
+        14
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        15,
+        16
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        17,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Short bow",
+      "damage": "1d6",
+      "size": "L",
+      "range": "45/300/600 feet",
+      "reload": 2,
+      "traits": [
+        "Impale"
+      ],
+      "loaded": false
+    },
+    {
+      "name": "18 arrows",
+      "quantity": 18
+    },
+    {
+      "name": "Shortsword",
+      "damage": "1d6",
+      "size": "M",
+      "ap": 6,
+      "hp": 8,
+      "traits": [
+        "Bleed",
+        "Impale"
+      ]
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Arms": 55
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "she",
+    "score": {
+      "want": "Cropped hair, stitched quiver. Dry terse talk; wantslivingwages. KnowsDaneexpectsweapons,nobuyeridentity. Warnsnonhostileapproach,takescover,usesactualreload,withdrawswhen cutoff,yieldscredibledefeat.",
+      "ought": "Honor real surrender; no mind-reading or endless resources",
+      "tactics": "Cropped hair, stitched quiver. Dry terse talk; wantslivingwages. KnowsDaneexpectsweapons,nobuyeridentity. Warnsnonhostileapproach,takescover,usesactualreload,withdrawswhen cutoff,yieldscredibledefeat.",
+      "catches_lies": "No automatic lie detection"
+    },
+    "doing": {
+      "goal": "Keep site and employer safe, receive fair wages",
+      "next": "Day40 guard/work complete; paid4.5GP, accepts ordinary same-rate1dayextension41. RemainscampwithDaneandFosrt, no magic news or hidden attackers.",
+      "where": "myth-loc-c34fe1fcfef4"
+    },
+    "plan_reference": "docs/scenarios/hrill-what-she-sold-preparation.md",
+    "assets": {
+      "gp": 4,
+      "sp": 5,
+      "wages_received_gp": 4.5,
+      "source": "Dane actual9GPreserve splitbetweenKettWilla,paid40dusk75"
+    },
+    "employment": {
+      "paid_through": "d40",
+      "extension": {
+        "date": "d41",
+        "daily_gp": 1.5,
+        "meals_included": true,
+        "paid": false,
+        "accepted": true,
+        "scope": "Oneadditionaldayguardingquarrysite,nomilitaryoath"
+      }
+    }
+  },
+  "actor_notes": "Cropped hair, stitched quiver. Dry terse talk; wantslivingwages. KnowsDaneexpectsweapons,nobuyeridentity. Warnsnonhostileapproach,takescover,usesactualreload,withdrawswhen cutoff,yieldscredibledefeat.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-c34fe1fcfef4",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-28T16:32:18"
+}

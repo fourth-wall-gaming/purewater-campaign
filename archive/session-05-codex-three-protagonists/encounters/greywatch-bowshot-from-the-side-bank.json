@@ -1,0 +1,84 @@
+{
+  "id": "myth-enc-46213a955994",
+  "name": "Greywatch \u2014 bowshot from the side bank",
+  "description": "Hrill initiates bowshot at Avel36ft from stonebank; she spots draw criticalPerception03/Hard37 and raises shield. Initialshotbefore subsequent initiative cycle; no surprise. YardAvelPikeJerr;Essaouterbend;Ennaquay. Corl/Vennyielded noncombatants.",
+  "summary": "Avel yields, company disarms after her order and Pike crew comply with his order. Hrill escorts her into yard at swordpoint. No further combat, all alive.",
+  "status": "resolved",
+  "round": 4,
+  "combatants": [
+    {
+      "id": "myth-char-5ef410466d11",
+      "name": "Jerr Low",
+      "initiative": 20,
+      "ap": 1,
+      "max_ap": 2,
+      "conditions": [
+        "yielded-ceased-resistance"
+      ],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-87c2db0593fc",
+      "name": "Dame Avel Veyr",
+      "initiative": 18,
+      "ap": 2,
+      "max_ap": 3,
+      "conditions": [
+        "disarmed-longsword-ground9ft-behind",
+        "yielded-ceased-resistance"
+      ],
+      "dex": 13
+    },
+    {
+      "id": "myth-char-2074bda6383d",
+      "name": "Enna Rusk",
+      "initiative": 18,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-07bc6645bb49",
+      "name": "Hrill Helmdance",
+      "initiative": 17,
+      "ap": 2,
+      "max_ap": 3,
+      "conditions": [
+        "longsword-and-shield-ready",
+        "engaged-avel-gully"
+      ],
+      "dex": 14
+    },
+    {
+      "id": "myth-char-b902b2fc4873",
+      "name": "Captain Surn Pike",
+      "initiative": 11,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-e46d17ad962f",
+      "name": "Essa Gant",
+      "initiative": 11,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [],
+      "dex": 12
+    },
+    {
+      "id": "myth-char-c06c0b3e8279",
+      "name": "Vela Sorn",
+      "initiative": 16,
+      "ap": 2,
+      "max_ap": 2,
+      "conditions": [
+        "crossbow-loaded"
+      ],
+      "dex": 12
+    }
+  ],
+  "created_at": "2026-10-28T01:13:50"
+}

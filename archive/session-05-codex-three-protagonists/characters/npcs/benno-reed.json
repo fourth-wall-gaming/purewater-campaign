@@ -1,0 +1,188 @@
+{
+  "id": "myth-char-b3ee117cb166",
+  "name": "Benno Reed",
+  "type": "npc",
+  "status": "active",
+  "description": "Young freckled man, cropped black hair, carefully maintained spear.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 13,
+    "DEX": 12,
+    "INT": 12,
+    "POW": 11,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 12,
+    "luck_points": 0,
+    "magic_points": 0,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 45,
+    "Boating": 24,
+    "Brawn": 50,
+    "Conceal": 23,
+    "Dance": 23,
+    "Deceit": 23,
+    "Drive": 23,
+    "Endurance": 45,
+    "Evade": 40,
+    "First Aid": 35,
+    "Influence": 22,
+    "Insight": 23,
+    "Locale": 24,
+    "Perception": 50,
+    "Ride": 23,
+    "Sing": 22,
+    "Stealth": 24,
+    "Swim": 24,
+    "Unarmed": 24,
+    "Willpower": 45,
+    "Customs": 64,
+    "Native Tongue": 63
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 2,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 3,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 3,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 2,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 3,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Short spear",
+      "damage": "1d8+1",
+      "size": "M",
+      "ap": 4,
+      "hp": 5,
+      "traits": [
+        "Impale"
+      ]
+    },
+    {
+      "name": "Round shield",
+      "damage": "1d4",
+      "size": "L",
+      "ap": 4,
+      "hp": 12,
+      "traits": [
+        "Ranged Parry",
+        "Passive Block 4 locations",
+        "Bash"
+      ]
+    }
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Watch arms": 55
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "he/him",
+    "score": {
+      "want": "Earnest novice, asks practical questions, likes learning from veteran; wants do useful job without bravado; follows plain orders and uses shield.",
+      "ought": "Respect Crown law",
+      "driver": "Earnest novice, asks practical questions, likes learning from veteran; wants do useful job without bravado; follows plain orders and uses shield.",
+      "stated_reason": "Duty",
+      "relational_status": "Meets Hrill during29watch",
+      "tactics": [
+        "Protect carrier behind shield if opening actually made; not automatically frightened or wounded.",
+        "Use actual cover and available weapons",
+        "Accept surrender or withdraw when beaten"
+      ],
+      "catches_lies": "No automatic lie detection"
+    },
+    "doing": {
+      "goal": "Guard prisoner and protect carrier",
+      "next": "BrannassignsBennoholdculvertwithPella, mule/cart8woolintact. Mossseateddisarmednotbound; seizeunloadedcrossbow11boltsandspearasfiniteCrownevidence. Ownspearshieldready. Noauthoritytoexecuteorpardon.",
+      "where": "myth-loc-c189873fc06a"
+    },
+    "assets": {
+      "prisoner_count": 1,
+      "seized_from": "myth-char-a91a8a3881b5",
+      "evidence_location": "BesideBennoatculvert, guarded"
+    }
+  },
+  "actor_notes": "LOOKS: Young freckled man, cropped black hair, carefully maintained spear. CORE/NATURE/WANTS/PRESSURE: Earnest novice, asks practical questions, likes learning from veteran; wants do useful job without bravado; follows plain orders and uses shield. VOICE: Short ordinary sentences, distinct temperament, no exposition.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 0,
+  "experience_rolls": 0,
+  "location": "myth-loc-e57029a62b7b",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-28T07:19:54"
+}

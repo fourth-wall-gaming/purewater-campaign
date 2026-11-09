@@ -1,0 +1,188 @@
+{
+  "id": "myth-char-5ccf034d5870",
+  "name": "Mistress Ysabet Rill",
+  "type": "npc",
+  "status": "active",
+  "description": "She/her. Independent established master specialising in alteration and protection; practical commissions fund research into preservation, form and decay. No kinship to Nessa Rill implied.",
+  "narrative": "LOOKS:broad-shouldered middle-aged woman, cropped dark hair threaded grey, work apron over plain blue wool, stained fingertips. CORE:knowledge earns its keep when other people can reproduce it. NATURE:energetic, candid, absorbed by a well-made tool or an unexpected result. WOUND:patrons have tried to buy ownership of useful discoveries. WANTS:capable independent colleagues and reliable observations without exclusive patron ownership. PRESSURE:becomes impatient with vague claims, cooperative with an honest limit. KEY:concrete practical language, questions about what happened rather than pedigree; no ritualised interrogation.",
+  "characteristics": {
+    "STR": 11,
+    "CON": 13,
+    "SIZ": 12,
+    "DEX": 12,
+    "INT": 18,
+    "POW": 18,
+    "CHA": 13
+  },
+  "attributes": {
+    "action_points": 3,
+    "damage_modifier": "+0",
+    "experience_modifier": 2,
+    "healing_rate": 3,
+    "initiative_bonus": 15,
+    "luck_points": 0,
+    "magic_points": 18,
+    "movement": "6m"
+  },
+  "skills": {
+    "Athletics": 23,
+    "Boating": 24,
+    "Brawn": 23,
+    "Conceal": 30,
+    "Dance": 25,
+    "Deceit": 31,
+    "Drive": 30,
+    "Endurance": 26,
+    "Evade": 45,
+    "First Aid": 30,
+    "Influence": 65,
+    "Insight": 65,
+    "Locale": 36,
+    "Perception": 75,
+    "Ride": 30,
+    "Sing": 31,
+    "Stealth": 30,
+    "Swim": 24,
+    "Unarmed": 23,
+    "Willpower": 80,
+    "Customs": 76,
+    "Native Tongue": 71,
+    "Arcane Casting": 90,
+    "Arcane Knowledge": 95,
+    "Craft (Experimental apparatus)": 80,
+    "Commerce": 50
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Quarterstaff",
+      "damage": "1d8",
+      "size": "M",
+      "hands": 2
+    },
+    "Workshop apron",
+    "Laboratory notebook",
+    "Callipers"
+  ],
+  "passions": {},
+  "combat_styles": {
+    "Staff Defence": 45
+  },
+  "spells": null,
+  "powers": null,
+  "extras": {
+    "pronouns": "she/her",
+    "score": {
+      "want": "Collaborators who notice and report accurately",
+      "ought": "Make useful knowledge available beyond rich patrons",
+      "driver": "Protect independence of practical research",
+      "stated_reason": "Reliable observations make reliable magic",
+      "focus": "Work and evidence rather than impressive claims",
+      "status": "Master in her workshop, meets competent juniors as potential colleagues",
+      "tactics": [
+        "Hear offer",
+        "Ask concrete question or invite demonstration",
+        "Offer a bounded task if useful",
+        "Accept honest refusal or limit"
+      ],
+      "when_lied_to": "No automatic detection; use Insight for consequential lies",
+      "blind_spot": "Impatient about criticism of her own judgement",
+      "rhythm": "Short concrete sentences, practical nouns, plain friendliness",
+      "physical": "Uses tools without theatrical gestures",
+      "secret": "Private long research not automatically disclosed to a visitor",
+      "observed": []
+    },
+    "casting_preparation": "Master expertise established. No spell repertoire, rank benefits or experimental effects granted without prepared CFI mechanics before use; this courtesy scene has no NPC casting.",
+    "finite_resources": {
+      "public_workshop": 1,
+      "private_laboratory": 1,
+      "guards": 0
+    },
+    "doing": {
+      "goal": "Pursue reliable independent practical magic and preservation research",
+      "next": "Work at public bench and hear a prospective freelance collaborator",
+      "where": "myth-loc-1067dc0c91fd",
+      "as_of_session": 8
+    }
+  },
+  "actor_notes": "LOOKS:broad-shouldered middle-aged woman, cropped dark hair threaded grey, work apron over plain blue wool, stained fingertips. CORE:knowledge earns its keep when other people can reproduce it. NATURE:energetic, candid, absorbed by a well-made tool or an unexpected result. WOUND:patrons have tried to buy ownership of useful discoveries. WANTS:capable independent colleagues and reliable observations without exclusive patron ownership. PRESSURE:becomes impatient with vague claims, cooperative with an honest limit. KEY:concrete practical language, questions about what happened rather than pedigree; no ritualised interrogation.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 18,
+  "experience_rolls": 0,
+  "location": "myth-loc-1067dc0c91fd",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-26T15:18:14"
+}

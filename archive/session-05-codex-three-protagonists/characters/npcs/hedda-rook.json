@@ -1,0 +1,142 @@
+{
+  "id": "myth-char-d59737d53831",
+  "name": "Hedda Rook",
+  "type": "npc",
+  "status": "active",
+  "description": "Adult fitter, one of Sella Marr\u2019s existing six civilian employees. Measuring proposed gate fittings, not installing or guarding a gate. Broad-shouldered, wool work jacket, chalk on her cuffs. No knowledge of Nimras or Vaur\u2019s commission.",
+  "narrative": null,
+  "characteristics": {
+    "STR": 12,
+    "CON": 12,
+    "SIZ": 12,
+    "DEX": 13,
+    "INT": 14,
+    "POW": 10,
+    "CHA": 11
+  },
+  "attributes": {
+    "action_points": 2,
+    "damage_modifier": "+0",
+    "experience_modifier": 0,
+    "healing_rate": 2,
+    "initiative_bonus": 13,
+    "luck_points": 0,
+    "magic_points": 10,
+    "movement": "6m"
+  },
+  "skills": {
+    "Craft (Ironwork)": 70,
+    "Engineering": 70,
+    "Mechanisms": 65,
+    "Perception": 45,
+    "Insight": 35,
+    "Influence": 40,
+    "Willpower": 45,
+    "Evade": 40
+  },
+  "hit_locations": [
+    {
+      "name": "Right Leg",
+      "range": [
+        1,
+        3
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Left Leg",
+      "range": [
+        4,
+        6
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    },
+    {
+      "name": "Abdomen",
+      "range": [
+        7,
+        9
+      ],
+      "ap": 0,
+      "hp": 6,
+      "current_hp": 6
+    },
+    {
+      "name": "Chest",
+      "range": [
+        10,
+        12
+      ],
+      "ap": 0,
+      "hp": 7,
+      "current_hp": 7
+    },
+    {
+      "name": "Right Arm",
+      "range": [
+        13,
+        15
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Left Arm",
+      "range": [
+        16,
+        18
+      ],
+      "ap": 0,
+      "hp": 4,
+      "current_hp": 4
+    },
+    {
+      "name": "Head",
+      "range": [
+        19,
+        20
+      ],
+      "ap": 0,
+      "hp": 5,
+      "current_hp": 5
+    }
+  ],
+  "equipment": [],
+  "passions": {},
+  "combat_styles": {},
+  "spells": {},
+  "powers": [],
+  "extras": {
+    "pronouns": "she/her",
+    "gender": "female",
+    "career": "Canal fitter; mundane civilian",
+    "resource_slot": "Marr civilian employee 1 of 6",
+    "score": {
+      "want": "Finish an accurate estimate without assuming a property dispute.",
+      "status": {
+        "strangers": "Workmanlike equality; expects tools and measuring space respected."
+      },
+      "tactics": [
+        "Answer the practical question",
+        "Point to the estimate order",
+        "Stop work and seek supervisor if pressured"
+      ],
+      "when_lied_to": "miss",
+      "observed": []
+    }
+  },
+  "actor_notes": "LOOKS: broad-shouldered adult woman, wool work jacket, chalk on cuffs. NATURE: practical, brisk, ordinary courtesy. WANTS: a sound estimate without being made party to a property dispute. PRESSURE: stops work and asks for whoever actually hired the job. Speech: concrete workshop language, no riddles or legal pronouncements.",
+  "fatigue": "Fresh",
+  "luck_current": 0,
+  "magic_current": 10,
+  "experience_rolls": 0,
+  "location": "myth-loc-17bfb40605a4",
+  "factions": [],
+  "from_template": null,
+  "created_at": "2026-10-23T21:25:16"
+}

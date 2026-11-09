@@ -1,0 +1,37 @@
+{
+  "spent": true,
+  "before": 4,
+  "after": 3,
+  "opponent_fixed": {
+    "roll": 85,
+    "effective": 30,
+    "level": "failure"
+  },
+  "original_roll": 67,
+  "reroll": {
+    "success": true,
+    "character": "Hrill Helmdance",
+    "skill_name": "Stealth",
+    "asked_for": null,
+    "base_skill": 29,
+    "augment": null,
+    "roll": 49,
+    "skill": 29,
+    "difficulty": "standard",
+    "effective": 29,
+    "critical_range": 3,
+    "level": "failure",
+    "storyline": {
+      "id": "myth-storyline-0fea5d34980f",
+      "name": "Hrill",
+      "pcs": [
+        "myth-char-07bc6645bb49"
+      ],
+      "now": "d25/dusk",
+      "minute_in_watch": 255,
+      "scene": "d25/dusk minute255 Hrill behindlowstonebank atsideofyard12yardsfromAvel, screened butfinalopen/noisygravelstripnotcrossed. Mailcaughtbrushandhehalted; voicesof2searchersceasedbeyondbend, no exactPCpositionknown, no guarantee nextmovementunseen. Diversionarrow1spent: Fighter87/Hard47failure hitlowerquay,noinjury. FiringStealth65/29fail vsEnna89/Hard30failnone, roughbearingonly. FeintStrategy74/75success beatAvel42/65success: Corl+Vennsearchinlandoldfiringrise. CirclingStealth67/29fail vsCorl85/Hard30failnone, partialmovementhalt. AvelremainsyardwithPike+2spearmen(groundedladder);1crossbowloadedquayoverlook,3boatcrewincoveratquay,10hostilestotal. Hrillbowinhandunnocked19arrows,shieldslungnotreadied,swordbelt,mailAP5fullHPFreshLuck4 18GP,keybelt. Noattack/captureofAvel/noinitiativeyet. Halwenreturnunderwaysince239earliest359/nohelpyet. Crown3guardsBessinsideunhurt, unknowncurrentHposition. Hrillnextactionpending beforeexposedapproach.",
+      "session": 8
+    },
+    "world_high_water": "d25/dusk"
+  }
+}

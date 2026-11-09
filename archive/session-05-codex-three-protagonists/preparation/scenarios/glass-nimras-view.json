@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "character": "myth-char-4fc52ae14026",
+  "name": "Nimras",
+  "knows": [
+    {
+      "statement": "Oren Vey directed Nimras to Furnace Court to find Rennic Vaur.",
+      "certainty": "knows",
+      "source": "told",
+      "since": "d6/night",
+      "truth": "true"
+    },
+    {
+      "statement": "At Furnace Court during d6/night, Nimras sees Rennic Vaur on the Glasswalk bridge about18m away with a clasped satchel, followed8m behind by a dog-sized clear glass creature with a glowing blue throat. Nimras is at the foot of the east stair; no attack or spell has yet been resolved.",
+      "certainty": "knows",
+      "source": "witnessed",
+      "since": "d6/night",
+      "truth": "true"
+    },
+    {
+      "statement": "Nimras has been commissioned by his former independent fellowship to find Rennic Vaur alive and recover an entrusted manuscript; his first introduction is to Oren Vey.",
+      "certainty": "knows",
+      "source": "told",
+      "since": "d6/dusk",
+      "truth": "true"
+    }
+  ],
+  "reads": []
+}
