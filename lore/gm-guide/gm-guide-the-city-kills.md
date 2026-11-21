@@ -69,3 +69,40 @@ a stair. That, not a fair fight, is his real weak point.
   has a visible warning and a way to meet it. Then it is allowed to happen.
 - **Bodies are evidence.** A death in Purewater is the start of an investigation,
   and the city's habit of calling everything *drowned* is the first lie to break.
+
+## What a good night here looks like
+
+Confirmed in play on 2026-11-21 by the player, about a session that ran this
+guide as written: "high stakes, interesting politics, great action, tension
+everywhere and a suitably evil villain." These are the things that session did.
+
+- **Something is already wrong in the first line.** A chalk crow on the outer
+  sill of a window you sat beside all night. A senior sister holding her hand
+  out for a junior's notebook, with the stove door open. A boat whistling for
+  a watch that won't answer. A man coming down his own water stair with a
+  satchel, leaving. Never open on a wait.
+- **The politics are levers in the player's hands, not exposition.** Here they
+  are the forms in *The King's justice*: testimony sworn over still water before
+  the Prince, an outlawry and a sealed warrant, a storyteller with a voice the
+  low water trusts crying it from his own chair, the Order's claim on profaned
+  water, and the Swords, whom the Order cannot command. Each costs somebody
+  something to use. Give the player the person with standing and let them make
+  the case.
+- **Every NPC wants something and has an edge.** The clerk is afraid of being
+  the one who's blamed. The Warden signed the stand-down. The bellows-boy wants
+  out. The blade captain drinks his clerk's health at midwinter and will still
+  have him shot. Pressure on the want moves them; nothing else does.
+- **Fights are lethal, shown first, and short.** Before any roll that can kill,
+  name the hazard: a fireball forming, a bound man in a boat under a closing
+  arch, a dwarf in mail beside deep water. Let the player choose. Then roll
+  honestly and keep what the dice give, even two 96s in a row on the lift that
+  matters. Crowbill's people break when the fight turns, and a broken crew is
+  capacity he has really lost.
+- **The villain is polite, curious and without pity.** The fire-binder greets
+  the dwarf with "Oh, good." He calls them vessels, and the trade sells
+  ferry-boys by the head. Never explain him. Let the ledger speak for him.
+
+Conduct slips that were caught at the table, and are worth not repeating:
+quote hit points only after checking the sheet; never pick the skill for the
+player (ask, or use the one they've been using); and remember that ranged
+attacks can't take melee-only special effects (Trip, Bash, Disarm, Grip).
