@@ -1,13 +1,15 @@
 ---
 id: "myth-faction-b13b4eec5c17"
 name: "Crowbill's Underworld"
-summary: "Purewater's criminal underground -- canal smuggling, gambling, protection -- run to a code by the unremarkable crime lord Crowbill. Signaled by crow marks. The occupation is wrecking the equilibrium his business depends on."
+summary: "Purewater's criminal underground -- canal smuggling, gambling, protection, and killing when it pays -- run by the unremarkable crime lord Crowbill behind a public code he does not keep. Some hundred and twenty people on his payroll. Signaled by crow marks."
 created_at: "2026-06-24T23:31:07"
 ---
 
 Purewater's criminal underground: canal smuggling, gambling dens, and protection rackets, run by [[Crowbill]] -- a wiry, forgettable man whose only distinctive mark is a small crow tattoo on the back of his right hand. His people signal with crow symbols, and he keeps hidden boat-paths through the canals and safe houses across the city. He works out of [[The Catacombs]] and is very hard to find on purpose.
 
-**The code.** No murder of locals. No harm to children. No touching the Lake Lady's sacred sites. *(In the older Zorastor telling this was Jubal's Talons and the thief Randall's home turf; in Purewater the role is Crowbill's, given an explicit ethic.)* The code is not sentiment — it is why the city tolerates him, why the watch works around him rather than against him, and why he has lasted.
+**The code.** No murder of locals. No harm to children. No touching the Lake Lady's sacred sites. *(In the older Zorastor telling this was Jubal's Talons and the thief Randall's home turf; in Purewater the role is Crowbill's, given an explicit ethic.)* The code is not sentiment, and it is not a restraint either. It is a **reputation**: it is why the city tolerates him, why the watch works around him rather than against him, and why he has lasted. He protects it the way he protects a strongbox, by making sure nobody who could prove he has broken it is ever heard. He orders deaths as business decisions, locals included, and the bodies go into the water as *drowned*.
+
+**At scale.** Around a hundred and twenty people on his payroll in some way: two dozen blades, a night crew with its own boats, forty watchers from lamp-men to children, a bought sergeant at the Lullwater Watch post, a Tide Lord who waves his cargo through, and one or two people whose only job is ending other people. Roughly two hundred gold a week, kept in strongboxes in more than one safe house. See *GM Guide: The city kills*.
 
 **Stated aim:** profit and quiet. **Real aim:** to keep Purewater *level* -- a city where everyone's business is predictable -- because a level table is worth more to him than any single score.
 
