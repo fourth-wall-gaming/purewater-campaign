@@ -25,7 +25,7 @@ These are the people everybody in the city knows of, and what everybody says abo
 - **Prince Emeric,** the King's nephew and Governor: two-and-twenty, clever, idealistic and decent, and run rings around by his own council. People like him and do not expect anything of him.
 - **The city council,** the merchant princes who run the city's daily business from their palazzi on the Grand Canal. Three of them carried the standing order. Everybody has an opinion about which three, and why.
 - **Marisette,** who rules the Pearl, every house on it. She receives; she does not travel.
-- **Crowbill,** who runs the city's other business, the business nobody writes down. He is said to keep a code: no killing locals, no harming children, no touching the Lady's sites. Some people find that comforting.
+- **Crowbill,** who runs the city's other business, the business nobody writes down. He is said to keep a code: no killing canal folk, no harming their children, no touching the Lady's water where the low water would feel it. Everyone else takes their chances. Some people find that comforting.
 - **Marda Blackwater,** who speaks for the Dredgers, three hundred dock labourers who work the water-stairs, and who are angrier this week than she is.
 - **The Order of the Lake Lady** and its High Priestess, **Nerissa**, who owns the water and is forbidden to meddle in the city.
 - **The Harbor Masters,** who write down every hull on the water, including the Baron's ship, which lies at a private pier in the Forges, steaming where it meets the water.

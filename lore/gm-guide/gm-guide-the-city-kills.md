@@ -47,12 +47,12 @@ is to end other people. Income runs to about **two hundred gold a week** before
 anything special, with strongboxes in more than one safe house. A guardsman's purse
 is a joke to him. Size every operation against these numbers.
 
-**The code is a reputation, not a restraint.** *No murder of locals, no children, no
-sacred sites* is what the city believes about him, and that belief is one of his
-most valuable assets. He protects it the way he protects a strongbox: by making sure
-anyone who could prove otherwise is never heard. He is courteous, patient and
-genuinely loyal to some people, and none of that stops him ordering a death as a
-business decision.
+**He keeps his code, and it is narrow.** *No killing canal folk, no harming their
+children, nothing done to the Lady's water that low-born people would feel is wrong.*
+Canal folk are the people of the Lullwater and the Shoals. High-born holy places are
+fair game within that limit, and everyone else is on the menu. He is courteous,
+patient and genuinely loyal to some people, and none of that stops him ordering the
+death of anybody his rules do not cover.
 
 **He is gettable through exposure.** If the low water ever believes he has broken
 his own code, it turns on him, and the Dredgers alone can put three hundred people on

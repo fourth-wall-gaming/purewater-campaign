@@ -1,13 +1,13 @@
 ---
 id: "myth-faction-b13b4eec5c17"
 name: "Crowbill's Underworld"
-summary: "Purewater's criminal underground -- canal smuggling, gambling, protection, and killing when it pays -- run by the unremarkable crime lord Crowbill behind a public code he does not keep. Some hundred and twenty people on his payroll. Signaled by crow marks."
+summary: "Purewater's criminal underground -- canal smuggling, gambling, protection, and killing when it pays -- run by the unremarkable crime lord Crowbill, merciless to everyone but canal folk and their children, whom his code protects. Some hundred and twenty people on his payroll. Signaled by crow marks."
 created_at: "2026-06-24T23:31:07"
 ---
 
 Purewater's criminal underground: canal smuggling, gambling dens, and protection rackets, run by [[Crowbill]] -- a wiry, forgettable man whose only distinctive mark is a small crow tattoo on the back of his right hand. His people signal with crow symbols, and he keeps hidden boat-paths through the canals and safe houses across the city. He works out of [[The Catacombs]] and is very hard to find on purpose.
 
-**The code.** No murder of locals. No harm to children. No touching the Lake Lady's sacred sites. *(In the older Zorastor telling this was Jubal's Talons and the thief Randall's home turf; in Purewater the role is Crowbill's, given an explicit ethic.)* The code is not sentiment, and it is not a restraint either. It is a **reputation**: it is why the city tolerates him, why the watch works around him rather than against him, and why he has lasted. He protects it the way he protects a strongbox, by making sure nobody who could prove he has broken it is ever heard. He orders deaths as business decisions, locals included, and the bodies go into the water as *drowned*.
+**The code.** No killing canal folk. No harm to their children. No touching the Lady's water in any way low-born people would feel was wrong. *(In the older Zorastor telling this was Jubal's Talons and the thief Randall's home turf; in Purewater the role is Crowbill's, given an explicit ethic.)* He keeps all three, and they are narrow. Canal folk are the people of [[The Lullwater]] and [[The Shoals]]. The water he leaves alone is the water they care about: the stairs, pools and rites of the poor. High-born holy places are fair game, so long as nothing done there would feel wrong to low-born people. **Everyone else is on the menu**, and he is merciless about it. The code is not sentiment — it is why the low water tolerates him, why the watch works around him rather than against him, and why he has lasted.
 
 **At scale.** Around a hundred and twenty people on his payroll in some way: two dozen blades, a night crew with its own boats, forty watchers from lamp-men to children, a bought sergeant at the Lullwater Watch post, a Tide Lord who waves his cargo through, and one or two people whose only job is ending other people. Roughly two hundred gold a week, kept in strongboxes in more than one safe house. See *GM Guide: The city kills*.
 
@@ -39,7 +39,7 @@ Otherwise: [[Nus]], [[Randall]], [[Mariarta]], or a crow chalked by a doorway. Y
 | **Theft to order** | [[Nus]] can lift almost anything off almost anyone -- including a locket off a Baron |
 | **Enforcement** | he will guarantee Marisette's boycott for a price, and he honours guarantees |
 
-**The price is the code.** Break it in his city -- hurt a local, hurt a child, foul a sacred site -- and no fee buys you back.
+**The price is the code.** Break it in his city -- kill canal folk, hurt their children, foul the low water's holy places -- and no fee buys you back.
 
 ## Friction
 
@@ -50,7 +50,7 @@ Old paying relationship with [[The Pleasure Houses of the Pearl]]. An uneasy sec
 - The party is tailed from their first afternoon in the city. What they do about it sets the whole relationship.
 - Crowbill wants something from a PC and will not say what -- an honest refusal is worth more to him than a false yes.
 - *Nus lifts the binding locket* on `d-1/day` is this faction's hand reaching into the main plot, and it gets Nus killed if the party is not careful.
-- A Knight kills a local. Crowbill now has to act or visibly not act, and both cost him.
+- A Knight kills one of the canal folk. Crowbill now has to act or visibly not act, and both cost him.
 - Someone offers him the Baron's business, at a price that would set him up for life and end him in this city.
 
 **Agendas on the clock:** *Keep the table level* ([[Crowbill]], 0/6) and *One big score, and a name* ([[Nus]], 0/4) -- the second of which is a boy who idolises the wrong things and dies in *The purge: a body on display* if it runs.

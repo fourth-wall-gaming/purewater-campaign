@@ -56,8 +56,8 @@ sergeant in the city knows exactly how that will read afterwards.
 
 - **The Dredgers** work the water-stairs the Knights keep commandeering. [[Marda Blackwater]] has three hundred dock labourers, a grievance, and no legal route.
   She is the powder in this.
-- **[[Crowbill]]**'s code is *no killing locals, no harming children, no touching
-  the Lady's sites*. The Knights are breaking the spirit of all three and he
+- **[[Crowbill]]**'s code is *no killing canal folk, no harming their children,
+  no touching the Lady's water where the low water would feel it*. The Knights are breaking the spirit of all three and he
   cannot be seen to enforce a code against armoured men without starting a war he
   loses. It is costing him standing daily.
 - **The Pearl** is taking the worst of the nights and is the least able to

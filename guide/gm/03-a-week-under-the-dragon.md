@@ -34,7 +34,7 @@ The occupation presses on everybody differently, and each of them is a fuse.
 
 **The Dredgers** work the water-stairs the Knights keep commandeering, and their leader, **Marda Blackwater**, has three hundred dock labourers who are angrier than she is, and no lawful way to settle it. She wants Rill paid, the two boatmen accounted for, and one Knight made to answer for something in front of a magistrate. If nobody gives her any of that, she has one lever left. On the eve of the Tourney she can stop the water-stairs, and with them every boat, barrel and competitor's kit in the city.
 
-**Crowbill's** code is *no killing locals, no harming children, no touching the Lady's sites*, and the Knights are breaking the spirit of all three. He cannot be seen to enforce a code against armoured men without starting a war he would lose, and it is costing him standing every day. His collections come up short on the bridges the Knights stand on, because if the Knights do not have to pay, why should anybody?
+**Crowbill's** code is *no killing canal folk, no harming their children, no touching the Lady's water where the low water would feel it*, and the Knights are breaking the spirit of all three. He cannot be seen to enforce a code against armoured men without starting a war he would lose, and it is costing him standing every day. His collections come up short on the bridges the Knights stand on, because if the Knights do not have to pay, why should anybody?
 
 **The Pearl** takes the worst of the nights and is the least able to complain, because complaining is bad for trade.
 
