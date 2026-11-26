@@ -44,7 +44,7 @@ which is correct.
 
 | Contents | Count |
 |---|---|
-| Lore entries | 28 |
+| Lore entries | 30 |
 | Characters | 42 (playable: Conall Bjornlasch, Gardwen, Magda, Randall) |
 | Creature templates | 4 |
 | Locations | 22 |
