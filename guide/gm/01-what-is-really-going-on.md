@@ -26,7 +26,7 @@ Three things hold Thuban in the boy, and each is a separate point of failure.
 
 **The bones** lie in a box in the tower at Emberhold, four days' hard riding from Purewater. They hold Thuban in the world. Nothing in this scenario can reach them, and the scenario ends by pointing at them.
 
-**The locket** hangs on a chain round the Baron's neck. It ties Thuban to *Hanzo*: it is the leash. With it in his hand, the Baron can command Thuban, draw him out of the boy, and seat him somewhere else. Without it he can do none of those things, and the spirit he has held for ten years is a dragon-knight who owes him nothing but a reckoning. The locket is a robust working; only a powerful Dispel Magic would break it. And, crucially, holding it gives nobody else any power over Thuban. It only takes him away from the Baron.
+**The locket** hangs on a chain round the Baron's neck. It ties Thuban to *Hanzo*: it is the leash. With it in his hand, the Baron can command Thuban, draw him out of the boy, and seat him somewhere else. Without it he can do none of those things, and the spirit he has held for ten years is a dragon-knight who owes him nothing but a reckoning. The locket is a robust working; only a powerful Dispel Magic or an Exorcism would break it. And, crucially, holding it gives nobody else any power over Thuban. It only takes him away from the Baron.
 
 **The nightly rite** renews the seat. Every night, behind sealed doors on his ship, the Baron makes a cut, fills a bowl and speaks for an hour with the locket in his hand. Then he takes the chain off, lays the locket on the table beside his bed, and goes to sleep. That is the only time the locket is ever off his neck, and it is the most important thing in this book.
 

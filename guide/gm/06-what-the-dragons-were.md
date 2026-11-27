@@ -62,7 +62,7 @@ At about twenty-five, he seduced a young elven mage who saw the thing with Spiri
 - **Spiritshield** (Cleric 0): a spirit must beat the caster's Piety with its Willpower to enter.
 - **Protection from Evil** (Cleric 1): possession automatically fails.
 - **Detect Evil** (Cleric 1): shows a seated demon.
-- **Dispel Magic** ends spells, and does nothing to powers or to spirits.
-- **Exorcism** (Cleric 3) drives out a possession whose Intensity is no more than half the spell's. Treat a seat's Intensity as the binder's POW divided by three, plus one for each anchor. Santo's seat in Emmeralda is weak, and an ordinary priest can break it. Hanzo's seat of Thuban, with the bones and the locket, is beyond any priest in the city. A spirit that wins the duel may possess the loser.
+- **Dispel Magic** ends spells. A powerful one can also break a binding's working anchor, such as the locket, or a weak seat such as Santo's, but it does nothing to a spirit itself.
+- **Exorcism** (Cleric 3) drives out a possession whose Intensity is no more than half the spell's. Treat a seat's Intensity as the binder's POW divided by three, plus one for each anchor. Santo's seat in Emmeralda is weak, and an ordinary priest can break it. An Exorcism of enough Intensity can also break the locket. Hanzo's seat of Thuban, with the bones and the locket, is beyond any priest in the city. A spirit that wins the duel may possess the loser.
 
 The Order of the Lake Lady has no possession magic of any kind, by doctrine.

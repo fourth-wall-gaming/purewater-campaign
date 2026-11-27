@@ -54,7 +54,7 @@ Then the characters are the thieves, and Nus is either with them or very put out
 
 ## "We destroy the locket."
 
-Only a powerful Dispel Magic can, and nobody in the party has one. Nerissa does not; the Order has no such art. The Quiet Hand might know somebody, and Hesper might, if anybody ever sees past the costume. If the locket is destroyed, the effect is the same as keeping it from the Baron, and permanently so: Thuban is no longer leashed, and the Breakout follows that evening wherever the champion is. It does not free Thuban from the world. Only the bones do that.
+Only a powerful Dispel Magic or an Exorcism can, and nobody in the party has either. Nerissa does not; the Order has no such art. The Quiet Hand might know somebody, and Hesper might, if anybody ever sees past the costume. If the locket is destroyed, the effect is the same as keeping it from the Baron, and permanently so: Thuban is no longer leashed, and the Breakout follows that evening wherever the champion is. It does not free Thuban from the world. Only the bones do that.
 
 ## "We take the boy."
 

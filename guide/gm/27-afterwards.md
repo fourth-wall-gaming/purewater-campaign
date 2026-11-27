@@ -71,7 +71,7 @@ Magda's dream told her to lay the dragon warrior to rest, which is not the same 
 - **The Movement** is the Baron's, and the Tourney decides only how openly it moves. If he won, the Ember Society is his court. If he lost, it is where he rebuilds, and Cassian Bree is still writing his reports to Lady Marr.
 - **The twins** are the Baron's only other blood. If he knows of them, he wants them: the tool first, then the claim extinguished.
 - **Santo,** if he lives, is a frightened young man with a burnt hand and a father who has stopped forgiving him.
-- **Emmeralda,** if the working took, still has a Wanting of Imbra seated in her. Santo's seat is weak, and Exorcism will drive it out.
+- **Emmeralda,** if the working took, still has a Wanting of Imbra seated in her. Santo's seat is weak, and an Exorcism or a powerful Dispel Magic will drive it out.
 - **Blau** has spent a week watching the characters, and he does not forget faces. He has also spent years studying his employer's art, and a wounded or ruined Baron may be the opening he has waited for.
 - **Tat Atarer** has done the arithmetic. A company that has seen what was behind the inner doors may not ride for the Baron again.
 - **Halla, Hrill and Nimras** each have a thread running on (see *Three More Strangers*), and each of them touches the Baron's people somewhere.
