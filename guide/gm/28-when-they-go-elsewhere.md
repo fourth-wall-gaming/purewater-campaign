@@ -10,6 +10,20 @@ Let them. He receives them on the after deck of his ship, or at dinner at the Va
 
 What the characters have actually done is let him see their faces. If two of them wear the same face, he now knows he has more sons, and *A di Teufel who is not his* wakes at once. This is the most dangerous thing a party can do in the first two days, and it should be allowed, and it should cost them.
 
+## "We put on Santo's face."
+
+Either twin can. They are identical to each other and to Santo, and **there is no tell**: no mark, no scar, nothing a guard could check. Every risk is in behaviour.
+
+**What the face buys** is a great deal. It gets a twin aboard the Baron's ship by day with no invitation needed; into Santo's forward cabins, with his tracings from the locked case and the plain sign that a scroll is missing from it; to the Vantt dinner on the eve of the Tourney; and, on the night of the locket, it puts a man already aboard who can open a stern window for Nus and Randall.
+
+**What it does not buy** is the after part of the ship at night, past the Dragon Circle; the champion's door, where Orrin Sculle sleeps; or Blau, without work.
+
+**Only one Santo can be aboard at a time**, so the real one must be somewhere known: drunk on the Pearl, held, or safely sent home. The most dangerous audience is the Baron himself. A twin who stands up straight under his father's contempt is wrong in a way the Baron notices, and he rolls Willpower to see it.
+
+**Blau** is the hard one. Run it as Deceit against his Insight (60), opposed. It is Hard if the twin is unprepared, and Standard with Santo's clothes and rings and his habits learned from somebody who knows him: Marisette, Emmeralda, the women of the Pearl, or Santo himself, if the characters are holding him. A failed roll makes Blau suspicious, not certain. He tests: a question only Santo could answer, or a hand on the collar to haul the young master home. Failing the test is exposure. Every new scene with Blau is a new roll.
+
+**How it can end for Santo.** If the borrowed face exposes him to his father through the missing scroll, he is written off, a son his father has stopped forgiving. If he dies, Blau turns to vengeance, and the twins are the only di Teufel blood walking. And if a twin is unmasked as a stranger in front of the Baron, *A di Teufel who is not his* wakes at once. The Baron sees a better son than Santo standing in front of him. He wants that son as a tool first, and the claim extinguished second.
+
 ## "We tell the Prince."
 
 The Prince is the best person in the city to tell, and the hardest to reach. He is surrounded by councillors who have spent two years managing what reaches him. Getting in front of him needs standing (Conall's warrant, Temerach, Nerissa) or an occasion he cannot avoid, such as the presentation, the Archery or the closing. Once there, the characters face a young man who wants very much to do one thing properly on his own judgement. **Tell him the truth plainly, and ask him to decide rather than sign, and he may decide well.** He can withdraw the standing order. He can refuse the champion's audience, if he believes what is in the champion, and that closes the Quiet Room; the Baron then needs another way into a room with him, and he will find one. What the Prince cannot do is arrest a baron on the strength of strangers' accusations, so the characters will still need somebody with standing to make the charge.
@@ -40,7 +54,7 @@ Then the characters are the thieves, and Nus is either with them or very put out
 
 ## "We destroy the locket."
 
-Only a powerful Dispel Magic can, and nobody in the party has one. Nerissa does not; the Order has no such art. The Quiet Hand might know somebody, and Hesper might, if anybody ever sees past the costume. If the locket is destroyed, the effect is the same as keeping it from the Baron, and permanently so: Thuban is no longer leashed, and the Breakout follows that evening wherever the champion is. It does not free Thuban from the world. Only the bones do that.
+Only a powerful Dispel Magic or an Exorcism can, and nobody in the party has either. Nerissa does not; the Order has no such art. The Quiet Hand might know somebody, and Hesper might, if anybody ever sees past the costume. If the locket is destroyed, the effect is the same as keeping it from the Baron, and permanently so: Thuban is no longer leashed, and the Breakout follows that evening wherever the champion is. It does not free Thuban from the world. Only the bones do that.
 
 ## "We take the boy."
 

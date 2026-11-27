@@ -14,7 +14,7 @@ This week he wants one thing, Emmeralda, and he has one stolen scroll to get her
 
 ## The Twins
 
-The two the Baron does not know about were born in Purewater a little over twenty years ago, to a young elven mage he seduced and broke long before his open descent. She fled to the city to have them and died there when they were small. Nobody claimed them as a pair.
+The two the Baron does not know about were born in Purewater a little over twenty years ago, to a young elven mage he seduced and broke long before his open descent, because she saw him clearly. She fled to the city to have them and died there when they were small. Nobody claimed them as a pair.
 
 **Randall** was raised on the Pearl by the women of the Promise of Heaven, who are still, collectively, his family. He grew up a thief of the practical sort: locks, pockets, other people's routes and a very good read of a room. He knows every roof, ledge and water-stair on that island, and he has never in his life been more than four minutes from somebody who would hide him. He does not discuss his mother. People have been telling him all his life that he has somebody's face, and he has never once asked whose.
 
@@ -26,7 +26,7 @@ The two the Baron does not know about were born in Purewater a little over twent
 
 **Temerach Nebulo** knows. She has known whose son Conall is since before she recruited him, and she brought him to Purewater on purpose. She has not told him, because the truth has been more useful to her kept than told. Before this week is out, that changes.
 
-**The Baron does not know**, and he must not find out lightly. A living bastard of his blood is two things at once: a tool, and a claim on his name. He wants the tool, and he wants the claim extinguished, in that order. The moment anybody in his service sees two of that face together, or is *sold* the fact, he begins to hunt them. Quietly at first, with a name and a purse. Then Blau. Then the Knights. He will not announce a bastard to the city; he will take one off a street at night. And once he knows, he never stops.
+**The Baron does not know**, and he must not find out lightly. A living bastard of his blood is two things at once: a tool, and a claim on his name. These two are half-elven as well, in a family whose rule on the border is built on hating elves, and that makes the claim unbearable. He wants the tool, and he wants the claim extinguished, in that order. The moment anybody in his service sees two of that face together, or is *sold* the fact, he begins to hunt them. Quietly at first, with a name and a purse. Then Blau. Then the Knights. He will not announce a bastard to the city; he will take one off a street at night. And once he knows, he never stops.
 
 **This is the most dangerous thing the characters can set off**, and it is set off by being seen. That makes every public scene the twins share a real decision. A guard who sees Randall in the wrong place sees Santo slipping his leash, and thinks nothing more of it. A guard who sees Randall and Conall side by side sees the end of the Baron's line, and runs to tell somebody. In the natural course of the week, the person who sells the secret is a canal-rat with a grudge called Sinnit, and he sells it on the eve of the Tourney unless somebody has made peace with him first.
 

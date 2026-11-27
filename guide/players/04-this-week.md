@@ -41,6 +41,9 @@ Ask around in any tavern in the city this week and you will hear some of these. 
 - A councillor's daughter has been sent away for the week, and she is furious about it.
 - Crowbill's collections are coming up short on every bridge the Knights stand on.
 - An elf knight of the Swords of the Lake has entered the Archery, and nobody has ever seen one shoot.
+- The Knights stop elves on the bridges and nobody else, and the watch writes it down.
+- A traveller with no colours has twice stood between the Knights and somebody on a bridge this week, and the watch would like a word with him too.
+- **Nimras**, a mage for hire, will do almost anything lawful for a fee, and half the nobility on the Grand Canal have started using him.
 - The Dredgers are talking about stopping the stairs if nobody pays Emmit Rill.
 - The Baron is the most charming man anybody has ever met, and he remembers everybody's name.
 

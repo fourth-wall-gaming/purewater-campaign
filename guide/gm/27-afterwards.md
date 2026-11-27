@@ -8,34 +8,74 @@ None of the three roads ends with the Baron beaten. The best of them takes his c
 
 Nothing burns and nobody dies in public. The Tourney closes with its prizes, the Dragon Knights march home the next morning, and the standing order lapses without anybody quite remembering who signed it. The characters hold whatever they gathered (the scroll in the Baron's hand, Conall's finding, the Tide Master's notes) against a man who now has a prince to vouch for him.
 
-Cailan was carried out of the room emptied. If the characters can reach him, he is a seventeen-year-old who cannot stand, coming apart without the seat that held him together for ten years. Gabriel may surface for longer than a second now, because there is nobody else in there. That is the most hopeful thing in this ending, and also the most fragile. What follows is a pursuit and a conspiracy: the Prince goes home to the King's court at Caldreth wearing Thuban, among men who have been the Baron's friends for thirty years, and the bones in the border tower still hold Thuban in the world, now in a far more dangerous body.
+Cailan walked out of the room on his own feet, and there is nobody in him now but Gabriel. He is weak and seventeen, in a body that has never trained, and his father has just been taken out of him and put into the Prince. He wants to go after him. That is the most hopeful thing in this ending, and also the most dangerous. What follows is a pursuit and a conspiracy: the Prince goes home to the King's court at Caldreth wearing Thuban, among men who have been the Baron's friends for thirty years, and the bones at Emberhold still hold Thuban in the world, now in a far more dangerous body.
 
 ## After the Burning
 
 The Lullwater is ash. Nus is dead at Blau's hand, unless the characters changed who paid. The Prince was taken in the room he summoned the Baron to, and Temerach's shot wounded the Baron in front of four thousand people. Then she left the city an outlaw, with the characters.
 
-What they carry out of Purewater is a wounded enemy who was seen by the whole city refusing to answer; a King's officer who spent thirty years of standing on one arrow; and the knowledge of what is now wearing the Prince. The Lullwater will not forget who burned it, and Marda's three hundred, Crowbill's people and the women of the Pearl have all now seen the Baron's true face. In Purewater, at least, nobody will doubt the characters again. Ahead lies the road and the tower, and Temerach knows the border country and has nothing left to lose.
+What they carry out of Purewater is a wounded enemy who was seen by the whole city refusing to answer; a King's officer who spent thirty years of standing on one arrow; and the knowledge of what is now wearing the Prince. If Gabriel came out of that room, he is with them, or trying to be. The Lullwater will not forget who burned it, and Marda's three hundred, Crowbill's people and the women of the Pearl have all now seen the Baron's true face. In Purewater, at least, nobody will doubt the characters again. Ahead lies the road and the tower, and Temerach knows the border country and has nothing left to lose.
 
 ## After the Breakout
 
 The characters kept a reckless young thief alive and kept a locket from the most patient man in the kingdom through a day of fire, and so the Baron went into the evening without his leash. Thuban broke a decade of bondage and cut his way out through the Dragon Knights with Gabriel's body and Gabriel's voice, and left Purewater beside the woman who came aboard and spoke to him in her brother's name. The Prince is untouched. The Baron has lost his champion, his proof and his room.
 
-What they carry is the locket, which they cannot use and cannot easily destroy, and which the Baron will want back more than anything in the world. They also carry Thuban, a courteous, grieving and terrifying ally who wants only to die properly, and Gabriel, still underneath him. Ahead lies the hardest ride of the campaign, to a tower on the Baron's own estate, with the Baron and everything he has left behind them.
+What they carry is the locket, which they cannot use and cannot easily destroy, and which the Baron will want back more than anything in the world. They also carry Thuban, a courteous, grieving and terrifying ally who wants only to die properly, and Gabriel, two in one body with him, who knows what that death will cost him. Ahead lies the hardest ride of the campaign, to Emberhold, with the Baron and everything he has left behind them.
+
+## Two Worlds
+
+The Baron came to Purewater for two things, and the Tourney decides both: the locket, which is his leash on Thuban, and the room, where his champion is presented alone and unarmed to the Prince. **If he gets both**, as on the roads of the Quiet Room and the Burning, one world follows. **If he loses either**, as in the Breakout, another does.
+
+| | The Baron gets both | He loses either |
+|---|---|---|
+| The Prince | Goes home to Caldreth with Thuban seated in him | Untouched |
+| The Baron's aim | Open: the road to the crown, below | Postponed: back to the long game |
+| The Ember Society | Becomes the new court, with the Ember House as its seat | His hidden network, rebuilding |
+| *The Drowned Trade* | Open: the "unregistered" conscripted under royal warrant, and the dead named as fallen in the King's service | Covert: an investigation in the low water |
+| Caldus Vane | His oath companies march as the Prince's levies | Organises quietly, and waits |
+| The Dragon Knights | A royal guard in all but name | Back to the marches |
+
+Table: The Two Worlds
+
+### The Road to the Crown
+
+In the world where the Baron wins, he does not need a rebellion. He needs four steps, and each one is an adventure of its own.
+
+1. **Favour.** King Ostmar names the Prince his heir and gives him command, of the March or of the royal army. He is right to be proud: Thuban's courtesy is real, and unleashed, Thuban would make a very good heir. Ostmar loves his nephew at last, now that his nephew is somebody else. The Baron rides on that trust as the Prince's oldest friend.
+2. **The court.** Lady Marr's people fill the Prince's household, and Tobias Wrenn drafts what he signs. The edict against elves goes out under the King's own seal, at the Prince's urging. Vane's companies and the Ash Lords stand ready.
+3. **The King dies.** A strong King cannot be deposed, so he is killed, in a way that looks natural, by a servant of Vell of the Second Face. The Prince is crowned, and makes the Baron Lord Protector.
+4. **The Prince is used up**, and the Baron is crowned by a council his Ember House made.
 
 ## What Comes Next: the Bones
 
-All three roads lead to the same place. Thuban's bones lie in a box in a tower on the Baron's border estate, four days' hard riding from Purewater, behind the Baron's own men. Until they are found, and the rite that was never said over a knight of the Sixth Wing is finally said, Thuban stays in the world and Gabriel stays under him.
+All three roads lead to the same place. **Emberhold** lies four days north by Ashwick and the Scorched Hills: a keep of black stone and a single tall tower above a burned valley. The valley is Thuban's. The Sixth Wing drowned him in its water and then burned it anyway, and the di Teufels built their seat over the place where their power begins. The bones are there, in a box in the tower. So is the place where his company stood, and the first di Teufel's library, which holds the rite that was never said.
 
-Magda's dream told her to lay the dragon warrior to rest, which is not the same as killing him. Gardwen came to Purewater to bring her brother home. Laying Thuban to rest in that tower is the only way to do both, and it is the next adventure.
+Magda's dream told her to lay the dragon warrior to rest, which is not the same as killing him. Gardwen came to Purewater to bring her brother home. Laying Thuban to rest is the only way to do both, and it is the next adventure. What frees him is already known: somebody must stand where his company stood and say that what they did was wrong, and then a burial rite works in a moment. Unseating him from a body will not do it alone.
 
-**Threads to carry forward:**
+**The stakes depend on the world.** If the Baron won, laying Thuban to rest frees the Prince, and the whole plan falls with him: it is a counter-coup with the kingdom on it. The Baron is at court in Caldreth, and Emberhold is held by a castellan and Ash Lords. And it takes away the heir the King loves. Ostmar will fight the people trying to free his nephew, and the characters must make a strong King believe that the son he is proud of is a dead man on a leash. If the Baron lost, it is a race. He rides home behind them with everything he has left, and he wants the locket.
 
-- **The Movement** is untouched. It holds the credit line and the texts, and a failure at Purewater costs it a season, not a life's work. It is already looking for its next candidate, and Cassian Bree is still writing his letters.
+1. **The road north.** Ashwick and Sergeant Lysa Bell's post; Dame Hesra Kell's bounty riders; Vane's oath companies; the Scorched Hills.
+2. **Emberhold.** The keep, the tower, the box of bones, and the first di Teufel's library.
+3. **The water.** Standing where the Sixth Wing stood, saying it was wrong, and the rite, read and spoken by Gabriel in the old court tongue Thuban taught him. The Baron's people arrive first, or last.
+
+**Allies** are Temerach, who knows the border; Thuban himself, after the Breakout; Gabriel; and the wild elves, who still hold the knowledge that broke the Kings. Drakesfall is a day's ride from the keep.
+
+**The cost** is Gabriel's. Laying Thuban to rest gives Gardwen her brother and takes away his father. He goes north anyway, because it is what Thuban wants.
+
+## The Drowned Trade
+
+*The Drowned Trade* is the other adventure that follows the Tourney, in either world. People are being taken out of the low water and sold to Severin Kade, who is trying to make Ash Lords in a night with fire worked in the Lady's own sacred water. The seller is Tide Lord Aurelie Stane, one of the Ember Society's Four, and the receipts carry Lady Marr's ember mark. If the Baron lost, it is covert, and an investigation. If he won, it is open: the "unregistered" are taken lawfully under royal warrant, Stane is the new regime's harbour officer, and the story is a resistance. Halla is already working it, from his own side.
+
+## Threads to Carry Forward
+
+- **The Movement** is the Baron's, and the Tourney decides only how openly it moves. If he won, the Ember Society is his court. If he lost, it is where he rebuilds, and Cassian Bree is still writing his reports to Lady Marr.
 - **The twins** are the Baron's only other blood. If he knows of them, he wants them: the tool first, then the claim extinguished.
 - **Santo,** if he lives, is a frightened young man with a burnt hand and a father who has stopped forgiving him.
-- **Emmeralda,** if the working took, still has a small hungry spirit seated in her, and only the binding school or a powerful Dispel Magic will draw it out.
+- **Emmeralda,** if the working took, still has a Wanting of Imbra seated in her. Santo's seat is weak, and an Exorcism or a powerful Dispel Magic will drive it out.
 - **Blau** has spent a week watching the characters, and he does not forget faces. He has also spent years studying his employer's art, and a wounded or ruined Baron may be the opening he has waited for.
 - **Tat Atarer** has done the arithmetic. A company that has seen what was behind the inner doors may not ride for the Baron again.
+- **Halla, Hrill and Nimras** each have a thread running on (see *Three More Strangers*), and each of them touches the Baron's people somewhere.
+- **The elves** of Purewater and the border are the Baron's chosen enemy in either world, and the people best placed to help the characters against him.
 - **The Lady** has been silent for fourteen months, and Lilura still has not told anybody. Whether the goddess stirred when her Sword named the Baron on her steps is yours to decide.
 
 ## Experience

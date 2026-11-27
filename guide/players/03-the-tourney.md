@@ -26,4 +26,4 @@ It is three days away.
 
 ## The Odds
 
-The bookmakers outside the Tournament Ground's east wall will tell anybody who asks that the favourite for the Single Combat is a champion entered by a visiting baron, whom nobody outside his household has ever seen fight, or seen at all. The odds are short, and nobody likes them.
+The bookmakers outside the Tournament Ground's east wall will tell anybody who asks that the favourite for the Single Combat is a champion entered by a visiting baron, whom nobody outside his household has ever seen fight, or seen at all. The odds are short, and nobody likes them. The city's own hope is **Halla**, a dwarf who has entered to fight his way out of a debt.

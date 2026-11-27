@@ -103,9 +103,10 @@ He is also the contact for the courier who arrives on `d-1/night`.
 - **Working backwards is the correct route and the harder one.** Ask *who signed
   the false reading* and you get Calder in a day. Ask *who is in the cult* and you
   get Quist and a disaster.
-- **Breaking the Society does not stop the Baron.** He is the Movement's
-  experiment, not its servant, and nothing in that upper room is load-bearing for
-  what happens at noon on `d0`. What it buys the party is *Calder* -- and Calder
+- **Breaking the Society does not stop the Baron this week.** He leads the
+  Movement, and nothing in that upper room is load-bearing for what happens at
+  noon on `d0`. What it protects is what comes after: if he wins, it is the root
+  of his court; if he loses, it is where he rebuilds. What it buys the party is *Calder* -- and Calder
   recanting his assessment reopens the temple's alarm, which puts the Order of the
   Lake Lady officially onto the corruption three days before the Tourney.
 - **It is a horizon thread.** Sixty names, four that matter, and the GM never has

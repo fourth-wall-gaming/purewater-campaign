@@ -1,7 +1,7 @@
 ---
 id: "myth-agenda-630e0bafcdf7"
 title: "Wake a Dragon King"
-goal: "Prove a living man can be made to carry a dragon's spirit, and then do it properly"
+goal: "Put a leashed dragon-knight into the Prince, and ride him to the crown"
 status: "active"
 clock_size: 10
 clock_filled: 3
@@ -11,17 +11,19 @@ targets: ["myth-char-cac22cc2cbf6", "myth-char-cee57a7f5de2"]
 created_at: "2026-09-05T12:00:00"
 ---
 
-**What they want.** The Movement believes the age of the Dragon Kings
-can be restarted, in a body of their choosing. Hanzo is not their leader; he is
-their most promising experiment, and they are funding him.
+**What they want.** The Movement's believers want the age of the Dragon Kings
+literally back, and think Hanzo is its herald. He is their leader, and he lets
+them think so. What he wants is the crown: to depose the King and rule Thornmere
+as a man.
 
-**How they pursue it.** Money, old texts, and other people's risk. They are
-patient in a way Hanzo is not -- a failure at Purewater costs them a season, not
-a life's work.
+**How they pursue it.** Money, old texts, and other people's risk. Lady Marr
+makes the court at the Ember House, Bree sorts men in Purewater, Vane raises
+sworn companies, Kade works the fire, Vantt pays. Each knows only their own part.
 
-**What changes their mind.** Nothing available to the party this adventure. This
-agenda is the horizon behind the story: even a total victory over Hanzo leaves
-the Movement intact, holding Thuban's bones and looking for the next candidate.
+**What changes their mind.** Nothing available to the party this adventure.
+If the Baron gets the locket and the room, the Movement becomes his court; if he
+loses either, it is where he rebuilds. Its weakness is the gap between the
+believers and the man: show them his contempt and they turn on him.
 
 **Use this clock to keep the stakes honest.** It advances when the Movement
 learns something, whoever teaches it to them.

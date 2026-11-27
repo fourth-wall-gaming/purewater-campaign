@@ -8,7 +8,7 @@ The three you do not choose are not gone. They stay in the world, played by the 
 
 ## Gardwen, the Woman from the Woods
 
-A feral-raised elf of the deep woods, a long way from anything she recognises, in a city with no earth in it. Ten years ago Dragon Knights came through her family's steading at night, and she has been following that colour ever since: patiently, alone, across a great deal of country, on the strength of one thing she believes that nobody else does. Her little brother's body was never among the dead.
+A feral-raised elf of the border woods, a long way from anything she recognises, in a city with no earth in it. Ten years ago Dragon Knights came through her family's steading at night, and she has been following that colour ever since: patiently, alone, across a great deal of country, on the strength of one thing she believes that nobody else does. Her little brother's body was never among the dead.
 
 She is a divine caster of nature and pure water: healing, green things, the old quiet powers. A she-wolf called **Ruhi** walks beside her, who is not a pet and is not tame and simply goes where she goes. She is direct and physically unbothered by cold, dirt or long waits. She has no small talk and no social armour whatsoever, and she helps without being asked or announcing it. At this moment she is the single most motivated person in Purewater, and the thing driving her is ten years old and has never once been believed by anybody.
 

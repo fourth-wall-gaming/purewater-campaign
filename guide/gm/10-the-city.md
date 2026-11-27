@@ -84,6 +84,6 @@ The South Quarter, where the Triumph Bridge brings the caravan trade ashore and 
 
 ## The Realm Beyond
 
-Purewater is one city in a larger kingdom. King Ostmar rules from Caldreth, far away and content, surrounded by men who have been the Baron's friends for thirty years. The Baron's border estate, and the tower where Thuban's bones lie, is four days' hard riding from the city. Every ending of this scenario points there.
+Purewater is one city in a larger kingdom. King Ostmar rules from Caldreth, far away, decisive and strong, and long disappointed in his nephew. His court is full of men who have been the Baron's friends for thirty years, and most of them were made his friends at the Ember House. The Baron's seat, **Emberhold**, a keep of black stone and one tall tower above a burned valley, is four days' hard riding north by Ashwick and the Scorched Hills, and Thuban's bones lie in that tower. Drakesfall, where the Dragon Kings were broken, is a day's ride beyond it. Every ending of this scenario points there.
 
 <!-- map: realm/the-realm-of-thornmere.jpg -->
