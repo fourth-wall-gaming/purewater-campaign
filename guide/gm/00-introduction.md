@@ -2,7 +2,7 @@
 
 # And Then the Dragons Came
 
-Three days before the Lake Lady's Tourney, a baron rides into Purewater with twenty-five mercenaries, a great deal of borrowed money and a covered litter that nobody is allowed to walk beside. In the litter is his champion, whom nobody outside his household has ever seen. The city has already decided not to notice what his men do on its bridges. Four strangers arrive the same day without knowing about one another: a wild elf following a ten-year-old trail, an old woman following a dream about her own death, a thief who has just been called *my lord* by a terrified guard, and an investigator who has just been called *Randall* by a man who wanted an apology.
+Three days before the Lake Lady's Tourney, a baron rides into Purewater with twenty-five mercenaries, a great deal of borrowed money and a covered litter that nobody is allowed to walk beside. In the litter is his champion, whom nobody outside his household has ever seen. The city has already decided not to notice what his men do on its bridges. Four strangers arrive the same day without knowing about one another: an elf of the border woods following a ten-year-old trail, an old woman following a dream about her own death, a thief who has just been called *my lord* by a terrified guard, and an investigator who has just been called *Randall* by a man who wanted an apology.
 
 By the first night, one of them has watched a young man with a burnt hand run down the back stair of a pleasure house. By the second morning, two of them are tied to chairs in a cellar under the city, looking at each other's faces. By the fifth evening, the Crown's own nephew has walked into a small stone room behind the Governor's box, and whether something else walks out wearing him depends entirely on what the characters did in between.
 
@@ -20,11 +20,11 @@ It is also, underneath, a story about family. Two brothers who have never met. A
 
 The book has three parts and two appendices.
 
-**Background** tells you the secret first. It explains what the Baron is really doing, then the city, the occupation, the three sons and the law. Read it before anything else. Once you know what is in the litter, everything else in the book will make sense as you read it.
+**Background** tells you the secret first. It explains what the Baron is really doing, then the city, the occupation, the three sons and the law, and then the two truths underneath the whole campaign: what the Dragon Kings really were, and why the di Teufels hate elves. Read it before anything else. Once you know what is in the litter, everything else in the book will make sense as you read it.
 
-**People and Places in Purewater** is the city and everybody in it: each island and the buildings that matter, with maps, and then the people, grouped the way the city groups them, with how to play them and what each of them is doing this week.
+**People and Places in Purewater** is the city and everybody in it, including three more strangers whose own stories run alongside the characters': each island and the buildings that matter, with maps, and then the people, grouped the way the city groups them, with how to play them and what each of them is doing this week.
 
-**Events and Story Structure** is the week itself, day by day: what happens if nobody interferes, how to run it when the characters are in the room, where the story bends when they push on it, and the three ways it can end.
+**Events and Story Structure** is the week itself, day by day: what happens if nobody interferes, how to run it when the characters are in the room, where the story bends when they push on it, and the three ways it can end. The Tourney is the hinge of a longer campaign. Two different worlds follow it, depending on whether the Baron gets what he came for, and *Afterwards* describes both, with the adventures that come next.
 
 **The Week at a Glance** is the one-page timetable and the clocks, for the table. **Statistics** holds a full *Mythras* stat block for every person in the book.
 

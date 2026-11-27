@@ -6,7 +6,7 @@ Purewater is written for four pregenerated characters, and each of them is wired
 
 ## Gardwen
 
-A feral-raised elf of the deep woods and a druid of the old quiet powers: healing, green things and pure water. A she-wolf called Ruhi walks at her heel, neither a pet nor tame. Ten years ago the Dragon Knights burned her family's steading at night and took her little brother, and his body was never among the dead. She has followed that colour across a great deal of country ever since, on the strength of one belief that nobody else shares. Three weeks ago she picked up the Baron's column on the north road.
+A feral-raised elf of the border woods and a druid of the old quiet powers: healing, green things and pure water. A she-wolf called Ruhi walks at her heel, neither a pet nor tame. Ten years ago the Dragon Knights burned her family's steading at night and took her little brother, and his body was never among the dead. She has followed that colour across a great deal of country ever since, on the strength of one belief that nobody else shares. Three weeks ago she picked up the Baron's column on the north road.
 
 **What she does not know:** that her brother is alive, that he is the champion in the litter, and that something else is wearing him. She learns the first two at the presentation of the entrants, when the helm comes off for four seconds, and the third on the first night of the Tourney, when she goes aboard the Baron's ship and hears her brother's voice speak with somebody else's manners.
 

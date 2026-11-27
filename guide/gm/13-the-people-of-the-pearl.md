@@ -44,7 +44,7 @@ For fifteen years Emmeralda has been wanted by everybody and asked what she want
 
 > "Everyone in this room wants something off me. You are the first one all week who hasn't decided what yet."
 
-**What she is depends on the dice on the first night.** If Santo's working failed, she is cut open the length of her body and tainted with whatever came for the invitation, and without help she dies before dawn; with it, she lives, frightened of a face three men wear. If the working took, she is bright and pliant and wrong, she wants to go to the Baron's barge, and the thing inside her is patient and charming and keeps asking for the window to be opened. Either way, her read on Santo, if anybody asks her before the night, is that he is not dangerous the way the dockers are dangerous; he is dangerous the way a boy with a lit lamp in a stable is dangerous. Check which telling you are in before you play her.
+**What she is depends on the dice on the first night.** If Santo's working failed, she is cut open the length of her body and tainted with whatever came for the invitation, and without help she dies before dawn; with it, she lives, frightened of a face three men wear. If the working took, she is bright and pliant and wrong, she wants to go to the Baron's barge, and the thing inside her, a passion spirit, a lesser demon of the Crowned called Imbra, is patient and charming and keeps asking for the window to be opened. Either way, her read on Santo, if anybody asks her before the night, is that he is not dangerous the way the dockers are dangerous; he is dangerous the way a boy with a lit lamp in a stable is dangerous. Check which telling you are in before you play her.
 
 ## Ila
 

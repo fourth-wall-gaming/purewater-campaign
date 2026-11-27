@@ -62,6 +62,6 @@ He has worked it out slowly, the way he works everything out. A man in the Lullw
 
 <!-- covers: a-courier-from-the-movement -->
 
-Late that night, a quiet boat comes alongside the Baron's ship with a sealed packet, and the Baron is reminded that he is not the top of this pyramid. The courier carries instructions about the champion, and a line of credit that explains where the tournament money came from.
+Late that night, a quiet boat comes alongside the Baron's ship with a sealed packet from Lady Ysolde Marr at Caldreth. It carries word from court about the Prince's household, the names of the men who will be waiting for Emeric when he comes home, and a line of credit, countersigned with her ember mark, that explains where the tournament money came from.
 
-This is offscreen unless the characters are watching the ship or intercepting messages, and catching it is their only chance this week to learn the shape of what stands behind the Baron. The packet names nobody who is in Purewater, and it makes one thing plain: killing the Baron does not end this. The Movement is patient. A failure here costs it a season, not a life's work.
+This is offscreen unless the characters are watching the ship or intercepting messages, and catching it is their only chance this week to learn the shape of what the Baron has built. The packet names nobody who is in Purewater, and it makes one thing plain: the room is not the end of the plan but its first step. There is a court being made ready at Caldreth, and the Movement answers to the man on this ship.
