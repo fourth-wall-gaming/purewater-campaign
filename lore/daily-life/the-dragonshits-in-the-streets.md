@@ -49,8 +49,9 @@ second time this month those same three have got his name onto something.
 
 They are not cultists and they did not do it for the same reason. See *[[The Governor's council]]*.
 
-The watch is not corrupt. The watch has been *ordered*, in writing, and every
-sergeant in the city knows exactly how that will read afterwards.
+The watch is corrupt, and most of it is in [[Crowbill]]'s pay. This week that makes
+no difference, because it has also been *ordered*, in writing, to do nothing, and
+every sergeant in the city knows exactly how that will read afterwards.
 
 ## What it does to the board
 
