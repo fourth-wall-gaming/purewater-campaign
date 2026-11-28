@@ -57,6 +57,10 @@ every sergeant in the city knows exactly how that will read afterwards.
 
 - **The Dredgers** work the water-stairs the Knights keep commandeering. [[Marda Blackwater]] has three hundred dock labourers, a grievance, and no legal route.
   She is the powder in this.
+- **The boatmen** are hiring guards. Marda goes nowhere without four big men off
+  the Forges wharves, and the boat-masters keep two or three hard men on every
+  landing the Knights use. They have started standing their ground on the bottom
+  step. They are badly outmatched, and the first fight will kill some of them.
 - **[[Crowbill]]**'s code is *no killing canal folk, no harming their children,
   no touching the Lady's water where the low water would feel it*. The Knights are breaking the spirit of all three and he
   cannot be seen to enforce a code against armoured men without starting a war he
