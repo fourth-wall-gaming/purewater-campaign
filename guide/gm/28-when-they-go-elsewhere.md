@@ -12,7 +12,7 @@ What the characters have really done is let him see their faces. If two of them 
 
 ## "We put on Santo's face."
 
-Either twin can. They are identical to each other and to Santo, and **there is no tell**: no mark, no scar, nothing a guard could check. Every risk is in how the twin behaves.
+Either twin can. They are identical to each other and very close to Santo, and **the tell is small.** Santo is human and the twins are half-elven, and they are a year or two older than he is. A hat, a hood or hair worn long hides the elven signs, and that is enough for a guard, a servant or a stranger. Only somebody who knows Santo well, which means Blau or the Baron, might notice the extra years at close quarters. Apart from that, every risk is in how the twin behaves.
 
 **The face buys a great deal:**
 
@@ -25,7 +25,7 @@ Either twin can. They are identical to each other and to Santo, and **there is n
 
 **Only one Santo can be aboard at a time**, so the real one must be somewhere known: drunk on the Pearl, held, or safely sent home. The most dangerous audience is the Baron himself. A twin who stands up straight under his father's contempt is wrong in a way the Baron notices, and the Baron rolls Willpower to see it.
 
-**Blau is the hardest to fool.** Run it as Deceit against his Insight (60), opposed. It is Hard if the twin is unprepared, and Standard if the twin has Santo's clothes and rings and has learned his habits from somebody who knows him: Marisette, Emmeralda, the women of the Pearl, or Santo himself, if the characters are holding him. A failed roll makes Blau suspicious, and not yet certain. He tests the twin with a question only Santo could answer, or a hand on the collar to haul the young master home. Failing the test means exposure. Every new scene with Blau is a new roll.
+**Blau is the hardest to fool.** Run it as Deceit against his Insight (60), opposed. It is one grade harder if the elven signs are showing. It is Hard if the twin is unprepared, and Standard if the twin has Santo's clothes and rings and has learned his habits from somebody who knows him: Marisette, Emmeralda, the women of the Pearl, or Santo himself, if the characters are holding him. A failed roll makes Blau suspicious, and not yet certain. He tests the twin with a question only Santo could answer, or a hand on the collar to haul the young master home. Failing the test means exposure. Every new scene with Blau is a new roll.
 
 **How it can end for Santo:**
 
