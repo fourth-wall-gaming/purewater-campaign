@@ -238,6 +238,17 @@
       ]
     },
     {
+      "name": "Spirit Walk",
+      "rule": "magic/powers/spirit-walk",
+      "boosts": [
+        "Enter the Trance (2 PP)"
+      ],
+      "limits": [
+        "Walks as a guest -- spirits that hide from binders will talk to her",
+        "Body helpless, deaf and blind while she walks"
+      ]
+    },
+    {
       "name": "Woodwise",
       "rule": "magic/powers/woodwise",
       "boosts": [],
