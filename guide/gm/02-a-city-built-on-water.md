@@ -61,6 +61,8 @@ Nobody runs all of it, and that is the trouble.
 - **Crowbill** owns the canals nobody maps, and keeps a code: no killing canal folk, no harming their children, no touching the Lady's water where the low water would feel it.
 - **Marda Blackwater** speaks for three hundred dock labourers and, through them, for every boat on the water-stairs.
 - The **Order** owns the water and may not act. The **Swords** may act and may not speak for the water.
+- The **merfolk** live in the deep water of the lake and come into the city by their own paths under the canals. Since the Baron's ship arrived they keep away from it, and their paths near it are closing.
+- The **Mermaid's Court** keeps faith with them. It is a hidden society of water-mages, humans and half-merfolk, meeting in drowned chambers under Lost Isle, and it means to take the city back one generation at a time. Seven leaders, the **Deep Council**, give its orders, and above them is a figure known only as **the Nacre**, whom few have met and some call a merfolk princess. The Court hates the Baron's fire and would rather wait him out than fight him.
 - The **watch** has been ordered, in writing, to do nothing.
 
 Any one of them could stop the Baron if they were willing to spend themselves doing it, and none of them will go first. The characters arrive into that.
