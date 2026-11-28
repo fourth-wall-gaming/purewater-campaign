@@ -8,7 +8,7 @@ Everything in this book that happens on its own, in order. Each time is the late
 
 ## Running the Living World
 
-Every Non-Player Character and faction with a stake in the week holds an **agenda**: something they want, pursued on a **clock** of four to ten segments. Fill a segment when the fiction moves the holder toward their goal; *Events and Story Structure* tells you when the main ones move. When a clock fills, the holder has what they wanted and the world changes. Nothing empties a clock. When the characters genuinely beat an agenda, mark it thwarted, and then let the holder react: a thwarted agenda should produce a new one, not a quiet re-run of the old. Some clocks start partly full, because the week began before the characters arrived. The Dragon Knights, for instance, have been holding the streets for eight days.
+Every Non-Player Character and faction with a stake in the week holds an **agenda**: something they want, pursued on a **clock** of four to ten segments. Fill a segment when the fiction moves the holder toward their goal; *Events and Story Structure* tells you when the main ones move. When a clock fills, the holder has what they wanted and the world changes. Nothing empties a clock. When the characters really do beat an agenda, mark it thwarted, and then let the holder react with a new agenda; do not run the old one again under another name. Some clocks start partly full, because the week began before the characters arrived. The Dragon Knights, for instance, have been holding the streets for eight days.
 
 One agenda sleeps until something wakes it. *A di Teufel who is not his* waits until somebody in the Baron's service sees two of the di Teufel face, or is sold the fact. Once it wakes, it never sleeps again.
 

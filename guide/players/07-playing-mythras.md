@@ -48,6 +48,6 @@ In *Classic Fantasy Imperative*, magic belongs to your class. **Magic-users** ca
 
 At the end of a session, or at the end of the scenario, the Games Master gives out **Experience Rolls**. For each one, pick a skill and roll 1d100. If you roll **over** your current skill, it improves, so the things you are worst at get better fastest. Passions change through play rather than through rolls.
 
-## The Most Important Rule
+## Say What You Are Trying to Do
 
-Say what your character is trying to do, and why. The Games Master will tell you what to roll. In Purewater, the best tools are rarely swords: a well-placed question, the right person told the right thing, a boat at the right stair, and knowing when to swim.
+Tell the Games Master what your character is trying to do, and why, and the Games Master will tell you what to roll. In Purewater the best tools are rarely swords: a well-placed question, the right person told the right thing, a boat at the right stair, and knowing when to swim.

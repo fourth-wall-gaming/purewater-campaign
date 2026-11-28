@@ -34,7 +34,7 @@ piece of Crowbill's business running that the occupation should have broken.
 | clock | what surfaces |
 |---|---|
 | **2** | Crowbill starts sending her the jobs that need reading rather than breaking |
-| **4** | She is the person on the Shoals people bring their arithmetic to |
+| **4** | She is the person on the Shoals people bring their sums to |
 
 **Thwart it** by treating her as the arm. She does not sulk; she just answers
 the question she was asked and stops.

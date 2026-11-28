@@ -12,7 +12,7 @@ cast: ["myth-char-fff1e79e219c"]
 created_at: "2026-09-05T12:00:00"
 ---
 
-Tat does arithmetic in the open if anyone is watching: men lost, a
+Tat counts the cost in the open if anyone is watching: men lost, a
 contract that keeps expanding, and a growing suspicion about what is behind the
 inner doors.
 

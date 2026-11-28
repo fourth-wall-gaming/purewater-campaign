@@ -17,7 +17,7 @@ men alive, and no part of whatever is going on behind the Baron's inner doors.
 
 **How he pursues it.** Professional soldiering, and a careful blindness.
 
-**What changes his mind.** Arithmetic. Show him the contract is going to cost him
+**What changes his mind.** The cost. Show him the contract is going to cost him
 men or reputation -- or show him he is guarding something that will get the
 company hanged -- and he becomes negotiable in a way no other Dragon Knight is.
 
