@@ -69,7 +69,7 @@ apology. Play the moment the ropes come off; it is the party's founding image.
 **Marisette's turn.** Satisfied, she looks at the face in front of her for a
 long moment, and if the coat has been brought from the house she turns the
 collar over and reads the crest. **She names the di Teufels.** She does not
-know which di Teufel, and she knows exactly what it means that two strangers
+know which di Teufel, and she knows exactly what it means that two men
 in her city wear their face. That is the handoff from mystery to adventure.
 
 **And Conall has just heard, from her questions, what was done upstairs at the

@@ -13,7 +13,8 @@ created_at: "2026-09-05T12:00:00"
 ---
 
 Marisette does not wait for the Watch. By midnight the house has given her a
-description, and by the small hours her people have found the face -- **twice.**
+name -- Randall, the Pearl thief, in a borrowed coat -- and by the small hours
+her people have found that face **twice.**
 A thief fencing a morning's take in Caravan Square who answers to it, and a
 young man-at-arms lodged near the Swords' chapter house who answers to it as
 well.

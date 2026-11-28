@@ -14,9 +14,9 @@ cast: ["myth-char-33c0da8d53fe"]
 created_at: "2026-10-05T00:00:00"
 ---
 
-By mid-morning the whole Pearl knows Marisette's people took somebody in the
-night for what was done at the Sylph's Embrace. **Sinnit makes sure it knows
-who.**
+The Pearl already thinks it was Randall: half the hall at the Sylph's Embrace
+saw him in a borrowed coat. By mid-morning it knows Marisette's people took him
+in the night. **Sinnit makes sure it never hears that she let him go.**
 
 He tells it on every stair and in every wine-shop between the Pearl Quay and
 the Shoals: *Randall*. Randall, who was raised in the Promise of Heaven and

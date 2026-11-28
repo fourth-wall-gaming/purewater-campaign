@@ -18,10 +18,12 @@ name, and then she wants a reckoning that every house in the city hears about.
 **How she pursues it.** She has Hesper, an arcane enforcer who does not ask
 permission, and she has the only intelligence network in Purewater that hears
 what men say when they are not being careful. She grabs first and asks after --
-which is exactly how strangers with the wrong face end up bound to chairs in the
+which is exactly how Randall, and a stranger with his face, end up bound to chairs in the
 catacombs.
 
-**How it runs.** She has only a face, because the man paid no name -- so on
+**How it runs.** The house took the man for Randall, the Pearl thief, playing the
+gentleman in a borrowed coat. Her people find Randall, and a second man with the
+same face -- so on
 `d-2/dawn` Hesper takes **both** men in the city wearing it, Randall and
 Conall, and she questions them side by side in the catacombs. The women who
 saw the man on the stair clear them. The coat's crest gives her the house.

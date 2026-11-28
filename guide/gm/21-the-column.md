@@ -49,9 +49,9 @@ Describe it and let the players notice it. Do not point at it; everything they n
 
 At the start of the evening trade, Emmeralda dances for the front hall of the Sylph's Embrace. A young man in a good coat with no device on it watches her the whole way through and does not drink. Then he goes to the desk and buys her evening, the way a hundred men a week do, with new silver and over the odds, and asks for a room on the second floor.
 
-**He does not say *di Teufel*.** Nobody on the Pearl knows the heir's face, and Santo likes it that way. The next two days turn on that small fact. When the house goes looking for the man who went upstairs with Emmeralda, all it has is the face, and three men in the city wear it.
+**He does not say *di Teufel*.** Nobody on the Pearl knows the heir's face, but everybody there knows Randall's, and the hall sees Randall the Pearl thief in a rich man's coat, playing the gentleman. It gets a laugh at the bar. The next two days turn on that mistake. When the house goes looking for the man who went upstairs with Emmeralda, it goes looking for Randall, and three men in the city wear his face.
 
-Magda and Gardwen are in the hall, taking their rooms. A player who is watching the room can notice him with a Perception roll: young, rich, a soft right hand, and the coat, which is better than anything else he has on and which he is going to leave behind. Constantine takes his money and thinks nothing of it. She will spend the next day wishing she had looked harder.
+Magda and Gardwen are in the hall, taking their rooms. A player who is watching the room can notice him with a Perception roll: young, rich, a soft right hand, and the coat, which is better than anything else he has on and which he is going to leave behind. Constantine takes him for Randall at a glance, takes his money and thinks nothing of it. She has known Randall since he was a boy, and a proper look would have shown her a human face, a year or two younger than his. She will spend the next day wishing she had looked harder.
 
 ## Randall, *There* You Are
 

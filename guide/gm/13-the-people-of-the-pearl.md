@@ -14,7 +14,7 @@ Marisette governs eleven houses on nothing but the belief that she is inevitable
 
 **Her hospitality is the danger signal.** When she offers a chair, a drink or another hour of her time, the warmer the room goes, the worse the character's position has become.
 
-**This week** a woman has been wronged with demon-craft under a roof Marisette is responsible for, and she wants a name, and then a reckoning every house in the city hears about. She does not wait for the watch. She has Hesper, and the only intelligence network in Purewater that hears what men say when they are not being careful, and she grabs first and asks afterwards. That is how two strangers with the wrong face end up tied to chairs in the catacombs on the second morning.
+**This week** a woman has been wronged with demon-craft under a roof Marisette is responsible for, and she wants a name, and then a reckoning every house in the city hears about. She does not wait for the watch. She has Hesper, and the only intelligence network in Purewater that hears what men say when they are not being careful, and she grabs first and asks afterwards. That is how Randall, and a stranger with Randall's face, end up tied to chairs in the catacombs on the second morning.
 
 She is fair in her way. Shown the truth, she acts on it, even against a baron. Her strongest weapon is withdrawal. On Constantine's complaint she closes every house on the Pearl to the di Teufel retinue, and only to them, so that the whole city reads it as the Pearl taking a side.
 
@@ -38,7 +38,7 @@ The proprietor of the Sylph's Embrace has run a house of other people's daughter
 
 > "I have buried four girls out of this house. I did the books for every one of them."
 
-**This week** she took a young man's money for Emmeralda's evening and thought nothing of it, and she spends the rest of the week wishing she had looked harder. When something goes wrong in her house she becomes precise about the record: what was actually said, on what day, in whose hearing, because the record is the one thing that has never failed her. She carries the complaint to Marisette. She wants justice and she is hiring protection, and she will want to know what the characters are going to cost her before she lets them any further in.
+**This week** she took Emmeralda's evening money from what she thought was Randall, the Pearl's own thief, playing the gentleman in a borrowed coat, and thought nothing of it. She has known Randall since he was a boy, and one proper look would have told her: this man was human where Randall is half-elven, and a year or two younger. She spends the rest of the week wishing she had taken it. When something goes wrong in her house she becomes precise about the record: what was actually said, on what day, in whose hearing, because the record is the one thing that has never failed her. She carries the complaint to Marisette. She wants justice and she is hiring protection, and she will want to know what the characters are going to cost her before she lets them any further in.
 
 ## Emmeralda
 

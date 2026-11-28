@@ -23,7 +23,8 @@ anyone who mattered.
 **How he pursues it.** In the order a spoiled man does these things.
 
 1. **He buys her evening**, anonymously, like anyone. He does not say his
-   name; nobody on the Pearl knows the heir's face, and he likes it that way.
+   name; nobody on the Pearl knows the heir's face, and anybody who knows
+   Randall takes him for Randall in a borrowed coat.
 2. **He makes her willing.** He has watched his father seat a spirit in a
    living body and be obeyed by it ever since. He has one stolen scroll, a
    barbed knife, and no training whatsoever. What he means to put in her is a
