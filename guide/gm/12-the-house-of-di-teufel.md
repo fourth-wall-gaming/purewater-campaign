@@ -97,7 +97,7 @@ That is all he gets out, and it is the most valuable line in any scene he is in.
 
 *Not a body. A weight behind a boy's eyes, and a fighting style a thousand years out of date, executed perfectly by arms too thin to do it.*
 
-Thuban was a knight of the Sixth Wing of a court that no longer exists, drowned by his own company and buried without his rites, and awake through all of it. In life he carried no demon. He was an unbound knight-commander, sane where the bound men were not. He is courtly, formal, unhurried and very tired. Ten years of having nothing to do but listen have made him the best listener alive. He is ancient, and he is owed something, and he is neither evil nor friendly. He considers what has been done to him and to the boy a breach of law, which to him is worse than cruelty, because law can be argued and cruelty can only be resisted. He holds a cup right-handed.
+Thuban was a knight of the Sixth Wing of a court that no longer exists, drowned by his own company and buried without his rites, and awake through all of it. In life he carried no demon. He was an unbound knight-commander, sane where the bound men were not. He is courtly, formal, unhurried and very tired. Ten years of having nothing to do but listen have made him the best listener alive. He is ancient, and he is owed something, and he is neither evil nor friendly. He holds a cup right-handed.
 
 The one thing he has chosen in a thousand years is the boy. He raised Gabriel below the waterline, and he loves him. Laying Thuban to rest gives Gardwen her brother back and takes away Gabriel's father, and both of them know it.
 
