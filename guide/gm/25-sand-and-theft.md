@@ -44,7 +44,7 @@ They need three things:
 
 - **A way aboard.** If the party has it, this is the map Gardwen brought back from her night aboard: the third step that complains, the turn of the glass, the Baron's cabin aft. Without it, the doubled watch makes every Stealth roll one grade harder.
 - **A way into the cabin.** Blau sleeps across the door, so the way in is the stern windows, from a boat, over steaming water.
-- **A pair of hands at the table.** The locket lies on a chain with a clasp. It is not welded on, and tonight it is not on the Baron's neck. That is why it has to be tonight.
+- **A pair of hands at the table.** The locket lies on a chain with a clasp. It is not welded on, and tonight it is not even on the Baron's neck. Nus only has to reach the table.
 
 **Roll it for real:** Stealth against the watch, Athletics for the stern, Sleight for the table, and Perception for Blau if anything is fumbled.
 
@@ -59,6 +59,14 @@ Play the moment the locket is in Nus's hand. It is small and warm, and it is the
 - **Holding it gives nobody any power over Thuban.** It only takes him away from the Baron.
 
 The theft only happens if somebody points the thieves at the locket, and if nothing intervenes, Crowbill does. If the characters have deliberately stopped Nus, there is no theft. That is a fair story, and it leads to the first ending.
+
+## Other Ways to Take It
+
+The night on the ship is the obvious chance, and only one of many. The locket hangs on a chain with a clasp, and lifting it from the Baron's neck is an ordinary Sleight roll against his Perception for anybody who can get close to him. Getting close is the hard part. He sleeps aboard his ship, and in public Blau or the Dragon Circle are at his shoulder.
+
+The characters' week is full of ways in: the Vantt dinner on the eve, the presentation of the entrants, a twin wearing Santo's face, or any character the Baron is pleased to talk to while somebody else's hands do the work. In one game, Randall walked Nus into the house where the Baron was staying and kept him talking while Nus took the locket off his neck. When the players earn that closeness, let the lift be that easy.
+
+If the locket goes earlier in the week, the Baron finds it gone within the hour, and his hunt and *The Lullwater Burns* come the next morning. From then on, run the Burning or the Breakout as the locket's fate decides.
 
 ## Santo Comes Himself
 

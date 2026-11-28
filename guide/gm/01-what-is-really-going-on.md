@@ -44,7 +44,7 @@ Three things hold Thuban in the boy, and each of them can fail separately.
 
 **The locket** hangs on a chain round the Baron's neck, and it ties Thuban to Hanzo. It is the leash. With it in his hand the Baron can command Thuban, draw him out of the boy and seat him somewhere else. Without it he can do none of those things, and the spirit he has held for ten years becomes a dragon-knight who owes him nothing but a reckoning. The locket is a strong working, and only a powerful Dispel Magic or an Exorcism would break it. Holding it gives nobody else any power over Thuban. It only takes him away from the Baron.
 
-**The nightly rite** renews the seat. Every night, behind sealed doors on his ship, the Baron makes a cut, fills a bowl and speaks for an hour with the locket in his hand. Then he takes the chain off, lays the locket on the table beside his bed and goes to sleep. **That is the only time the locket is ever off his neck.**
+**The nightly rite** renews the seat. Every night, behind sealed doors on his ship, the Baron makes a cut, fills a bowl and speaks for an hour with the locket in his hand. Then he takes the chain off, lays the locket on the table beside his bed and goes to sleep. **That is the only time the locket is ever off his neck.** The rest of the time it hangs on a chain with a clasp, and a good pickpocket who can get close to him can lift it.
 
 ## The Room
 
@@ -76,6 +76,6 @@ Nobody can arrest a baron, and the characters cannot fight twenty-five Knights. 
 
 - Stop the champion winning, or have the match stopped on sacred ground.
 - Keep the Baron out of the room.
-- Take the locket on the one night it lies on a table instead of round his neck, and keep it.
+- Take the locket, and keep it.
 
 The story leans toward the third, and the third costs the most. A stolen locket turns a patient, smiling lord into a man who will burn a quarter of the city to get it back, and what the characters do with that day decides how the scenario ends.

@@ -26,7 +26,8 @@ locket, and he has never been seen in daylight without it. Crowbill has a
 lamp-man on the Forge Quarter wharf who looks at that ship for a living, and
 what the lamp-man has seen is that **it comes off at night.** The Baron sleeps
 aft with the locket on the table beside his bed -- a chain with a clasp, not a
-collar -- and Blau sleeps across the door.
+collar -- and Blau sleeps across the door. By day it hangs round his neck on
+the same chain, an ordinary lift for a good pickpocket who can get close.
 
 He does not say *steal it*. He says what it is, and where it lies, and that he
 knows a boy who would. Nus is in the next room, and has heard every word.
