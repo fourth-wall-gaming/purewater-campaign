@@ -2,7 +2,7 @@
 
 # A Week Under the Dragon
 
-Nobody in Purewater calls it an occupation. Everybody goes round.
+Nobody in Purewater calls it an occupation. Everyone thinks it is a temporary inconvenience that will go away in a week or two.
 
 Eight days before the Tourney, an advance detachment of a dozen Dragon Knights came into the city to open the Baron's camp and provision his ship. On the day the characters arrive, the column comes in behind them and doubles their number. The city has lived with a small occupation for a week, and the characters arrive on the afternoon it doubles.
 
