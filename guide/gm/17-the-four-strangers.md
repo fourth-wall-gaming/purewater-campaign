@@ -10,7 +10,7 @@ A feral-raised elf of the border woods and a druid of the old quiet powers: heal
 
 **What she does not know:** that her brother is alive, that he is the champion in the litter, and that something else is wearing him. She learns the first two at the presentation of the entrants, when the helm comes off for four seconds, and the third on the first night of the Tourney, when she goes aboard the Baron's ship and hears her brother's voice speak with somebody else's manners.
 
-**What she brings:** healing on the night it is needed most, and the scenario's emotional centre. She is the single most motivated person in Purewater. Every scene she is in should have that weight under it.
+**What she brings:** healing on the night it is needed most, the Wild Line that can take a spirit off a person, Spirit Walk, which lets her walk among spirits as a guest and find Thuban at the water where he drowned before the Tourney begins, and the scenario's emotional centre. She is the single most motivated person in Purewater. Every scene she is in should have that weight under it.
 
 ## Magda
 
