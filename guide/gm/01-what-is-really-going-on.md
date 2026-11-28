@@ -4,13 +4,13 @@
 
 This chapter tells the whole secret, in the order it was built.
 
-## A Knight Who Was Buried Wrong
+## Betrayal and Death a Thousand Years Ago
 
 A thousand years ago the Dragon Kings ruled Thornmere, and their armies were led by dragon-knights, warriors bound in fire who fought like nothing living. There were never any dragons. The Kings were men, and each of them wore a demon; the dragon on their banners was the image of the greatest of those demons, and *What the Dragons Were* tells the rest.
 
 Thuban Eta was a knight-commander of the Sixth Wing, and he carried no demon at all. He was a good enough soldier without one, and that is why he held command: the bound men went mad in the end, and somebody sane had to lead them. When his company was ordered to burn a valley with the people still in it, he refused. His own comrades drowned him for it, in his mail, with his hands tied, and buried him without the rites a knight of his order was owed.
 
-The Dragon Kings fell soon afterwards in the great uprising, and their heraldry has been an unwelcome sight on a lord's banner ever since. But Thuban was never given the rites, and so he never went anywhere. He has been awake near his bones the whole time. He does not think of what was done to him as cruelty. He thinks of it as a breach of law, which to him is worse, because law can be argued.
+The Dragon Kings fell soon afterwards in the great uprising, and their heraldry has been an unwelcome sight on a lord's banner ever since. But Thuban was never given the rites, and so he never went anywhere. He has been awake near his bones the whole time. The betrayal and dishonour of his killing has kept him here as a ghost, waiting to be laid to rest in peace as he should have been, all those years ago.
 
 ## A Family That Wanted Him
 
