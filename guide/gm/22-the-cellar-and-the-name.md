@@ -8,7 +8,7 @@
 
 <!-- covers: hesper-takes-the-look-alike -->
 
-Marisette does not wait for the watch. By midnight the house has given her a description, and by the small hours her people have found the face twice. A thief who answers to it is fencing a morning's take on the Pearl. A young man-at-arms who answers to it has a room at a plain inn near Shilling Stairs. She does not know which one did it, so she takes both.
+Marisette does not wait for the watch. By midnight the house has told her who it was: Randall, the Promise of Heaven's boy, in a borrowed coat. By the small hours her people have found him fencing a morning's take on the Pearl, and they have also found a second man with the same face, a young man-at-arms with a room at a plain inn near Shilling Stairs. She does not know which one did it, so she takes both.
 
 Before dawn Hesper walks up to each of them in turn and puts them down without a fight worth the name: a word, a Sleep, a hand on the shoulder, and two men from the Mother of Pearl with a blanket and a boat.
 
@@ -40,7 +40,7 @@ Marisette gets it right in the end either way. The slow way just means hours in 
 
 **Play out the moment the ropes come off.** It is the first time the four characters are in one room: two women who saw it, two men who were blamed for it, and a madame who now owes the twins an apology. The players will remember it as the moment the party began.
 
-Then Marisette looks at the face in front of her for a long moment. If the coat has been brought from the house, she turns the collar over and reads the crest. **She names the di Teufels.** She does not know which di Teufel, and she knows exactly what it means that two strangers in her city wear their face.
+Then Marisette looks at the face in front of her for a long moment. If the coat has been brought from the house, she turns the collar over and reads the crest. **She names the di Teufels.** She does not know which di Teufel, and she knows exactly what it means that two men in her city wear their face.
 
 ## The Assayer in the Doorway
 
@@ -95,7 +95,7 @@ The two boatmen taken before him are numbers 24 and 25 in Abel Weir's referral b
 
 <!-- covers: sinnit-tells-the-pearl-it-was-randall -->
 
-By mid-morning the whole Pearl knows that Marisette's people took somebody in the night for what was done at the Sylph's Embrace, and Sinnit makes sure it knows who. He tells it on every stair and in every wine-shop between Pearl Quay and the Shoals: *Randall.* Randall, raised in the Promise of Heaven, who turned on the women who raised him. Randall, whom Hesper herself came for. Sinnit was in the Lullwater last night with a man wearing that face, and he has a bruise to show for it.
+The Pearl already thinks it was Randall, because half the hall at the Sylph's Embrace saw him in his borrowed coat. By mid-morning it knows that Marisette's people took him in the night, and Sinnit makes sure it never hears that she let him go. He tells it on every stair and in every wine-shop between Pearl Quay and the Shoals: *Randall.* Randall, raised in the Promise of Heaven, who turned on the women who raised him. Randall, whom Hesper herself came for. Sinnit was in the Lullwater last night with a man wearing that face, and he has a bruise to show for it.
 
 It does not matter that Marisette cleared him. The clearing happened in a cellar in front of four people. The accusation happens in the open, forty times, in a voice that carries. By evening the street believes that the man who carved Emmeralda was Randall the Pearl thief, and it costs Randall on the one ground where he is rich:
 

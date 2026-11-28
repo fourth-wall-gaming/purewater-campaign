@@ -68,7 +68,7 @@ The Baron does not know he has three sons. Long before his open descent he seduc
 
 She bore twins. **Randall** was raised by the women of a pleasure house on the Pearl and became a thief. **Conall** was taken to Ashwick, pulled out of a ditch at nineteen by a knight of the Swords of the Lake, and trained by the King's Assay as an arcane investigator. Both of them wear the di Teufel face, and so does Santo.
 
-On the night Santo goes upstairs with Emmeralda, nobody on the Pearl knows the heir's face, because he has never needed to show it. When the city goes looking for the man who did it, all it has is the face, and three men in Purewater wear it.
+Nobody in Purewater knows the heir by sight, because he has never needed to show himself. But everybody on the Pearl knows Randall. On the night Santo goes upstairs with Emmeralda, the house sees Randall the Pearl thief in a rich man's coat, playing the gentleman for a joke, and thinks nothing of it. When the city goes looking for the man who did it, it goes looking for Randall, and three men in Purewater wear his face.
 
 ## What the Characters Can Do
 

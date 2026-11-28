@@ -24,10 +24,11 @@ at all that anybody will remember, except that he paid in new silver and over
 the odds and asked for a room on the second floor.
 
 **This is deliberate, and it is the engine of the next two days.** Santo is
-not a public figure in Purewater. Nobody on the Pearl knows the heir's face --
-which means that when the house goes looking for the man who went upstairs
-with Emmeralda, all they have is *the face*, and there are three men in this
-city wearing it.
+not a public figure in Purewater, and nobody on the Pearl knows the heir's
+face. Everybody there knows Randall's. The hall sees Randall the Pearl thief in
+a rich man's coat, playing the gentleman for a joke, and thinks nothing of it.
+When the house goes looking for the man who went upstairs with Emmeralda, it
+goes looking for Randall, and there are three men in this city wearing his face.
 
 **Magda and Gardwen are in the hall.** Magda has brought Gardwen here for beds;
 Constantine's house rents rooms to women travelling alone. Either of them can
@@ -36,7 +37,9 @@ the room is watching. What is there to notice: young, rich, a soft right hand,
 and **the coat**, which is better than anything else on him and is the one
 thing he will leave behind.
 
-**Constantine** takes his money and thinks nothing of it. She will spend the
+**Constantine** takes him for Randall at a glance, takes his money and thinks
+nothing of it. She has known Randall since he was a boy, and a proper look would
+have shown her a human face, a year or two younger than his. She will spend the
 next day wishing she had looked harder.
 
 Advance *Have her* by 1.

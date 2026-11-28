@@ -20,7 +20,7 @@ The two the Baron does not know about were born in Purewater a little over twent
 
 **Conall** went to Ashwick, to a militiaman's family. At nineteen he was pulled out of a ditch by an elf knight of the Swords of the Lake, who taught him to read and then taught him a good deal more. An old Master Assayer of the King's Assay had recognised what he was as a boy, healed him, trained him and handed him on to her. Now he carries the Assay's warrant, its silver thumb-ring and a steel punch with his own mark on it, and he investigates things other people would rather call bad luck.
 
-**They have never met.** They are identical, and they both wear the di Teufel face, which is Santo's face. Nobody in the city knows the heir by sight, so the moment somebody goes looking for him, there are three men to find.
+**They have never met.** They are identical, and they both wear the di Teufel face, which is Santo's face. Nobody in the city knows the heir by sight, but the Pearl knows Randall. When the heir does something unforgivable on the Pearl, everybody there decides it was Randall in a borrowed coat, and the moment somebody goes looking for him, there are three men to find.
 
 ## Who Knows
 
