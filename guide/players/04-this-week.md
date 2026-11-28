@@ -10,13 +10,13 @@ The Baron's company is twenty-odd borderland soldiers in dragon-blazoned harness
 
 **This is what the last week has been like.** They walk the Merchant's Quarter and the Forges in threes and fours. They take the middle of a bridge and let the city go round them in single file. They eat and drink on the promise that *the Baron will settle*, and he settles late and short, so the stallholders have started pricing it in and everybody's bread has gone up. They take boats off the water-stairs with the boatmen still in them, are rowed wherever they like and leave the boat wherever they finish, and two boatmen have not come back. Six days ago a dockhand named **Emmit Rill** was slow moving a barrow and had his jaw broken by a mailed fist in front of forty people. He still cannot work.
 
-Nobody is dead yet, and everybody is waiting for the first one.
+Nobody has been killed yet, and everybody is waiting for the first one.
 
 ## The Standing Order
 
 **The watch has been told to leave them alone.** A week ago the watch received a written instruction from the Governor's council: the Baron's people are guests of the Crown's representative, and complaints against them are to be recorded and referred, and not acted upon, until the Tourney is over. It went out over the Prince's own signature. Every sergeant in the city has a book of complaints and nothing to do with it.
 
-So there is no office to complain to. Everybody in Purewater has worked that out privately, and nobody has said it out loud. Nobody calls it an occupation. Everybody goes round.
+So there is no office to complain to. Everybody in Purewater has worked that out privately, and nobody has said it out loud. Nobody calls it an occupation. Everyone thinks it is a temporary inconvenience that will go away in a week or two.
 
 ## Who Matters in Purewater
 

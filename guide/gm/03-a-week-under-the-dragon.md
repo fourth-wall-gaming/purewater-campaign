@@ -12,7 +12,7 @@ The **Dragon Knights** are a mercenary company of twenty-five, borderland raider
 
 They walk the Merchant's Quarter and the Forges in threes and fours. They take the middle of a bridge and let the city go round them in single file against the parapet. They eat and drink on the promise that *the Baron will settle*, and he settles late and short, so the stallholders have started pricing it in and everybody else's bread has gone up. They take boats off the water-stairs with the boatmen still in them, are rowed wherever they like and leave the boat wherever they finish. Two boatmen have not come back. Six days before the Tourney, a dockhand named **Emmit Rill** was slow moving a barrow and had his jaw broken by a mailed fist in front of forty people. He is still not working.
 
-Nobody is dead yet, and the whole city is waiting for the first one.
+Nobody has been killed yet, and the whole city is waiting for the first one.
 
 Put the Knights in most outdoor scenes. They are mostly not fighting, and they are always making the city smaller. A party that never draws a blade on them still spends the week watching people step off the pavement.
 

@@ -30,7 +30,7 @@ it.
 - **Six days ago**: a dockhand named Emmit Rill was slow moving a barrow and had
   his jaw broken with a mailed hand in front of forty people. He is still not
   working. The complaint is number 31 in the referral book.
-- **Nobody is dead yet.** Everybody expects somebody to be. That expectation is
+- **Nobody has been killed yet.** Everybody expects somebody to be. That expectation is
   the mood of the whole city.
 
 ## The standing order
