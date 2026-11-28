@@ -26,7 +26,7 @@ Seven days ago, the morning after the first complaints about the advance detachm
 
 None of them is a cultist, and none of them knows what the Baron is actually doing. A party that comes at the council expecting a conspiracy will find three ordinary men and nothing to arrest.
 
-**The watch is not corrupt.** It has been ordered, in writing, and every sergeant in the city knows how that will read afterwards. **Sergeant Abel Weir** of the Isle post keeps the referral book: thirty-one entries and counting, four inches of complaints he has been ordered to record and not act on. He can recite every one from memory. He is looking for somebody who can use the book without making him the man who disobeyed.
+**The watch is corrupt,** and most of it is in Crowbill's pay. This week that makes no difference, because it has also been ordered, in writing, to do nothing, and every sergeant in the city knows how that will read afterwards. **Sergeant Abel Weir** of the Isle post keeps the referral book: thirty-one entries and counting, four inches of complaints he has been ordered to record and not act on. He can recite every one from memory. He is looking for somebody who can use the book without making him the man who disobeyed.
 
 ## What It Does to the City
 
