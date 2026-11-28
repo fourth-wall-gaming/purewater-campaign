@@ -70,7 +70,8 @@ combat that nobody outside his household has been allowed to see.
 His men stand on the bridges. They take what they want off the stalls and they
 leave no chit, and there is no quartermaster to bill and no office to complain to,
 and everybody in Purewater has worked that out privately and nobody has said it
-out loud. Nobody calls it an occupation. Everybody goes round.
+out loud. Nobody calls it an occupation. Everyone thinks it is a temporary
+inconvenience that will go away in a week or two.
 
 That is the city you are walking into. Something is going to give this week, and
 the interesting question is not *whether* — it is who is standing nearest when it
