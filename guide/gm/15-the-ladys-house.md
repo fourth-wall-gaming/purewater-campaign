@@ -40,7 +40,11 @@ She notices what nobody else notices, including, at the presentation of the entr
 
 *Elf. Plain full plate without a single ornament, kept perfectly. No colours, no house, no badge. Never seen arriving; already there.*
 
-Temerach is a knight of the Swords of the Lake, called the Lakelady's Javelin for what she can do with a bow. She was admitted on merit to a human order thirty years ago and she is still the outsider in every room. She is also the order's spymaster in Purewater. For four years she has run a network around Baron Hanzo that nobody has ever seen whole: ostlers, temple acolytes, a lamp-man on the Forge wharf, two clerks on the Governor's council, a boatwoman at the Mouth, and men she has had swear over still water and keeps sworn. None of them knows the others, and most of them do not know whom they report to.
+Temerach is a knight of the Swords of the Lake, called the Lakelady's Javelin for what she can do with a bow. She was admitted on merit to a human order thirty years ago and she is still the outsider in every room. She does not belong to the Purewater chapter. She came from the capital, Caldreth, as an officer of the Crown's own intelligence service, and she answers to a royal spymaster at court.
+
+She is the Baron's most dangerous enemy on the King's side. She knows about the Movement and how far it reaches: the friends at court, the money, the sworn companies in the provinces and the fire. She knows what a threat he is to the Crown, and that is why she took Conall, a King's assayer with the Baron's own face. What she does not know is the Baron's plan. Nothing she has gathered points at the Tourney or the room behind the Governor's box, and she cannot make the pieces fit.
+
+For four years she has run a network around Baron Hanzo that nobody has ever seen whole: ostlers, temple acolytes, a lamp-man on the Forge wharf, two clerks on the Governor's council, a boatwoman at the Mouth, and men she has had swear over still water and keeps sworn. None of them knows the others, and most of them do not know whom they report to.
 
 > "You were followed from the catacombs by two of Blau's and one of mine. Mine is the only one who reported."
 

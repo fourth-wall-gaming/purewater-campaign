@@ -34,7 +34,7 @@ Show the hatred at the table through what people do: the laws, the bounty rolls,
 
 ## People Who Resist It
 
-- **Temerach Nebulo**, the Swords' spymaster in Purewater, wants the Baron brought down, and has carried her right to accuse him for four years.
+- **Temerach Nebulo**, a Sword of the Lake sent from Caldreth as the Crown's spymaster, wants the Baron brought down, and has carried her right to accuse him for four years.
 - **Gleinanion Othal** keeps the Remade Grove, and wants the Wild Line kept alive by teaching it. They taught Gardwen, they walk among spirits, and they are one of the very few people who still know the way into the deep wood.
 - **Talarin Reedwake** wants the stolen dead returned and the families of the dead kept out of Rusk's reach, and knows exactly what binding does to a dead elf.
 - **Serevan Ashleaf** keeps the Wind Stair teaching house that Vaust wants cleared, and wants his pupils safe and their stolen heritage back.

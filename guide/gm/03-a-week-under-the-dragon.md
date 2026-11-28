@@ -40,7 +40,7 @@ The occupation presses on everybody differently, and any of them might be the on
 
 **The Pearl** takes the worst of the nights and is the least able to complain, because complaining is bad for trade.
 
-**The Swords of the Lake** answer to their order and not to the council. That makes **Temerach Nebulo** the only armed person in the city who could act against the Baron's men without disobeying anybody, and she knows it. She is also holding an Archery entry she has spent four years earning.
+**The Swords of the Lake** answer to their order and not to the council. That makes **Temerach Nebulo**, a Sword sent from the capital, the only armed person in the city who could act against the Baron's men without disobeying anybody, and she knows it. She is also holding an Archery entry she has spent four years earning.
 
 ## How It Ends, If Nobody Ends It
 

@@ -11,15 +11,18 @@ targets: ["myth-char-06f87a379bbf", "myth-char-cee57a7f5de2"]
 created_at: "2026-09-05T12:00:00"
 ---
 
-**What she wants.** Temerach Nebulo of the Swords of the Lake has known for years
-whose son Conall is. She brought him to Purewater deliberately. She wants the
+**What she wants.** Temerach Nebulo of the Swords of the Lake came from Caldreth
+as a Crown spymaster. She knows the Movement and how far it reaches, and what a
+threat the Baron is to the King. She does not know his plan. She has known for years
+whose son Conall is, and took him on because of it. She brought him to Purewater deliberately. She wants the
 di Teufels **called to answer** -- and she wants the boy to survive learning what
 he is.
 
 **She is not building a case.** There is nobody to bring a case *to*. A baron
 answers to the King, and the King is at Caldreth, far away and content, surrounded
-by men who have been Hanzo's friends for thirty years. She has petitioned twice.
-Both petitions were received courteously and died somewhere in that warmth. See
+by men who have been Hanzo's friends for thirty years. She has reported twice
+to her master at court. Both reports were received courteously and died somewhere
+in that warmth. See
 *[[The King's justice, and how a lord is called to answer]]*.
 
 **How she pursues it, and it is not police work.**
