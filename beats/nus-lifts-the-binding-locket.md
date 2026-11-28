@@ -33,8 +33,8 @@ stand on that deck for three seconds without anybody shouting. Between them:
 - **The cabin** -- Blau asleep across the door, which means the way in is not
   the door. The stern windows, from a boat, over steaming water.
 - **The table** -- a locket on a chain with a clasp. Nus's hands. **It is not
-  welded on and it is not on his neck.** That is the whole point of doing it
-  tonight.
+  welded on, and tonight it is not even on his neck.** Nus only has to reach
+  the table.
 
 **Roll it for real.** Stealth, Sleight, the watch, Blau. If it fails, they are
 seen and run with nothing, or are caught; either way **the locket stays with
@@ -44,6 +44,11 @@ closing, and Thuban into the Prince.
 **If it succeeds,** they are over the side with it before anybody knows, and
 the Baron wakes at first light to an empty table. *The Lullwater burns* follows
 at dawn.
+
+**It can go earlier.** By day the locket is on his neck, on a chain with a
+clasp, and anybody who gets close to the Baron can lift it with an ordinary
+Sleight roll against his Perception. If it goes earlier, this beat does not
+fire, and *The Lullwater burns* follows at the next dawn.
 
 **Only fires if somebody points them at it** -- Crowbill on `d0/dawn` does, so
 in the natural course of things it fires. If the party have deliberately

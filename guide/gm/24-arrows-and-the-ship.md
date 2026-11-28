@@ -14,7 +14,7 @@ At first light Crowbill collects a character off a ledge, as he has collected pe
 
 Crowbill trades; he does not help. He wants something they will not enjoy giving: intelligence on the Baron's plan, a route into the camp, or control of a story the street is already telling. He has a line, and demon-craft worked on a helpless girl beside the Lady's water crosses it. If the characters bring him proof rather than a grievance, he opens his canals, safe houses and men to them.
 
-**The thing he can give that nobody else can is the locket.** The Baron wears a chain with a locket on it and has never been seen in daylight without it. Crowbill keeps a lamp-man on the Forge wharf who watches that ship for a living, and the lamp-man has seen that it comes off at night. The Baron sleeps aft with the locket on the table beside his bed, on a chain with a clasp rather than a collar, and Blau sleeps across the door. Crowbill does not say *steal it*. He says what it is, where it lies, and that he knows a boy who would.
+**The thing he can give that nobody else can is the locket.** The Baron wears a chain with a locket on it and has never been seen in daylight without it. Crowbill keeps a lamp-man on the Forge wharf who watches that ship for a living, and the lamp-man has seen that it comes off at night. The Baron sleeps aft with the locket on the table beside his bed, on a chain with a clasp rather than a collar, and Blau sleeps across the door. By day it hangs round his neck on that same chain, which is an ordinary lift for a good pickpocket who can get close to him. Crowbill does not say *steal it*. He says what it is, where it lies, and that he knows a boy who would.
 
 Nus is in the next room and has heard every word.
 
