@@ -38,8 +38,14 @@ You need the *Classic Fantasy Imperative* rules, which are free, this book, and 
 
 ## A Word on Tone
 
-Purewater is a beautiful city that has agreed to look the other way, and the horror in this scenario comes from how ordinary that is. Nobody is dead when the characters arrive, and everybody expects somebody to be.
+Purewater was once a beautiful city built around something sacred, the Lady's water. It has grown since into something dirtier, less ideal and more real, and to the people who live there now the name is a joke. They call it Pisswater. The watch that looks the other way, the councillor who can be bought, the canal boss who keeps order better than the law does: none of it surprises anybody, and all of it is part of the city's character.
 
-Play the Dragon Knights as part of the weather: three men eating in the middle of a bridge while a whole morning's traffic edges round them against the parapet, and a watchman at the far end doing nothing. Play the Baron as the nicest man in any room. Play the city's powerful people as decent, frightened, bought or wrong, and only rarely as wicked. The characters are the first people in nine days to do anything about it, and the city will notice.
+That change has made Purewater harder and sharper than it looks. Its people have learned to read a room, to work round power and to wait. The two outsiders who matter this week, the Prince and the Baron, both mistake the city for the one on the old engravings, soft and ceremonial and easy to manage. The story of the week is how wrong they are.
+
+Put the Dragon Knights' excesses in the background of almost every scene: three men eating in the middle of a bridge while a whole morning's traffic edges round them against the parapet, and a watchman at the far end doing nothing. When the characters arrive, a dockhand's jaw has been broken in front of forty people and two boatmen have not come back, and the city is waiting to see what happens next.
+
+Play the Baron as the nicest man in any room, and let the players see, a little at a time, how much of a lie that is. Show it through the people around him. A guard at his stirrup goes white at the thought of being blamed for something. His son is loud everywhere except within earshot of his father. His host tells two jokes against himself whenever the Baron's money comes up. Blau watches the crowd while the Baron smiles at it. None of these people is afraid of a nice man.
+
+Play the city's powerful people as decent, frightened, bought or wrong, and only rarely as wicked. The characters are the first people in nine days to do anything about the Knights, and the city will notice.
 
 At the heart of all this is a seventeen-year-old boy who has spent ten years somewhere nobody should be. Every road through the scenario passes him.
