@@ -44,7 +44,7 @@ Three things hold Thuban in the boy, and each of them can fail separately.
 
 **The locket** hangs on a chain round the Baron's neck, and it ties Thuban to Hanzo. It is the leash. With it in his hand the Baron can command Thuban, draw him out of the boy and seat him somewhere else. Without it he can do none of those things, and the spirit he has held for ten years becomes a dragon-knight who owes him nothing but a reckoning. The locket is a strong working, and only a powerful Dispel Magic or an Exorcism would break it. Holding it gives nobody else any power over Thuban. It only takes him away from the Baron.
 
-**The nightly rite** renews the seat. Every night, behind sealed doors on his ship, the Baron makes a cut, fills a bowl and speaks for an hour with the locket in his hand. Then he takes the chain off, lays the locket on the table beside his bed and goes to sleep. **That is the only time the locket is ever off his neck.** The heist that decides this scenario happens in that hour.
+**The nightly rite** renews the seat. Every night, behind sealed doors on his ship, the Baron makes a cut, fills a bowl and speaks for an hour with the locket in his hand. Then he takes the chain off, lays the locket on the table beside his bed and goes to sleep. **That is the only time the locket is ever off his neck.**
 
 ## The Room
 
@@ -56,9 +56,9 @@ In that room, the Baron means to draw Thuban out of the worn-out boy and seat hi
 
 So the champion must win the Single Combat, and must not be recognised before he does. Everything else the Baron does this week serves those two needs: the curtained litter, the ship he never leaves at night, the champion nobody is allowed to speak to.
 
-## The Son Who Ruined It
+## A Chink in the Great Man's Armour: His Heir
 
-The Baron has a legitimate heir, **Santo**, who is nineteen and has never been told no by anybody who mattered. Santo has no part in his father's plan and no idea what it is. He knows only that his father can put a spirit in a living body and be obeyed by it, because he has watched it done for ten years.
+As a young man Hanzo had many passions, and he fathered more sons than he knows about. One of them is his legitimate heir, **Santo**, who is nineteen, has never been told no by anybody who mattered, and shares his father's appetite for power and for lust. Santo has no part in his father's plan and no idea what it is. He knows only that his father can put a spirit in a living body and be obeyed by it, because he has watched it done for ten years.
 
 Santo wants a girl. **Emmeralda** is the finest dancer on the Pearl, and he wants her kept on his father's barge and glad to be there. So he has stolen one scroll of Seat the Bound from his father's locked case, and a barbed ritual knife, and on the first night of the scenario he tries to put a small, hungry spirit into her to make her want what he wants. He has no training, and the dice decide whether it works. Either way, the scroll he burns out is written in his father's own hand, and his squalid little crime on the Pearl is the first thread that leads to the real one.
 
