@@ -37,7 +37,7 @@ Every child on the Pearl can tell the story of the Widow. Two hundred years ago 
 
 At dusk every evening the doorman of her old house, the Mother of Pearl, lights a taper from a lamp that is said not to have gone out in two hundred years. Every house on the quay lights its own lamps from that taper, and so do the posts of the Lantern Bridge. The Pearl's women believe that no one under that flame can be owned. A bill of sale signed under the Pearl's lamps fades off the page by morning, they say, and a binding of any kind fails.
 
-None of that is confirmed, and nothing in the scenario depends on it. But Santo di Teufel is about to try to *bind* something into a woman, under the Pearl's lamps, in a house that keeps the Widow's rule. If the dice say it goes wrong, every woman on the quay will have decided why by breakfast, and you should let them.
+None of that is confirmed, and nothing in the scenario depends on it. But when a working fails on the Pearl, everybody on the quay knows why.
 
 ## The Lake Lady's Tourney
 
