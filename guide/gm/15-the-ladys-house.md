@@ -40,7 +40,7 @@ She notices what nobody else notices, including, at the presentation of the entr
 
 *Elf. Plain full plate without a single ornament, kept perfectly. No colours, no house, no badge. Never seen arriving; already there.*
 
-Temerach is a knight of the Swords of the Lake, called the Lakelady's Javelin for what she can do with a bow. She was admitted on merit to a human order thirty years ago and she is still the outsider in every room. She does not belong to the Purewater chapter. She came from the capital, Caldreth, as an officer of the Crown's own intelligence service, and she answers to a royal spymaster at court.
+Temerach is a knight of the Swords of the Lake, called the Lakelady's Javelin for what she can do with a bow. She was admitted on merit to a human order thirty years ago and she is still the outsider in every room. She does not belong to the Purewater chapter. She came from the capital, Caldreth, as an officer of the Crown's own intelligence service, and she answers to a royal spymaster at court. Her master has a place at court but no deep, established power there, and their whole position is tenuous. A baron with thirty years of friends at court could finish both of them with one wrong move on their part.
 
 She is the Baron's most dangerous enemy on the King's side. She knows about the Movement and how far it reaches: the friends at court, the money, the sworn companies in the provinces and the fire. She knows what a threat he is to the Crown, and that is why she took Conall, a King's assayer with the Baron's own face. What she does not know is the Baron's plan. Nothing she has gathered points at the Tourney or the room behind the Governor's box, and she cannot make the pieces fit.
 
