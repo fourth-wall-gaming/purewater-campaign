@@ -22,7 +22,8 @@ he is.
 answers to the King, and the King is at Caldreth, far away and content, surrounded
 by men who have been Hanzo's friends for thirty years. She has reported twice
 to her master at court. Both reports were received courteously and died somewhere
-in that warmth. See
+in that warmth. Her master has a place at court but no deep, established power, and
+their whole position is tenuous. See
 *[[The King's justice, and how a lord is called to answer]]*.
 
 **How she pursues it, and it is not police work.**
